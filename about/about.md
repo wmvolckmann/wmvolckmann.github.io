@@ -15,9 +15,11 @@ majoring in economics and math. After doing some work for Paul Romer with NYU's
 Marron Institute (on nothing economics related but I still feel the need to name-drop),
 I made my way to Davis to start my PhD in economics.
 
-I've recorded a couple of albums under the name Wimivo. The material is mostly "okay"
-with occasional flashes of "not bad." Feel free to listen if you are sufficiently
-bored.
+I like music. It seems to me like everyone else uses music as a background distaction while focusing 
+primarily on something else -- listening to music while driving to work, while lifting weights, while
+studying. So I guess it makes me a bit strange that I actually listen to music as an activity by itself.
+I like making music, too -- I've recorded a couple of albums under the name Wimivo. The material is mostly "okay"
+with occasional flashes of "not bad." Feel free to listen if you are sufficiently bored.
 
 * [Wimivo - Don't Cry, Euphoria](https://www.youtube.com/watch?v=LpcQloSq6Rs&list=PL1cbDCwiXI8QxI4T0Gn_ag4lU8STSPUvO)
 * [Wimivo - The Friend Zone](https://youtu.be/wHZVHMCTQn8?list=PL1cbDCwiXI8SfTc6Ru-xNbxz-On0EGgx_)

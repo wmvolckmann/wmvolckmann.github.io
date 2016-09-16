@@ -4,7 +4,8 @@ title: About  Me
 permalink: /about/
 ---
 
-Oh hi. My name is William. In writing I often go by the much more pretentious *William M Volckmann II*,
+Oh hi. My name is William Volckmann, and contrary to popular belief, my name is *not*
+William Volkman. In writing I often go by the much more pretentious *William M Volckmann II*,
 but I'm actually not a blowhard -- it's just a habit you pick up when you are in a family
 of multiple *William Volckmann*s. And on that note, you can call me whatever you want.
 

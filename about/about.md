@@ -21,7 +21,7 @@ studying. So I guess it makes me a bit strange that I actually listen to music a
 I like making music, too -- I've recorded a couple of albums under the name Wimivo. The material is mostly "okay"
 with occasional flashes of "not bad." Feel free to listen if you are sufficiently bored.
 
-* [Wimivo - Don't Cry, Euphoria](https://www.youtube.com/watch?v=LpcQloSq6Rs&list=PL1cbDCwiXI8QxI4T0Gn_ag4lU8STSPUvO)
+* [Wimivo - Don't Cry, Euphoria](https://youtu.be/LpcQloSq6Rs?list=PL1cbDCwiXI8QxI4T0Gn_ag4lU8STSPUvO)
 * [Wimivo - The Friend Zone](https://youtu.be/wHZVHMCTQn8?list=PL1cbDCwiXI8SfTc6Ru-xNbxz-On0EGgx_)
 
 And that's all I'm willing to write about because I already feel vain after having

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: ECN 101--Intermediate Macro Theory (Fall 2016)
+title: ECN 101 - Intermediate Macro Theory (Fall 2016)
 ---
 
 * Instructor: Emanuel A. Frenkel (eafrenkel at ucdavis.edu)

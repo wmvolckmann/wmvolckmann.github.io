@@ -9,7 +9,7 @@
 title: William M Volckmann II
 #email: admin@cloud-cooking.org
 description: > # this means to ignore newlines until "baseurl:"
-  Discussion Section Websites
+  William M Volckmann II Discussion Section Websites
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://wmvolckmann.github.io/" # the base hostname & protocol for your site
 #twitter_username: jekyllrb

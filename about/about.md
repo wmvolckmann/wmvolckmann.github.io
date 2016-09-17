@@ -9,16 +9,20 @@ William Volkman. In writing I often go by the much more pretentious *William M V
 but I'm actually not a blowhard -- it's just a habit you pick up when you are in a family
 of multiple *William Volckmann*s. And on that note, you can call me whatever you want.
 
-Anyway, I'm from Wisconsin (mind the accent) and I earned my
-bachelor of science degree from the University of Wisconsin - Madison in 2015,
-majoring in economics and math. After doing some work for Paul Romer with NYU's
+### Background
+
+I'm from Wisconsin (mind the accent) and I earned my
+bachelor of science degree from the University of Wisconsin--Madison in 2015,
+having majored in economics and math. After doing some work for Paul Romer with NYU's
 Marron Institute (on nothing economics related but I still feel the need to name-drop),
 I made my way to Davis to start my PhD in economics.
 
-I like music. It seems to me like everyone else uses music as a background distaction while focusing 
-primarily on something else -- listening to music while driving to work, while lifting weights, while
-studying. So I guess it makes me a bit strange that I actually listen to music as an activity by itself.
-I like making music, too -- I've recorded a couple of albums under the name Wimivo. The material is mostly "okay"
+
+### Personal
+
+I like music. I'm a bit weird in that I actually listen to music as an activity by itself,
+not just as a background boredom killer while driving to work or lifting weights or whatever,
+which seems to be the norm. I like making music, too -- I've recorded a couple of albums under the name Wimivo. The material is mostly "okay"
 with occasional flashes of "not bad." Feel free to listen if you are sufficiently bored.
 
 * [Wimivo - Don't Cry, Euphoria](https://youtu.be/LpcQloSq6Rs?list=PL1cbDCwiXI8QxI4T0Gn_ag4lU8STSPUvO)

@@ -19,3 +19,8 @@ The syllabus can be read [here](f2016syllabus.pdf). The synopsis:
 * Me: William M Volckmann II (wmvolckmann at ucdavis.edu)
 * Sections: Monday 6:10-7:00pm & 7:10-8:00pm, Bainer Hall 1130
 * Office Hours: Monday 1:00-3:00pm, 116 SSH
+
+Note that on a busyness scale from 1-10, I'm at about 10-$$\epsilon$$, so I might
+not be able to respond to emails as timely as I'd like. And I probably won't be
+answering emails that come after 10pm or so until the next day. That said, I will
+try to be expeditious in answering them.

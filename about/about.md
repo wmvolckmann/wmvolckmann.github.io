@@ -18,7 +18,7 @@ Marron Institute (on nothing economics related but I still feel the need to name
 I made my way to Davis to start my PhD in economics.
 
 
-### Personal
+### Music
 
 I've recorded a couple of albums under the name Wimivo. The material is mostly "okay"
 with occasional flashes of "not bad." Feel free to listen if you are sufficiently bored.

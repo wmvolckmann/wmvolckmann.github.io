@@ -25,8 +25,8 @@ not just as a background boredom killer while driving to work or lifting weights
 which seems to be the norm. I like making music, too -- I've recorded a couple of albums under the name Wimivo. The material is mostly "okay"
 with occasional flashes of "not bad." Feel free to listen if you are sufficiently bored.
 
-* [Wimivo - Don't Cry, Euphoria](https://youtu.be/LpcQloSq6Rs?list=PL1cbDCwiXI8QxI4T0Gn_ag4lU8STSPUvO)
-* [Wimivo - The Friend Zone](https://youtu.be/wHZVHMCTQn8?list=PL1cbDCwiXI8SfTc6Ru-xNbxz-On0EGgx_)
+* [Wimivo - The Friend Zone](https://youtu.be/wHZVHMCTQn8?list=PL1cbDCwiXI8SfTc6Ru-xNbxz-On0EGgx_) (2016)
+* [Wimivo - Don't Cry, Euphoria](https://youtu.be/LpcQloSq6Rs?list=PL1cbDCwiXI8QxI4T0Gn_ag4lU8STSPUvO) (2014)
 
-And that's all I'm willing to write about because I already feel vain after having
-written three short paragraphs about myself.
+They're on Spotify and the like as well, for whatever that's worth. And that's all
+I'm willing to write about because I already feel vain after having written three short paragraphs about myself.

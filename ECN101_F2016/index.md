@@ -25,6 +25,8 @@ office. So if you go there at some other time hoping to find me, chances are
 you'll find someone who is distinctly not me. Shoot me an email if you need to
 get a hold of me outside of Monday 1-3.
 
+### Contact
+
 On a busyness scale from 1-10, I'm at about 10-$$\epsilon$$, so I might
 not be able to respond to emails as timely as I'd like. And I probably won't be
 answering emails that come after 10pm or so until the next day. That said, I will

@@ -27,22 +27,25 @@ Before doing anything, try typesetting this TeX document. What that means is, it
 turn all of this code into a PDF that hopefully looks the way you want it to look. In
 MiKTeX the shortcut is control+t. 
 
+
+\paragraph{Plain Text}
+
 Anyway, this is how you type plain text. Nothing fancy, right? There are a few things
 to note. First, it will only render one space. So if you use     a lot of spaces, most of
 the spaces will disappear when you typeset. Similarly, if you enter a lot of empty
 lines between two paragraphs, it will just start a new paragraph without a line 
 between them. (Try it!)
 
-If you want to \textbf{bold} something, you'll use the \verb|\textbf |command. 
-To \emph{emphasize} something, use the \verb|\emph| command. (There is 
-a \verb|\textit| command to italicize, but if you're trying to emphasize something,
-use \verb|emph| instead.) To \underline{underline} text, use \verb|\underline|. 
+If you want to \textbf{bold} something, you'll use the \verb|\textbf{}| command. 
+To \emph{emphasize} something, use the \verb|\emph{}| command. (There is 
+a \verb|\textit{}| command to italicize, but if you're trying to emphasize something,
+use \verb|\emph{}| instead.) To \underline{underline} text, use \verb|\underline{}|. 
 
 We can break up the document into different sections and subsections with
-\verb|\section| and \verb|\subsection| commands. They'll automatically be
-numbered for you unless you put an asterisk in front of them, like \verb|\section|*.
-We can also title paragraphs with \verb|\paragraph|. For instance, I'll start a new
-section right now.
+\verb|\section{}| and \verb|\subsection{}| commands. They'll automatically be
+numbered for you unless you put an asterisk at the end, like \verb|\section|*\verb|{}|.
+We can also title paragraphs with \verb|\paragraph{}|, as seen above. I'll start a 
+new section right now.
 
 
 
@@ -75,17 +78,17 @@ if you want to show a short string of (in)equalities.  To do so, use the form
 		use \verb|\dot|. 
 		
 		\item If you're in-line, write fractions as \verb|a/b|. If you're in display 
-		mode, you can write fractions with \verb|\frac| as
+		mode, you can write fractions with \verb|\frac{a}{b}| to get
 			\[ \frac{a}{b}. \]
 		If you try the latter in-line, you'll get tiny fractions that are difficult to 
 		read, e.g. $\frac{a}{b}$. 
 		
 		\item Use \verb|_| for subscripts and \verb|^| for superscripts. For 
 		instance, $x_1^2$. If you want an entire expression in the subscript 
-		or superscript (or generally for any command), put the entire express
-		in \verb|{}|. For instance, $x_1^{2y-5}$. 
+		or superscript (or generally for any command), put the entire expression
+		in \verb|{}|. For instance, \verb|$x_1^{2y-5}$| will render as $x_1^{2y-5}$.
 		
-		\item Write square roots with \verb|\sqrt|. For instance, $\sqrt{-1}=i$. 
+		\item Write square roots with \verb|\sqrt{}|. For instance, $\sqrt{-1}=i$. 
 		
 		\item Write strict inequalities with \verb|<| and \verb|>|, non-strict 
 		with \verb|\leq| and \verb|\geq|. Note that you can express ``not 
@@ -96,8 +99,8 @@ if you want to show a short string of (in)equalities.  To do so, use the form
 		\item Most Greek letters are straightforward. \verb|\delta| will give you a
 		$\delta$, and \verb|\Delta| will give you a $\Delta$. 
 		
-		\item For fancier letters, you'll usually use either the \verb|\mathbb| or 
-		\verb|\mathcal| commands. For instance, \verb|\mathbb{R}| gives you
+		\item For fancier letters, you'll usually use either the \verb|\mathbb{}| or 
+		\verb|\mathcal{}| commands. For instance, \verb|\mathbb{R}| gives you
 		the fancy real number symbol $\mathbb{R}$.
 		
 		\item Subsets and supersets are \verb|\subset| and \verb|\superset|, 
@@ -140,10 +143,10 @@ if you want to show a short string of (in)equalities.  To do so, use the form
 	
 \subsection{New Commands}
 	
-	Typing \verb|\mathbb{R}| for $\mathbb{R}$ gets old very quickly. What we can do is 
-	create a new command that allows us to just type, say, \verb|\R| instead. If you look 
-	in the preamble in this file, you'll see a handful of new commands I've made for this 
-	purpose. 
+	Typing \verb|\mathbb{R}| for $\mathbb{R}$ over and over again gets old very quickly. 
+	What we can do is create a new command that allows us to just type, say, \verb|\R| 
+	instead. If you look in the preamble in this file, you'll see a handful of new commands
+	I've made for this purpose. 
 	
 	
 	

@@ -227,16 +227,40 @@ item is reduced:
 \end{enumerate}
 	
 	
+
+\section{Proofs}
+
+Use the \verb|proof| environment for proofs. Place your QED symbol with \verb|\qedhere| if you don't like where it defaults to. Here's an example.
+
+
+Let $F(K,L)=AK^{\alpha}L^{1 - \alpha}$ be a Cobb-Douglas production function. I claim that this function has constant returns to scale.
+
+\begin{proof}
+	Multiply both capital $K$ and labor $L$ by some constant $\lambda$. Then we have
+	\begin{align*}
+		F(zK, zL) 	&=	A(zK)^{\alpha}(zL)^{1 - \alpha}	\\
+				&=	Az^{\alpha}K^{\alpha}z^{1-\alpha}L^{1 - \alpha}	\\
+				&=	zAK^{\alpha}L^{1 - \alpha}	\\
+				&=	zF(K, L). 	\qedhere
+	\end{align*}
 	
+\end{proof}
+
+
+
 \section{Quotations}
 
 Use the \verb|quote| environment for shorter quotes (no indent):
 \begin{quote}
-	``The first principle is that you must not fool yourself and you are the easiest person to fool.'' --- Richard Feynman
+	``The first principle is that you must not fool yourself and you are the easiest person to 
+	fool.'' --- Richard Feynman
 \end{quote}
 And use the \verb|quotation| environment for longer quotes:
 \begin{quotation}
-	``Dr. Scholl makes foot products, right? And he's a doctor, which means he went to school for a long time. But it doesn't take a lot to figure out that stepping on a cushion would be more comfortable. That fucker wasted lots of time at school. `Cuz I would have bought that shit from a Mr. Scholl.''
+	``Dr. Scholl makes foot products, right? And he's a doctor, which means he went to 
+	school for a long time. But it doesn't take a lot to figure out that stepping on a cushion 
+	would be more comfortable. That fucker wasted lots of time at school. `Cuz I would 
+	have bought that shit from a Mr. Scholl.''
 	
 	\hfill --- Mitch Hedberg
 \end{quotation}
@@ -245,7 +269,7 @@ And use the \verb|quotation| environment for longer quotes:
 	
 \section{Other Stuff}
 	
-Yeah, I'll add some other stuff as need warrants. 
+	
  
 	
 

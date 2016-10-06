@@ -8,6 +8,8 @@
 \usepackage{amsfonts}
 \usepackage{amssymb}
 \usepackage{amsthm}
+\usepackage{enumitem}
+
 
 
 \newcommand{\C}{\mathbb{C}}
@@ -139,6 +141,43 @@ if you want to show a short string of (in)equalities.  To do so, use the form
 		that's used as code, try putting a \verb|\| before it. Then we can display \$ and 
 		\& and \% and so forth.
 	\end{itemize}
+	
+	
+\subsection{Matrices}
+
+Matrices are where things can get a little bit messy, if nothing else because matrices can be 
+really big. Here's a simple $3 \times 3$ matrix. 
+\[
+	\begin{bmatrix}
+		a	&	b	&	c	\\
+		d	&	e	&	f	\\
+		g	&	h	&	i	\\
+	\end{bmatrix}
+\]
+In this case, we began a matrix \textbf{environment} which has a specific syntax for inputing
+matrices. When done inputting, you end the environment so things return to normal. Use 
+\verb|pmatrix| if you prefer your matrices in parenthesis, and use \verb|vmatrix| for 
+determinants. Also note that \verb|\\| typically will start a new line in any environment.
+
+
+\subsection{Lots of Math}
+If we have a large collection of equations, we might want to write each equation as its own 
+line. Furthermore, we might want each equation to be numbered. Do so with the \verb|gather|
+environment. 
+\begin{gather}
+	y=mx+b	\\
+	l=w \times h	\\
+	x=-b \pm \frac{\sqrt{b^2 - 4ac}}{2a}
+\end{gather}
+
+Sometimes we might have a long chain of (in)equalities and we can't fit them all on one line.
+In that case, use the \verb|align| environment. For example, 
+\begin{align*}
+	 P(D) &= P(D|C)P(C) + P(D|N)P(N) \\
+	  	&= (0.90)(0.02) + (0.20)(0.98) \\ 
+	  	&= 0.214.
+\end{align*}
+Each line is aligned by your placement of the \&.
 
 	
 \subsection{New Commands}
@@ -148,6 +187,27 @@ if you want to show a short string of (in)equalities.  To do so, use the form
 	instead. If you look in the preamble in this file, you'll see a handful of new commands
 	I've made for this purpose. 
 	
+	
+\section{Lists}
+
+There are two types of lists: bullet lists and enumerated lists. Create a bullet list as follows:
+\begin{itemize}	
+	\item Every type you use \verb|\item|, you will create a new bullet point.
+	
+	\item See?
+\end{itemize}
+Or we might want to make a numbered list instead:
+\begin{enumerate}
+	\item Sometimes it would make more sense to number the lists.
+	
+	\item Like this. 
+\end{enumerate}
+We have to get a little fancy to have an alphabetized list, but it's not too bad:
+\begin{enumerate}[label=\textbf{(\alph*)}]
+	\item We just had to add that little label tag.
+	
+	\item I bolded it too just to illustrate that such a thing is possible.
+\end{enumerate}
 	
 	
 	\section{Other Stuff}

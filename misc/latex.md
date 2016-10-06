@@ -19,5 +19,6 @@ the packages you want to use, any new commands you want to use -- it basically
 defines the environment you're working in.
 
 I've only covered some of the basic things, just enough to hopefully get someone
-started. You can find a lot more at [here](http://www.math.wisc.edu/~mitchell/learntex.pdf).
+started. (Go back between the rendered PDF and the code to really get an idea of
+  what's going on.) You can find a lot more at [here](http://www.math.wisc.edu/~mitchell/learntex.pdf).
 Google is also your friend.

@@ -52,34 +52,48 @@ For larger equations, you'll want to use \textbf{displayed} math. It will displa
 
 	\begin{itemize}
 		\item For a times symbol, use \verb|\times|. For a dot product symbol, use \verb|\dot|. 
-		\item If you're in-line, write fractions as \verb|a/b|. If you're in display mode, you can write fractions with \verb|\frac| as \[ \frac{a}{b}. \]
+		
+		\item If you're in-line, write fractions as \verb|a/b|. If you're in display mode, you can write fractions with \verb|\frac| as
+			\[ \frac{a}{b}. \]
 		If you try the latter in-line, you'll get tiny fractions that are difficult to read, e.g. $\frac{a}{b}$. 
+		
 		\item Use \verb|_| for subscripts and \verb|^| for superscripts. For instance, $x_1^2$. If you want an entire expression in the subscript or superscript (or generally for any command), put the entire express in \verb|{}|. For instance, $x_1^{2y-5}$. 
+		
 		\item Write square roots with \verb|\sqrt|. For instance, $\sqrt{-1}=i$. 
+		
 		\item Write strict inequalities with \verb|<| and \verb|>|, non-strict with \verb|\leq| and \verb|\geq|. Note that you can express ``not greater than'' by prefacing it with  \verb|\not|, for instance $5 \not > 6$. (I think you can put \verb|\not| on pretty much anything, although there is a special command \verb|neq| for $\neq$.)
+		
 		\item Most Greek letters are straightforward. \verb|\delta| will give you a $\delta$, and \verb|\Delta| will give you a $\Delta$. 
+		
 		\item For fancier letters, you'll usually use either the \verb|\mathbb| or \verb|\mathcal| commands. For instance, \verb|\mathbb{R}| gives you the fancy real number symbol $\mathbb{R}$.
+		
 		\item Subsets and supersets are \verb|\subset| and \verb|\superset|, respectively. Add \verb|eq| at the end to make them non-strict, e.g. $A \subseteq B$. To take an arbitrary element from a set, use \verb|\in|, so $x \in X$. Unions are given with \verb|\cup| and intersections are given with \verb|\cap|, for instance,  
 			\[	(A \cup B)^c=A^c \cap B^c . \]
 		The empty set is simply \verb|\emptyset|. 
+		
 		\item Use \verb|\{ ... \}| for curly brackets. 
+		
 		\item For a partial derivative, use \verb|\partial|, e.g. $\partial z/\partial y$. 
+		
 		\item For limits, use \verb|\lim| with a subscript explaining what the limit is doing, e.g.
-			\[ \lim_{x \rightarrow \infty}  \]
+				\[ \lim_{x \rightarrow \infty}  \]
 			Infinity is given by \verb|\infty| and  the arrow is \verb|\rightarrow|. If you try putting the limit in-line, it'll look kinda weird. 
 		\item Use \verb|\sum| for sums. You'll usually want to try to use sums in the display environment because they can be bulky, for instance
 			\[\sum_{i=1}^n i = \frac{n(n+1)}{2}.\]
+			
 		\item Write integrals with \verb|\int| with sub and superscripts for the limit. You'll want to put these in the display environment most of the time as well:
 			\[ \int_{-\infty}^{\infty} \frac{1}{\pi(1+x^2)} \; dx = 1 .\]
+			
 		\item Sometimes you'll want really big parentheses. For instance,
 				\[ ( \sum_{i=1}^n i)^2	\]
 			just looks weird. In this case, put \verb|\left| before the left parenthesis and \verb|right| before the right parenthesis.:
 				\[ \left( \sum_{i=1}^n i \right)^2	\]
+				
 		\item If you want to display a dollar sign or a percentage or some other symbol that's used as code, try putting a \verb|\| before it. Then we can display \$ and \& and \% and so forth.
 	\end{itemize}
 
 	
-	\subsection{New Commands}
+\subsection{New Commands}
 	
 	Typing \verb|\mathbb{R}| for $\mathbb{R}$ gets old very quickly. What we can do is create a new command that allows us to just type, say, \verb|\R| instead. If you look in the preamble in this file, you'll see a handful of new commands I've made for this purpose. 
 	

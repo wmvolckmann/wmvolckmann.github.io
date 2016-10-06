@@ -9,6 +9,7 @@
 \usepackage{amssymb}
 \usepackage{amsthm}
 \usepackage{enumitem}
+\usepackage{setspace}
 
 
 
@@ -22,7 +23,8 @@
 
 
 \begin{document}
-\maketitle %this displays the title, author, date information from the preamble. Also, use % for comments. 
+\maketitle 			%this displays the title, author, date information from the preamble. Also, use % for comments. 
+\onehalfspacing		%this sets the spacing to 1.5
 
 
 Before doing anything, try typesetting this TeX document. What that means is, it'll
@@ -134,7 +136,7 @@ if you want to show a short string of (in)equalities.  To do so, use the form
 		\item Sometimes you'll want really big parentheses. For instance,
 				\[ ( \sum_{i=1}^n i)^2	\]
 			just looks weird. In this case, put \verb|\left| before the left parenthesis 
-			and \verb|\right| before the right parenthesis.:
+			and \verb|\right| before the right parenthesis:
 				\[ \left( \sum_{i=1}^n i \right)^2	\]
 				
 		\item If you want to display a dollar sign or a percentage or some other symbol 
@@ -177,7 +179,13 @@ In that case, use the \verb|align| environment. For example,
 	  	&= (0.90)(0.02) + (0.20)(0.98) \\ 
 	  	&= 0.214.
 \end{align*}
-Each line is aligned by your placement of the \&.
+Each line is aligned by your placement of the \&. We might also want to take the previous 
+\verb|gather| environment and align everything by the equality signs:
+\begin{align}
+	y	&=	mx+b	\\
+	l	&	=w \times h	\\
+	x	&	=-b \pm \frac{\sqrt{b^2 - 4ac}}{2a}
+\end{align}
 
 	
 \subsection{New Commands}
@@ -190,9 +198,11 @@ Each line is aligned by your placement of the \&.
 	
 \section{Lists}
 
-There are two types of lists: bullet lists and enumerated lists. Create a bullet list as follows:
+There are two types of lists: bullet lists using the \verb|itemize| environment, and 
+enumerated lists using the \verb|enumerated| environment. Create a bullet list as 
+follows:
 \begin{itemize}	
-	\item Every type you use \verb|\item|, you will create a new bullet point.
+	\item Every time you use \verb|\item|, you will create a new bullet point.
 	
 	\item See?
 \end{itemize}
@@ -204,9 +214,17 @@ Or we might want to make a numbered list instead:
 \end{enumerate}
 We have to get a little fancy to have an alphabetized list, but it's not too bad:
 \begin{enumerate}[label=\textbf{(\alph*)}]
-	\item We just had to add that little label tag.
+	\item We just had to add that little label tag that changed the type of ``enumeration.''
 	
 	\item I bolded it too just to illustrate that such a thing is possible.
+\end{enumerate}
+One thing I don't like about lists by default is that they appear to be too spread out for 
+my tastes. If we begin the list with \verb|\itemsep=-.5em|, then the spacing between each
+item is reduced:
+\begin{enumerate}[label=\textbf{(\Alph*)}]
+	\itemsep-.5em
+	\item I think this looks a lot better.	
+	\item It's much more compact. 
 \end{enumerate}
 	
 	

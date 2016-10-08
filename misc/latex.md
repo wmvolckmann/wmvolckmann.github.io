@@ -5,6 +5,9 @@ title: LaTeX Basics
 
 For Windows, you'll probably want to use MiKTeX, which can be found [here](http://miktex.org/download).
 For Mac, I am told MacTeX is the best, and it can be found [here](http://www.tug.org/mactex/).
+Alternatively, you could use [Overleaf](https://www.overleaf.com/) right in your
+browser. It's a bit slower than a local editor, but it comes with all of the
+advantages of the cloud.
 
 I've prepared a little LaTeX file with some of the basics in it. You can download
 it [here](../basiclatex.tex). It's a mostly self-contained explanation of itself

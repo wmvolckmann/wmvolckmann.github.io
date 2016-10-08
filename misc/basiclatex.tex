@@ -139,15 +139,15 @@ if you want to show a short string of (in)equalities.  To do so, use the form
 				\[ \left( \sum_{i=1}^n i \right)^2	\]
 				
 		\item If you want to display a dollar sign or a percentage or some other symbol 
-		that's used as code, try putting a \verb|\| before it. Then we can display \$ and 
-		\& and \% and so forth.
+		that's used as code, try putting a \verb|\| before it. Then we can display \$ 
+		and \& and \% and so forth.
 	\end{itemize}
 	
 	
 \subsection{Matrices}
 
-Matrices are where things can get a little bit messy, if nothing else because matrices can be 
-really big. Here's a simple $3 \times 3$ matrix. 
+Matrices are where things can get a little bit messy, if nothing else because matrices 
+can be really big. Here's a simple $3 \times 3$ matrix. 
 \[
 	\begin{bmatrix}
 		a	&	b	&	c	\\
@@ -155,31 +155,32 @@ really big. Here's a simple $3 \times 3$ matrix.
 		g	&	h	&	i	\\
 	\end{bmatrix}
 \]
-In this case, we began a matrix \textbf{environment} which has a specific syntax for inputing
-matrices. When done inputting, you end the environment so things return to normal. Use 
-\verb|pmatrix| if you prefer your matrices in parenthesis, and use \verb|vmatrix| for 
-determinants. Also note that \verb|\\| typically will start a new line in any environment.
+In this case, we began a matrix \textbf{environment} which has a specific syntax for 
+inputing matrices. When done inputting, you end the environment so things return to 
+normal. Use \verb|pmatrix| if you prefer your matrices in parenthesis, and use 
+\verb|vmatrix| for determinants. Also note that \verb|\\| typically will start a new 
+line in any environment.
 
 
 \subsection{Lots of Math}
-If we have a large collection of equations, we might want to write each equation as its own 
-line. Furthermore, we might want each equation to be numbered. Do so with the \verb|gather|
-environment. 
+If we have a large collection of equations, we might want to write each equation as 
+its own line. Furthermore, we might want each equation to be numbered. Do so with 
+the \verb|gather| environment. 
 \begin{gather}
 	y=mx+b	\\
 	l=w \times h	\\
 	x=-b \pm \frac{\sqrt{b^2 - 4ac}}{2a}
 \end{gather}
 
-Sometimes we might have a long chain of (in)equalities and we can't fit them all on one line.
-In that case, use the \verb|align| environment. For example, 
+Sometimes we might have a long chain of (in)equalities and we can't fit them all on 
+one line. In that case, use the \verb|align| environment. For example, 
 \begin{align*}
 	 P(D) &= P(D|C)P(C) + P(D|N)P(N) \\
 	  	&= (0.90)(0.02) + (0.20)(0.98) \\ 
 	  	&= 0.214.
 \end{align*}
-Each line is aligned by your placement of the \&. We might also want to take the previous 
-\verb|gather| environment and align everything by the equality signs:
+Each line is aligned by your placement of the \&. We might also want to take the 
+previous \verb|gather| environment and align everything by the equality signs:
 \begin{align}
 	y	&=	mx+b	\\
 	l	&	=w \times h	\\
@@ -218,8 +219,8 @@ We have to get a little fancy to have an alphabetized list, but it's not too bad
 	\item I bolded it too just to illustrate that such a thing is possible.
 \end{enumerate}
 One thing I don't like about lists by default is that they appear to be too spread out for 
-my tastes. If we begin the list with \verb|\itemsep=-.5em|, then the spacing between each
-item is reduced:
+my tastes. If we begin the list with \verb|\itemsep=-.5em|, then the spacing between 
+each item is reduced:
 \begin{enumerate}[label=\textbf{(\Alph*)}]
 	\itemsep-.5em
 	\item I think this looks a lot better.	
@@ -230,10 +231,12 @@ item is reduced:
 
 \section{Proofs}
 
-Use the \verb|proof| environment for proofs. Place your QED symbol with \verb|\qedhere| if you don't like where it defaults to. Here's an example.
+Use the \verb|proof| environment for proofs. Place your QED symbol with \verb|\qedhere| 
+if you don't like where it defaults to. Here's an example.
 
 
-Let $F(K,L)=AK^{\alpha}L^{1 - \alpha}$ be a Cobb-Douglas production function. I claim that this function has constant returns to scale.
+Let $F(K,L)=AK^{\alpha}L^{1 - \alpha}$ be a Cobb-Douglas production function. I claim 
+that this function has constant returns to scale.
 
 \begin{proof}
 	Multiply both capital $K$ and labor $L$ by some constant $\lambda$. Then we have
@@ -243,7 +246,6 @@ Let $F(K,L)=AK^{\alpha}L^{1 - \alpha}$ be a Cobb-Douglas production function. I 
 				&=	zAK^{\alpha}L^{1 - \alpha}	\\
 				&=	zF(K, L). 	\qedhere
 	\end{align*}
-	
 \end{proof}
 
 
@@ -252,15 +254,15 @@ Let $F(K,L)=AK^{\alpha}L^{1 - \alpha}$ be a Cobb-Douglas production function. I 
 
 Use the \verb|quote| environment for shorter quotes (no indent):
 \begin{quote}
-	``The first principle is that you must not fool yourself and you are the easiest person to 
-	fool.'' --- Richard Feynman
+	``The first principle is that you must not fool yourself and you are the easiest 
+	person to fool.'' --- Richard Feynman
 \end{quote}
 And use the \verb|quotation| environment for longer quotes:
 \begin{quotation}
-	``Dr. Scholl makes foot products, right? And he's a doctor, which means he went to 
-	school for a long time. But it doesn't take a lot to figure out that stepping on a cushion 
-	would be more comfortable. That fucker wasted lots of time at school. `Cuz I would 
-	have bought that shit from a Mr. Scholl.''
+	``Dr. Scholl makes foot products, right? And he's a doctor, which means he went 
+	to school for a long time. But it doesn't take a lot to figure out that stepping on a 
+	cushion would be more comfortable. That fucker wasted lots of time at school. 
+	`Cuz I would have bought that shit from a Mr. Scholl.''
 	
 	\hfill --- Mitch Hedberg
 \end{quotation}

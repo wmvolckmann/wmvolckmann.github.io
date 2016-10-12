@@ -3,6 +3,14 @@ layout: page
 title: ECN 101 - Intermediate Macro Theory (Fall 2016)
 ---
 
+## News
+The midterm 1 summary can be found [here](midterm1summary.pdf). Disclaimer:
+these are things that I gather you should be *completely* familiar with, but it
+is not necessarily an exhaustive summary of what you will need to know (since I
+cannot squeeze every single lecture and every single homework problem on one page). 
+
+## Course Information
+
 The syllabus can be read [here](f2016syllabus.pdf). The synopsis:
 
 ### Lecture

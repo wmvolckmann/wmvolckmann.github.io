@@ -55,14 +55,13 @@ new section right now.
 
 \section{Math}
 
-
 \subsection{In-Line}
 
 We can put math directly into a paragraph, which is called \textbf{in-line} math. 
 To do so, enter a dollar sign \$, then type in your math, then enter another \$ as 
 soon as you want to use text again. For instance, \verb|$y=x^2$|  will output as 
 $y=x^2$. If you don't like using the dollar signs, you can use \verb|\(y=x^2\)|, 
-which will look exactly the same.  
+which will look exactly the same: \(y=x^2\).
 
 
 \subsection{Display Environment}
@@ -77,27 +76,29 @@ if you want to show a short string of (in)equalities.  To do so, use the form
 \subsection{Common Commands}
 
 	\begin{itemize}
-		\item For a times symbol, use \verb|\times|. For a dot product symbol, 
-		use \verb|\dot|. 
+		\item For a times symbol $\times$, use \verb|\times|. For a dot product symbol $\cdot$, 
+		use \verb|\cdot|. 
 		
 		\item If you're in-line, write fractions as \verb|a/b|. If you're in display 
 		mode, you can write fractions with \verb|\frac{a}{b}| to get
 			\[ \frac{a}{b}. \]
 		If you try the latter in-line, you'll get tiny fractions that are difficult to 
-		read, e.g. $\frac{a}{b}$. 
+		read, e.g. $\frac{a}{b}$, whereas $a/b$ is less cramped. 
 		
 		\item Use \verb|_| for subscripts and \verb|^| for superscripts. For 
-		instance, $x_1^2$. If you want an entire expression in the subscript 
-		or superscript (or generally for any command), put the entire expression
-		in \verb|{}|. For instance, \verb|$x_1^{2y-5}$| will render as $x_1^{2y-5}$.
+		instance, \verb|$x_1^2$| will give you $x_1^2$. If you want an entire expression 
+		in the subscript or superscript (or generally for any command), put the entire 
+		expression	in \verb|{}|. For instance, \verb|$x_1^{2y-5}$| will render as 
+		$x_1^{2y-5}$.
 		
-		\item Write square roots with \verb|\sqrt{}|. For instance, $\sqrt{-1}=i$. 
+		\item Write square roots with \verb|\sqrt{}|. For instance, \verb|$\sqrt{-1}=i$|
+		will output as $\sqrt{-1}=i$. 
 		
 		\item Write strict inequalities with \verb|<| and \verb|>|, non-strict 
 		with \verb|\leq| and \verb|\geq|. Note that you can express ``not 
-		greater than'' by prefacing it with  \verb|\not|, for instance $5 \not > 6$. 
-		(I think you can put \verb|\not| on pretty much anything, although there 
-		is a special command \verb|neq| for $\neq$.)
+		greater than'' by prefacing it with  \verb|\not|, for instance \verb|$5 \not > 6$|
+		will output as $5 \not > 6$.  (I think you can put \verb|\not| on pretty much 
+		anything, although there is a special command \verb|neq| for $\neq$.)
 		
 		\item Most Greek letters are straightforward. \verb|\delta| will give you a
 		$\delta$, and \verb|\Delta| will give you a $\Delta$. 
@@ -119,10 +120,9 @@ if you want to show a short string of (in)equalities.  To do so, use the form
 		\item For a partial derivative, use \verb|\partial|, e.g. $\partial z/\partial y$. 
 		
 		\item For limits, use \verb|\lim| with a subscript explaining what the limit is 
-		doing, e.g.
+		doing. For instance, \verb|\lim_{x \rightarrow \infty}| will output as
 				\[ \lim_{x \rightarrow \infty}  \]
-		Infinity is given by \verb|\infty| and  the arrow is \verb|\rightarrow|. If you 
-		try putting the limit in-line, it'll look kinda weird. 
+		If you try putting the limit in-line, it'll look kinda weird. 
 		
 		\item Use \verb|\sum| for sums. You'll usually want to try to use sums in the 
 		display environment because they can be bulky, for instance

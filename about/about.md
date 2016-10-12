@@ -25,8 +25,8 @@ with occasional flashes of "not bad." Feel free to listen if you are sufficientl
 They're on Spotify and the like, or you can just listen to them on Youtube with the
 following links:
 
-* [Wimivo - The Friend Zone](https://youtu.be/wHZVHMCTQn8?list=PL1cbDCwiXI8SfTc6Ru-xNbxz-On0EGgx_) (2016)
-* [Wimivo - Don't Cry, Euphoria](https://youtu.be/LpcQloSq6Rs?list=PL1cbDCwiXI8QxI4T0Gn_ag4lU8STSPUvO) (2014)
+* [Wimivo - The Friend Zone](https://www.youtube.com/playlist?list=PL1cbDCwiXI8SfTc6Ru-xNbxz-On0EGgx_) (2016)
+* [Wimivo - Don't Cry, Euphoria](https://www.youtube.com/playlist?list=PL1cbDCwiXI8QxI4T0Gn_ag4lU8STSPUvO) (2014)
 
 And that's all I'm willing to write about because I already feel vain after having
 written three short paragraphs about myself.

@@ -10,7 +10,8 @@ browser. It's a bit slower than a local editor, but it comes with all of the
 advantages of the cloud.
 
 I've prepared a little LaTeX file with some of the basics in it. You can download
-it [here](../basiclatex.tex). It's a mostly self-contained explanation of itself
+it [here](../basiclatex.tex) or look at the Overleaf version [here](https://www.overleaf.com/read/ycpfvsvqdxnb).
+It's a mostly self-contained explanation of itself
 -- you just have to typeset it (i.e. render it) first, which you can do in the menu
 bar. (Or just click the green button top left, or just press control+t.) Make sure
 the format is set to *pdfLaTeX* (or the longer *pdfLaTeX+* one).

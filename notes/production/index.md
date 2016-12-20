@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Production Functions
-published: false
+title:
 ---
+#Production Functions
 
 * [Cobb-Douglas](Cobb-Douglas.pdf)
 * [Constant Elasticity of Substitution](CES.pdf)

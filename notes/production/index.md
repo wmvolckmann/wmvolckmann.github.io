@@ -1,0 +1,10 @@
+---
+layout: page
+title: Production Functions
+published: false
+---
+
+* [Cobb-Douglas](Cobb-Douglas.pdf)
+* [Constant Elasticity of Substitution](CES.pdf)
+* [Linear](Linear.pdf)
+* [Stone-Geary](Stone-Geary.pdf)

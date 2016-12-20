@@ -2,6 +2,7 @@
 layout: page
 title:
 ---
+
 #Production Functions
 
 * [Cobb-Douglas](Cobb-Douglas.pdf)

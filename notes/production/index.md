@@ -3,8 +3,6 @@ layout: page
 title:
 ---
 
-#Production Functions
-
 * [Cobb-Douglas](Cobb-Douglas.pdf)
 * [Constant Elasticity of Substitution](CES.pdf)
 * [Linear](Linear.pdf)

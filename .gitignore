@@ -2,3 +2,5 @@
 _site
 feed.xml
 .sass-cache*
+notes/production/*.tex
+notes/production/*.synctex.gz

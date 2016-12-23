@@ -1,0 +1,80 @@
+\title{Dynamic Programming -- Infinite Horizon}
+\author{William M Volckmann II}
+\documentclass[12pt]{article}
+\usepackage{bm}
+\usepackage{amsmath}
+\usepackage{amsfonts}
+\usepackage{graphicx}
+\usepackage{amssymb}
+\usepackage{amsthm}
+\usepackage{setspace}
+\usepackage{amsthm}
+\usepackage{mathtools}
+\usepackage{enumitem}
+\usepackage{xifthen}
+\usepackage{titlesec}
+\usepackage[normalem]{ulem}
+\usepackage[final]{pdfpages}
+\usepackage[top=1.25in, left=1.25in, right=1.25in]{geometry}
+
+\newcommand{\C}{\mathbb{C}}
+\newcommand{\F}{\mathbb{F}}
+\newcommand{\N}{\mathbb{N}}
+\newcommand{\Q}{\mathbb{Q}}
+\newcommand{\R}{\mathbb{R}}
+\newcommand{\Z}{\mathbb{Z}}
+\newcommand{\Chi}{\mathcal{X}}
+\newcommand{\grad}{\nabla}
+\newcommand{\B}{\beta}
+\newcommand{\BH}{\hat{\beta}}
+\newcommand{\bh}{\hat{\beta}}
+\newcommand{\sumn}{\sum_{i=1}^n}
+\newcommand{\crit}{c_{\alpha}}
+\newcommand{\given}{\; | \;}
+\newcommand{\xbar}{\bar{X}_n}
+\newcommand{\asim}{\overset{a}{\sim}}
+\newcommand{\Lindent}{\hspace{.4cm} \Longrightarrow \hspace{.4cm}}
+\renewcommand{\vec}[1]{\mathbf{#1}}
+\DeclareMathOperator*{\argmax}{arg\,max}
+\DeclareMathOperator*{\argmin}{arg\,min}
+
+\DeclareMathOperator*{\plim}{plim}
+\DeclareMathOperator{\rank}{rank}
+
+\newtheorem{theorem}{Theorem}
+\theoremstyle{definition}
+\newtheorem{definition}{Definition}
+\newtheorem{example}{Example}
+
+\setenumerate{itemsep=-1pt, label=\textbf{(\alph*)}}
+
+\begin{document}
+
+
+\maketitle
+\singlespace
+
+\noindent \emph{These notes borrow heavily from Stokey and Lucas, re-written in a way that I find easier to follow. That sometimes means more exposition, more explanation, worked-out examples, and added (occasionally silly) comments. Also probably some added typos and other mistakes. }
+
+
+
+\section{Infinite Horizon}
+Let's begin by considering the Cobb-Douglas case where $f(k)=k^{\alpha}$ and $u(c)=\ln(c)$. Recall the law of motion of capital from the finite horizon problem,
+\begin{equation}
+	k_{t+1} = \alpha \beta \frac{ 1 - (\alpha \beta)^{T -t}}{ 1 - (\alpha \beta)^{T -t +1}}k^{\alpha}_{t}. \label{cdlomoc} 
+\end{equation}
+As $T$ becomes very large, then because $0 < \alpha \beta < 1$, it follows that the coefficient in front of $k_t^{\alpha}$ will become very close to $\alpha \beta$ for most of the sequence. And at this point, we might wonder why we cannot just take the limit as $T$ goes to infinity as the solution for the infinite horizon problem. Doing so would give an solution of
+	\[k_{t+1} = \alpha \beta k_t^{\alpha}.	\]
+
+Well, it turns out we \emph{can} just take the limit for the infinite horizon problem, and this is true in general. To prove it, one must first establish that  interchanging $\max$ and $\lim$ operators  is kosher, and this is actually rather difficult to show. 
+
+So nuts to that. Let's try a different approach. The limit suggests that there is a fixed rule that is used in every period. In this example, the rule seems like it should be to take a fixed proportion of your available capital to the next period, in particular, $\alpha \beta$ of it. More generally, we can conjecture that there is a fixed ``savings function'' of the form
+	\[	k_{t+1} = g(k_t).	\]
+This is fairly intuitive. The social planner problem looks the same from any given period; the only meaningful difference is the capital stock in each particular period. 
+
+But finding that savings function could be challenging. There isn't any general way we can do it from looking at first order and boundary conditions. The change of variable $z_t = k_t / k_{t-1}^{\alpha}$ is specific to the example. So we need a new approach entirely. 
+
+
+
+\end{document}
+ 

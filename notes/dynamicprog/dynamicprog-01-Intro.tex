@@ -1,4 +1,4 @@
-\title{Dynamic Programming}
+\title{Dynamic Programming -- Introduction}
 \author{William M Volckmann II}
 \documentclass[12pt]{article}
 \usepackage{bm}
@@ -223,19 +223,18 @@ Equation (\ref{cdlomoc}) defines the \textbf{law of motion of capital}. It might
 	\[\frac{k_t}{k_{t-1}^{\alpha} - k_t}= \alpha \beta \frac{ k_t^{\alpha}}{k_t^{\alpha} - k_{t+1}}	\]
 as the first order condition.
 
-Let's first analylse the left-hand side. Plugging in the closed form solutions for $k_t$, and $k_{t+1}$, we have the quite messy
+Let's first analyze the left-hand side. Plugging in the closed form solutions for $k_t$, and $k_{t+1}$, we have the quite messy
 	\[LHS = \dfrac{ \alpha \beta \dfrac{ 1 - (\alpha \beta)^{T -t +1}}{ 1 - (\alpha \beta)^{T -t +2}}k^{\alpha}_{t-1}}{k_{t-1}^{\alpha} -  \alpha \beta\dfrac{ 1 - (\alpha \beta)^{T -t +1}}{ 1 - (\alpha \beta)^{T -t +2}}k^{\alpha}_{t-1}}.\]
 For clarity's sake, define 
 	\[ \sigma = \alpha \beta \frac{ 1 - (\alpha \beta)^{T -t +1}}{ 1 - (\alpha \beta)^{T -t +2}} \Lindent LHS = \frac{ \sigma k^{\alpha}_{t-1}}{k_{t-1}^{\alpha} -  \sigma k^{\alpha}_{t-1}} = \frac{\sigma}{1 - \sigma}.\]
 This is much more elegant in appearance.
 
-Now let's analyze the right-hand side. Again substituting in $\sigma$ and doing some cancellations, we have
+Now let's analyze the right-hand side. Again substituting in the closed forms for $k_t$ and $k_{t+1}$, and doing some cancellations, we have
 	\[	RHS = \alpha \beta \frac{1}{1 - \alpha \beta \frac{ 1 - (\alpha \beta)^{T -t}}{ 1 - (\alpha \beta)^{T -t +1}}} = \alpha \beta \frac{1 - (\alpha \beta)^{T -t +1}}{ 1 - \alpha \beta}.	\]
 Multiply numerator and denominator by 
 \[	RHS =  \alpha \beta \frac{1 - (\alpha \beta)^{T -t +1}}{ 1 - \alpha \beta} \left( \frac{ 1 - (\alpha \beta)^{T -t +2}}{ 1 - (\alpha \beta)^{T -t +2}} \right) = \sigma \frac{ 1 - (\alpha \beta)^{T -t +2}}{1 - \alpha \beta}.	\]
 Now just notice that 
-	\[ \frac{1}{1 - \sigma} =   \frac{   1 - (\alpha \beta)^{T -t +2} }{ 1 - \alpha \beta},	\]
-which gives us $RHS= \sigma / (1- \sigma)$. Great, so the first order condition is satisfied. 
+	\[ \frac{1}{1 - \sigma} =   \frac{   1 - (\alpha \beta)^{T -t +2} }{ 1 - \alpha \beta} \Lindent RHS= \frac{\sigma}{1- \sigma}.	\]
 
 Finally, let's make sure the relevant boundary condition holds:
 \[	 k_{T+1} = \alpha \beta \frac{ 1 - (\alpha \beta)^{0}}{ 1 - (\alpha \beta)^{1}}k^{\alpha}_{T} =0. \]

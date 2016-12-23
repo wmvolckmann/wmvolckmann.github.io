@@ -1,0 +1,195 @@
+\title{Linear (Perfect Substitutes) Production Function}
+\author{William M Volckmann II}
+\documentclass[12pt]{article}
+\usepackage{bm}
+\usepackage{amsmath}
+\usepackage{amsfonts}
+\usepackage{graphicx}
+\usepackage{amssymb}
+\usepackage{amsthm}
+\usepackage{setspace}
+\usepackage{amsthm}
+\usepackage{mathtools}
+\usepackage{enumitem}
+\usepackage{xifthen}
+\usepackage{titlesec}
+\usepackage[normalem]{ulem}
+\usepackage[final]{pdfpages}
+\usepackage[top=1.25in, left=1.25in, right=1.25in]{geometry}
+
+\newcommand{\C}{\mathbb{C}}
+\newcommand{\F}{\mathbb{F}}
+\newcommand{\N}{\mathbb{N}}
+\newcommand{\Q}{\mathbb{Q}}
+\newcommand{\R}{\mathbb{R}}
+\newcommand{\Z}{\mathbb{Z}}
+\newcommand{\Chi}{\mathcal{X}}
+\newcommand{\grad}{\nabla}
+\newcommand{\B}{\beta}
+\newcommand{\BH}{\hat{\beta}}
+\newcommand{\bh}{\hat{\beta}}
+\newcommand{\sumn}{\sum_{i=1}^n}
+\newcommand{\crit}{c_{\alpha}}
+\newcommand{\given}{\; | \;}
+\newcommand{\xbar}{\bar{X}_n}
+\newcommand{\asim}{\overset{a}{\sim}}
+\newcommand{\Lindent}{\hspace{.4cm} \Longrightarrow \hspace{.4cm}}
+\renewcommand{\vec}[1]{\mathbf{#1}}
+\DeclareMathOperator*{\argmax}{arg\,max}
+\DeclareMathOperator*{\argmin}{arg\,min}
+
+\DeclareMathOperator*{\plim}{plim}
+\DeclareMathOperator{\rank}{rank}
+
+\newtheorem{theorem}{Theorem}
+\theoremstyle{definition}
+\newtheorem{definition}{Definition}
+\newtheorem{example}{Example}
+
+\setenumerate{itemsep=-1pt, label=\textbf{(\alph*)}}
+%\setlength{\jot}{8pt}
+%\setlength{\baselineskip}{1.5em}
+%\titlespacing*{\section}{0pt}{4ex plus 1ex minus .2ex}{0ex plus .2ex}
+%\titlespacing*{\subsection}{0pt}{4ex plus 1ex minus .2ex}{0ex plus .2ex}
+%\titlespacing*{\subsubsection}{0pt}{3ex plus 1ex minus .2ex}{0ex plus .2ex}
+
+\newcounter{ProbCounter}
+\setcounter{ProbCounter}{1}
+\newcommand{\problem}[1][]{%
+\ifthenelse{\equal{#1}{}}{\section*{Problem \arabic{ProbCounter}}}
+{\section*{Problem \arabic{ProbCounter} (#1)}}%
+\stepcounter{ProbCounter}}
+
+
+
+\begin{document}
+
+
+\maketitle
+\singlespace
+We will consider a setting with $L+1$ commodities. The first $L$ commodities serve as inputs and the $L+1$th commodity is the output. Input commodity $\ell$ has input price $w_{\ell}$, and the output commodity has price $p$. We consider the general linear production function
+	\[	f(z)=A \left(\sum_{\ell = 1}^L \alpha_{\ell} z_{\ell} \right),\]
+where $A$ represents the total-factor productivity, an exogenous measure of the level of ``technology." The parameters $\alpha_{\ell}$ are \emph{share parameters} that capture how ``strongly'' input $\ell$ contributes to production. For instance, a low $\alpha_{\ell}$ implies that input $\ell$ doesn't affect output very much. Notice that all goods here are perfect substitutes; if you want, you can reduce input $z_{\ell}$ but increase input $z_{k}$ to have unchanged output. 
+
+
+
+\section{Interior Solution}
+
+\subsection{Cost Minimization Problem}
+The fact that this function is linear triggers my ``corner solution'' alarm. If we ignore the possibility of corner solutions, then the Lagrangian is
+	\[\mathcal{L}(z, \lambda) = w_1z_1 + ... + w_Lz_L + \lambda \left[ q - A \left(\sum_{\ell = 1}^L \alpha_{\ell} z_{\ell} \right) \right],	\]
+and we end up with first order conditions
+\begin{equation} \label{linearcmpfoc}
+	\frac{w_1}{ \alpha_1} = ... = \frac{w_L}{ \alpha_L}.	
+\end{equation}
+This seems pretty unlikely to actually be the case. The interpretation is that every input gives exactly the same ``bang for the buck.''  Indeed, the more commodities you have, the less likely this is to be true. But fine, suppose this unlikely condition actually does hold. This implies that the slope of the isocost line and the constraint hyperplane are parallel. To see this, consider the cost minimization problem,
+	\[ \min w_1 z_1 + ... + w_Lz_L \;\; \text{ s.t. } \;\; A[\alpha_1 z_1 + ... + \alpha_L z_L] \geq q.	\]
+	Multiply the objective function by $A a_1 / w_1$ and it becomes
+	\[\alpha_1 z_1 + \frac{\alpha_1}{w_1}w_2 z_1 + ... + \frac{\alpha_1}{w_1}w_Lz_L. \]
+From equation (\ref{linearcmpfoc}), it follows that $(\alpha_1/w_1)w_k=\alpha_k$, and so
+	\[A[\alpha_1 z_1 + \alpha_2 z_1 + ... + \alpha_L z_L]. \]
+This is precisely the slope of the constraint hyperplane -- we just showed that the two are linearly dependent. So in order to produce at least $q$ units of output at the lowest cost, we would expect the isocost line to be exactly on top of the constraint boundary. If the isocost line is any lower, then we will produce less than $q$; if the isocost line is any higher, then cost could be lowered while still producing at least $q$. 
+	
+	The implication is the cost minimizing bundle of inputs is any feasible bundle that satisfies
+	\[A \left(\sum_{\ell = 1}^L \alpha_{\ell} z_{\ell} \right)=q.\]
+More rigorously, we have
+	\[z_k(q,w) = \beta_k \frac{q}{A \alpha_k}, \;\; \text{ where } \sum_{\ell=1}^L \beta_k = 1. \]
+The producer is, in effect, indifferent between which inputs are used even when taking input cost into consideration. 
+	
+	To find the cost function, let's arbitrarily assume that the producer chooses to use only input commodity $k$, so that $\beta_k=1$. Then the cost would be
+	\[c(q,w)= \frac{q}{A} \frac{ w_k}{ \alpha_k}.	\]
+
+\subsection{Profit Maximization Problem} 
+Since this is a special case a constant elasticity of substitution function, it also has constant returns to scale. This means that the profit function is going to depend on price and marginal cost. Specifically, the profit maximization problem is
+	\[ \max_{q} pq -  \frac{q}{A} \frac{ w_k}{ \alpha_k}.	\]
+The explanation is essentially the same as in the general CES case, except we can express things more elegantly. The profit function is
+\[ \pi(p,w)=
+\begin{cases}
+	\infty		& \text{ if } p >  \dfrac{1}{A} \dfrac{ w_k}{ \alpha_k},\\[2ex]
+	0		& \text{ if } p \leq  \dfrac{1}{A} \dfrac{ w_k}{ \alpha_k}.
+\end{cases}
+\]
+The output supply function is
+\[ q(p,w)=
+\begin{cases}
+	\infty		& \text{ if } p >  \dfrac{1}{A} \dfrac{ w_k}{ \alpha_k},\\[2ex]
+	\overline{q}		& \text{ if } p =  \dfrac{1}{A} \dfrac{ w_k}{ \alpha_k},\\[2ex]
+	0		& \text{ if } p <  \dfrac{1}{A} \dfrac{ w_k}{ \alpha_k}.
+\end{cases}
+\]
+The input demand function is 
+\[ z_k(p,w)=
+\begin{cases}
+	\emptyset		& \text{ if } p >  \dfrac{1}{A} \dfrac{ w_k}{ \alpha_k},\\[2ex]
+	 \beta_k \dfrac{\overline{q}}{A \alpha_k}		& \text{ if } p =  \dfrac{1}{A} \dfrac{ w_k}{ \alpha_k},\\[2ex]
+	0		& \text{ if } p <  \dfrac{1}{A} \dfrac{ w_k}{ \alpha_k}.
+\end{cases}
+\]
+
+
+
+\section{Corner Solution}
+
+\subsection{Cost Minimization Problem}
+
+Of course, it is much more likely that there will be a corner solution -- we are now assuming that not all $w_{\ell}/\alpha_{\ell} = w_k/\alpha_k$. To consider this, we want to examine the complete Lagrangian of the cost minimization problem,
+	\[L(z, \lambda, v) = w_1z_1 + ... + w_Lz_L + \lambda \left[ q - A \left(\sum_{\ell = 1}^L \alpha_{\ell} z_{\ell} \right) \right] -v_1z_1 - ... - v_Lz_L.	\]
+The first order conditions are
+\begin{align}
+	\frac{\partial \mathcal{L}(z, \lambda, v)}{\partial z_k} = w_k - \lambda A \alpha_k - v_k :=0, \label{cornerfoc1}\\
+	 \lambda \left[ q - A \left(\sum_{\ell = 1}^L \alpha_{\ell} z_{\ell} \right) \right] =0,\\
+	 v_kz_k =0,\\
+	 \lambda, v_k \geq 0.
+\end{align}
+It follows from equation (\ref{cornerfoc1}) that $w_k - \lambda A \alpha_k \geq v_k$, and thus $w_k/\alpha_k = v_k/\alpha_k +  \lambda A$. Now notice that we cannot have $v_k>0$ for every $k$ because it would imply that $z_k=0$ for every $k$ and thus production would be below $q>0$.  Thus, there is at least some $v_k=0$, which means there is at least some $w_k/\alpha_k = \lambda A$, which also implies that $\lambda >0$ because $w_k>0$. Also note that these must then be the minima from the set $\{w_{\ell}/\alpha_{\ell}\}_{\ell=1}^L$.
+
+For simplicity, let's assume that only $v_k = v_j=0$. This implies that every other $z_{\ell} =0$. Furthermore, it implies that $w_k/\alpha_k = w_j/\alpha_j$. Since $\lambda > 0$, we know that $f(x)=q$. So we can rewrite the cost minimization problem as
+	\[\min_{z \geq 0} w_kz_k + w_jz_j \;\; \text{ s.t. } \;\; A(\alpha_k z_k + \alpha_j z_j) = q.	\]
+This is essentially the previous case -- we have an interior solution \emph{with respect to inputs $k$ and $j$.} The two goods are perfect substitutes and the producer is indifferent among the two as far as cost goes. So the conditional factor demands are
+\begin{align*}
+	&z_{\ell}(q,w) =0 \;\; \text{ for } \ell \neq k,j,\\
+	&z_k(q,w) = \beta_k \frac{q}{A \alpha_k},\\
+	&z_j(q,w) = \beta_j \frac{q}{A \alpha_j}, 
+\end{align*}
+where $\beta_k + \beta_j =1.$
+
+To find the cost function, let's arbitrarily assume that the producer chooses to use only input commodity $k$, so that $\beta_k=1$. Then the cost would be
+	\[c(q,w)= \frac{q}{A} \frac{ w_k}{ \alpha_k}.	\]
+
+
+\subsection{Profit Maximization Problem}
+
+The profit maximizing problem is also interior with respect to $k$ and $j$. So we can essentially use the previous results to get
+\[ \pi(p,w)=
+\begin{cases}
+	\infty		& \text{ if } p >  \dfrac{1}{A} \dfrac{ w_k}{ \alpha_k},\\[2ex]
+	0		& \text{ if } p \leq  \dfrac{1}{A} \dfrac{ w_k}{ \alpha_k}.
+\end{cases}
+\]
+The output supply function is
+\[ q(p,w)=
+\begin{cases}
+	\infty		& \text{ if } p >  \dfrac{1}{A} \dfrac{ w_k}{ \alpha_k},\\[2ex]
+	\overline{q}		& \text{ if } p =  \dfrac{1}{A} \dfrac{ w_k}{ \alpha_k},\\[2ex]
+	0		& \text{ if } p <  \dfrac{1}{A} \dfrac{ w_k}{ \alpha_k}.
+\end{cases}
+\]
+The input demand function is 
+\begin{align*}
+	z_{\ell}(p,w) &=0	\;\; \text{ for } \ell \neq k,j,\\
+	z_{k,j}(p,w) &=
+\begin{cases}
+	\emptyset		& \text{ if } p >  \dfrac{1}{A} \dfrac{ w_k}{ \alpha_k},\\[2ex]
+	 \beta_{k,j} \dfrac{\overline{q}}{A \alpha_k}		& \text{ if } p =  \dfrac{1}{A} \dfrac{ w_k}{ \alpha_k},\\[2ex]
+	0		& \text{ if } p <  \dfrac{1}{A} \dfrac{ w_k}{ \alpha_k}.
+\end{cases}
+\end{align*}
+
+
+
+
+	
+\end{document}
+ 
+ 
+ 

@@ -62,7 +62,7 @@
 
 To introduce the idea of dynamic programing, we consider a one-sector model of economic growth. We assume that the economy is composed of identical households that live infinitely long lives. In every period $t$, there is a single good $y_t$ that is produced using two inputs: capital $k_t$ and labor $n_t$. Labor units are normalized to 1, meaning that $n_t$ represents the proportion of the economy's possible labor being supplied. For example, $n_t=1$ means the labor force works their full 40 hours per week.
 
-To capture the production process, we use a production function $y_t=F(k_t, n_t)$. The goods produced in period $t$ can be consumed for $c_t$ or invested for $i_t$, and therefore
+To capture the production process, we use a production function $y_t=F(k_t, n_t)$. Each period, the economy has some beginning-of-period stock of capital, $k_t$. This capital is used in the period's production process, which means the economy has produced $F(k_t, n_t)$. The goods produced in period $t$ can be consumed for $c_t$ or invested for $i_t$, and therefore
 	\[c_t + i_t \leq y_t = F(k_t, n_t).	\]
 For now we are allowing the possibility that the produced goods are neither consumed nor invested, hence in the inequality. This amounts to ``wasting''  some of the production. The goods that are consumed are essentially ``used up'' and gone (e.g. eating a seed), whereas the goods that are invested become part of next period's capital stock (e.g. planting a seed). 
 

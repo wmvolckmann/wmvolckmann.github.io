@@ -68,11 +68,40 @@ As $T$ becomes very large, then because $0 < \alpha \beta < 1$, it follows that 
 
 Well, it turns out we \emph{can} just take the limit for the infinite horizon problem, and this is true in general. To prove it, one must first establish that  interchanging $\max$ and $\lim$ operators  is kosher, and this is actually rather difficult to show. 
 
-So nuts to that. Let's try a different approach. The limit suggests that there is a fixed rule that is used in every period. In this example, the rule seems like it should be to take a fixed proportion of your available capital to the next period, in particular, $\alpha \beta$ of it. More generally, we can conjecture that there is a fixed ``savings function'' of the form
+So nuts to that. Let's try a different approach. The limit suggests that there is a fixed rule that is used in every period. In this example, the rule seems like it should be to take a fixed proportion of your available capital to the next period, in particular, $\alpha \beta$ of it. More generally, we can conjecture that there is a fixed ``savings function'' or \textbf{policy function} of the form
 	\[	k_{t+1} = g(k_t).	\]
 This is fairly intuitive. The social planner problem looks the same from any given period; the only meaningful difference is the capital stock in each particular period. 
 
 But finding that savings function could be challenging. There isn't any general way we can do it from looking at first order and boundary conditions. The change of variable $z_t = k_t / k_{t-1}^{\alpha}$ is specific to the example. So we need a new approach entirely. 
+
+Let's try thinking in terms of only \emph{today} and \emph{tomorrow}, in particular, of choosing consumption today $c_0$ and tomorrow's beginning-of-period capital $k_1$. Let $v(\cdot)$ be the \textbf{value function}, supposing one exists, that gives the value of the maximized objective function; it's not unlike an indirect utility function, as far as interpretation goes. So $v(k_0)$ is the level of utility we'd get from solving the planner's problem, for instance. Or, given some beginning-of-period capital stock $k_1$ in period 1, the best that could be done from that point on is $v(k_1)$. Using this, we can rewrite the social planner's problem as 
+\begin{align*}
+	&\max_{c_0, k_1} \left[U(c_0) + \beta v(k_1) \right]\\
+	\text{s.t. }\;\; &c_0 + k_1 \leq f(k_0),\\
+	&c_0, k_1 \geq 0, \;\; k_0>0 \text{ given}.
+\end{align*}
+
+Of course, we don't actually know what $v(\cdot)$ is. All we really know about it is that is solves the maximization problem. That is,
+	\[v(k_0) = \max_{0 \leq k_1 \leq f(k_0)} \left \{ U\big( f(k_0) - k_1 \big) + \beta v(k_1) \right \}.	\]
+Now that we are dealing with only two indices, we can adopt the more convenient $k$ for current and $k'$ for next-period. Also, recall our conjecture (which is actually true) that there exists a time-invariant policy rule $k'=g(k)$ that is followed in optimum. Thus, we can actually write the maximization problem as 
+	\[v(k) = U\big( f(k) - g(k) \big) + \beta v\big( g(k) \big)  \; \; \text{ s.t. } \;\; 0 \leq g(k) \leq f(k) .	\]
+Notice that we are able to drop the $\max$ operator since $g(k)$ is defined to be the optimal policy rule -- the fact that we are using it means we will attain the maximum.
+
+So we have one equation with an unknown function $v(\cdot)$, which we call a \textbf{functional equation}. Optimizing such problems via functional equations is what constitutes \textbf{dynamic programming}. This will be our bread and butter. 
+
+Let's suppose that $v(\cdot)$ is differentiable and that there is an interior solution. Then the first order condition (differentiate with respect to $g(k)$ and set equal to zero) is
+\begin{equation}
+	U_{g(k)}'\big( f(k) - g(k) \big) = \beta v_{g(k)}'\big( g(k) \big). \label{bellmanfoc}
+\end{equation}
+To find the envelope condition, differentiate with respect to $k$ to get
+\[
+	v_{k}'(k) = U_{f(k)}'\big( f(k)-g(k)\big)f_k'(k) - U_{g(k)}'\big( f(k)-g(k)\big)g_k'(k) + \beta v_{g(k)}'\big(g(k)\big)g_k'(k).
+\]
+Notice that equation (\ref{bellmanfoc}) implies that the latter two terms sum to zero. Thus, the envelope condition is
+\begin{equation}
+	v'(k)=U_{f(k)}'\big( f(k)-g(k)\big)f_k'(k).
+\end{equation}
+
 
 
 

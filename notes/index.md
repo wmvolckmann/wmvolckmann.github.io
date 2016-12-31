@@ -14,6 +14,7 @@ title:
 
 
 # Dynamic Programming
-* [Introduction](dynamicprog/dynamicprog-01-Intro.pdf)
-* [Infinite Horizon](dynamicprog/dynamicprog-02-Infinite.pdf)
-* [Stochastic Programming](dynamicprog/dynamicprog-03-Stochastic.pdf)
+* [01 - Introduction](dynamicprog/dynamicprog-01-Intro.pdf)
+* [02 - Infinite Horizon](dynamicprog/dynamicprog-02-Infinite.pdf)
+* [03 - Contraction Mapping Theorem](dynamicprog/dynamicprog-03-Contraction.pdf)
+* [04 - Stochastic Programming](dynamicprog/dynamicprog-04-Stochastic.pdf)

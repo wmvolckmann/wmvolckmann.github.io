@@ -9,6 +9,7 @@ title:
 * [Linear](production/Linearprod.pdf)
 * [Stone-Geary](production/StoneGearyprod.pdf)
 
+
 # Utility Functions
 * [Cobb-Douglas](utility/CobbDouglasutility.pdf)
 

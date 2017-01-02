@@ -8,3 +8,5 @@ feed.xml
 /notes/utility/*.synctex.gz
 /notes/dynamicprog/*.tex
 /notes/dynamicprog/*.synctex.gz
+/notes/*/*.tex
+/notes/*/*.synctex.gz

@@ -19,3 +19,8 @@ title:
 * [02 - Infinite Horizon](dynamicprog/dynamicprog-02-Infinite.pdf)
 * [03 - Contraction Mapping Theorem](dynamicprog/dynamicprog-03-Contraction.pdf)
 * [04 - Stochastic Programming](dynamicprog/dynamicprog-04-Stochastic.pdf)
+
+
+#Econometrics
+* [Probability Cheat Sheet](econometrics/cheatsheet-probability.pdf)
+* [Inference](econometrics/econometrics-02-Inference.pdf)

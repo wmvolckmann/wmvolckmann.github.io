@@ -21,6 +21,6 @@ title:
 * [04 - Stochastic Programming](dynamicprog/dynamicprog-04-Stochastic.pdf)
 
 
-#Econometrics
+# Econometrics
 * [Probability Cheat Sheet](econometrics/cheatsheet-probability.pdf)
 * [Inference](econometrics/econometrics-02-Inference.pdf)

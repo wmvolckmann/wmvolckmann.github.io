@@ -1,6 +1,7 @@
 ---
 layout: page
 title: LaTeX Basics
+order: 2.1
 ---
 
 For Windows, you'll probably want to use MiKTeX, which can be found [here](http://miktex.org/download).

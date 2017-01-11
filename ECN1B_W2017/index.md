@@ -9,10 +9,10 @@ order: 1.1
 * Instructor: Katheryn Russ ( at ucdavis.edu)
 * Time and Place: MWF 11:00–11:50am, Sciences Lecture Hall 123
 * Office Hours: Tuesday 10am–noon, SSH 1146
-* Textbook: N. Gregory Mankiw, Principles of Macroeconomics, 7th edition
-* Midterm 1:
-* Midterm 2:
-* Final Exam:
+* Textbook: Cengage Online (Mankiw, Principles of Macroeconomics, 7e)
+* Midterm 1: Monday, February 6
+* Midterm 2: Monday, March 6
+* Final Exam: Tuesday, March 21
 
 
 ### Discussion
@@ -31,4 +31,5 @@ you'll find someone who is distinctly not me.
 On a busyness scale from 1-10, I'm at about 10-$$\epsilon$$, so I might
 not be able to respond to emails as timely as I'd like. And I probably won't be
 answering emails that come after 10pm or so until the next day. That said, I will
-try to be expeditious in answering them.
+try to be expeditious in answering them. Note that you can also post things on the
+Canvas discussion board.

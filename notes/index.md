@@ -25,4 +25,7 @@ title:
 * [Probability Cheat Sheet](econometrics/cheatsheet-probability.pdf)
 * [Inference](econometrics/econometrics-02-Inference.pdf)
 * [Asymptotics](econometrics/econometrics-03-Asymptotic.pdf)
-* [Maximum Likelihood Estimation](econometrics/econometrics-04-MLE.pdf)
+* [Linear Regressions with Matrices](econometrics/econometrics-04-Matrices.pdf)
+
+# Math
+* [Matrix Diagonalization](math/math_eigenvalues.pdf)

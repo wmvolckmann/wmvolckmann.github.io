@@ -14,7 +14,7 @@ title:
 * [Cobb-Douglas](utility/CobbDouglasutility.pdf)
 
 
-# Dynamic Programming
+# Mini-Macro
 * [01 - Introduction](dynamicprog/dynamicprog-01-Intro.pdf)
 * [02 - Infinite Horizon](dynamicprog/dynamicprog-02-Infinite.pdf)
 * [03 - Contraction Mapping Theorem](dynamicprog/dynamicprog-03-Contraction.pdf)
@@ -26,6 +26,7 @@ title:
 * [Inference](econometrics/econometrics-02-Inference.pdf)
 * [Asymptotics](econometrics/econometrics-03-Asymptotic.pdf)
 * [Linear Regressions with Matrices](econometrics/econometrics-04-Matrices.pdf)
+
 
 # Math
 * [Matrix Diagonalization](math/math_eigenvalues.pdf)

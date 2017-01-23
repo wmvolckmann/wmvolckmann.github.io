@@ -10,3 +10,7 @@ feed.xml
 /notes/dynamicprog/*.synctex.gz
 /notes/*/*.tex
 /notes/*/*.synctex.gz
+/ECN1B_W2017/*.png
+/ECN1B_W2017/*.tex
+/ECN1B_W2017/*.gz
+/ECN1B_W2017/*.log

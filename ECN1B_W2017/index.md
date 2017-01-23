@@ -4,6 +4,10 @@ title: ECN 1B - Principles of Macro (Winter 2017)
 order: 1.1
 ---
 
+### Discussion Materials
+* [1-23 Questions](discussion-1-23.pdf)
+
+
 ### Lecture
 
 * Instructor: Katheryn Russ

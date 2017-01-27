@@ -21,9 +21,9 @@ title:
 * [04 - Stochastic Programming](dynamicprog/dynamicprog-04-Stochastic.pdf)
 
 # Macro (Winter)
-* [Week 1](macrowinter/week1.pdf)
-* [Week 2](macrowinter/week2.pdf)
-* [Week 3](macrowinter/week3.pdf)
+* [Week 1](macrowinter/Week1.pdf)
+* [Week 2](macrowinter/Week2.pdf)
+* [Week 3](macrowinter/Week3.pdf)
 
 # Econometrics
 * [Probability Cheat Sheet](econometrics/cheatsheet-probability.pdf)

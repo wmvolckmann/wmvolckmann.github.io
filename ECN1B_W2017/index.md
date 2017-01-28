@@ -5,8 +5,8 @@ order: 1.1
 ---
 
 ### Discussion Materials
-* [1/23 Problems](discussion-1-23.pdf)
 * [1/30 Problems](discussion-1-30.pdf)
+* [1/23 Problems](discussion-1-23.pdf)
 
 
 ### Lecture

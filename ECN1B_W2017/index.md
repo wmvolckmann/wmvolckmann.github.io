@@ -9,7 +9,7 @@ order: 1.1
 * [2/06 Problems](discussion-2-06.pdf), [Solutions](discussion-2-06-ans.pdf)
 * [1/30 Problems](discussion-1-30.pdf), [Solutions](discussion-1-30-ans.pdf)
 * [1/23 Problems](discussion-1-23.pdf), [Solutions](discussion-1-23-ans.pdf)
-stuff
+
 
 ### Lecture
 

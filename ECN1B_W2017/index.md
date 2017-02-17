@@ -5,6 +5,7 @@ order: 1.1
 ---
 
 ### Discussion Materials
+* [2/20 Solutions](discussion-2-20-ans.pdf)
 * [2/13 Problems](discussion-2-13.pdf), [Solutions](discussion-2-13-ans.pdf)
 * [2/06 Problems](discussion-2-06.pdf), [Solutions](discussion-2-06-ans.pdf)
 * [1/30 Problems](discussion-1-30.pdf), [Solutions](discussion-1-30-ans.pdf)

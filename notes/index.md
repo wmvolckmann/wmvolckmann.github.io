@@ -27,6 +27,7 @@ title:
 * [Week 4](macrowinter/Week4.pdf)
 * [Week 5](macrowinter/Week5.pdf)
 * [Week 6](macrowinter/Week6.pdf)
+* [Week 7](macrowinter/Week7.pdf)
 
 # Econometrics
 * [Probability Cheat Sheet](econometrics/cheatsheet-probability.pdf)

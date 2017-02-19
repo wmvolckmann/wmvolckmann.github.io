@@ -13,6 +13,10 @@ title:
 # Utility Functions
 * [Cobb-Douglas](utility/CobbDouglasutility.pdf)
 
+# Micro (Winter)
+* [Midterm Cheat Sheet](microwinter/MTcheatsheet.pdf)
+
+
 
 # Mini-Macro
 * [01 - Introduction](dynamicprog/dynamicprog-01-Intro.pdf)

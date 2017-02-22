@@ -15,8 +15,9 @@ title:
 
 # Micro (Winter)
 * [Midterm Cheat Sheet](microwinter/MTcheatsheet.pdf)
-
-
+* [Arrow-Debreu](microwinter/ArrowDebreu.pdf)
+* [First Fundamental Theorem of Welfare Economics](microwinter/FirstWelfareThm.pdf)
+* [Second Fundamental Theorem of Welfare Economics](microwinter/SecondWelfareThm.pdf)
 
 # Mini-Macro
 * [01 - Introduction](dynamicprog/dynamicprog-01-Intro.pdf)

@@ -5,6 +5,7 @@ order: 1.1
 ---
 
 ### Discussion Materials
+* [3/06 Problems](discussion-3-06.pdf),
 * [Practice Questions for MT2](mt2pracmc.pdf)
 * [Money Multiplier Explained](moneymultiplier.pdf), [Leverage Ratio and Insolvency](leverageratio.pdf)
 * [2/27 Problems](discussion-2-27.pdf), [Solutions](discussion-2-27-ans.pdf)

@@ -8,9 +8,9 @@ order: 1.1
 I haven't seen the actual final so I am unable to say how accurate a representation
 my make-believe final is. I suspect it is a bit longer and a bit more difficult,
 and there's no guarantee that it exhaustively covers what will end up on the
-real final. So you should not use it as your only study resource. 
+real final. So you should not use it as your only study resource.
 * [Make-Believe Final Exam](pretend-final.pdf), [Solutions](pretend-final-sol.pdf),
-* [3/06 Problems](discussion-3-06.pdf),
+* [3/06 Problems](discussion-3-06.pdf), [Solutions](discussion-3-06-sol.pdf),
 * [Practice Questions for MT2](mt2pracmc.pdf)
 * [Money Multiplier Explained](moneymultiplier.pdf), [Leverage Ratio and Insolvency](leverageratio.pdf)
 * [2/27 Problems](discussion-2-27.pdf), [Solutions](discussion-2-27-ans.pdf)

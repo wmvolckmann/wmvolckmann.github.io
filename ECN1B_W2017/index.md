@@ -14,6 +14,7 @@ Update: the final will cover chapters 3, 10-17, and 20-21. My old make-believe
 final had older stuff on it too, so I've updated it accordingly.
 
 * [Make-Believe Final Exam](pretend-final.pdf), [Solutions](pretend-final-sol.pdf)
+* [3/13 Problems](discussion-3-13.pdf)
 * [3/06 Problems](discussion-3-06.pdf), [Solutions](discussion-3-06-ans.pdf)
 * [Practice Questions for MT2](mt2pracmc.pdf)
 * [Money Multiplier Explained](moneymultiplier.pdf), [Leverage Ratio and Insolvency](leverageratio.pdf)

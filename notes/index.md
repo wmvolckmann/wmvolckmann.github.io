@@ -18,6 +18,10 @@ title:
 * [Arrow-Debreu](microwinter/ArrowDebreu.pdf)
 * [First Fundamental Theorem of Welfare Economics](microwinter/FirstWelfareThm.pdf)
 * [Second Fundamental Theorem of Welfare Economics](microwinter/SecondWelfareThm.pdf)
+* [Debru-Scarf](microwinter/DebreuScarf.pdf)
+* [Rationalization](microwinter/Rationalization.pdf)
+* [Externalities](microwinter/Externalities.pdf)
+* [Public Goods](microwinter/PublicGoods.pdf)
 
 # Mini-Macro
 * [01 - Introduction](dynamicprog/dynamicprog-01-Intro.pdf)

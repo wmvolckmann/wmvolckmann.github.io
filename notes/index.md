@@ -14,7 +14,7 @@ title:
 * [Cobb-Douglas](utility/CobbDouglasutility.pdf)
 
 # Micro (Winter)
-* [Midterm Cheat Sheet](microwinter/MTcheatsheet.pdf)
+* [Cheat Sheet](microwinter/cheatsheet.pdf)
 * [Arrow-Debreu](microwinter/ArrowDebreu.pdf)
 * [First Fundamental Theorem of Welfare Economics](microwinter/FirstWelfareThm.pdf)
 * [Second Fundamental Theorem of Welfare Economics](microwinter/SecondWelfareThm.pdf)

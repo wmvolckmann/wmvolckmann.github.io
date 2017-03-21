@@ -13,7 +13,7 @@ supplement---approach it with some skepticism.
 
 * [Make-Believe Final Exam](pretend-final.pdf), [Solutions](pretend-final-sol.pdf)
 * [Supplementary Chapter 21 Problems](ch21stuff.pdf)
-* [3/13 Problems](discussion-3-13.pdf)
+* [3/13 Problems](discussion-3-13.pdf), [Solutions](discussion-3-13-ans.pdf)
 * [3/06 Problems](discussion-3-06.pdf), [Solutions](discussion-3-06-ans.pdf)
 * [Practice Questions for MT2](mt2pracmc.pdf)
 * [Money Multiplier Explained](moneymultiplier.pdf), [Leverage Ratio and Insolvency](leverageratio.pdf)

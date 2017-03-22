@@ -11,6 +11,7 @@ difficult. **I guarantee this is missing important material**. And I make mistak
 sometimes. So you should not use it as your only study resource.  This is just a
 supplement---approach it with some skepticism.
 
+* [Post-Final Feel Goods](https://www.youtube.com/watch?v=y6GaPkkGZGw)
 * [Make-Believe Final Exam](pretend-final.pdf), [Solutions](pretend-final-sol.pdf)
 * [Supplementary Chapter 21 Problems](ch21stuff.pdf)
 * [3/13 Problems](discussion-3-13.pdf), [Solutions](discussion-3-13-ans.pdf)

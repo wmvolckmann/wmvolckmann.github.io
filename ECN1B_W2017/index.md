@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ECN 1B - Principles of Macro (Winter 2017)
-order: 1.1
+order: 1.8
 ---
 
 ### Discussion Materials

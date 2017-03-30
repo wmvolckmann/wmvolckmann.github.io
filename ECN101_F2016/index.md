@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ECN 101 - Intermediate Macro Theory (Fall 2016)
-order: 1.2
+order: 1.9
 ---
 
 ## News

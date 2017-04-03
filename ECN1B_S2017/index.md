@@ -18,7 +18,8 @@ order: 1.1
 
 ### Discussion
 * Me: William M Volckmann II (wmvolckmann at ucdavis.edu)
-* Sections: Thursday 4:10-5pm, 5:10-6pm, 6:10-7pm, 7:10-8pm, SSH 80
+* Sections: Thursday 4:10-5pm, Wellman Hall 25
+* Sections: 5:10-6pm, 6:10-7pm, 7:10-8pm, SSH 80
 * Office Hours: Tuesday 12-2pm, 116 SSH
 
 Note that 116 SSH is where I hold my TA office hours, but it's not my actual

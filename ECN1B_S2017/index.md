@@ -5,6 +5,11 @@ order: 1.1
 ---
 
 
+### Section Materials
+* [4/06 Problems](4-06.pdf)
+
+
+
 ### Lecture
 
 * Instructor: Bagher Modjtahedi
@@ -13,7 +18,7 @@ order: 1.1
 * Textbook: Principles of Macroeconomics by B. Modjtahedi
 * Midterm 1: Monday, April 24
 * Midterm 2: Monday, May 15
-* Final Exam: Tuesday, June 13 (Cumulative!)
+* Final Exam: Tuesday, June 13, 8:30-10:30pm (yuck)
 
 
 ### Discussion

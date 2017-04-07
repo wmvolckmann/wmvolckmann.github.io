@@ -41,7 +41,7 @@ title:
 * [Lagos-Wright](macrowinter/Week10-LagosWright.pdf)
 
 # Micro (Spring)
-* [Markov Processes](macrospring/Week01-Markov.pdf)
+* [Markov Processes](macrospring/Week01-StochasticIntro.pdf)
 
 # Econometrics
 * [Probability Cheat Sheet](econometrics/cheatsheet-probability.pdf)

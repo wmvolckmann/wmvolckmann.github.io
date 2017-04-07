@@ -6,7 +6,7 @@ order: 1.1
 
 
 ### Section Materials
-* [4/06 Problems](4-06.pdf)
+* [4/06 Problems](4-06.pdf), [Solutions](4-06-ans.pdf)
 
 
 

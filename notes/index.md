@@ -23,6 +23,9 @@ title:
 * [Externalities](microwinter/Externalities.pdf)
 * [Public Goods](microwinter/PublicGoods.pdf)
 
+# Micro (Spring)
+* [Cheat Sheet](microspring/mt1cheatsheet.pdf)
+
 # Mini-Macro
 * [01 - Introduction](dynamicprog/dynamicprog-01-Intro.pdf)
 * [02 - Infinite Horizon](dynamicprog/dynamicprog-02-Infinite.pdf)

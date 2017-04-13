@@ -6,6 +6,7 @@ order: 1.1
 
 
 ### Section Materials
+Solutions won't be posted until after the assignment due dates. 
 * [4/13 Problems](4-13.pdf), [More 4/13 Problems](4-13-labor.pdf)
 * [4/06 Problems](4-06.pdf), [Solutions](4-06-ans.pdf)
 

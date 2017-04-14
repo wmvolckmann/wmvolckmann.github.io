@@ -6,7 +6,7 @@ order: 1.1
 
 
 ### Section Materials
-Solutions won't be posted until after the assignment due dates. 
+Solutions won't be posted until after the assignment due dates.
 * [4/13 Problems](4-13.pdf), [More 4/13 Problems](4-13-labor.pdf)
 * [4/06 Problems](4-06.pdf), [Solutions](4-06-ans.pdf)
 
@@ -38,6 +38,4 @@ you'll find someone who is distinctly not me.
 
 On a busyness scale from 1-10, I'm at about 10-$$\epsilon$$, so I might not be
  able to respond to emails as timely as I'd like. And I probably won't be
- answering emails that come after 10pm or so until the next day. That said, I
- will try to be expeditious in answering them. Note that you can also post
- things on the Canvas discussion board.
+ answering emails that come after 10pm or so until the next day.

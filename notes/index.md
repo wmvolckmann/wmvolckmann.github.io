@@ -43,8 +43,8 @@ title:
 * [Lucas Trees, Cash in Advance, Cash vs. Credit](macrowinter/Week9-LucasTreeCash.pdf)
 * [Lagos-Wright](macrowinter/Week10-LagosWright.pdf)
 
-# Micro (Spring)
-* [Markov Processes](macrospring/Week01-StochasticIntro.pdf)
+# Macro (Spring)
+* [Stochastic Intro](macrospring/Week01-StochasticIntro.pdf)
 
 # Econometrics
 * [Probability Cheat Sheet](econometrics/cheatsheet-probability.pdf)

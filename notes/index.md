@@ -45,6 +45,10 @@ title:
 
 # Macro (Spring)
 * [Stochastic Intro](macrospring/Week01-StochasticIntro.pdf)
+* [Homework 1](macrospring/HGomework1.pdf)
+* [Homework 2](macrospring/HGomework2.pdf)
+* [Homework 3](macrospring/HGomework3.pdf)
+* [Homework 4](macrospring/HGomework4.pdf)
 
 # Econometrics
 * [Probability Cheat Sheet](econometrics/cheatsheet-probability.pdf)

@@ -7,7 +7,7 @@ order: 1.1
 
 ### Section Materials
 Solutions won't be posted until after the assignment due dates.
-* [5/04 Practice Problems](5-04-practice.pdf)
+* [5/04 Practice Problems](5-04-practice.pdf), * [5/04 Practice Solutions](5-04-practice-ans.pdf)
 * [5/04 (HW) Solutions](5-04.pdf)
 * [Post-Midterm 1 Feel Goods](https://www.youtube.com/watch?v=zZAwFcsSkFk)
 * [4/20 Problems](4-20.pdf), [4/20 Solutions](4-20-ans.pdf)
@@ -18,7 +18,6 @@ Solutions won't be posted until after the assignment due dates.
 
 
 ### Lecture
-
 * Instructor: Bagher Modjtahedi
 * Time and Place: MW 6:10–7:30pm, SSH 1100
 * Office Hours: MW 5:00-6:00pm and by appointment, 147 SSH
@@ -40,7 +39,6 @@ you'll find someone who is distinctly not me.
 
 
 ### Contact
-
 On a busyness scale from 1-10, I'm at about 10-$$\epsilon$$, so I might not be
  able to respond to emails as timely as I'd like. And I probably won't be
  answering emails that come after 10pm or so until the next day.

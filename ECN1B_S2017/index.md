@@ -7,8 +7,10 @@ order: 1.1
 
 ### Section Materials
 Solutions won't be posted until after the assignment due dates.
+* [5/11 Practice Problems](5-11-practice.pdf)
+* [5/11 (HW 5) Solutions](5-11hw.pdf)
 * [5/04 Practice Problems](5-04-practice.pdf), [5/04 Practice Solutions](5-04-practice-ans.pdf)
-* [5/04 (HW) Solutions](5-04.pdf)
+* [5/04 (HW 4) Solutions](5-04.pdf)
 * [Post-Midterm 1 Feel Goods](https://www.youtube.com/watch?v=zZAwFcsSkFk)
 * [4/20 Problems](4-20.pdf), [4/20 Solutions](4-20-ans.pdf)
 * [4/13 Problems Pt 2](4-13-labor.pdf), [4/13 Solutions Pt 2](4-13-ans-labor.pdf)

@@ -18,7 +18,6 @@ Solutions won't be posted until after the assignment due dates.
 * [4/06 Problems](4-06.pdf), [Solutions](4-06-ans.pdf)
 
 
-
 ### Lecture
 * Instructor: Bagher Modjtahedi
 * Time and Place: MW 6:10–7:30pm, SSH 1100

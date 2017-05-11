@@ -49,14 +49,3 @@ title:
 * [Homework 2](macrospring/Homework2.pdf)
 * [Homework 3](macrospring/Homework3.pdf)
 * [Homework 4](macrospring/Homework4.pdf)
-
-# Econometrics
-* [Probability Cheat Sheet](econometrics/cheatsheet-probability.pdf)
-* [Inference](econometrics/econometrics-02-Inference.pdf)
-* [Asymptotics](econometrics/econometrics-03-Asymptotic.pdf)
-* [Linear Regressions with Matrices](econometrics/econometrics-04-Matrices.pdf)
-* [240A MT1 Cheat Sheet](econometrics/cheatsheetmt1.pdf)
-* [240A Final Cheat Sheet](econometrics/cheatsheetmt2.pdf)
-
-# Math
-* [Matrix Diagonalization](math/math_eigenvalues.pdf)

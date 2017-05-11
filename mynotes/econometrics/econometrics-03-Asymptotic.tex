@@ -1,0 +1,207 @@
+\title{Econometrics -- Asymptotic Theory}
+\author{William M Volckmann II}
+\documentclass[12pt]{article}
+\usepackage{bm}
+\usepackage{amsmath}
+\usepackage{amsfonts}
+\usepackage{graphicx}
+\usepackage{amssymb}
+\usepackage{amsthm}
+\usepackage{setspace}
+\usepackage{amsthm}
+\usepackage{mathtools}
+\usepackage{enumitem}
+\usepackage{xifthen}
+\usepackage{titlesec}
+\usepackage[normalem]{ulem}
+\usepackage[final]{pdfpages}
+%\usepackage[top=1.25in, left=1.25in, right=1.25in]{geometry}
+
+\newcommand{\B}{\mathcal{B}}
+\newcommand{\C}{\mathbb{C}}
+\newcommand{\F}{\mathbb{F}}
+\newcommand{\N}{\mathbb{N}}
+\newcommand{\Q}{\mathbb{Q}}
+\newcommand{\R}{\mathbb{R}}
+\newcommand{\Z}{\mathbb{Z}}
+\newcommand{\Chi}{\mathcal{X}}
+\newcommand{\grad}{\nabla}
+\newcommand{\BH}{\hat{\beta}}
+\newcommand{\bh}{\hat{\beta}}
+\newcommand{\sumn}{\sum_{i=1}^n}
+\newcommand{\crit}{c_{\alpha}}
+\newcommand{\given}{\; | \;}
+\newcommand{\xbar}{\overline{X}}
+\newcommand{\asim}{\overset{a}{\sim}}
+\newcommand{\norm}[1]{\left\Vert{#1}\right\Vert}
+\newcommand{\abs}[1]{\left\vert{#1}\right\vert}
+\newcommand{\normal}[2]{\mathcal{N} \left({#1}, {#2} \right)}
+\newcommand{\cprob}{\overset{P}{\rightarrow}}
+\newcommand{\cdist}{\overset{D}{\rightarrow}}
+\renewcommand{\vec}[1]{\mathbf{#1}}
+\newcommand{\Lindent}{\hspace{.4cm} \Longrightarrow \hspace{.4cm}}
+\DeclareMathOperator*{\argmax}{arg\,max}
+\DeclareMathOperator*{\argmin}{arg\,min}
+\DeclareMathOperator{\rank}{rank}
+\DeclareMathOperator*{\plim}{plim}
+
+\newtheorem{theorem}{Theorem}
+\theoremstyle{definition}
+\newtheorem{definition}{Definition}
+\newtheorem{example}{Example}
+
+\setenumerate{itemsep=-1pt, label=\textbf{(\alph*)}}
+
+\begin{document}
+
+
+\maketitle
+\onehalfspace
+
+
+\noindent We will be considering a sequence of random variables $\{X_n\}$ that gets ``close'' to another random variable $X$ as $n \rightarrow \infty$, and the implications thereof.
+
+
+
+
+\section{Convergence in Probability}
+
+\begin{definition}
+	Let $\{X_n\}$ be a sequence of random variables and let $X$ be a random variable defined on a sample space. We say that $X_n$ \textbf{converges in probability} to $X$ if, for all $\epsilon > 0$, 
+	\[\lim_{n \rightarrow \infty} P(|X_n - X| > \epsilon) =0.	\]
+Equivalently, we can write the convergence condition as 
+	\[\lim_{n \rightarrow \infty} P(|X_n - X| < \epsilon) =1.	\]
+We denote such convergence as $X_n \cprob X$ or $\plim X_n = X$. 
+\end{definition} 
+
+Intuitively, it means the probability of an element in sequence being ``far'' away from $X$, as determined by $\epsilon$, approaches zero. Many times the limiting random variable $X$ is a constant, i.e. $X_n \cprob a$. 
+
+\begin{theorem}[Weak Law of Large Numbers] 
+	Let $\{X_n\}$ be a sequence of iid random variables having common mean $\mu$ and finite variance $\sigma^2$. Let $\xbar_n = n^{-1}\sumn X_i$. Then
+		\[\xbar_n \cprob \mu.	\]
+\end{theorem}
+\begin{proof}
+	The mean of $\xbar_n=\mu$ and the standard deviation is $\sigma^2/n$. By Chebyshev's inequality, we have
+		\[P(| \xbar_n - \mu| > \epsilon)  = P\left(\left \vert \xbar_n - \mu \right\vert > \epsilon \frac{\sqrt{n}}{\sigma} \frac{\sigma}{\sqrt{n}}\right)   \leq \frac{\sigma^2}{ne^2}.\]
+As $n\rightarrow \infty$, this will approach zero. 
+\end{proof}
+The preceding theorem is sometimes called \emph{Khinchine's Theorem}.
+
+As you might have suspected, there are also strong laws of large numbers.  In such a case, convergence is ``almost surely.'' This requires measure theory and is more advanced than what is covered here. \emph{Markov's Strong Law of Large Numbers} is one notable example because it allows us to work with an independent but not identically distributed sequence of random variables. 
+
+Convergent sequences of random variables have nice properties. In particular, suppose $X_n \cprob X$, $Y_n \cprob Y$, and $a\in \R$. Then
+\begin{enumerate}
+	\item $X_n + Y_n \cprob X+Y$
+	\item $aX_n \cprob aX$
+	\item $X_nY_n \cprob XY$
+\end{enumerate}
+Furthermore, suppose $X_n \cprob a$ and the real function $g$ is continuous at $a$. Then $g(X_n) \cprob g(a)$. 
+
+\begin{definition}
+	Let $X$ be a random variable with cdf $F(x;\theta)$. Let $X_1, \hdots, X_n$ be a sample from the distribution of $X$, and let $T_n$ denote a statistic. We say that $T_n$ is a \textbf{consistent} estimator of $\theta$ if
+		\[T_n \cprob \theta.	\]
+\end{definition}
+
+For example, the Weak Law of Large Numbers suggests that $\xbar_n$ is a consistent estimator of $\mu$ under the assumed conditions. As $n \rightarrow \infty$, the statistic $\xbar$ gets closer and closer to $\mu$, arbitrarily so.  
+
+Now consider the experiment of flipping a (by all impressions, fair) coin. The coin shows tails with probability $p=0.5$, and we wish to estimate $p$. Suppose we make our estimate $\hat{p}_n=1$ if the first toss is tails and $\hat{p}_n=0$ if the first toss is heads. Now we should expect a consistent estimator to satisfy $\hat{p}_n \cprob 0.5$ since the coin is fair. However, our estimator will either remain at $\hat{p}_n=1$ or $\hat{p}_n=0$, regardless of how many times the coin is flipped. Thus, this is \emph{not} a consistent estimator; if we choose $\epsilon = 0.25$, for instance, it will \emph{never} be the case that $|\hat{p}_n - 0.50| < \epsilon$. This estimate is unbiased, however, because
+	\[	E[\hat{p}_n] = 1(0.5) + 0(0.5) = 0.5 = p.\]
+
+One more illustration. Suppose we estimate the mean with	
+	\[\hat{\mu}_n = \xbar_n + \frac{1}{n}.	\]	
+We know that $\xbar$ will converge in probability to $\mu$ by the Weak Law of Large Numbers. Furthermore, $1/n$ will converge to zero. Thus, as $n \rightarrow \infty$, we have $\hat{\mu}_n \cprob \mu$. Thus, $\hat{\mu}_n$ is a consistent estimator for $\mu$. However, it is a biased estimator because
+\begin{align*}
+	E[\hat{\mu}_n] &= E \left[\xbar_n \right] + E\left[\frac{1}{n} \right] \\
+	&= \frac{1}{n} \sumn E[X_i] + \frac{1}{n} \\
+	&= \mu + \frac{1}{n}.
+\end{align*}
+
+A more useful result is that the sample variance, given as
+	\[S^2_n = \frac{1}{n-1} \sumn (X_i - \xbar)^2,	\]
+is a consistent estimator. 
+\begin{align*}
+	S^2_n &= \frac{1}{n-1} \sumn (X_i - \xbar)^2 \\
+		&=	\frac{n}{n-1} \left[\frac{1}{n}\sumn (X_i^2 - 2X_i\xbar^2 + \xbar^2) \right]\\
+		&=	\frac{n}{n-1} \left[ \frac{1}{n}\sumn X_i^2 - 2\xbar\frac{1}{n}\sumn X_i +  \xbar^2\frac{1}{n}\sumn \right]\\
+		&=	\frac{n}{n-1} \left[ \overline{X^2} - 2\xbar^2+ \xbar^2\right]\\
+		&=	\frac{n}{n-1} \left[ \overline{X^2} - \xbar^2\right].
+\end{align*}
+As $n \rightarrow \infty$, the fraction $n/(n-1)$ approaches one; the term $\overline{X^2}$ converges in probability to $E[X^2]$; and the term $\xbar^2$ converges in probability to $E[X]^2$. Thus, we have convergence in probability to  $1 \cdot (E[X^2] - E[X]^2) = var(X)$.\\
+
+There are alternative modes of convergence, although convergence in probability is the most important one for us to understand. That said, I will only briefly mention \textbf{mean square convergence}, defined as  satisfying
+	\[\lim_{n \rightarrow \infty} E \left[(X_n - X)^2 \right]=0.	\]
+The form of the expectation should look familiar. In particular, if $E[X_n]=X$, then mean square convergence holds if $Var(X_n) \rightarrow 0$. Furthermore, if $E[X_n] \neq X$, then mean square convergence holds if $Bias[X_n] \rightarrow 0$ and $Var(X_n) \rightarrow 0$. Convergence in mean square implies convergence in probability. (Note: this actually forms a metric, and the Cauchy criterion is a sufficient and necessary condition for such convergence.) 
+
+
+
+\section{Convergence in Distribution}
+
+It's nice that we can say a statistic converges to a parameter. It's also worth asking how close the statistic is to the estimator. To do so, we need some sense of the distribution of a random variable as it converges. 
+
+\begin{definition}
+	Let $\{X_n\}$ be a sequence of random variables and let $X$ be a random variable. Let $F_{X_n}$ and $F_x$ be, respectively, the cdfs of $X_n$ and $X$. Let $C(F_x)$ denote the set of all points where $F_X$ is continuous. We say that $X_n$ \textbf{converges in distribution} to $X$ if
+		\[	\lim_{n \rightarrow \infty} F_{X_n}(x) = F_X(x) \quad \text{ for all } x \in C(F_x).\]
+	We denote this convergence by $X_n \cdist X$.
+\end{definition}
+
+Often we say that the distribution of $X$ is the \textbf{asymptotic distribution} or the \textbf{limiting distribution} of the sequence $\{X_n\}$. We might write something like
+	\[X_n \cdist \normal{0}{1},\]	
+even though it doesn't make sense for a random variable to converge to a distribution -- technically it converges to another random variable with said distribution. But as long as the meaning is understood, it should be okay. I will certainly be using that notation, in any case. 
+
+The problem is that $F_{X_n}$ is usually a complicated function, and it can be difficult or impossible to actually prove convergence in distribution.  That said, one can usually prove convergence in distribution using moment generating functions. In particular, if $M_{X_n}(t) = M_X(t)$ for $\abs{T} \leq h$, then $X_n \cdist X$. 
+
+An alternative approach is to rely on the Central Limit Theorem. For instance, suppose each $X_i$ has a mean $\mu$ and variance $\sigma^2$. We know that
+	\[	\frac{\xbar_n - \mu}{\sigma/\sqrt{n}} \cdist \normal{0}{1}. \]
+We can multiply ``both sides'' by the denominator and add $\mu$ to  ``both sides'' to get
+	\[\xbar_n \asim \normal{\mu}{\frac{\sigma^2}{n}}.	\]
+In this case, we say ``$\xbar_n$ is asymptotically distributed as $\normal{\mu}{\sigma^2/n}$ for large $n$. ``  Unlike convergence in distribution, we aren't taking the limit as $n \rightarrow \infty$ -- we are instead noting its approximate distribution for ``large'' $n$.
+
+
+	
+As you might suspect, convergence in probability and convergence in distribution are related concepts and have implications with respect to each other. 
+\begin{theorem}
+	If $X_n$ converges to $X$ in probability, then $X_n$ converges to $X$ in distribution.
+\end{theorem}	
+
+\begin{theorem}If $X_n$ converges to the constant $b$ in distribution, then $X_n$ converges to $b$ in probability.	
+\end{theorem}
+
+Furthermore, convergence in distribution has ``nice'' properties that can make it easy to work with. 
+
+\begin{theorem}[Continuous Mapping Theorem]
+	Suppose $X_n$ converges to $X$ in distribution and $g$ is a continuous function on the support of $X$. Then $g(X_n)$ converges to $g(X)$ in distribution. 
+\end{theorem}
+
+\begin{theorem}
+	If $X_n$ converges in probability to $X$ and $Y_n$ converges in probability to the constant $b$, then
+	\begin{enumerate}
+		\item $X_n + Y_n \cdist X + b$
+		\item $X_nY_n \cdist X_nb$
+		\item $X_n/Y_n \cdist X/b$, provided $b \neq 0$.
+	\end{enumerate}
+\end{theorem}
+
+
+%Maybe put boundedness in probability here, eventually. Maybe not. Who knows?
+
+
+
+\section{\bm{$\Delta$}-Method}
+
+\begin{theorem}
+	Let $\{X_n\}$ be a sequence of random variables such that
+		\[\sqrt{n}(X_n - \theta) \cdist \normal{0}{\sigma^2}.	\]
+	Suppose the function $g(x)$ is differentiable at $\theta$ and $g'(\theta) \neq 0$. Then
+		\[\sqrt{n}[g(X_n) - g(\theta)] \cdist \normal{0}{ \sigma^2 g'(\theta)^2}.	\]
+\end{theorem}
+
+Alternatively, we can suppose that $X_n \cdist \normal{\theta}{\sigma^2/n}$,
+from which it follows via the preceding theorem that
+		\[	g(X_n) \cdist \normal{\theta}{ \frac{\sigma^2}{n} g'(\theta)^2}.	\]
+This is called the \bm{${\Delta}$}\textbf{-method} and is used frequently. 
+
+
+\end{document}
+ 
+ 	
+ 	

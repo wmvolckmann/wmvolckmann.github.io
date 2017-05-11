@@ -1,0 +1,224 @@
+\title{Econometrics -- Matrices for Linear Regressions}
+\author{William M Volckmann II}
+\documentclass[12pt]{article}
+\usepackage{bm}
+\usepackage{amsmath}
+\usepackage{amsfonts}
+\usepackage{graphicx}
+\usepackage{amssymb}
+\usepackage{amsthm}
+\usepackage{setspace}
+\usepackage{amsthm}
+\usepackage{mathtools}
+\usepackage{enumitem}
+\usepackage{xifthen}
+\usepackage{titlesec}
+\usepackage[normalem]{ulem}
+\usepackage[final]{pdfpages}
+%\usepackage[top=1.25in, left=1.25in, right=1.25in]{geometry}
+
+\newcommand{\B}{\mathcal{B}}
+\newcommand{\C}{\mathbb{C}}
+\newcommand{\F}{\mathbb{F}}
+\newcommand{\N}{\mathbb{N}}
+\newcommand{\Q}{\mathbb{Q}}
+\newcommand{\R}{\mathbb{R}}
+\newcommand{\Z}{\mathbb{Z}}
+\newcommand{\Chi}{\mathcal{X}}
+\newcommand{\grad}{\nabla}
+\newcommand{\BH}{\hat{\beta}}
+\newcommand{\bh}{\hat{\beta}}
+\newcommand{\sumn}{\sum_{i=1}^n}
+\newcommand{\crit}{c_{\alpha}}
+\newcommand{\given}{\; | \;}
+\newcommand{\xbar}{\overline{X}}
+\newcommand{\thetahat}{\hat{\theta}}
+\newcommand{\asim}{\overset{a}{\sim}}
+\newcommand{\norm}[1]{\left\Vert{#1}\right\Vert}
+\newcommand{\abs}[1]{\left\vert{#1}\right\vert}
+\newcommand{\normal}[2]{\mathcal{N} \left({#1}, {#2} \right)}
+\newcommand{\cprob}{\overset{P}{\rightarrow}}
+\newcommand{\cdist}{\overset{D}{\rightarrow}}
+\renewcommand{\vec}[1]{\mathbf{#1}}
+\renewcommand{\hat}[1]{\widehat{#1}}
+\newcommand{\Limplies}{\quad \implies \quad}
+\DeclareMathOperator*{\argmax}{arg\,max}
+\DeclareMathOperator*{\argmin}{arg\,min}
+\DeclareMathOperator{\rank}{rank}
+\DeclareMathOperator*{\plim}{plim}
+\DeclareMathOperator*{\Var}{Var}
+\DeclareMathOperator*{\Cov}{Cov}
+
+\newtheorem{theorem}{Theorem}
+\newtheorem{corollary}{Corollary}
+\theoremstyle{definition}
+\newtheorem{definition}{Definition}
+\newtheorem{example}{Example}
+
+\setenumerate{itemsep=-1pt, label=\textbf{(\alph*)}}
+
+\begin{document}
+
+
+\maketitle
+\onehalfspace
+
+
+
+\section{Introduction}
+
+Suppose we have a bunch of data. In particular, we've made $t$ observations of $k$ variables. In other words, for the $t$th observation, we've recorded data $y_t, x_{t1}, x_{t2}, \hdots, x_{tk}$. We want to take all of this data and come up with an equation that best describes the value of $y$ given some values $x_1, \hdots, x_k$. And we want to do it with matrices. 
+
+Assuming that $y$ is linearly related to $x_1, \hdots, x_k$, we want to find the values of the parameters $\beta_0, \hdots, \beta_k$ that come ``closest'' to satisfying the system of equations
+\begin{align*}
+	y_1 &= \beta_0 + \beta_1x_{11} + \beta_2x_{12} + \hdots + \beta_kx_{1k} \\
+	y_2 &= \beta_0 + \beta_1x_{21} + \beta_2x_{22} + \hdots + \beta_kx_{2k} \\
+	&\mathrel{\makebox[\widthof{=}]{\vdots}} \\
+	y_n &= \beta_0 + \beta_1x_{n1} + \beta_2x_{n2} + \hdots + \beta_kx_{nk}.
+\end{align*}
+Letting $\vec{x}_t=(1 , x_{t1}, \hdots, x_{tk})$ and $\bm{\beta} = (\beta_0, \hdots, \beta_k)'$, write the system as 
+\begin{align*}
+	y_1 &= \vec{x}_1 \bm{\beta} + u_1\\
+	&\mathrel{\makebox[\widthof{=}]{\vdots}} \\
+	y_n &= \vec{x}_n \bm{\beta} + u_n,
+\end{align*}
+where the $u_t$ terms represent \textbf{error terms}. Our model will almost certainly not be a perfect fit. But we're trying to get it as close as we can, and the error terms represent any error the model might introduce. This can be expressed entirely in terms of matrices as 
+\[
+\begin{bmatrix}
+	y_1 \\ \vdots \\ y_n
+\end{bmatrix} =
+\begin{bmatrix}
+	\vec{x}_1 \\ \vdots \\ \vec{x}_n
+\end{bmatrix}\bm{\beta} + 
+\begin{bmatrix}
+	u_1 \\ \vdots \\ u_n
+\end{bmatrix} \Limplies \vec{y} = \vec{X}\bm{\beta} + \vec{u}.
+\]
+
+
+
+
+\section{Estimating the Parameters}
+It is exceedingly unlikely that we will find a $\bm{\beta}$ vector that will exactly satisfy the system of equations -- that is why we include the error terms $u_t$. Thus, the \textbf{fitted values} that our model predicts will usually be at least a little bit off the true value. For instance, even though $y_t=444$, our model might predict,
+	\[	\hat{y}_t =\hat{\beta_0} + \hat{\beta_1}x_{t1} + \hdots + \hat{\beta_k} x_{tk} =  444.44,	\]
+where the hats represent numbers derived in the model. The difference between the real value and the fitted value is called the \textbf{residual}, and it is given by 
+	\[	y_t - \hat{y}-t = y_t - \hat{\beta_0} - \hat{\beta_1} x_{t1} - \hdots - \hat{\beta_k} x_{tk}.\]
+We can write the matrix of residuals as $\vec{y} - \vec{\hat{y}} = \vec{y} - \vec{x}\bm{\hat{\beta}}$. 
+
+In order to come up with the best possible estimate, we want to minimize these residuals in some overall sense. One way to measure the ``total'' residual is by squaring each residual and summing them, known as the \textbf{sum of squared residuals (SSR)}. So to estimate the $\bm{\beta}$ vector, we aim to minimize the sum of square residuals. We find the minimizing values for $\bm{\beta}$ by solving
+\begin{equation}
+	\argmin_{b} \text{SSR}(\vec{b}) = \argmin_b \sum_{t=1}^n ( y_t - \vec{x}_t \vec{b})^2.	
+\end{equation}
+
+One of the reasons we like to use squared residuals is because each term is convex, and the sum of a finite number of convex functions is itself convex. Thus, first order conditions are both necessary and sufficient for minimization, making this a rather ordinary multivariable calculus problem. That is, the solution must solve
+	\[  \frac{\partial \text{SSR}(\vec{b})}{\partial \vec{b}} = -2\vec{x}'_t(y_t - \vec{x}_t \vec{b}) =0.	\]
+We can, of course, drop the $-2$. 
+
+A good question to ask is why the $\vec{x}_t'$ is transposed. That is a matter of matrix multiplication compatibility -- we cannot multiply two $1 \times k$ matrices together. Thus, the matrix equivalent of ``pre-squaring'' $\vec{x}_t$ is
+	\[  \vec{x}_t' \vec{x}_t = 
+		\begin{bmatrix}
+		1 \\ x_{t1} \\ x_{t2} \\ \vdots \\ x_{tk} 
+		\end{bmatrix}
+		\begin{bmatrix}
+			1 & x_{t1} & x_{t2} & \hdots & x_{tk}   
+		\end{bmatrix}=
+		\begin{bmatrix}
+			1 & x_{t1} & x_{t2} & \hdots & x_{tk} \\
+			x_{t1} & x_{t1}^2 & x_{t1}x_{t2} & \hdots & x_{t1}x_{tk} \\
+			x_{t2} & x_{t2}x_{t1} & x_{t2}^2 & \hdots & x_{t1}x_{tk} \\
+			\vdots & \vdots & \vdots & \ddots & \vdots \\
+			x_{tk} & x_{tk}x_{t1} & x_{tk}x_{t2} & \hdots & x_{tk}^2
+		\end{bmatrix}.
+	\]	
+What this amounts to is the first order condition
+\begin{align*}
+	\sum_{t=1}^n (y_t - b_0 - b_1x_{t1} - \hdots - b_kx_{tk})&=0,\\
+	\sum_{t=1}^n x_{t1} (y_t - b_0 - b_1x_{t1} - \hdots - b_kx_{tk})&=0,\\
+	&\mathrel{\makebox[\widthof{=}]{\vdots}} \\ 
+ 	\sum_{t=1}^n x_{tk} (y_t - b_0 - b_1x_{t1} - \hdots - b_kx_{tk})&=0.
+\end{align*}
+Or, in as a system of matrix equations,
+\begin{align*}
+	 \vec{x}'_1(y_1 - \vec{x}_1 \vec{b}) &=0, \\
+ 	 \vec{x}'_2(y_2 - \vec{x}_2 \vec{b}) &=0, \\
+ 	 &\mathrel{\makebox[\widthof{=}]{\vdots}} \\
+ 	 \vec{x}'_n(y_n - \vec{x}_n \vec{b}) &=0. 
+\end{align*}
+We can condense this into a single matrix as
+\begin{equation}
+	\vec{X}'(\vec{y} - \vec{X}\vec{b})=0	\Limplies \vec{X}'\vec{y} = \vec{X}'\vec{X}\vec{b}.	\label{olsmatrix}
+\end{equation}
+Solve for $\vec{b}$ by  pre-multipling both sides by $(\vec{X'X})^{-1}$  and we find the \textbf{ordinary least squares (OLS)} estimator 
+\begin{equation}
+	\bm{\hat{\beta}}  = (\vec{X'X})^{-1}\vec{X}'\vec{y}.	\label{olsestimator}
+\end{equation}
+
+Equation (\ref{olsestimator}) is the critical formula for the matrix analysis of multiple linear regressions. Of course, we have to assume that the columns of $\vec{X}$ are linearly independent in order for $\vec{X'X}$ to be invertible. It might be tempting to use the fact that $(\vec{X'X})^{-1}=\vec{X}^{-1} ( \vec{X}')^{-1}$ to cancel out the two $\vec{X}'$ terms, but this operation is only valid if $\vec{X}$ itself is a square matrix (i.e. when $n=k+1$) so that it can actually be inverted. In general, it will not be. 
+
+Because $\vec{y}=\vec{Xb - u}$, we can write the fitted values as $\vec{\hat{u}}=\vec{X \hat{\bm{\beta}} - \hat{y}}$. From equation (\ref{olsmatrix}), it follows that $\vec{X'}\hat{\vec{u}}=\vec{0}$. Explicitly,
+\[
+	\begin{bmatrix}
+		1 		& 1 		& \hdots 	& 1\\
+		x_{11} 	& x_{21} 	& \hdots 	&	x_{n1}\\
+		x_{12} 	& x_{22} 	&\hdots 	&	x_{n2}\\
+		\vdots  	& \vdots	&\ddots 	&	\vdots\\
+		x_{1k} 	& x_{2k}	& \hdots	&	x_{nk}
+	\end{bmatrix}
+	\begin{bmatrix}
+		\hat{u_1} \\ \hat{u_2} \\ \vdots \\ \hat{u_n}
+	\end{bmatrix}=
+	\begin{bmatrix}
+		\hat{u_1} + \hat{u_2} + \hdots + \hat{u_n} \\
+		\vdots
+	\end{bmatrix}=\vec{0}.		
+\]
+Point being, the sum of the fitted OLS residuals is zero when the intercept is included. 
+
+
+
+
+\section{OLS Assumptions}
+
+In order for the OLS estimator given in equation (\ref{olsestimator}) to be valid, we need to make a number of assumptions. 
+\begin{enumerate}
+	\item It must possible to write the model as $\vec{y}=\vec{X\bm{\beta} + u}$. In other words, the model is \textbf{linear in parameters}. 
+	\item The matrix $\vec{X}$ must have rank $k+1$. This is so $\vec{X'X}$ is nonsingular, and thus invertible, and thus a unique $\hat{\bm{\beta}}$ exists. This is called \textbf{no perfect collinearity}. 
+	\item Each conditional expected error $E[u_t | \vec{X}]=0$. This can be written as $E[\vec{u | X}]=\vec{0}$. This is essentially saying that we are assuming random samples from the population and is referred to as \textbf{zero conditional mean}. 
+	\item  $\Var(u_t | \vec{X}) = \sigma^2$ and $\Cov(u_t,u_s|\vec{X})=0$ for all $t \neq s$. In matrix form,
+		\[	\Var(\vec{u} | \vec{X}) = \sigma^2 \vec{I}_n.\]	
+	The first says that each error term has the same variance given $\vec{X}$, and is called \textbf{homoskedasticity}. The second says that error terms are uncorrelated, referred to as \textbf{no serial correlation}. Under random sampling, there is no serial correlation.  
+\end{enumerate}
+
+
+
+
+\begin{theorem}
+	Under assumptions (a)-(c), the OLS estimator $\bm{\hat{\beta}}$ is unbiased for $\beta$. 
+\end{theorem}
+\begin{proof}
+	Recall that $\bm{\hat{\beta}}  = (\vec{X'X})^{-1}\vec{X}'\vec{y}$. Since $\vec{y}=\vec{X \bm{\beta} + u}$, we can write 
+\begin{align*}
+	\bm{\hat{\beta}} & =  (\vec{X'X})^{-1}\vec{X}'\vec{y} \\
+		&=	 (\vec{X'X})^{-1}\vec{X}'(\vec{X \bm{\beta} + u}) \\
+		&=	 (\vec{X'X})^{-1}\vec{X}'\vec{X \bm{\beta}} + (\vec{X'X})^{-1}\vec{X}'\vec{u} \\
+		&=	\vec{\bm{\beta}} + (\vec{X'X})^{-1}\vec{X}'\vec{u} 
+\end{align*}
+This is allowed because $\vec{X'X}$ is both nonsingular and a square matrix and thus is invertible. Now take the conditional expectation on $\vec{X}$ to get 
+\begin{align*}
+	E\left[ \hat{\bm{\beta}} \big\vert \vec{X} \right] & = E\left[ \vec{\bm{\beta}} + (\vec{X'X})^{-1}\vec{X}'\vec{u}  \big\vert \vec{X} \right]\\
+	&=	E\left[ \vec{\bm{\beta}}\right] + (\vec{X'X})^{-1}\vec{X}'E\left[\vec{u}  \big\vert \vec{X} \right]\\
+	&=	E\left[ \vec{\bm{\beta}}\right] + (\vec{X'X})^{-1}\vec{0}\\
+	&= E\left[ \vec{\bm{\beta}}\right]\\
+	& = \bm{\beta}.
+\end{align*}
+The law of iterated expectations then gives
+\[	E[\bm{\hat{\beta}}] = E\left[ E[\bm{\hat{\beta}} | \vec{X}] \right] = E[ \bm{\beta}] = \bm{\beta}.\]	
+Or you could simply  note that $E[\bm{\hat{\beta}} | \vec{X}
+]=\bm{\beta}$ has nothing to do with $\vec{X}$ so 
+\[	E[\bm{\hat{\beta}} | \vec{X}	]=E[ \bm{\hat{\beta}}] = \bm{\beta}.  \qedhere \]
+\end{proof}
+
+
+
+
+\end{document}

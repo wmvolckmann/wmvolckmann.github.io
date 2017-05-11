@@ -1,0 +1,180 @@
+\title{Econometrics -- Probability}
+\author{William M Volckmann II}
+\documentclass[12pt]{article}
+\usepackage{bm}
+\usepackage{amsmath}
+\usepackage{amsfonts}
+\usepackage{graphicx}
+\usepackage{amssymb}
+\usepackage{amsthm}
+\usepackage{setspace}
+\usepackage{amsthm}
+\usepackage{mathtools}
+\usepackage{enumitem}
+\usepackage{xifthen}
+\usepackage{titlesec}
+\usepackage[normalem]{ulem}
+\usepackage[final]{pdfpages}
+%\usepackage[top=1.25in, left=1.25in, right=1.25in]{geometry}
+
+\newcommand{\B}{\mathcal{B}}
+\newcommand{\C}{\mathbb{C}}
+\newcommand{\F}{\mathbb{F}}
+\newcommand{\N}{\mathbb{N}}
+\newcommand{\Q}{\mathbb{Q}}
+\newcommand{\R}{\mathbb{R}}
+\newcommand{\Z}{\mathbb{Z}}
+\newcommand{\Chi}{\mathcal{X}}
+\newcommand{\grad}{\nabla}
+\newcommand{\BH}{\hat{\beta}}
+\newcommand{\bh}{\hat{\beta}}
+\newcommand{\sumn}{\sum_{i=1}^n}
+\newcommand{\crit}{c_{\alpha}}
+\newcommand{\given}{\; | \;}
+\newcommand{\xbar}{\bar{X}_n}
+\newcommand{\asim}{\overset{a}{\sim}}
+\newcommand{\Lindent}{\hspace{.4cm} \Longrightarrow \hspace{.4cm}}
+\renewcommand{\vec}[1]{\mathbf{#1}}
+\DeclareMathOperator*{\argmax}{arg\,max}
+\DeclareMathOperator*{\argmin}{arg\,min}
+
+\DeclareMathOperator*{\plim}{plim}
+\DeclareMathOperator{\rank}{rank}
+
+\newtheorem{theorem}{Theorem}
+\theoremstyle{definition}
+\newtheorem{definition}{Definition}
+\newtheorem{example}{Example}
+
+\setenumerate{itemsep=-1pt, label=\textbf{(\alph*)}}
+
+\begin{document}
+
+
+\maketitle
+\onehalfspace
+
+
+\noindent This set of notes will be mostly a reference. It will not have many proofs or derivations, and it will lack exposition. 
+
+
+\section{Introduction}
+
+
+\subsection{Probability}
+
+\begin{definition}
+	A \textbf{random experiment} has three properties:
+	\begin{enumerate}
+		\item All possible outcomes are known a priori;
+		\item The outcome is unknown a priori in any trial;
+		\item It can be repeated many times under identical conditions.
+	\end{enumerate}
+\end{definition}
+
+An example would be tossing a coin and recording the outcome on each toss. We know the possible outcomes -- heads or tails -- but we do not know which outcome will be realized on each toss. And we can toss the coin under (essentially) identical conditions many times.
+
+\begin{definition}
+	A \textbf{probability space} is composed of the following three components:
+	\begin{enumerate}
+		\item The \textbf{sample space} $S$ of all outcomes of the experiment;
+		\item The set of all events of interest $\mathcal{B}$ (formally a $\sigma$-algebra);
+		\item A \textbf{probability function} $P$ that assigns probabilities to events.
+	\end{enumerate}
+\end{definition}
+
+The elements of $S$ are called \textbf{elementary events}. Events of interest may be combinations of elementary events. For instance, suppose the experiment is to toss a coin twice. Then
+	\[	S = \{TT, TH, HT, HH.\}\]	
+Each of the four elements in $S$ are elementary events. Now consider the event that at least one toss is a head. Then $S_{H\geq1} = \{TH, HT, HH\}$. 
+
+\begin{definition}
+	A \textbf{sigma algebra} $\mathcal{B}$ is a collection of the subsets of $S$ that satisfies
+	\begin{enumerate}
+		\item \emph{Closure under complements}: $x \in \mathcal{B}$ implies  $x^c \in \mathcal{B}$.
+		\item \emph{Closure under countable unions}: $x_j \in \B$ for all $j \in \N$ implies $\cup_{j=1}^{\infty} A_j \in \B$.
+		\item $\emptyset \in \B$.
+	\end{enumerate}
+\end{definition}
+DeMorgan's law implies closure under countable intersections as well. The smallest possible $\sigma$-algebra is $\B=\{\emptyset, S\}$. The largest possible $\sigma$-algebra is the powerset $\mathcal{P}(S)$. That said, it satisfices to use the smallest possible relevant $\sigma$-algebra. For example, if we want to restrict our attention to the number of heads in two coin tosses, then the events of interest are $\{TT\}, \{HH\}, \{TH, HT\}$. To construct the smallest relevant $\sigma$-algebra, we need to include the complements of each of these events as well as their unions, as well as the empty set and the whole set $S$, giving
+	\[\B = \big\{\emptyset, S, \{TT\}, \{TH, HT, HH\}, \{HH\}, \{TT, TH, HT\}, \{TH, HT\}, \{TT, HH\}. \big\}	\]
+	
+
+\begin{definition}
+	A \textbf{probability function} $P$ is a function defined on the $\sigma$-algebra $\B$ and sample spaces $S$ that satisfies
+	\begin{enumerate}
+		\item \emph{The probability of an event is nonnegative}: $P(C) \geq 0$ for all $C \in \B$.
+		\item \emph{Probabilities sum to one}: $P(S)=1$.
+		\item \emph{Countable additivity of disjoint events is additive in probability}:
+			\[P\left( \bigcup_{j=1}^{\infty} C_j \right)= \sum_{j=1}^{\infty} P(C_j) \quad \text{ where } C_m \cap C_n = \emptyset \text{ for all } m \neq n.	\]
+	\end{enumerate}
+\end{definition}
+
+\begin{definition}
+	A \textbf{probability space} $(S, \B, P)$ is a triple constituting a sample space, $\sigma$-algebra, and probability function. 
+\end{definition}
+
+
+\subsection{Probability Functions}
+
+Probability functions exhibit the following properties: 
+\begin{enumerate}
+	\item $P(C)=1-P(C^c)$
+	\item $P(\emptyset)=0$
+	\item $P(C_1) \leq P(C_2)$ if $C_1 \subseteq C_2$
+	\item $0 \leq P(C) \leq 1$ for $C \in \B$
+	\item $P(C_1 \cup C_2) = P(C_1) + P(C_2) - P(C_1 \cap C_2)$
+\end{enumerate}
+Furthermore, \textbf{Bonferroni's inequality} states that
+	\[P(C_1 \cup C_2) \geq P(C_1) + P(C_2) - 1.	\]
+This follows from property (e) because $P(C_1 \cap C_2) \leq 1$. \textbf{Boole's inequality} states that
+	\[P \left( \bigcup_{j=1}^{\infty} C_j \right) \leq \sum_{j=1}^{\infty} P(C_j).	\]
+	
+\begin{theorem}
+	Suppose $C_n$ be a nondecreasing sequence of events, i.e. $C_n \subseteq C_{n+1}$ for all $n$. Furthermore suppose 
+		\[ \lim_{n \rightarrow \infty} C_n = \bigcup_{n=1}^{\infty} C_n.\]
+		 Then we can interchange the probability and the limit, 
+		 \[\lim_{n \rightarrow \infty} P(C_n) = P\left( \lim_{n \rightarrow \infty} C_n \right) = P\left( \bigcup_{n=1}^{\infty} C_n \right).\]
+\end{theorem}
+
+	
+\begin{theorem} \label{nonincreasinglimit}
+	Suppose $C_n$ be a nonincreasing sequence of events, i.e. $C_{n+1} \subseteq C_n$ for all $n$. Furthermore suppose 
+		\[ \lim_{n \rightarrow \infty} C_n = \bigcap_{n=1}^{\infty} C_n.\]
+		 Then we can interchange the probability and the limit, 
+		 \[\lim_{n \rightarrow \infty} P(C_n) = P\left( \lim_{n \rightarrow \infty} C_n \right) = P\left( \bigcap_{n=1}^{\infty} C_n \right).\]
+\end{theorem}
+For example, the sequence $\{1 + 1/n\}$ is monotonically decreasing, and the limit of the sequence 1. Thus, via Theorem \ref{nonincreasinglimit}, we can say that 
+	\[\lim_{n \rightarrow \infty} P\left(X \geq 1 + \frac{1}{n} \right) = P(X \geq 1).	\]
+
+
+
+Suppose we want to restrict our attention to outcomes that are a subset $B$ of the sample space $S$.
+
+
+\section{Permutations and Combinations}
+
+Permutations and combinations are the devil. Anyway, the \textbf{Fundamental Theorem of Counting} says that if experiment $A$ has $m$ outcomes and experiment $B$ has $n$ outcomes, then the combined experiment has $m \times n$ outcomes.
+
+Now suppose we have $n$ objects and we want to sample $k$ of them. We can do so either with or without replacement; and the order of sampling might or might not matter. Thus, there are four possible cases.  
+
+\begin{enumerate}
+	\item \emph{Sampling with replacement when order matters.} There are $n^k$ different ways of sampling $k$ out of $n$ objects. For instance, if you sample three times from $\{a, b\}$ without replacement, then there are $2^3=8$ different possible outcomes. 
+
+	\item \emph{Sampling without replacement when order matters.} This is called a \textbf{permutation}. The first draw has $n$ possibilities; the second draw has $n-1$ possibilities; the $k$th draw has $n-k+1$ possibilities. Thus there are
+	\[n \times (n-1) \times \hdots \times (n-k+1) = \frac{n!}{(n-k)!}	\]	
+different possible outcomes. 
+
+	\item \emph{Sampling without replacement when order does not matter.} This is called a \textbf{combination}. It is similar to a permutation except we have to divide out all ``like'' outcomes. For example, we do not want to include both $\{a,b\}$ and $\{b,a\}$ since order doesn't matter and thus these constitute the same outcome. Each subset of $k$ elements has $k!$ different orderings, so we divide the permutation by $k!$. Thus, the total number of combinations we could draw of size $k$ given $n$ elements is
+		\[\binom{n}{k} = \frac{n!}{k!(n-k)!}.	\]
+		
+	\item \emph{Sampling with replacement when order does not matter.} This isn't used very often, but in any case the formula is
+		\[\binom{n+k-1}{k} = \frac{(n + k - 1)!}{k!(n-1)!}.	\]
+\end{enumerate}
+
+
+
+	
+\end{document}
+ 
+ 	
+ 	

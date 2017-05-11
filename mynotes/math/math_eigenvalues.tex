@@ -1,0 +1,314 @@
+\title{Math -- Eigenvalues and Dynamics}
+\author{William M Volckmann II}
+\documentclass[12pt]{article}
+\usepackage{bm}
+\usepackage{amsmath}
+\usepackage{amsfonts}
+\usepackage{graphicx}
+\usepackage{amssymb}
+\usepackage{amsthm}
+\usepackage{thmtools}
+\usepackage{setspace}
+\usepackage{amsthm}
+\usepackage{mathtools}
+\usepackage{enumitem}
+\usepackage{xifthen}
+\usepackage{titlesec}
+\usepackage[normalem]{ulem}
+\usepackage[final]{pdfpages}
+%\usepackage[top=1.25in, left=1.25in, right=1.25in]{geometry}
+
+\newcommand{\B}{\mathcal{B}}
+\newcommand{\C}{\mathbb{C}}
+\newcommand{\F}{\mathbb{F}}
+\newcommand{\N}{\mathbb{N}}
+\newcommand{\Q}{\mathbb{Q}}
+\newcommand{\R}{\mathbb{R}}
+\newcommand{\Z}{\mathbb{Z}}
+\newcommand{\Chi}{\mathcal{X}}
+\newcommand{\grad}{\nabla}
+\newcommand{\BH}{\hat{\beta}}
+\newcommand{\bh}{\hat{\beta}}
+\newcommand{\sumn}{\sum_{i=1}^n}
+\newcommand{\crit}{c_{\alpha}}
+\newcommand{\given}{\; | \;}
+\newcommand{\xbar}{\overline{X}}
+\newcommand{\thetahat}{\hat{\theta}}
+\newcommand{\asim}{\overset{a}{\sim}}
+\newcommand{\norm}[1]{\left\Vert{#1}\right\Vert}
+\newcommand{\abs}[1]{\left\vert{#1}\right\vert}
+\newcommand{\normal}[2]{\mathcal{N} \left({#1}, {#2} \right)}
+\newcommand{\cprob}{\overset{P}{\rightarrow}}
+\newcommand{\cdist}{\overset{D}{\rightarrow}}
+\renewcommand{\vec}[1]{\mathbf{#1}}
+\renewcommand{\hat}[1]{\widehat{#1}}
+\newcommand{\Limplies}{\quad \implies \quad}
+\DeclareMathOperator*{\argmax}{arg\,max}
+\DeclareMathOperator*{\argmin}{arg\,min}
+\DeclareMathOperator{\rank}{rank}
+\DeclareMathOperator*{\plim}{plim}
+\DeclareMathOperator*{\Var}{Var}
+\DeclareMathOperator*{\Cov}{Cov}
+
+\newtheorem{theorem}{Theorem}
+\newtheorem{corollary}{Corollary}
+\theoremstyle{definition}
+\newtheorem{definition}{Definition}
+\declaretheorem[style=definition,qed=$\blacksquare$]{example}
+
+
+\setenumerate{itemsep=-1pt, label=\textbf{(\alph*)}}
+
+\begin{document}
+
+
+\maketitle
+\onehalfspace
+
+
+
+\section{Eigenvalues and Eigenvectors}
+
+\begin{definition}
+	Let $A$ be a square matrix. The number $\lambda $ is an \textbf{eigenvalue} of $A$ if there exists a non-zero vector $\vec{v}$ such that $A\vec{v} = \lambda  \vec{v}$. Alternatively, we can write $(A - \lambda I)\vec{v}=0$. In this case, vector $\vec{v}$ is called an \textbf{eigenvector} of $A$ corresponding to $\lambda $.
+\end{definition}
+
+Alternatively, an eigenvalue of $A$ is a number $\lambda $ which, when subtracted from each of the diagonal entries of $A$, converts $A$ into a singular matrix. Subtracting scalar $\lambda $ from each diagonal entry of $A$ is the same as subtracting $\lambda $ times the identity matrix $I$ from $A$. Therefore, $\lambda$ is an eigenvalue of $A$ if and only if $A - \lambda I$ is a singular matrix.
+
+\begin{example}
+	Consider the matrix 
+		\[	
+			A=
+			\begin{bmatrix}
+				3	&	1	&	1 \\
+				1	&	3	&	1\\
+				1	&	1	&	3	
+			\end{bmatrix}.
+		\]	
+	If we subtract 2 from each diagonal in $A$, we end up with the singular matrix 
+		\[	
+			A - 2I = \begin{bmatrix}
+				1	&	1	&	1 \\
+				1	&	1	&	1\\
+				1	&	1	&	1	
+			\end{bmatrix}.
+		\]	
+	Thus, $\lambda=2$ is an eigenvalue of $A$. The corresponding eigenvector is found by solving
+	\[
+		(A - 2I)\vec{v} = 
+		\begin{bmatrix}
+			1 & 1 & 1 \\
+			1 & 1 & 1 \\
+			1 & 1 & 1
+		\end{bmatrix}
+		\begin{bmatrix}
+			v_1 \\ v_2 \\ v_3
+		\end{bmatrix}=
+		\begin{bmatrix}
+			0 \\ 0 \\ 0
+		\end{bmatrix}.
+	\]
+Note that the equation $(A - 2I)\vec{v}=0$ defines the \textbf{nullspace} of the matrix $A - 2I$. Since the rows are clearly linearly independent, we really only have to deal with the single equation $v_1+v_2+v_3 = 0$. This has infinite many solutions. Let $v_2=t$ and $v_3=s$ be free variables. Then we can write $v_1 = -t - s$, and thus 
+	\[
+		\vec{v} =
+		(-t - s)\begin{bmatrix}
+			1 \\ 0 \\ 0
+		\end{bmatrix}	+
+		t  \begin{bmatrix}
+		0 \\ 1 \\ 0
+			\end{bmatrix} + 
+		s \begin{bmatrix}
+			0 \\ 0 \\ 1
+		\end{bmatrix}.
+	\]
+Now we cannot, by definition, have $v=0$. But since $v_2$ and $v_3$ are \textbf{free variables}, there's nothing stopping us from setting $s=0$ and $t=-1$, which would then give an eigenvector of
+	\[
+		\vec{v} =
+		\begin{bmatrix}
+			1 \\ -1 \\ 0
+		\end{bmatrix}. \qedhere
+	\]
+In general, we can choose the free variables that give us the simplest possible eigenvector. The set of all solutions to $(A - 2I)\vec{v}=0$ is the \textbf{eigenspace} of $A$ with respect to eigenvalue $\lambda =2$. In this example, the eigenspace would be defined by whatever we could choose $t$ and $s$ to be -- so it is a plane -- and we could even include $t=s=0$ even though it would not technically be an eigenvector.
+\end{example}
+
+\begin{theorem}
+	The diagonal entries of a diagonal matrix $D$ are eigenvalues of $D$.
+\end{theorem}
+\begin{proof}
+	Let $\lambda_i$ be element in the $i$th column and $i$th row of $D$. By taking $D - \lambda _i I$, we will have a zero in said entry. The matrix will still be diagonal, and thus the determinant is the product of the diagonal entries, i.e. zero. Since the determinant is zero, it is singular. So $\lambda _i$ is an eigenvalue of $D$. 
+\end{proof}
+
+\begin{theorem}
+	A square matrix $A$ is singular if and only if 0 is an eigenvalue of $A$. 
+\end{theorem}
+\begin{proof}
+	Suppose $A$ is singular. Then $A - 0I = A$ is singular. Thus, 0 is an eigenvalue of $A$. Now suppose that 0 is an eigenvalue of $A$. Then $A - 0I = A$ is singular. 
+\end{proof}
+
+Okay, so $\lambda$ is an eigenvalue for $A$ if and only if $\det(A - \lambda I)=0$. For an $n \times n$ matrix $A$, this will amount to an $n$th order polynomial  in the variable $\lambda $ called the \textbf{characteristic polynomial} of $A$. This implies that an $n \times n$ matrix has at most $n$ eigenvalues. 
+
+
+
+\section{Diagonalization}
+
+\begin{definition}
+	Two $n \times n$ matrices $A$ and $B$ are called \textbf{similar} if $B = P^{-1}AP$ for some invertible $n \times n$ matrix $P$.
+\end{definition}
+
+\begin{definition}
+	An $n \times n$ matrix $A$ is called \textbf{diagonalizable} if it is similar to a diagonal matrix. 
+\end{definition}
+
+
+\begin{theorem}[Diagonalization Theorem]
+	Let $A$ be an $n \times n$ matrix. Then
+	\begin{enumerate}
+		\item 	The $n \times n$ matrix $A$ is diagonalizable if and only if $A$ has $n$ linearly independent eigenvectors of $A$. 
+		\item Suppose $\vec{v}_1, \hdots, \vec{v}_n$ are linearly independent eigenvectors of $A$ with corresponding eigenvalues $\lambda_1, \hdots, \lambda_n$. Then the matrix
+			\[P = [\vec{v}_1 | \vec{v}_2 | \hdots | \vec{v}_n]	\]
+	is invertible and furthermore,
+		\[P^{-1}AP =  \begin{bmatrix}
+			\lambda_1 & 0 & \hdots & 0 \\
+			0 & \lambda_2 & \hdots & 0 \\
+			\vdots & \vdots & \ddots & \vdots \\
+			0	&	0	& \hdots	& \lambda_n
+		\end{bmatrix}.	\]
+	\end{enumerate}
+\end{theorem}
+
+\begin{theorem}
+	If $n \times n$ matrix $A$ has $n$ distinct eigenvalues, then it is diagonalizable. (The converse is not necessarily true.)
+\end{theorem}
+\begin{proof}
+	Suppose $A$ has $n$ distinct eigenvalues $\lambda_1, \hdots, \lambda_n$, but does not have $n$ linearly independent eigenvectors $\vec{v}_1, \hdots, \vec{v}_n$, so that $A$ is not diagonalizable. Linear dependence implies that we can write a nontrivial linear combination of the vectors that will equal zero. Specifically, we can choose a linear combination that features the \emph{fewest nonzero coefficients} possible. Without loss of generality, suppose $c_1 \neq 0$. (We need at least some $c_i \neq 0$ for nontriviality so let's have it be $c_1$ for simplicity of exposition.) Write this combination as 
+\begin{equation}
+		c_1\vec{v}_1 + c_2\vec{v}_2 + \hdots + c_n\vec{v}_n =0.  	 \label{distinctdiagonal1}
+\end{equation}
+Premultiply both sides by $A$ and we have
+\[	c_1A\vec{v}_1 + c_2A\vec{v}_2 + \hdots + c_nA\vec{v}_n =0.  		\]
+Since the vectors $\vec{v}_i$ are eigenvectors, it follows that $A \vec{v}_i = \lambda_i$, and therefore
+\begin{equation}
+	c_1\lambda_1\vec{v}_1 + c_2 \lambda_2 \vec{v}_2 + \hdots +  c_n \lambda_n \vec{v}_n=0.  \label{distinctdiagonal2}
+\end{equation}
+At the same time, we can multiply both sides of equation (\ref{distinctdiagonal1}) by $\lambda_1$ to get  
+\begin{equation}
+	c_1 \lambda_1 \vec{v}_1 + c_2 \lambda_1 \vec{v}_2 + \hdots + c_n \lambda_1 \vec{v}_n =0.	 \label{distinctdiagonal3}
+\end{equation}
+Now subtract equation (\ref{distinctdiagonal2}) from (\ref{distinctdiagonal3}) to get
+\begin{equation}
+	c_2\vec{v}_2(\lambda_1 - \lambda_2) + \hdots + c_n\vec{v}_n(\lambda_1 - \lambda_n) =0.  \label{distinctdiagonal4}
+\end{equation}
+Remember that $\lambda_1 \neq \lambda_i$ for $i \neq 1$ and $\vec{v}_i \neq 0$. If all $c_j=0, j=2, \hdots, n$, then this implies from equation  (\ref{distinctdiagonal1}) that $c_1 =0$, which we are assuming otherwise. So we must have some $c_j \neq 0$, meaning that equation (\ref{distinctdiagonal4}) is a nontrivial linear combination exhibiting linear dependence. 
+
+But since equation (\ref{distinctdiagonal4}) does not include $c_1 \neq 0$ anywhere, this means it has fewer nonzero coefficients than does equation (\ref{distinctdiagonal1}). We'd assumed that  (\ref{distinctdiagonal1}) was the nontrivial linear combination with the fewest nonzero coefficients. Thus, we have a contradiction, so the assumptions must have been in error. Therefore, the eigenvectors must be linearly independent and thus $A$ must be diagonalizable. 
+\end{proof}
+
+
+\begin{example}
+	Consider the matrix
+	\[ A = 
+		\begin{bmatrix}
+			1 & 2 & 1\\
+			6 & -1 & 0\\
+			-1 & -2 & -1
+		\end{bmatrix}.
+	\]
+The characteristic polynomial is found by solving $\det(A-\lambda I)=0$, so let's find the determinant. We want
+\begin{align*}
+			&\det\left(
+			\begin{bmatrix}
+			1-\lambda & 2 & 1\\
+			6 & -1-\lambda & 0\\
+			-1 & -2 & -1-\lambda
+			\end{bmatrix}
+			\right)\\
+			&=1 \big( [6][-2] - [-1-\lambda][-1]  \big) + [-1 - \lambda]\big([1 - \lambda][-1 - \lambda] - [2][6]   \big)\\
+			&= -\lambda^3 - \lambda^2 + 12 \lambda.
+\end{align*}
+Solving for $\lambda$, we get three distinct eigenvalues, $\lambda_1=-4$, $\lambda_2=3$, and $\lambda_3=0$, with respective eigenvectors
+\[
+	\vec{v}_1=\begin{bmatrix} -1 \\ 2 \\ 1 \end{bmatrix}, \quad  \vec{v}_2=\begin{bmatrix} -2 \\ -3 \\ 2 \end{bmatrix}, \quad
+	\vec{v}_3=\begin{bmatrix} 1 \\ 6 \\ -13 \end{bmatrix}.
+\]
+Now let's define $P$ to be the matrix of eigenvectors, that is, 
+	\[ P = \begin{bmatrix}
+		-1 & -2 & 1 \\ 
+		2 & -3 & 6 \\ 
+		1 & 2 & -13
+		\end{bmatrix}.	\]
+The matrix diagonalization process then results in 
+	\[P^{-1}AP = \begin{bmatrix}-4 & 0 & 0 \\ 0 & 3 & 0 \\ 0 & 0 & 0  \end{bmatrix},	\]
+where the diagonal entries are exactly the eigenvalues, as predicted. 
+\end{example}
+
+
+
+
+\section{Difference Equations} 
+We can use eigenvalues and eigenvectors to solve some linear difference equations. Who knew?! A typical equation will be of the form
+\begin{equation}	y_{n+1} = a y_n,	\label{lineardiffeq}\end{equation}
+where $a \in \R$. In words, the amount of $y$ in each period will be proportional to the amount of $y$ in the previous period. A solution to the difference equation is an expression for $y_n$ in terms of the initial amount $y_0$, $a$, and $n$. For instance, we have
+\begin{align*}
+	y_1 &= ay_0,\\
+	y_2 &= a^2y_0,\\
+	y_3 &= a^3y_0,
+\end{align*}
+and so on. In general, the solution to equation (\ref{lineardiffeq}) is $y_n = a^ny_0$. 
+
+Let's get a little more complex. Consider a system of two linear difference equations where the size of each variable depends linearly on the sizes of both variables from the previous period:
+\begin{align*}
+	x_{n+1} = ax_n + by_n,\\
+	y_{n+1} = cx_n + dy_n.
+\end{align*}
+We can represent this in matrix form as
+\[\vec{z}_{n+1} = \begin{bmatrix} x_{n+1} \\ y_{n+1}\end{bmatrix} = 
+	\begin{bmatrix} a & b \\ c & d \end{bmatrix}\begin{bmatrix} x_n \\ y_n \end{bmatrix} = A\vec{z}_n.	\]
+	
+	If $b=c=0$, then they are \emph{uncoupled}, meaning that they only depend on their own previous values:
+\begin{align*}
+	x_{n+1} = ax_n,\\
+	y_{n+1} = dy_n.
+\end{align*}
+In this case, they can be easily solved as two separate one-dimensional problems where $x_n=a^n x_0$ and $y_n=d^n y_0$. When the equations are coupled, i.e. $b \neq 0$ or $c \neq 0$, then the technique for solving the system is to find a change of variables that uncouples these equations. This is a common and important technique. 
+
+In other words, given the system of difference equations $\vec{z}_{n+1}=A\vec{z}_n$, we want the change the system from being in terms of $x$ and $y$ to being a system of $X$ and $Y$. We've already defined $\vec{z}$ to be the vector of old variables, so let's have $\vec{Z}$ be the vector of variable we want to transform into. The question is, how do we define $\vec{Z}$ in terms of $\vec{z}$, and vice versa?
+
+
+One way to achieve this is to find the eigenvectors of $A$. The corresponding matrix $P$ which will give equations for $x_i$ in terms of $X_i$, which is to say, $\vec{z}=P\vec{Z}$. On the other hand, $P^{-1}$ will give equations for $X_i$ in terms of $x_i$, which is to say, $\vec{Z}=P^{-1}\vec{z}$. With that in mind, we can write (while skipping some steps),
+\begin{align*}
+	\vec{Z}_{n+1} 	&=	P^{-1}\vec{z}_{n+1} \\
+				&=	P^{-1}A\vec{z}_n \\
+				&=	P^{-1}A(P\vec{Z}_n) \\
+				&=	(P^{-1}AP)\vec{Z}_n.
+\end{align*}
+Hey great, since $P$ is composed of the eigenvectors of $A$, we know that we're multiplying $\vec{Z}_n$ by a diagonal matrix $D$ consisting of the eigenvalues of $A$. Thus, we have $\vec{Z}_{n+1}=D \vec{Z}_n$. What this amounts to is the system
+\[		X_{i(n+1)} = \lambda_i X_{i(n)},\]
+where we can solve for $X_{i(n)}=\lambda_i^nX_0$, or as a matrix,
+	\[	\vec{Z}_n = D^n \vec{Z}_0.	\]
+Take the transformation $P$ to transform $\vec{Z}_n$ back to the original variables for
+\begin{equation}
+	\vec{z}_n = P D^n \vec{Z}_0.	\label{system1}
+\end{equation}
+Now notice that
+\begin{align*}
+	D^n 	&= (P^{-1}AP)^n\\
+		&= (P^{-1}AP)(P^{-1}AP)\hdots (P^{-1}AP)\\
+		&= P^{-1} A^n P.
+\end{align*}
+We can substitute this into equation (\ref{system1}) to get
+\[\vec{z}_n = P D^n \vec{Z}_0 = P(P^{-1} A^n P)\vec{Z}_0 = A^n P \vec{Z}_0 = A^n\vec{z}_0.	\]
+Thus, we have a closed form solution for $\vec{z_n}$ in terms of $\vec{z}_0$. Since $P^{-1}A^nP=D^n$, it follows that $A^n = PD^nP^{-1}$. In practice, the latter term is usually easier to compute because $D^n$ is just a matter of taking each diagonal element to the power of $n$. Thus, the simplest solution calculation-wise is 
+\begin{equation} \vec{z}_n = PD^nP^{-1} \vec{z}_0.	\label{diffeqsoln}
+\end{equation}
+
+A solution for which $\vec{z}_{n+1}=A\vec{z}_n$ is called a \textbf{steady-state equilibrium} of the difference equation. An important question involves the \textbf{stability} of a steady state. A solution is called \textbf{asymptotically stable} if every solution tends to the steady state as $n$ tends to infinity. One notable possible steady state is $\vec{z}=0$. 
+
+\begin{theorem}
+	If the $k \times k$ matrix $A$ has $k$ distinct real eigenvalues, then every solution of the general system of linear difference equations tends to $\vec{0}$ if and only if all eigenvalues of $A$ has an absolute value less than 1. 
+\end{theorem}
+\begin{proof}
+	Suppose all of the eigenvalues are distinct and have absolute value of less than one. Then $D^n$ will approach zero as $n$ goes to infinity because each $\lambda_i^n$ will approach zero. Thus, $\vec{z}_n$ will approach zero as $n$ goes to infinity by equation (\ref{diffeqsoln}), regardless of the initial values $\vec{z}_0$. 
+\end{proof}
+
+
+\end{document}

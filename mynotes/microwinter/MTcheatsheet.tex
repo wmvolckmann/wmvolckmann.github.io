@@ -1,0 +1,378 @@
+\title{ECN 200B -- General Equilibrium Theory}
+\author{}
+\documentclass[11pt, twocolumn]{article}
+\usepackage{bm}
+\usepackage{amsmath}
+\usepackage{amsfonts}
+\usepackage{mathrsfs}
+\usepackage{graphicx}
+\usepackage{amssymb}
+\usepackage{framed}
+\usepackage{amsthm}
+\usepackage[top=.5in, bottom=.5in, left=.5in, right=.5in]{geometry}
+\usepackage{setspace}
+\usepackage{enumerate}
+\usepackage{enumitem}
+\usepackage{titlesec}
+\setlength{\parindent}{0cm}
+\setlength{\columnsep}{.5in} 
+\setenumerate{itemsep=-2pt, label=\textit{\alph*.}}
+\renewcommand{\arraystretch}{1.5}
+
+\DeclareMathOperator{\rank}{rank}
+\DeclareMathOperator{\adj}{adj}
+
+\date{}
+
+\renewcommand{\a}{\vec{a}}
+\renewcommand{\b}{\vec{b}}
+\renewcommand{\c}{\vec{c}}
+\newcommand{\p}{\vec{p}}
+\newcommand{\q}{\vec{q}}
+\renewcommand{\r}{\vec{r}}
+\renewcommand{\u}{\vec{u}}
+\renewcommand{\v}{\vec{v}}
+\newcommand{\w}{\vec{w}}
+\newcommand{\x}{\vec{x}}
+\newcommand{\y}{\vec{y}}
+\newcommand{\z}{\vec{z}}
+
+\newcommand{\C}{\mathbb{C}}
+\newcommand{\F}{\mathbb{F}}
+\newcommand{\N}{\mathbb{N}}
+\newcommand{\Q}{\mathbb{Q}}
+\newcommand{\R}{\mathbb{R}}
+\newcommand{\Z}{\mathbb{Z}}
+\newcommand{\Chi}{\mathcal{X}}
+\newcommand{\grad}{\nabla}
+\renewcommand{\l}{\ell}
+\renewcommand{\vec}[1]{\mathbf{#1}}
+\DeclareMathOperator*{\argmax}{arg\,max}
+\DeclareMathOperator*{\argmin}{arg\,min}
+
+\newtheorem{theorem}{Theorem}
+\newtheorem{proposition}{Proposition}
+\newtheorem{corollary}{Corollary}
+\newtheorem{definition}{Definition}
+\theoremstyle{definition}
+\newtheorem{example}{Example}
+\newtheorem{remark}{Remark}
+\newcommand{\Lindent}{\hspace{.3cm} \Longrightarrow \hspace{.5cm}  
+}
+%\addtolength{\jot}{-3em}
+\setenumerate{itemsep=-1pt, label=\textbf{(\alph*)}, topsep=0pt}
+\titlespacing*{\section}{0pt}{1ex plus 1ex minus .2ex}{-1ex plus .2ex}
+\titlespacing*{\subsection}{0pt}{4ex plus 1ex minus .2ex}{0ex plus .2ex}
+\titlespacing*{\subsubsection}{0pt}{4ex plus 1ex minus .2ex}{0ex plus .2ex}
+
+\parskip=.1in
+
+\begin{document}
+\pagenumbering{gobble}
+
+
+\section*{The Economy}
+
+There are $L \in \N$ commodities. Each commodity can be consumed in non-negative amounts.
+
+A \textbf{consumer} consists of two things: a utility function $u:\R^L_+ \rightarrow \R$ and an (exogenous) endowment $w \in \R_+^L$. There are $I \in \N$ individuals, indexed $i=1, \hdots I$, and the set $\mathcal{I}=\{1, \hdots, I\}$ is \textbf{society}. For example, individual $i$ has utility function $u^i$ and endowment $w^i$. 
+
+Technically we could use preferences instead of the utility function, but utility functions are easier to work with. The \textbf{standard assumption} is that each utility function is
+\begin{enumerate}
+	\item continuous,
+	\item locally-nonsatiated,
+	\item quasiconcave (i.e. preferences are convex).
+\end{enumerate}
+We have a further assumption, applied as necessary, about smoothness. The utility function is \textbf{smooth} if, in addition to the standard assumptions, it also satisfies the following:
+\begin{enumerate}
+	\setcounter{enumi}{3}
+	\item \emph{All individuals have a strictly positive endowment.} That is, $w^i \in \R^L_{++}$. 
+	\item \emph{First and second order derivatives (including mixed partials) all exist and are all continuous.} In other words, $u^i \in C^2$ on $\R^L_{++}$. 
+	\item \emph{It is differentially strictly monotone.} In other words, $u(\cdot)$ has strictly positive partial derivatives at interior consumption bundles. In math, for any bundle $x \in \R^L_{++}$, we have $Du'(x) \gg 0$.\footnote{Note that $Du'(x)$ is the gradient and $D^2 u'(x)$ is the Hessian of the vector $x$.}
+	\item \emph{Strict differentiable quasiconcavity.} In other words, we have ``nicely shaped'' indifference curves. In math: for every $x \in \R^L_{++}$ and for any $\Delta \in \R^L$ such that $\Delta \neq 0$ and $\Delta \cdot Du'(x)=0$, we must have $\Delta^TD^2 u'(x) \Delta <0$. 
+	\item \emph{Indifference curves will remain in the interior.} In math, for any $x \in \R^L_{++}$, we have the set 
+	\[ \left\{ x' \in \R^L_+ \;\big\vert\; u(x') \geq u(x) \right\} \subseteq \R^L_{++}. \]
+\end{enumerate}
+
+A \textbf{firm} is a nonempty set $Y^j \subseteq \R^L$, which represents its technology as netputs. There are $J \in \N$ firms, indexed $j=1, \hdots, J$, where the set $\mathcal{J}=\{1, \hdots, J\}$ represents \textbf{industry}. 
+
+We introduce two kinds of economies, one with firms and one without firms. 
+\begin{definition}
+	An \textbf{exchange economy} is the object 
+		\[	\{ \mathcal{I}, (u^i, w^i)_{i \in \mathcal{I}}\}. \]
+\end{definition}
+
+\begin{definition}
+	A \textbf{production economy} is the object 
+	\[	\{ \mathcal{I}, \mathcal{J}, (u^i, w^i)_{i \in \mathcal{I}},  (Y^j)_{ j \in \mathcal{J}}, (s^{i,j})_{(i,j) \in \mathcal{I} \times \mathcal{J}}\}, \]
+	where $s^{(i,j)} \geq 0$ represents the share consumer $i$ has in the stock of firm $j$. Thus, $\sum_{i} s^{i,j}=1$ for all $j$. In addition to the standard assumptions about $u(\cdot)$, we also assume that each $Y_j$ is closed, convex, and satisfies free-disposal and possibility of inaction.
+\end{definition}
+There is an implicit assumption underlying all of this, specifically, that of \emph{private ownership}. The endowment $w_i$ is \emph{owned} by individual $i$, for instance. 
+
+
+
+\section*{Competitive Equilibrium}
+Let's add competitive markets to the mix. Let $p \in \R^L$ denote prices, $x^i$ denote individual $i's$ consumption and firm $j$'s production. All actors in this economy are price takers and everyone faces the same prices. In an exchange economy with competitive markets, individual $i$ faces the budget constraint
+	\[B(p,w^i) = \{ x \in \R^L_+| p \cdot x \leq p \cdot w^i\}.	\]
+The term $p \cdot w^i$ represents the \emph{nominal value} of individual $i$'s endowment. 
+\begin{definition}
+	Given an exchange economy, a \textbf{competitive equilibrium} is the pair $(p, x)$ such that
+	\begin{enumerate}
+		\item for all $i \in I$, $x^i$ solves $\max \{u^i(x) : x \in B(p,w^i) \}$, or put differently,
+		\[\max_{x \in \R^L_+} u^i(x) \quad s.t. \quad p \cdot x \leq p \cdot w^i.	\]	
+		\item $\sum_{i \in I} x^i = \sum_{i\in I}w^i$.
+	\end{enumerate}
+\end{definition}
+In words, it means that people maximize their utility subject to their budget constraints; and the vector of total consumption is equal to the vector of total endowments -- aggregate supply equals aggregate demand.
+
+If we wanted to, we could also write the first condition in terms of revealed preference: for any individual $i$ with $x^i \in \R^L_+$, if $p \cdot x' \leq p\cdot w^i$ and $u^i(x) > u^i(x')$, then $p\cdot x > p \cdot w^i$. If we cannot represent preferences with a utility function, then we could instead write: if $p \cdot x' \leq p\cdot w^i$ and $x \succ^i x'$, then $p\cdot x > p \cdot w^i$. The idea is that $x'$ solves the maximization problem if any preferred bundle is unaffordable. 
+
+Since utility is only a function of the consumption bundle $x$, there are no externalities in this economy. Furthermore, commodities are private, i.e. excludeable and rival -- when person $i$ consumes a unit of something, it means person $j$ cannot consume that unit. 
+
+In a production economy, individual $i$'s budget constraint is a little bit different. They will have the value of their endowment plus the sum of their share of profit in each of the $j$ firms:
+	\[ B(p,w^i) = \{ x \in \R^L_+ | p \cdot x \leq p \cdot w^i + \sum_{j \in J} s^{i,j} p \cdot y^j \}. 	\]
+
+\begin{definition}
+	Given a production economy, a \textbf{competitive equilibrium} is the object $(p,x,y)$ such that
+	\begin{enumerate}
+		\item for all $i \in I$, $x^i$ solves $\max \{u^i(x) : x \in B(p,w^i) \}$, or put differently,
+		\[\max_{x \in \R^L_+} u^i(x) \quad s.t. \quad p \cdot x \leq p \cdot w^i + \sum_{j \in J} s^{i,j}p \cdot y^j.	\]
+		\item for all $j \in J$, $y^j$ solves $\max\{p \cdot y : y \in Y^j\}$;
+		\item $\sum_{i \in I}x^i = \sum_{i \in I}w^i + \sum_{j \in J} y^j$.
+	\end{enumerate}
+\end{definition}
+
+There are more assumptions buried in here. First, there exists a complete set of markets to which all agents have unrestricted access. Second, all agents are price takers. Third, there are no externalities. Fourth, commodities are all private. These assumptions prove to be critical for many results. 
+
+
+
+\begin{definition}
+	Suppose that $u^i$ is locally nonsatiated and strictly quasiconcave. For each individual $i$, let $H^i$ denote the Hicksian demand correspondence. Define $(p,x)$ to be a \textbf{pseudo-equilibrium} if
+	\begin{enumerate}[label=\roman*.]
+	\item for all $i$, $x^i \in H^i\big(p, u^i(x^i)\big)$ and $p \cdot x^i = p \cdot w^i$,
+	\item $\sum_i x^i = \sum_i w^i$. 
+	\end{enumerate}
+\end{definition}
+
+\begin{theorem}
+	$(p,x)$ with $p \gg 0$ is a pseudo-equilibrium if and only if it is a competitive equilibrium. 
+\end{theorem}
+
+
+If utility is locally nonsatiated and $x^*$ solves the utility maximization problem, then $p \cdot x^* = p \cdot w$. Furthermore, if utility is strongly monotone and the utility maximization problem has a solution, then $p \gg 0$. Recall that we can normalize prices in any way we see fit
+
+Multiplying prices by a constant $\lambda$ does not change the budget set since we can easily divide the $\lambda$ out of $\lambda p \cdot x \leq \lambda p \cdot w$. Thus, for a few examples, $B(p,w) =$
+\[B \left( \frac{1}{p_1} p, w\right) = B\left(\frac{1}{||p||}p,w\right) = B\left( \frac{1}{\sum_{\ell}^L p_{\ell}} p,w\right).	\]	
+
+\begin{theorem}[Walras's Theorem]
+	Fix an exchange economy where $u^1$ is strongly monotone and every other $u^i$ is locally nonsatiated. Further suppose that
+	\begin{enumerate}
+		\item for all $i \in I$, we have $x^i \in \argmax_{x \in B(p,w^i)} u^i(x)$,
+		\item for all $\ell \in \{1, \hdots, L-1\}$, we have 
+			\[\sum_{i=1}^I x^i_{\ell} = \sum_{i=1}^I w^i_{\ell}.	\]
+	\end{enumerate}
+	Then
+	\begin{enumerate}	
+		\item $p \gg 0$,
+		\item $\sum_{i=1}^I x^i_L = \sum_{i=1}^I w^i_L$, and 
+		\item The following pairs are all competitive equilibria:
+	\end{enumerate}
+\[(p,x), \quad \left( \frac{1}{p_1}p, x \right), \quad \left( \frac{1}{||p||}p, x\right), \quad \left( \frac{1}{\sum_{\ell=1}^{L-1} p_{\ell}} p,x\right).	\]	
+\end{theorem}
+The takeaway is that we can essentially drop one variable, by having for instance $p_1=1$, and then only have to solve an $(L-1) \times (L-1)$ system. All of the alternatively given price normalizations are simpler than $R^L_+$. The normalization over the norm produces a ``sphere'' of prices, and over the sum produces a ``simplex'' of prices, both of which are compact. The simplex is also convex. All are equivalent but some have nicer mathematical properties depending on context of use. 
+
+
+\begin{theorem}[Walras' Law (Production)]
+	Fix a production economy where $u^1$ is strongly monotone and every other $u^i$ is locally nonsatiated. Suppose that $(p,x,y)$ satisfies
+	\begin{enumerate}	
+		\item for all $i \in I$, $x^i$ solves   \small
+			\[ \max \left\{u^i(x) : x \in \R^L_+ \text{ and } p \cdot x \leq p \cdot w^i + \sum_j s^{i.j} p \cdot y^j \right\},	\]
+		\item \normalsize for all $ j \in J$, $y^j$ solves $\max\{p \cdot y : y \in Y^j \}$,		
+		\item for all $\ell \in \{1, \cdots, L-1 \}$, $\sum_{i=1}^I x^i_{\ell} = \sum_{i=1}^I w^i_{\ell} + \sum_j y_{\ell}^j$.
+	\end{enumerate}
+	Then the following pairs are all competitive equilibria: \small
+	\[(p,x,y), \enskip \left( \frac{1}{p_1}p, x,y \right), \enskip \left( \frac{1}{||p||}p, x,y\right), \enskip \left( \frac{1}{\sum_{\ell=1}^{L-1} p_{\ell}} p,x,y\right).	\]	
+\end{theorem}
+
+
+
+\begin{theorem}[Arrow and Debreu]
+	Suppose $w^i > 0$ for all $i$ and that each $u^i$ is continuous, strictly quasiconcave, and strictly monotone. Then there exists a competitive equilibrium. 
+\end{theorem}
+
+\begin{definition}
+	The \textbf{aggregate demand function} for individual $i$ is defined to be
+		\[z^i(p)= x^i(p) - w^i(p),	\]	
+	and the \textbf{aggregate excess demand function} is
+	\[z(p)= \sum_{i=1}^I z^i(p) = \sum_{i=1}^I x^i(p) - w^i.		\]
+\end{definition}
+Recall from the previous micro course that aggregating demand is usually a really ugly process and almost never has nice results because wealth effects are bastards. So we should expect some weirdness to follow. 
+
+For the next definition and theorem, suppose prices have been normalized to the sphere. 
+
+\begin{definition}
+	Suppose $\epsilon > 0$. The exchange economy $\{ I, (u^i, w^i)_{i \in I} \}$ \textbf{generates} $Z:S \rightarrow \R^L$ in
+	\[S_{\epsilon} = \{p \in S \; | \; p_{\ell} \geq \epsilon  \; \forall \ell \}	\]	
+if for all $p \in S_{\epsilon}$, 
+	\[	\sum_{i=1}^L [x^i(p) - w^i] = Z(p).\]
+		
+\end{definition}
+
+\begin{theorem}[Sonnenschein-Mantel-Debreu]
+	Let $\hat{Z} : S \rightarrow \R^L$ be continuous and satisfy Walras's law, i.e. $p \cdot Z(p)=0$. Then for every $\epsilon > 0$, there exists a standard exchange economy that generates $z$ in $S_{\epsilon}$. 
+\end{theorem}
+
+In other words, there exists an exchange economy such that its excess demand function satisfies $Z(p) = \hat{Z}(p)$ for any $p \in S_{\epsilon}$. \emph{No restriction has been made on the shape of the aggregate excess demand function}---it only has to satisfy $p \cdot Z(p)=0$. Consequently this is sometimes known as the ``anything goes'' theorem. In particular, it implies that aggregate excess demand could equal zero an infinite number of times and thus there could be an infinite number of equilibria. 
+
+Suppose $p_1=1$ via normalization. Define 
+	\[ \tilde{Z}(p) = \begin{bmatrix} 
+			Z_2(p)\\
+			\vdots \\
+			Z_L(p)
+		\end{bmatrix}.		\]	 
+		Since $p_1=1$, any derivatives with respect to $p_1$ are uninteresting. Furthermore, since Walras' law gives us one market ``for free,'' we can ignore the excess demand function for some market---may as well choose the market for good 1. Therefore, in the following definition, we remove the entire first row and first column from $DZ(p)$. 
+		
+\begin{definition}		An exchange economy is \textbf{regular} if $\tilde{Z}(p,w)=0$ implies that the $(L-1) \times (L-1)$ matrix
+\[	D \tilde{Z}(p) =\begin{bmatrix}
+		D_{p_2} \tilde{Z}(p,w) \\
+		\vdots \\
+		D_{p_L} \tilde{Z}(p,w)
+	\end{bmatrix}
+\]
+has rank $L-1$, i.e. is nonsingular. 
+\end{definition}
+This is a fancy way of saying that the slope of the excess demand function is non-zero at any equilibrium. That is, the prices at which the excess demand function equals zero are locally unique.
+
+
+\begin{theorem}
+	If a smooth exchange economy is regular, then it has finitely many equilibria. (This also implies local uniqueness.)
+\end{theorem}
+
+
+\begin{definition}
+	Let $D \in \R^n$ be open, and suppose that $f:D \rightarrow \R^m$ is continuously differentiable. The function $f$ is said to be \textbf{transverse to zero}, denoted $ f \pitchfork 0$, if $f(x)=0$ implies that $\rank \big( Df(x) \big) = m$. 
+\end{definition}
+
+\begin{theorem}[Transversality Theorem]
+	If the $(L-1) \times (L-1)$  matrix $DZ(p;w)$ has rank $L-1$ whenever $Z(p;w)=0$, then for almost every $w$, the $(L-1) \times (L-1)$ matrix $D_p Z(p;w)$ has rank $(L-1)$ whenever $Z(p,w)=0$. 
+\end{theorem}
+
+\begin{theorem}
+	Almost any economy is regular. 
+	\begin{itemize}
+		\itemsep0em
+		\item Suppose we have $L-1$ excess demand equations and $L-1$ unknowns and $Z(p)=0$. 
+		\item For any $p$ and $w$, $\rank D_w z(p;w) = L-1$.
+		\item Then tranversality theorem implies that for almost every endowment, the economy is regular. 
+	\end{itemize}
+\end{theorem}
+
+\section*{Pareto Efficiency and the Core}
+
+\begin{definition}
+	Given an exchange economy, an allocation $x$ is \textbf{Pareto efficient} if there does not exist another allocation $\hat{x}$ such that
+\begin{enumerate}[label=\roman*.]
+	\item for all $i \in I$, $u^i(\hat{x}^i) \geq u^i(\tilde{x}^i) $,
+	\item for some $i \in I$, $u^i(\hat{x}^i) > u^i(\tilde{x}^i) $.
+	\end{enumerate}
+\end{definition}
+Pareto efficiency does not account for private property in any sense; and furthermore only the welfare of consumers matters. 
+
+
+\begin{definition}
+An allocation $x$ is in the \textbf{core} of an exchange economy if there does not exist any coalition $H \subseteq J$ and allocation $(\hat{x}^i)_{i \in H}$ such that 
+\begin{enumerate}[label=\roman*.]
+	\item $\sum_{i \in H} x^i =\sum_{i \in H} w^i$,
+	\item for all $i \in H$, $u^i(\hat{x}^i) \geq u^i(\tilde{x}^i) $,
+	\item for some $i \in H$, $u^i(\hat{x}^i) > u^i(\tilde{x}^i) $.
+\end{enumerate}
+If such a coalition $H$ does exist, then we say that the coalition \textbf{objects to} or \textbf{blocks} $x$. 
+\end{definition}
+One quirk of the definition of a core is that those in the coalition do no care if their objection makes everyone outside of the coalition completely miserable, as long as it makes at least one person in the coalition at least slightly better off. Seems odd. 
+
+\begin{theorem}
+	Any allocation in the core of an exchange economy is Pareto efficient. (The converse is not necessarily true.)
+\end{theorem}
+
+\begin{definition}
+	Given an exchange economy, allocation $x$ is said to be \textbf{weakly Pareto efficient} if there does not exist an allocation $\hat{x}$ such that $u^i(\hat{x}^i) > u^i(x^i)$ for all $i$. 
+\end{definition}
+
+\begin{theorem}
+	Any Pareto efficient allocation is also weakly Pareto efficient.
+\end{theorem}
+
+\begin{theorem}
+	If all preferences are continuous and strictly monotone, then any weakly Pareto efficient allocation is also Pareto efficient.
+\end{theorem}
+
+\begin{theorem}
+	If $(w^i)_{i \in I}$ is Pareto efficient, then it is a core allocation.
+\end{theorem}
+
+\begin{theorem}
+	If each $u^i$ is strongly quasiconcave and $(w^i)_{i \in I}$ is efficient, then $(w^i)_{i \in I}$ is the only core allocation. 
+\end{theorem}
+
+An alternative way to characterize Pareto efficiency is to maximize utility subject to the constraint of not worsening other individuals' welfare. 
+
+\begin{theorem}
+	Given a production economy, allocation $(\hat{x}, \hat{y})$ is Pareto efficient if and only if, for each $\hat{i} \in I$, the allocation solves the following problem:
+	\[	
+		\max_{(x,y)} u^{i^*}( x^{i^*}) : 
+			\begin{cases}
+				\forall i \neq i^*, u^i(x^i) \geq u^i(\hat{x}^i),\\
+				\forall j, y^j \in Y^j,\\
+				\sum_i x^i = \sum_i w^i + \sum_j y^j.
+			\end{cases}
+	\]	
+\end{theorem}
+
+
+\begin{theorem}
+Suppose that $u^i(\cdot)$ is locally nonsatiated and $x^*$ maximizes $u(x)$ subject to $px \leq m$. Then $u(x') \geq u(x^*)$ implies that $px' \geq m$. 
+\end{theorem}
+
+\begin{theorem}
+	Suppose that $x^*$ maximizes $u(x)$ subject to $px \leq m$. Then $u(x) > u(x^*)$ implies $px > m$. 
+\end{theorem}
+
+
+\begin{theorem}[First Fundamental Theorem of Welfare Economics]
+	Fix a production economy, 
+		\[			\{ I, J, (Y_j)_{j\in J}, (u^i, w^i, s^{i,j})_{i \in I, j \in J}\}. 	\]
+	Suppose that all $u^i(\cdot)$ are locally nonsatiated. If $(p,x,y)$ is a competitive equilibrium, then $(x,y)$ is Pareto efficient.
+\end{theorem}
+
+
+
+\section*{Edgeworth Box}
+
+\begin{itemize}
+	\item The slope of the budget line is $-p_1/p_2$. 
+	\item The \textbf{Pareto set} consists off all points where the two indifference curves are tangent.
+	\item The \textbf{contract curve} is the subset of the Pareto set that makes both individuals better off than their endowments (i.e. they won't object to). So yeah, it's the core. 
+	\item And the competitive equilibrium is the point on the contract curve that clears the market. 
+\end{itemize}
+
+
+
+
+
+\section*{Mathematical Miscellany}
+
+\begin{definition}
+The utility function $u(\cdot)$ is  \textbf{quasiconcave} if for all bundles $x, y$ and $\lambda \in [0,1]$, we have
+	\[ u( \lambda x + [1 - \lambda]y) \geq \min \{ u(x), u(y)\}.	\]	
+It is \textbf{strictly quasiconcave} if the inequality is strict (and $x \neq y$).
+\end{definition}
+There is, of course, an equivalent characterization. 
+\begin{definition}
+The utility function $u(\cdot)$ is  \textbf{quasiconcave} if $u(x) \geq u(y)$ implies that
+	\[ u( \lambda x + [1 - \lambda]y) \geq u(y).	\]	
+It is \textbf{strictly quasiconcave} if the inequality is strict (and $x \neq y$).
+\end{definition}
+The set of maximizers of quasiconcave functions is convex. Furthermore, strictly quasiconcave functions have unique maximizers. 
+
+
+\end{document}	

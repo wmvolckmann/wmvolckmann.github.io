@@ -9,7 +9,6 @@ title:
 * [Linear](production/Linearprod.pdf)
 * [Stone-Geary](production/StoneGearyprod.pdf)
 
-
 # Utility Functions
 * [Cobb-Douglas](utility/CobbDouglasutility.pdf)
 
@@ -24,7 +23,7 @@ title:
 * [Public Goods](microwinter/PublicGoods.pdf)
 
 # Micro (Spring)
-* [Cheat Sheet](microspring/mt1cheatsheet.pdf)
+* [Cournot and Bertrand](microspring/CournotBertrand.pdf)
 
 # Mini-Macro
 * [01 - Introduction](dynamicprog/dynamicprog-01-Intro.pdf)

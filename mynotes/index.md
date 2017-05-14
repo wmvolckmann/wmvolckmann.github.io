@@ -48,3 +48,8 @@ title:
 * [Homework 2](macrospring/Homework2.pdf)
 * [Homework 3](macrospring/Homework3.pdf)
 * [Homework 4](macrospring/Homework4.pdf)
+
+# Metrics (Spring)
+* [Homework 1](metricsspring/Homework1.pdf)
+* [Homework 2](metricsspring/Homework2.pdf)
+* [Homework 3](metricsspring/Homework3.pdf)

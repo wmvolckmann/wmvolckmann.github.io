@@ -7,7 +7,8 @@ order: 1.1
 
 ### Section Materials
 Homework solutions won't be posted until after the assignment due dates.
-* [5/18 (HW6) Hints](5-18-hw-hints.pdf), [Money Multiplier Explained](moneymultiplier.pdf)
+* [Post-Midterm 2 Feel Goods](https://www.youtube.com/watch?v=6at5gBa4ZbI)
+* [5/18 (HW6) Solutions](5-18-hw-ans.pdf), [Money Multiplier Explained](moneymultiplier.pdf)
 * [5/11 Practice Problems](5-11-practice.pdf), [5/11 Practice Solutions](5-11-practice-ans.pdf)
 * [5/11 (HW5) Solutions](5-11hw.pdf)
 * [5/04 Practice Problems](5-04-practice.pdf), [5/04 Practice Solutions](5-04-practice-ans.pdf)

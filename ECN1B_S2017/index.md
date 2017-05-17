@@ -12,18 +12,18 @@ Homework solutions won't be posted until after the assignment due dates.
 * [HW6 Solutions](5-18-hw-ans.pdf)
 * [HW5 Solutions](5-11hw.pdf)
 * [HW4 Solutions](5-04.pdf)
-* [HW3 Problems](4-20.pdf), [HW3 Solutions](4-20-ans.pdf)
-* [HW2 Problems](4-13-labor.pdf), [HW2 Solutions ](4-13-ans-labor.pdf)
-* [HW1 Problems](4-13.pdf), [HW1 Solutions](4-13-ans.pdf)
+* [HW3 Problems](4-20.pdf), [Solutions](4-20-ans.pdf)
+* [HW2 Problems](4-13-labor.pdf), [Solutions ](4-13-ans-labor.pdf)
+* [HW1 Problems](4-13.pdf), [Solutions](4-13-ans.pdf)
 
 #### Practice and Miscellaneous
 * [5/18 Practice Problems](5-18.pdf)
 * [Post-Midterm 2 Feel Goods](https://www.youtube.com/watch?v=6at5gBa4ZbI)
 * [Money Multiplier Explained and Illustrated](moneymultiplier.pdf)
-* [5/11 Practice Problems](5-11-practice.pdf), [5/11 Practice Solutions](5-11-practice-ans.pdf)
-* [5/04 Practice Problems](5-04-practice.pdf), [5/04 Practice Solutions](5-04-practice-ans.pdf)
+* [5/11 Practice Problems](5-11-practice.pdf), [Solutions](5-11-practice-ans.pdf)
+* [5/04 Practice Problems](5-04-practice.pdf), [ Solutions](5-04-practice-ans.pdf)
 * [Post-Midterm 1 Feel Goods](https://www.youtube.com/watch?v=zZAwFcsSkFk)
-* [4/06 Practice Problems](4-06.pdf), [4/06 Practice Solutions](4-06-ans.pdf)
+* [4/06 Practice Problems](4-06.pdf), [Solutions](4-06-ans.pdf)
 
 
 ### Lecture

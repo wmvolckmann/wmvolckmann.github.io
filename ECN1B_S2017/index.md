@@ -8,6 +8,10 @@ order: 1.1
 ### Section Materials
 Homework solutions won't be posted until after the assignment due dates.
 
+#### Recent Materials
+* [Post-Midterm 2 Feel Goods](https://www.youtube.com/watch?v=6at5gBa4ZbI)
+* [5/18 Practice Problems](5-18.pdf)
+
 #### Homework
 * [HW6 Solutions](5-18-hw-ans.pdf)
 * [HW5 Solutions](5-11hw.pdf)
@@ -17,8 +21,6 @@ Homework solutions won't be posted until after the assignment due dates.
 * [HW1 Problems](4-13.pdf), [Solutions](4-13-ans.pdf)
 
 #### Practice and Miscellaneous
-* [5/18 Practice Problems](5-18.pdf)
-* [Post-Midterm 2 Feel Goods](https://www.youtube.com/watch?v=6at5gBa4ZbI)
 * [Money Multiplier Explained and Illustrated](moneymultiplier.pdf)
 * [5/11 Practice Problems](5-11-practice.pdf), [Solutions](5-11-practice-ans.pdf)
 * [5/04 Practice Problems](5-04-practice.pdf), [ Solutions](5-04-practice-ans.pdf)

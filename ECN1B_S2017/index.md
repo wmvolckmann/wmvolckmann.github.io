@@ -10,9 +10,10 @@ Homework solutions won't be posted until after the assignment due dates.
 
 #### Recent Materials
 * [Post-Midterm 2 Feel Goods](https://www.youtube.com/watch?v=6at5gBa4ZbI)
-* [5/18 Practice Problems](5-18.pdf)
+* [5/18 Practice Problems](5-18.pdf), [Solutions](5-18-ans.pdf)
 
 #### Homework
+* [HW7 Hints](5-25-hw-hints.pdf)
 * [HW6 Solutions](5-18-hw-ans.pdf)
 * [HW5 Solutions](5-11hw.pdf)
 * [HW4 Solutions](5-04.pdf)

@@ -10,9 +10,9 @@ Homework solutions won't be posted until after the assignment due dates.
 
 #### Recent Materials
 * [Post-Midterm 2 Feel Goods](https://www.youtube.com/watch?v=6at5gBa4ZbI)
+* [HW7 Solutions](5-25-hw-ans.pdf)
 
 #### Homework
-* [HW7 Solutions](5-25-hw-ans.pdf)
 * [HW6 Solutions](5-18-hw-ans.pdf)
 * [HW5 Solutions](5-11-hw.pdf)
 * [HW4 Solutions](5-04.pdf)

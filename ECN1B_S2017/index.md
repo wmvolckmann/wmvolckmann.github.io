@@ -10,7 +10,7 @@ Homework solutions won't be posted until after the assignment due dates.
 
 #### Recent Materials
 * [Post-Midterm 2 Feel Goods](https://www.youtube.com/watch?v=6at5gBa4ZbI)
-* [5/25 Practice Problems](5-25-practice.pdf)
+* [5/25 Practice Solutions](5-25-ans.pdf) (shifters start on page 9)
 * [HW7 Solutions](5-25-hw-ans.pdf)
 
 #### Homework
@@ -22,6 +22,7 @@ Homework solutions won't be posted until after the assignment due dates.
 * [HW1 Problems](4-13.pdf), [Solutions](4-13-ans.pdf)
 
 #### Practice and Miscellaneous
+* [5/25 Practice Problems](5-25-practice.pdf)
 * [5/18 Practice Problems](5-18.pdf), [Solutions](5-18-ans.pdf)
 * [Money Multiplier Explained and Illustrated](moneymultiplier.pdf)
 * [5/11 Practice Problems](5-11-practice.pdf), [Solutions](5-11-practice-ans.pdf)

@@ -10,7 +10,8 @@ Homework solutions won't be posted until after the assignment due dates.
 
 #### Recent Materials
 I've uploaded two alternate midterms 1 and 2 on SmartSite. Since the final is
-cumulative, you should think of them as good practice problems.
+cumulative, you should think of them as good practice problems. (I'll post the
+key eventually.)
 
 
 * [6/01 Homework 8 Hints](6-01-hw-hints.pdf)

@@ -13,9 +13,7 @@ I've uploaded two alternate midterms 1 and 2 on SmartSite. Since the final is
 cumulative, you should think of them as good practice problems. (I'll post the
 key eventually.)
 
-
-* [6/01 Homework 8 Hints](6-01-hw-hints.pdf)
-* [5/25 Practice Solutions](5-25-practice-ans.pdf) (shifters start on page 9)
+* [6/01 Homework 8 Solutions](6-01-hw-ans.pdf)
 
 #### Homework
 * [HW7 Solutions](5-25-hw-ans.pdf)
@@ -27,7 +25,7 @@ key eventually.)
 * [HW1 Problems](4-13.pdf), [Solutions](4-13-ans.pdf)
 
 #### Practice and Miscellaneous
-* [5/25 Practice Problems](5-25-practice.pdf)
+* [5/25 Practice Problems](5-25-practice.pdf), [Solutions](5-25-practice-ans.pdf)
 * [5/18 Practice Problems](5-18.pdf), [Solutions](5-18-ans.pdf)
 * [5/11 Practice Problems](5-11-practice.pdf), [Solutions](5-11-practice-ans.pdf)
 * [5/04 Practice Problems](5-04-practice.pdf), [ Solutions](5-04-practice-ans.pdf)
@@ -35,7 +33,6 @@ key eventually.)
 * [Money Multiplier Explained and Illustrated](moneymultiplier.pdf)
 * [Post-Midterm 2 Feel Goods](https://www.youtube.com/watch?v=6at5gBa4ZbI)
 * [Post-Midterm 1 Feel Goods](https://www.youtube.com/watch?v=zZAwFcsSkFk)
-
 
 
 ### Lecture

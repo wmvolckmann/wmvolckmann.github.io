@@ -12,7 +12,7 @@ Homework solutions won't be posted until after the assignment due dates.
 I've uploaded two alternate midterms 1 and 2 on SmartSite. Since the final is
 cumulative, you should think of them as good practice problems.
 
-{::comment} * [Homework 9 Hints](6-08-hw-hints.pdf) {:/comment}
+* [Homework 9 Hints](6-08-hw-hints.pdf)
 * [Homework 8 Solutions](6-01-hw-ans.pdf)
 
 #### Homework

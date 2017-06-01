@@ -10,19 +10,19 @@ Homework solutions won't be posted until after the assignment due dates.
 
 #### Recent Materials
 I've uploaded two alternate midterms 1 and 2 on SmartSite. Since the final is
-cumulative, you should think of them as good practice problems. (I'll post the
-key eventually.)
+cumulative, you should think of them as good practice problems.
 
-* [6/01 Homework 8 Solutions](6-01-hw-ans.pdf)
+{::comment} * [Homework 9 Hints](6-08-hw-hints.pdf) {:/comment}
+* [Homework 8 Solutions](6-01-hw-ans.pdf)
 
 #### Homework
-* [HW7 Solutions](5-25-hw-ans.pdf)
-* [HW6 Solutions](5-18-hw-ans.pdf)
-* [HW5 Solutions](5-11-hw.pdf)
-* [HW4 Solutions](5-04.pdf)
-* [HW3 Problems](4-20.pdf), [Solutions](4-20-ans.pdf)
-* [HW2 Problems](4-13-labor.pdf), [Solutions ](4-13-ans-labor.pdf)
-* [HW1 Problems](4-13.pdf), [Solutions](4-13-ans.pdf)
+* [Homework 7 Solutions](5-25-hw-ans.pdf)
+* [Homework 6 Solutions](5-18-hw-ans.pdf)
+* [Homework 5 Solutions](5-11-hw.pdf)
+* [Homework 4 Solutions](5-04-hw-ans.pdf)
+* [Homework 3 Solutions](4-20-ans.pdf)
+* [Homework 2 Solutions](4-13-ans-labor.pdf)
+* [Homework 1 Solutions](4-13-hw-ans.pdf)
 
 #### Practice and Miscellaneous
 * [5/25 Practice Problems](5-25-practice.pdf), [Solutions](5-25-practice-ans.pdf)

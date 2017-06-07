@@ -12,10 +12,13 @@ Homework solutions won't be posted until after the assignment due dates.
 I've uploaded two alternate midterms 1 and 2 on SmartSite. Since the final is
 cumulative, you should think of them as good practice problems.
 
-* [Homework 9 Hints](6-08-hw-hints.pdf)
-* [Homework 8 Solutions](6-01-hw-ans.pdf)
+
+* [Post-Midterm 2 Practice Problems](finalpractice.pdf)
+* [Chapter 16 Practice Problems](chapter16practice.pdf)
+* [6/08 Practice Problems](6-08-practice-ans.pdf)
 
 #### Homework
+* [Homework 8 Solutions](6-01-hw-ans.pdf)
 * [Homework 7 Solutions](5-25-hw-ans.pdf)
 * [Homework 6 Solutions](5-18-hw-ans.pdf)
 * [Homework 5 Solutions](5-11-hw.pdf)

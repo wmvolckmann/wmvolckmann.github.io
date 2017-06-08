@@ -16,6 +16,7 @@ cumulative, you should think of them as good practice problems.
 * [Post-Midterm 2 Practice Problems](finalpractice.pdf)
 * [Chapter 16 Practice Problems](chapter16practice.pdf)
 * [6/08 Practice Problems](6-08-practice-ans.pdf)
+* [Homework 9 Solutions](6-08-hw-ans.pdf)
 
 #### Homework
 * [Homework 8 Solutions](6-01-hw-ans.pdf)

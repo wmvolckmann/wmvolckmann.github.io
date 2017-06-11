@@ -12,14 +12,15 @@ Homework solutions won't be posted until after the assignment due dates.
 I've uploaded two alternate midterms 1 and 2 on SmartSite. Since the final is
 cumulative, you should think of them as good practice problems.
 
-Here's a deluge of material that I hope will be helpful for the final. 
+Here's a deluge of material that I hope will be helpful for the final.
 * [Homework 10 Hints](hw10-hints.pdf)
 * [Post-Midterm 2 Practice Problems](finalpractice.pdf)
 * [Chapter 16 Practice Problems](chapter16practice.pdf)
 * [6/08 Practice Problems](6-08-practice-ans.pdf)
-* [Homework 9 Solutions](6-08-hw-ans.pdf)
+* [Makeup Midterm Solutions](makeupkeys.pdf)
 
 #### Homework
+* [Homework 9 Solutions](6-08-hw-ans.pdf)
 * [Homework 8 Solutions](6-01-hw-ans.pdf)
 * [Homework 7 Solutions](5-25-hw-ans.pdf)
 * [Homework 6 Solutions](5-18-hw-ans.pdf)

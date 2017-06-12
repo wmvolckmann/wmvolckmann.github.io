@@ -51,6 +51,7 @@ title:
 * [Homework 5](macrospring/Homework5.pdf)
 * [Homework 6](macrospring/Homework6.pdf)
 * [Homework 7](macrospring/Homework7.pdf)
+* [Homework 8](macrospring/Homework8.pdf)
 * [Discussion 1](macrospring/Discussion1.pdf)
 * [Discussion 2](macrospring/Discussion2.pdf)
 * [Discussion 3](macrospring/Discussion3.pdf)

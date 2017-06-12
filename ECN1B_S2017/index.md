@@ -14,7 +14,8 @@ cumulative, you should think of them as good practice problems.
 
 Here's a deluge of material that I hope will be helpful for the final.
 * [Homework 10 Hints](hw10-hints.pdf)
-* [Post-Midterm 2 Practice Problems](finalpractice.pdf)
+* [Post-Midterm 2 Practice Problems](finalpractice.pdf) (Just fixed a problem
+  with problem 12)
 * [Chapter 16 Practice Problems](chapter16practice.pdf)
 * [6/08 Practice Problems](6-08-practice-ans.pdf)
 * [Makeup Midterm Solutions](makeupkeys.pdf)

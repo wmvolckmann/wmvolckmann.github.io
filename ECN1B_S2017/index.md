@@ -13,12 +13,12 @@ I've uploaded two alternate midterms 1 and 2 on SmartSite. Since the final is
 cumulative, you should think of them as good practice problems.
 
 Here's a deluge of material that I hope will be helpful for the final.
-* [Homework 10 Hints](hw10-hints.pdf)
-* [Post-Midterm 2 Practice Problems](finalpractice.pdf) (just fixed an issue
+* [Homework 10 Solutions](hw10-ans.pdf)
+* [Post-Midterm 2 Practice Problems](finalpractice.pdf) (fixed an issue
   with problem 12)
 * [Chapter 16 Practice Problems](chapter16practice.pdf)
 * [6/08 Practice Problems](6-08-practice-ans.pdf)
-* [Makeup Midterm Key](makeupkeys.pdf) (just fixed some more)
+* [Makeup Midterm Key](makeupkeys.pdf) (fixed a couple)
 
 #### Homework
 * [Homework 9 Solutions](6-08-hw-ans.pdf)

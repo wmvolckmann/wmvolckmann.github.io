@@ -9,6 +9,8 @@ order: 1.1
 Homework solutions won't be posted until after the assignment due dates.
 
 #### Recent Materials
+Note: I will not be able to answer emails after about 4:00pm tomorrow!
+
 I've uploaded two alternate midterms 1 and 2 on SmartSite. Since the final is
 cumulative, you should think of them as good practice problems.
 

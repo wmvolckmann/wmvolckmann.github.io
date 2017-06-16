@@ -3,6 +3,13 @@ layout: page
 title:
 ---
 
+# Micro (Fall)
+* [Chapter 2](microfall/chapter2.pdf)
+* [Chapter 3](microfall/chapter3.pdf)
+* [Chapter 4](microfall/chapter4.pdf)
+* [Chapter 5](microfall/chapter5.pdf)
+* [Chapter 6](microfall/chapter6.pdf)
+
 # Production Functions
 * [Cobb-Douglas](production/CobbDouglasprod.pdf)
 * [Constant Elasticity of Substitution](production/CESprod.pdf)

@@ -8,7 +8,7 @@ order: 9.6
 
 
 ### Lecture
-* Time and Place: MW 4:10–5:50pm, Olson Hall 206
+* Time and Place: MTW 4:10–5:50pm, Olson Hall 206
 {% comment %} * Instructor:
 * Office Hours:
 * Textbook:

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: ECN 101 - Intermediate Macro (Fall 2016)
+title: ECN 101B - Intermediate Macro (Fall 2016)
 order: 9.9
 ---
 

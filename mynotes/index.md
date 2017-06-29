@@ -1,7 +1,7 @@
 ---
 layout: page
 ---
-
+''
 # Micro (Fall)
 * [Chapter 2](microfall/chapter2.pdf)
 * [Chapter 3](microfall/chapter3.pdf)

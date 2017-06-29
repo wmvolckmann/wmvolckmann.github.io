@@ -1,5 +1,7 @@
 ---
+title: First Year Notes
 layout: page
+exclude: true
 ---
 
 # Micro (Fall)

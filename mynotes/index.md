@@ -63,6 +63,7 @@ exclude: true
 * [Discussion 1](macrospring/Discussion1.pdf)
 * [Discussion 2](macrospring/Discussion2.pdf)
 * [Discussion 3](macrospring/Discussion3.pdf)
+* [Intuition](macrospring/intuition.pdf)
 
 # Metrics (Spring)
 * [Homework 1](metricsspring/Homework1.pdf)

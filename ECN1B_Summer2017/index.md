@@ -9,23 +9,22 @@ order: 9.6
 
 ### Lecture
 * Time and Place: MTW 4:10–5:50pm, Olson Hall 206
-{% comment %} * Instructor:
-* Office Hours:
-* Textbook:
-* Midterm 1:
-* Midterm 2:
-* Final Exam:
-{% endcomment %}
+* Instructor: Kristin Van Gaasbeck (kavan at ucdavis.edu)
+* Office Hours: Mondays 6-7:30pm or by appointment  
+* Textbook: Aplia (Mankiw, Brief Principles of Macroeconomics, 7e)
+* Midterm 1: Wednesday, August 16 (Lectures 1–4)
+* Midterm 2: Wednesday, August 30 (Lectures 5–8)
+* Final Exam: Wednesday, September 13 (Lectures 9-12)
 
 
 ### Discussion
 * Me: William M Volckmann II (wmvolckmann at ucdavis.edu)
 * Sections: Thursday 4:10-5:50pm, 6:10-7:50pm, Wellman Hall 212
-* Office Hours: Friday 12-2pm (provisionally), SSH 116
+* Office Hours: Tuesday and Wednesday, 3-4pm, SSH 116
 
 Note that 116 SSH is where I hold my TA office hours, but it's not my actual
 office. So if you go there at some other time hoping to find me, chances are
-you'll find someone who is distinctly not me. 
+you'll find someone who is distinctly not me.
 
 
 ### Contact

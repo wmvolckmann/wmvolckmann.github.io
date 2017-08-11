@@ -4,7 +4,8 @@ title: ECN 1B - Principles of Macro (Summer 2017)
 order: 9.6
 ---
 
-{% comment %} <!--### Section Materials --> {% endcomment %}
+### Section Materials
+* Midterm 1 Multiple Choice Practice, Part 1: [Questions](mt1-practice1-q.pdf), [Answers](mt1-practice1-ans.pdf)
 
 
 ### Lecture

@@ -6,6 +6,7 @@ order: 9.6
 
 ### Section Materials
 * Midterm 1 Multiple Choice Practice, Part 1: [Questions](mt1-practice1-q.pdf), [Answers](mt1-practice1-ans.pdf)
+* Midterm 1 Multiple Choice Practice, Part 2: [Questions](mt1-practice2-q.pdf), [Answers](mt1-practice2-ans.pdf)
 
 
 ### Lecture

@@ -7,10 +7,9 @@ order: 9.6
 ### Section Materials
 
 * Midterm 2 Multiple Choice Practice, Part 1: [Questions](mt2-practice1-q.pdf), [Answers](mt2-practice1-ans.pdf)
+* Midterm 2 Multiple Choice Practice, Part 2: [Questions](mt2-practice2-q.pdf), [Answers](mt2-practice2-ans.pdf)
+* [Canada vs India](canadavsindia.pdf)
 
-{% comment %} * Midterm 2 Multiple Choice Practice, Part 2: [Questions](mt2-practice2-q.pdf), [Answers](mt2-practice2-ans.pdf)
-
-{% endcomment %}
 
 * [Post-Midterm 1 Feel Goods](https://www.youtube.com/watch?v=D23sMvVnrow)
 * Midterm 1 Multiple Choice Practice, Part 1: [Questions](mt1-practice1-q.pdf), [Answers](mt1-practice1-ans.pdf)

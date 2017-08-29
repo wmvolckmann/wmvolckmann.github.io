@@ -12,22 +12,21 @@ sometimes. So you should not use it as your only study resource.  This is just a
 supplement---approach it with some skepticism.
 
 * [Post-Final Feel Goods](https://www.youtube.com/watch?v=y6GaPkkGZGw)
-* [Make-Believe Final Exam](pretend-final.pdf), [Solutions](pretend-final-sol.pdf)
+* [Make-Believe Final Exam](pretend-final.pdf)
 * [Supplementary Chapter 21 Problems](ch21stuff.pdf)
-* [3/13 Problems](discussion-3-13.pdf), [Solutions](discussion-3-13-ans.pdf)
-* [3/06 Problems](discussion-3-06.pdf), [Solutions](discussion-3-06-ans.pdf)
+* [3/13 Problems](discussion-3-13.pdf)
+* [3/06 Problems](discussion-3-06.pdf)
 * [Practice Questions for MT2](mt2pracmc.pdf)
 * [Money Multiplier Explained](moneymultiplier.pdf), [Leverage Ratio and Insolvency](leverageratio.pdf)
-* [2/27 Problems](discussion-2-27.pdf), [Solutions](discussion-2-27-ans.pdf)
+* [2/27 Problems](discussion-2-27.pdf)
 * [2/20 Solutions](discussion-2-20-ans.pdf)
-* [2/13 Problems](discussion-2-13.pdf), [Solutions](discussion-2-13-ans.pdf)
-* [2/06 Problems](discussion-2-06.pdf), [Solutions](discussion-2-06-ans.pdf)
-* [1/30 Problems](discussion-1-30.pdf), [Solutions](discussion-1-30-ans.pdf)
-* [1/23 Problems](discussion-1-23.pdf), [Solutions](discussion-1-23-ans.pdf)
+* [2/13 Problems](discussion-2-13.pdf)
+* [2/06 Problems](discussion-2-06.pdf)
+* [1/30 Problems](discussion-1-30.pdf)
+* [1/23 Problems](discussion-1-23.pdf)
 
 
 ### Lecture
-
 * Instructor: Katheryn Russ
 * Time and Place: MWF 11:00–11:50am, Sciences Lecture Hall 123
 * Office Hours: Tuesday 10am–noon, SSH 1146

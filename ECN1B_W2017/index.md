@@ -5,12 +5,6 @@ order: 9.8
 ---
 
 ### Discussion Materials
-Disclaimer: I haven't seen the final so I am unable to say how accurate a
-representation my make-believe final is. I suspect this is longer and more
-difficult. **I guarantee this is missing important material**. And I make mistakes
-sometimes. So you should not use it as your only study resource.  This is just a
-supplement---approach it with some skepticism.
-
 * [Post-Final Feel Goods](https://www.youtube.com/watch?v=y6GaPkkGZGw)
 * [3/13 Problems](discussion-3-13.pdf)
 * [3/06 Problems](discussion-3-06.pdf)

@@ -6,10 +6,8 @@ order: 9.6
 
 ### Section Materials
 
-
-{% comment %}
 * Final Multiple Choice Practice, Part 1: [Questions](final-practice1-q.pdf), [Answers](final-practice1-ans.pdf)
-{% endcomment %}
+* [Money Multiplier Explained](moneymultiplier.pdf)
 
 * Midterm 2 Multiple Choice Practice, Part 1: [Questions](mt2-practice1-q.pdf), [Answers](mt2-practice1-ans.pdf)
 * Midterm 2 Multiple Choice Practice, Part 2: [Questions](mt2-practice2-q.pdf), [Answers](mt2-practice2-ans.pdf)

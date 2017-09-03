@@ -9,6 +9,7 @@ order: 9.6
 * Final Multiple Choice Practice, Part 2: [Questions](final-practice2-q.pdf), [Answers](final-practice2-ans.pdf)
 * [Money Multiplier Explained](mm.pdf)
 
+* [Post-Midterm 2 Feel Goods](https://www.youtube.com/watch?v=mZ9qIyXabF8)
 * Midterm 2 Multiple Choice Practice, Part 1: [Questions](mt2-practice1-q.pdf), [Answers](mt2-practice1-ans.pdf)
 * Midterm 2 Multiple Choice Practice, Part 2: [Questions](mt2-practice2-q.pdf), [Answers](mt2-practice2-ans.pdf)
 

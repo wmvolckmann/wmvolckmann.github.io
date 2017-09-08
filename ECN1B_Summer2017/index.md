@@ -7,6 +7,7 @@ order: 9.6
 ### Section Materials
 * Final Multiple Choice Practice, Part 1: [Questions](final-practice1-q.pdf), [Answers](final-practice1-ans.pdf)
 * Final Multiple Choice Practice, Part 2: [Questions](final-practice2-q.pdf), [Answers](final-practice2-ans.pdf)
+* [clarifications](clarifications.pdf)
 * [Final AD/AS Shifting Practice](final-shifts.pdf)
 * [Money Multiplier Explained](mm.pdf)
 

@@ -5,7 +5,6 @@ order: 9.7
 ---
 
 ### Section Materials
-* [Post-Final Feel Goods](https://www.youtube.com/watch?v=MdPqtVMkeLI)
 * [Post-Midterm 2 Practice Problems](finalpractice.pdf)
 * [Chapter 16 Practice Problems](chapter16practice.pdf)
 * [6/08 Practice Problems](6-08-practice-ans.pdf)

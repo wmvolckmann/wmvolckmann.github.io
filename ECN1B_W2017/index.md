@@ -5,7 +5,6 @@ order: 9.8
 ---
 
 ### Discussion Materials
-* [Post-Final Feel Goods](https://www.youtube.com/watch?v=y6GaPkkGZGw)
 * [3/13 Problems](discussion-3-13.pdf)
 * [3/06 Problems](discussion-3-06.pdf)
 * [Money Multiplier Explained](moneymultiplier.pdf), [Leverage Ratio and Insolvency](leverageratio.pdf)

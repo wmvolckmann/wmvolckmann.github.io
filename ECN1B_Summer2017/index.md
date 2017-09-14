@@ -5,19 +5,14 @@ order: 9.6
 ---
 
 ### Section Materials
-* Final Multiple Choice Practice, Part 1: [Questions](final-practice1-q.pdf), [Answers](final-practice1-ans.pdf)
-* Final Multiple Choice Practice, Part 2: [Questions](final-practice2-q.pdf), [Answers](final-practice2-ans.pdf)
-* Final AD/AS Shifting Practice: [Questions](final-shifts.pdf), [Answers](final-shifts-ans.pdf)
-* [Clarifications](clarifications.pdf)
-* [Money Multiplier Explained](mm.pdf)
+* Final Multiple Choice Practice, Part 1: [Questions](final-practice1-q.pdf)
+* Final Multiple Choice Practice, Part 2: [Questions](final-practice2-q.pdf)
 
-* [Post-Midterm 2 Feel Goods](https://www.youtube.com/watch?v=_reps5BBHTs)
-* Midterm 2 Multiple Choice Practice, Part 1: [Questions](mt2-practice1-q.pdf), [Answers](mt2-practice1-ans.pdf)
-* Midterm 2 Multiple Choice Practice, Part 2: [Questions](mt2-practice2-q.pdf), [Answers](mt2-practice2-ans.pdf)
+* Midterm 2 Multiple Choice Practice, Part 1: [Questions](mt2-practice1-q.pdf)
+* Midterm 2 Multiple Choice Practice, Part 2: [Questions](mt2-practice2-q.pdf)
 
-* [Post-Midterm 1 Feel Goods](https://www.youtube.com/watch?v=D23sMvVnrow)
-* Midterm 1 Multiple Choice Practice, Part 1: [Questions](mt1-practice1-q.pdf), [Answers](mt1-practice1-ans.pdf)
-* Midterm 1 Multiple Choice Practice, Part 2: [Questions](mt1-practice2-q.pdf), [Answers](mt1-practice2-ans.pdf)
+* Midterm 1 Multiple Choice Practice, Part 1: [Questions](mt1-practice1-q.pdf)
+* Midterm 1 Multiple Choice Practice, Part 2: [Questions](mt1-practice2-q.pdf)
 
 
 ### Lecture

@@ -1,5 +1,5 @@
 ---
-title: Miscellaneous First Year Notes
+title: Misc First Year Notes
 layout: page
 exclude: false
 order: 10.1

@@ -7,7 +7,7 @@ order: 9.8
 ### Discussion Materials
 * [3/13 Problems](discussion-3-13.pdf)
 * [3/06 Problems](discussion-3-06.pdf)
-* [Money Multiplier Explained](moneymultiplier.pdf), [Leverage Ratio and Insolvency](leverageratio.pdf)
+* [Leverage Ratio and Insolvency](leverageratio.pdf)
 * [2/27 Problems](discussion-2-27.pdf)
 * [2/13 Problems](discussion-2-13.pdf)
 * [2/06 Problems](discussion-2-06.pdf)

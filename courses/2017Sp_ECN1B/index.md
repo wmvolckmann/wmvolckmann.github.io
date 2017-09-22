@@ -10,7 +10,6 @@ order: 9.7
 * [6/08 Practice Problems](6-08-practice-ans.pdf)
 * [5/25 Practice Problems](5-25-practice-ans.pdf)
 * [5/18 Practice Problems](5-18-ans.pdf)
-* [Money Multiplier Explained and Illustrated](moneymultiplier.pdf)
 * [5/11 Practice Problems](5-11-practice-ans.pdf)
 * [5/04 Practice Problems](5-04-practice-ans.pdf)
 * [4/06 Practice Problems](4-06-ans.pdf)

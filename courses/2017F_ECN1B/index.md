@@ -7,11 +7,11 @@ order: 9.5
 ### Lecture
 * Instructor: Bagher Modjtahedi
 * Time and Place: MW 6:10–7:30pm, Rock Hall
-* Office Hours:
-* Textbook:
-* Midterm 1:
-* Midterm 2:
-* Final Exam:
+* Office Hours: MW 5-6pm, SSH 147
+* Textbook: Principles of Macroeconomics by B. Modjtahedi (online)
+* Midterm 1: Monday, October 23
+* Midterm 2: Monday, November 20
+* Final Exam: Thursday, December 14
 
 
 ### Discussion

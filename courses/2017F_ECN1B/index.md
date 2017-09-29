@@ -4,6 +4,10 @@ title: ECN 1B - Principles of Macro (Fall 2016)
 order: 9.5
 ---
 
+## Section Materials
+* [Discussion 1](discussion-01.pdf)
+
+
 ### Lecture
 * Instructor: Bagher Modjtahedi
 * Time and Place: MW 6:10–7:30pm, Rock Hall

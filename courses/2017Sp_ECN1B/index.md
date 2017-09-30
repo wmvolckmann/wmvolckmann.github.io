@@ -5,11 +5,7 @@ order: 9.7
 ---
 
 ### Section Materials
-* [5/25 Practice Problems](5-25-practice.pdf)
-* [5/18 Practice Problems](5-18.pdf)
-* [5/11 Practice Problems](5-11-practice.pdf)
-* [5/04 Practice Problems](5-04-practice.pdf)
-* [4/06 Practice Problems](4-06.pdf)
+Removed!
 
 
 ### Lecture

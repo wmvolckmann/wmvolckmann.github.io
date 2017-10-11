@@ -4,9 +4,12 @@ title: ECN 1B - Principles of Macro (Fall 2016)
 order: 9.5
 ---
 
-## Section Materials
-* [Discussion 1](discussion-01.pdf)
+### Section Materials
+You'll need a password to see the solutions; I'll be giving it away in sections.
 
+* [Discussion 1](discussion-01.pdf), [Answers 1](discussion-01-ans.zip)
+* [Discussion 2](discussion-02.pdf), [Answers 2](discussion-02-ans.zip)
+{::comment}swedishfish{:/comment}
 
 ### Lecture
 * Instructor: Bagher Modjtahedi

@@ -7,10 +7,11 @@ order: 9.5
 ### Section Materials
 You'll need a password to see the solutions; I'll be giving it away in sections.
 
-* [Discussion 1](discussion-01.pdf), [Answers 1](discussion-01-ans.zip)
-* [Discussion 2](discussion-02.pdf), [Answers 2](discussion-02-ans.zip)
-* [Discussion 3](discussion-03.pdf), [Answers 3](discussion-03-ans.zip)
-* [Discussion 4](discussion-04.pdf), [Answers 4](discussion-04-ans.zip)
+* [Midterm 1 Practice](midterm1practice.pdf), [Answers](midterm1practice-ans.zip)
+* [Discussion 4](discussion-04.pdf), [Answers](discussion-04-ans.zip)
+* [Discussion 3](discussion-03.pdf), [Answers](discussion-03-ans.zip)
+* [Discussion 2](discussion-02.pdf), [Answers](discussion-02-ans.zip)
+* [Discussion 1](discussion-01.pdf), [Answers](discussion-01-ans.zip)
 {::comment}swedishfish{:/comment}
 
 ### Lecture

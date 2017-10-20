@@ -12,6 +12,10 @@ You'll need a password to see the solutions; I'll be giving it away in sections.
 * [Discussion 3](discussion-03.pdf), [Answers](discussion-03-ans.zip)
 * [Discussion 2](discussion-02.pdf), [Answers](discussion-02-ans.zip)
 * [Discussion 1](discussion-01.pdf), [Answers](discussion-01-ans.zip)
+
+* [Homework 1 Solutions](homework01.zip)
+* [Homework 2 Solutions](homework02.zip)
+* [Homework 3 Solutions](homework03.zip)
 {::comment}swedishfish{:/comment}
 
 ### Lecture

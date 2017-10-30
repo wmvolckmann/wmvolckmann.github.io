@@ -8,6 +8,9 @@ order: 9.5
 You'll need a password to see the solutions; I'll be giving it away in sections.
 
 * [Post-Midterm 1 Feel Goods](https://www.youtube.com/watch?v=_reps5BBHTs )
+
+* [Discussion 5](discussion-05.pdf), [Answers](discussion-05-ans.zip)
+
 * [Midterm 1 Practice](midterm1practice.pdf), [Answers](midterm1practice-ans.zip)
 * [Discussion 4](discussion-04.pdf), [Answers](discussion-04-ans.zip)
 * [Discussion 3](discussion-03.pdf), [Answers](discussion-03-ans.zip)

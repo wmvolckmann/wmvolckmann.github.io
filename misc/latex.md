@@ -1,6 +1,6 @@
 ---
 layout: page
-title: LaTeX Basics
+title: Basic LaTeX Guide
 order: 10.1
 ---
 

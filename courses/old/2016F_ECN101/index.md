@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ECN 101B - Intermed Macro (Fall 2016)
-order: 9.9
+exclude: true
 ---
 
 ## News

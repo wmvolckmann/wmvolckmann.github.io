@@ -10,6 +10,8 @@ You'll need a password to see the solutions; I'll be giving it away in sections.
 #### Midterm 2
 * [Discussion 5](discussion-05.pdf), [Answers](discussion-05-ans.zip)
 
+* [Homework 5 Solutions](homework05.zip)
+
 #### Midterm 1
 * [Post-Midterm 1 Feel Goods](https://www.youtube.com/watch?v=_reps5BBHTs )
 * [Midterm 1 Practice](midterm1practice.pdf), [Answers](midterm1practice-ans.zip)

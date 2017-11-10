@@ -11,6 +11,7 @@ You'll need a password to see the solutions; I'll be giving it away in sections.
 * [Discussion 6](discussion-06.pdf), [Answers](discussion-06-ans.zip)
 * [Discussion 5](discussion-05.pdf), [Answers](discussion-05-ans.zip)
 
+* [Homework 6 Solutions](homework06.zip)
 * [Homework 5 Solutions](homework05.zip)
 
 #### Midterm 1

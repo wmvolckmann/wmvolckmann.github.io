@@ -8,7 +8,7 @@ order: 9.5
 You'll need a password to see the solutions; I'll be giving it away in sections.
 
 #### Midterm 2
-* [Discussion 7](discussion-07.pdf)
+* [Discussion 7](discussion-07.pdf), [Answers](discussion-07-ans.zip)
 * [Discussion 6](discussion-06.pdf), [Answers](discussion-06-ans.zip)
 * [Discussion 5](discussion-05.pdf), [Answers](discussion-05-ans.zip)
 

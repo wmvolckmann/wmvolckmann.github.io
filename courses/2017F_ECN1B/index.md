@@ -5,7 +5,8 @@ order: 9.5
 ---
 
 ### Section Materials
-You'll need a password to see the solutions; I'll be giving it away in sections.
+You'll need a password to see the solutions; I'll be giving it away in sections. (There's a different password
+for MT1/MT2/Final material.)
 
 #### Midterm 2
 * [Discussion 7](discussion-07.pdf), [Answers](discussion-07-ans.zip)

@@ -9,7 +9,9 @@ You'll need a password to see the solutions; I'll be giving it away in sections.
 for MT1/MT2/Final material.)
 
 #### Midterm 2
-It's cumulative, by the way.
+It's cumulative, by the way. Midterm 2 practice is short 'cuz the other materials
+are pretty exhaustive as it is.
+
 * [Midterm 2 Practice](midterm2practice.pdf), [Answers](midterm2practice-ans.zip)
 * [Discussion 8](discussion-08.pdf), [Answers](discussion-08-ans.zip)
 * [Discussion 7](discussion-07.pdf), [Answers](discussion-07-ans.zip)

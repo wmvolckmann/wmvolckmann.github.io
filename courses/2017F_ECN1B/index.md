@@ -10,10 +10,13 @@ for MT1/MT2/Final material.)
 
 #### Midterm 2
 It's cumulative, by the way.
+* [Midterm 2 Practice](midterm2practice.pdf), [Answers](midterm2practice-ans.zip)
+* [Discussion 8](discussion-08.pdf), [Answers](discussion-08-ans.zip)
 * [Discussion 7](discussion-07.pdf), [Answers](discussion-07-ans.zip)
 * [Discussion 6](discussion-06.pdf), [Answers](discussion-06-ans.zip)
 * [Discussion 5](discussion-05.pdf), [Answers](discussion-05-ans.zip)
 
+* [Homework 7 Solutions](homework07.zip)
 * [Homework 6 Solutions](homework06.zip)
 * [Homework 5 Solutions](homework05.zip)
 

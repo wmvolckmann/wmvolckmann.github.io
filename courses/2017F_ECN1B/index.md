@@ -12,7 +12,7 @@ for MT1/MT2/Final material.)
 It's cumulative, by the way. Midterm 2 practice is short 'cuz the other materials
 are pretty exhaustive as it is.
 
-* [Midterm 2 Practice](midterm2practice.pdf), [Answers](midterm2practice-ans.zip)
+* [Midterm 2 Practice](midterm2practice.pdf), [Answers](midterm2practice-ans.zip) (added new question!)
 * [Discussion 8](discussion-08.pdf), [Answers](discussion-08-ans.zip)
 * [Discussion 7](discussion-07.pdf), [Answers](discussion-07-ans.zip)
 * [Discussion 6](discussion-06.pdf), [Answers](discussion-06-ans.zip)

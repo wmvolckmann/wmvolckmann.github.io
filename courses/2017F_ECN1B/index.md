@@ -8,6 +8,10 @@ order: 9.5
 You'll need a password to see the solutions; I'll be giving it away in sections. (There's a different password
 for MT1/MT2/Final material.)
 
+
+#### Final
+* [Discussion 9](discussion-09.pdf)
+
 #### Midterm 2
 
 * [Post-Midterm 2 Feel Goods](https://www.youtube.com/watch?v=D23sMvVnrow)

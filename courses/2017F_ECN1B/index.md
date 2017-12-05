@@ -5,17 +5,17 @@ order: 9.5
 ---
 
 ### Section Materials
-You'll need a password to see the solutions; I'll be giving it away in sections. (There's a different password
-for MT1/MT2/Final material.)
+You'll need a password to see the solutions; I'll be giving it away in sections.
+(There's a different password for MT1/MT2/Final material.)
 
 
 #### Final
+* [Discussion 10](discussion-10.pdf)
 * [Discussion 9](discussion-09.pdf), [Answers](discussion-09-ans.zip)
 
 * [Homework 9 Solutions](homework09.zip)
 
 #### Midterm 2
-
 * [Post-Midterm 2 Feel Goods](https://www.youtube.com/watch?v=D23sMvVnrow)
 * [Midterm 2 Practice](midterm2practice.pdf), [Answers](midterm2practice-ans.zip)
 * [Discussion 8](discussion-08.pdf), [Answers](discussion-08-ans.zip)

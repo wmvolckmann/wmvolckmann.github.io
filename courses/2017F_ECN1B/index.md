@@ -10,7 +10,10 @@ You'll need a password to see the solutions; I'll be giving it away in sections.
 
 
 #### Final
-* [Discussion 10](discussion-10.pdf)
+I think I forgot to give out the password in one of the sessions because I have
+a tiny little brain, so whatever: it's *groceryoutlet*
+
+* [Discussion 10](discussion-10.pdf), [Answers](discussion-10-ans.zip)
 * [Discussion 9](discussion-09.pdf), [Answers](discussion-09-ans.zip)
 
 * [Homework 9 Solutions](homework09.zip)

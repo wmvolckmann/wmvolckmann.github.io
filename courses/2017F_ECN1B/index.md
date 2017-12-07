@@ -13,9 +13,11 @@ You'll need a password to see the solutions; I'll be giving it away in sections.
 I think I forgot to give out the password in one of the sessions because I have
 a tiny little brain, so whatever: it's *groceryoutlet*
 
+* [Final Practice](finalpractice.zip)
 * [Discussion 10](discussion-10.pdf), [Answers](discussion-10-ans.zip)
 * [Discussion 9](discussion-09.pdf), [Answers](discussion-09-ans.zip)
 
+* [Homework 10 Solutions](homework10.zip)
 * [Homework 9 Solutions](homework09.zip)
 
 #### Midterm 2

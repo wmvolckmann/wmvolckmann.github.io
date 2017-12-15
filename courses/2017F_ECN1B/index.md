@@ -4,48 +4,7 @@ title: ECN 1B - Principles of Macro (Fall 2016)
 order: 9.5
 ---
 
-### Section Materials
-You'll need a password to see the solutions; I'll be giving it away in sections.
-(There's a different password for MT1/MT2/Final material.)
-
-
-#### Final
-I think I forgot to give out the password in one of the sessions because I have
-a tiny little brain, so whatever: it's *groceryoutlet*
-
-* [Final Practice](finalpractice.zip)
-* [Discussion 10](discussion-10.pdf), [Answers](discussion-10-ans.zip)
-* [Discussion 9](discussion-09.pdf), [Answers](discussion-09-ans.zip)
-
-* [Homework 10 Solutions](homework10.zip)
-* [Homework 9 Solutions](homework09.zip)
-
-#### Midterm 2
-* [Post-Midterm 2 Feel Goods](https://www.youtube.com/watch?v=D23sMvVnrow)
-* [Midterm 2 Practice](midterm2practice.pdf), [Answers](midterm2practice-ans.zip)
-* [Discussion 8](discussion-08.pdf), [Answers](discussion-08-ans.zip)
-* [Discussion 7](discussion-07.pdf), [Answers](discussion-07-ans.zip)
-* [Discussion 6](discussion-06.pdf), [Answers](discussion-06-ans.zip)
-* [Discussion 5](discussion-05.pdf), [Answers](discussion-05-ans.zip)
-
-* [Homework 8 Solutions](homework08.zip)
-* [Homework 7 Solutions](homework07.zip)
-* [Homework 6 Solutions](homework06.zip)
-* [Homework 5 Solutions](homework05.zip)
-
-#### Midterm 1
-* [Post-Midterm 1 Feel Goods](https://www.youtube.com/watch?v=_reps5BBHTs )
-* [Midterm 1 Practice](midterm1practice.pdf), [Answers](midterm1practice-ans.zip)
-* [Discussion 4](discussion-04.pdf), [Answers](discussion-04-ans.zip)
-* [Discussion 3](discussion-03.pdf), [Answers](discussion-03-ans.zip)
-* [Discussion 2](discussion-02.pdf), [Answers](discussion-02-ans.zip)
-* [Discussion 1](discussion-01.pdf), [Answers](discussion-01-ans.zip)
-
-* [Homework 4 Solutions](homework04.zip)
-* [Homework 3 Solutions](homework03.zip)
-* [Homework 2 Solutions](homework02.zip)
-* [Homework 1 Solutions](homework01.zip)
-
+* [Post-Final Feel Goods](https://www.youtube.com/watch?v=MdPqtVMkeLI)
 
 ### Lecture
 * Instructor: Bagher Modjtahedi

@@ -1,8 +1,9 @@
 ---
 layout: page
 title: ECN 1B - Principles of Macro (Fall 2016)
-order: 9.5
+exclude: true
 ---
+
 
 * [Post-Final Feel Goods](https://www.youtube.com/watch?v=MdPqtVMkeLI)
 

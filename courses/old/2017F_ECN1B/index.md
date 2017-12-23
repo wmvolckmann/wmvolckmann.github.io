@@ -4,8 +4,9 @@ title: ECN 1B - Principles of Macro (Fall 2016)
 exclude: true
 ---
 
+### Section Materials
+Removed!
 
-* [Post-Final Feel Goods](https://www.youtube.com/watch?v=MdPqtVMkeLI)
 
 ### Lecture
 * Instructor: Bagher Modjtahedi

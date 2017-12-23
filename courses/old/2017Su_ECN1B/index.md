@@ -5,14 +5,7 @@ exclude: true
 ---
 
 ### Section Materials
-* Final Multiple Choice Practice, Part 1: [Questions](final-practice1-q.pdf)
-* Final Multiple Choice Practice, Part 2: [Questions](final-practice2-q.pdf)
-
-* Midterm 2 Multiple Choice Practice, Part 1: [Questions](mt2-practice1-q.pdf)
-* Midterm 2 Multiple Choice Practice, Part 2: [Questions](mt2-practice2-q.pdf)
-
-* Midterm 1 Multiple Choice Practice, Part 1: [Questions](mt1-practice1-q.pdf)
-* Midterm 1 Multiple Choice Practice, Part 2: [Questions](mt1-practice2-q.pdf)
+Removed!
 
 
 ### Lecture

@@ -4,15 +4,8 @@ title: ECN 1B - Principles of Macro (Winter 2017)
 exclude: true
 ---
 
-### Discussion Materials
-* [3/13 Problems](discussion-3-13.pdf)
-* [3/06 Problems](discussion-3-06.pdf)
-* [Leverage Ratio and Insolvency](leverageratio.pdf)
-* [2/27 Problems](discussion-2-27.pdf)
-* [2/13 Problems](discussion-2-13.pdf)
-* [2/06 Problems](discussion-2-06.pdf)
-* [1/30 Problems](discussion-1-30.pdf)
-* [1/23 Problems](discussion-1-23.pdf)
+### Section Materials
+Removed!
 
 
 ### Lecture

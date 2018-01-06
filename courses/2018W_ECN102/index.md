@@ -16,7 +16,7 @@ order: 9.5
 
 ### Discussion
 * Me: William M Volckmann II (wmvolckmann at ucdavis.edu)
-* Office Hours: Monday 3-5pm, 116 SSH
+* Office Hours: Wednesday, 3-5pm, 116 SSH
 * Sections: Wednesday
   * 5:10-6pm, Hutchison Hall 93
   * 6:10-7pm, Hutchison Hall 93

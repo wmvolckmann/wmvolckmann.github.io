@@ -6,8 +6,7 @@ order: 9.5
 
 ### Section Materials
 
-[carsdata.dta](http://cameron.econ.ucdavis.edu/stata/carsdata.dta)
-[carsdata.csv](http://cameron.econ.ucdavis.edu/stata/carsdata.csv)
+Week 1: [carsdata.dta](http://cameron.econ.ucdavis.edu/stata/carsdata.dta), [carsdata.csv](http://cameron.econ.ucdavis.edu/stata/carsdata.csv)
 
 ### Lecture
 * Instructor: Prof. A. Colin Cameron

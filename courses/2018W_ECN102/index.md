@@ -4,6 +4,11 @@ title: ECN 102 - Analysis of Econ Data (Winter 2018)
 order: 9.5
 ---
 
+### Section Materials
+
+[carsdata.dta](http://cameron.econ.ucdavis.edu/stata/carsdata.dta)
+[carsdata.csv](http://cameron.econ.ucdavis.edu/stata/carsdata.csv)
+
 ### Lecture
 * Instructor: Prof. A. Colin Cameron
 * Time and Place: Tu Th 9:00–10:20pm, Hunt 100

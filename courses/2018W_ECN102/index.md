@@ -5,9 +5,8 @@ order: 9.5
 ---
 
 ### Section Materials
-Week 2: [do files](dofiles.pdf), [do file example](doexample.do)
-
-Week 1: [handout](discussion-01.pdf),
+* Week 2: [do files](dofiles.pdf), [do file example](doexample.do)
+* Week 1: [handout](discussion-01.pdf),
 [carsdata.dta](http://cameron.econ.ucdavis.edu/stata/carsdata.dta),
 [carsdata.csv](http://cameron.econ.ucdavis.edu/stata/carsdata.csv),
 [bees.dta](bees.dta)

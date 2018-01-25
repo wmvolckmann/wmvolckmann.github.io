@@ -5,7 +5,8 @@ order: 9.5
 ---
 
 ### Section Materials
-* Week 3: [handout](discussion-03.pdf), [handout do file](handout-disc03.do)
+* Week 3: [handout](discussion-03.pdf), [handout do file](handout-disc03.do),
+[clarifications](disc03-clarifications.pdf)
 * Week 2: [handout](discussion-02.pdf), [do files](dofiles.pdf),
 [do file example](doexample.do)
 * Week 1: [handout](discussion-01.pdf),

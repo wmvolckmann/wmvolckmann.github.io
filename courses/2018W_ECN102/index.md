@@ -5,6 +5,7 @@ order: 9.5
 ---
 
 ### Section Materials
+* Week 6-7:[MT2 2014 Comments](mt2_2014.pdf) 
 * Week 5: [handout](discussion-05.pdf)
 * Week 4: [handout](discussion-04.pdf), [lags](lags.do)
 * Week 3: [handout](discussion-03.pdf), [handout do file](handout-disc03.do),

@@ -5,7 +5,7 @@ order: 9.5
 ---
 
 ### Section Materials
-* Week 7: [random MT2 comments](mt2.pdf) 
+* Week 7: [random MT2 comments](mt2.pdf), [chapter 9 things](ch9things.pdf) 
 * Week 5: [handout](discussion-05.pdf)
 * Week 4: [handout](discussion-04.pdf), [lags](lags.do)
 * Week 3: [handout](discussion-03.pdf), [handout do file](handout-disc03.do),

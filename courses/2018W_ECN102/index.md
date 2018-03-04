@@ -5,7 +5,6 @@ order: 9.5
 ---
 
 ### Section Materials
-
 * Week 9: [F Test](ftest.pdf)
 * [Post-Midterm 2 Feel Goods](https://www.youtube.com/watch?v=D23sMvVnrow)
 * Week 7: [random MT2 comments](mt2.pdf), [chapter 9 things](ch9things.pdf)

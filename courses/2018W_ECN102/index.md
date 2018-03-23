@@ -6,18 +6,8 @@ order: 9.5
 
 
 ### Section Materials
-* Week 10: [random final comments pt1](finalstuff1.pdf), [more final stuff](morefinalstuff.pdf)
-* Week 9: [F Test](ftest.pdf)
-* Week 7: [random MT2 comments](mt2.pdf), [chapter 9 things](ch9things.pdf)
-* Week 5: [handout](discussion-05.pdf)
-* Week 4: [handout](discussion-04.pdf), [lags](lags.do)
-* Week 3: [handout](discussion-03.pdf), [handout do file](handout-disc03.do)
-* Week 2: [handout](discussion-02.pdf), [do files](dofiles.pdf),
-[do file example](doexample.do)
-* Week 1: [handout](discussion-01.pdf),
-[carsdata.dta](http://cameron.econ.ucdavis.edu/stata/carsdata.dta),
-[carsdata.csv](http://cameron.econ.ucdavis.edu/stata/carsdata.csv),
-[bees.dta](bees.dta)
+* [Post-Final Feel Goods](https://www.youtube.com/watch?v=_reps5BBHTs)
+
 
 ### Lecture
 * Instructor: Prof. A. Colin Cameron

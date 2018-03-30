@@ -22,14 +22,14 @@ order: 9.5
 ### Discussion
 * Me: William M Volckmann II (wmvolckmann at ucdavis.edu)
 
-[comment]: <> * Office Hours: Wednesday, 3-5pm, 116 SSH
-[comment]: <> * Sections: Wednesday
+* Office Hours: M,W 12-1pm, 116 SSH
+* Sections: Wednesday
 [comment]: <> * 5:10-6pm, Hutchison Hall 93
 [comment]: <> * 6:10-7pm, Hutchison Hall 93
 
-[comment]: <>  Note that 116 SSH is where I hold my TA office hours, but it's not my actual
-[comment]: <> office. So if you go there at some other time hoping to find me, chances are
-[comment]: <> you'll find someone who is distinctly not me.
+Note that 116 SSH is where I hold my TA office hours, but it's not my actual
+office. So if you go there at some other time hoping to find me, chances are
+you'll find someone who is distinctly not me.
 
 
 ### Contact

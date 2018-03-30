@@ -1,12 +1,12 @@
 ---
 layout: page
 title: ECN 102 - Analysis of Econ Data (Winter 2018)
-order: 9.5
+exclude: true
 ---
 
 
 ### Section Materials
-* [Post-Final Feel Goods](https://www.youtube.com/watch?v=_reps5BBHTs)
+Removed!
 
 
 ### Lecture

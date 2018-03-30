@@ -24,6 +24,7 @@ order: 9.5
 
 * Office Hours: M,W 12-1pm, 116 SSH
 * Sections: Wednesday
+
 [comment]: <> * 5:10-6pm, Hutchison Hall 93
 [comment]: <> * 6:10-7pm, Hutchison Hall 93
 

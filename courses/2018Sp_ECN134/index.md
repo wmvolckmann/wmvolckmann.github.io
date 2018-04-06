@@ -6,7 +6,7 @@ order: 9.5
 
 
 ### Section Materials
-
+* Week 1: [formulas](week1-formulas.pdf), [derivations](week1-perpannu.pdf)
 
 ### Lecture
 * Instructor: Madhav Chandrasekher

@@ -11,7 +11,7 @@ Pointing out typos is always appreciated!
 
 ### Lecture
 * Instructor: Madhav Chandrasekher (mchandrasekher at ucdavis.edu)
-* Time and Place: M,W,F 3:10–4:00pm, Storer Hall 1322
+* Time and Place: M W F 3:10–4:00pm, Storer Hall 1322
 
 [comment]: <> * Office Hours: Tu 3:30-5:00pm, W 2:00-3:30pm, SSH 1124
 [comment]: <> * Textbook: available at Davis Copy Maxx
@@ -23,7 +23,7 @@ Pointing out typos is always appreciated!
 ### Discussion
 * Me: William M Volckmann II (wmvolckmann at ucdavis.edu)
 
-* Office Hours: M,W 12-1pm, 116 SSH
+* Office Hours: M W 12-1pm, 116 SSH
 * Sections: Wednesday
 
 [comment]: <> * 5:10-6pm, Hutchison Hall 93

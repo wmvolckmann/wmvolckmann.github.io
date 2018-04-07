@@ -6,6 +6,7 @@ order: 9.5
 
 
 ### Section Materials
+Pointing out typos is always appreciated!
 * Week 1: [formulas](week1-formulas.pdf), [derivations](week1-perpannu.pdf)
 
 ### Lecture

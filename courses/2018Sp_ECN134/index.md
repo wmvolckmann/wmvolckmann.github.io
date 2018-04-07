@@ -10,7 +10,7 @@ Pointing out typos is always appreciated!
 * Week 1: [formulas](week1-formulas.pdf), [derivations](week1-perpannu.pdf)
 
 ### Lecture
-* Instructor: Madhav Chandrasekher
+* Instructor: Madhav Chandrasekher (mchandrasekher at ucdavis.edu)
 * Time and Place: M,W,F 3:10–4:00pm, Storer Hall 1322
 
 [comment]: <> * Office Hours: Tu 3:30-5:00pm, W 2:00-3:30pm, SSH 1124

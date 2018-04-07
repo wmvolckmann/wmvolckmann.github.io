@@ -6,7 +6,9 @@ order: 9.5
 
 
 ### Section Materials
-Pointing out typos is always appreciated!
+Disclaimer: these are formulas that I gather are important. However, my judgment
+could be off. So use this as a (hopefully) convenient reference, not as a core
+reference. (Also, pointing out typos is always appreciated!)
 * Week 1: [formulas](week1-formulas.pdf), [derivations](week1-perpannu.pdf)
 
 ### Lecture

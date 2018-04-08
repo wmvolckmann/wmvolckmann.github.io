@@ -14,19 +14,15 @@ important!) Also, pointing out typos is always appreciated.
 
 ### Lecture
 * Instructor: Madhav Chandrasekher (mchandrasekher at ucdavis.edu)
-* Time and Place: M W F 3:10–4:00pm, Storer Hall 1322
-
-[comment]: <> * Office Hours: Tu 3:30-5:00pm, W 2:00-3:30pm, SSH 1124
-[comment]: <> * Textbook: available at Davis Copy Maxx
-[comment]: <> * Midterm 1: Thursday, February 1, during class
-[comment]: <> * Midterm 2: Thursday, February 22, during class
-[comment]: <> * Final Exam: Thursday, March 22, 3:30-5:30pm
-
+* Time and Place: MWF 3:10–4:00pm, Storer Hall 1322
+* Office Hours: by appointment
+* [Textbook](http://book.ivo-welch.info/read/)
+* Midterm: Friday, May 11
+* Final: Thursday, June 14, 1-3pm, Storer Hall 1322
 
 ### Discussion
 * Me: William M Volckmann II (wmvolckmann at ucdavis.edu)
-
-* Office Hours: M W 12-1pm, 116 SSH
+* Office Hours: MW 12-1pm, 116 SSH
 * Sections: Wednesday
 
 [comment]: <> * 5:10-6pm, Hutchison Hall 93
@@ -35,7 +31,6 @@ important!) Also, pointing out typos is always appreciated.
 Note that 116 SSH is where I hold my TA office hours, but it's not my actual
 office. So if you go there at some other time hoping to find me, chances are
 you'll find someone who is distinctly not me.
-
 
 ### Contact
 On a busyness scale from 1-10, I'm at about 10-$$\epsilon$$, so I might not be

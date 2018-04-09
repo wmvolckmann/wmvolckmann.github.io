@@ -23,7 +23,7 @@ important!) Also, pointing out typos is always appreciated.
 ### Discussion
 * Me: William M Volckmann II (wmvolckmann at ucdavis.edu)
 * Office Hours: MW 12-1pm, 116 SSH
-* Sections: Wednesday
+* Sections: Wednesday, probably alternating each week
 
 [comment]: <> * 5:10-6pm, Hutchison Hall 93
 [comment]: <> * 6:10-7pm, Hutchison Hall 93

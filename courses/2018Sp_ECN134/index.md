@@ -6,9 +6,8 @@ order: 9.5
 
 
 ### Section Materials
-Disclaimer: these are formulas that I gather are important. However, my judgment
-could be off. So use this as a (hopefully) convenient reference, not as a core
-reference. (This is my way of saying, don't blame me if I omitted something
+Disclaimer: this is stuff that I gather is important. However, my judgment
+could be off. (This is my way of saying, don't blame me if I omitted something
 important!) Also, pointing out typos is always appreciated.
 * Week 3: [options](week3-options.pdf)
 * Week 2: [formulas](week2-formulas.pdf)

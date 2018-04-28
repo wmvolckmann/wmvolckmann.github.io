@@ -9,7 +9,7 @@ order: 9.5
 Disclaimer: this is stuff that I gather is important. However, my judgment
 could be off. (This is my way of saying, don't blame me if I omitted something
 important!) Also, pointing out typos is always appreciated.
-* Week 4: [options](week4-formulas.pdf)
+* Week 4: [formulas](week4-formulas.pdf)
 * Week 3: [options](week3-options.pdf)
 * Week 2: [formulas](week2-formulas.pdf)
 * Week 1: [formulas](week1-formulas.pdf), [derivations](week1-perpannu.pdf)

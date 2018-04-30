@@ -17,7 +17,7 @@ important!) Also, pointing out typos is always appreciated.
 ### Lecture
 * Instructor: Madhav Chandrasekher (mchandrasekher at ucdavis.edu)
 * Time and Place: MWF 3:10–4:00pm, Storer Hall 1322
-* Office Hours: by appointment
+* Office Hours: Thursday, 12-2pm, SSH 147
 * [Textbook](http://book.ivo-welch.info/read/)
 * Midterm: Friday, May 11
 * Final: Thursday, June 14, 1-3pm, Storer Hall 1322

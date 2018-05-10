@@ -9,7 +9,7 @@ order: 9.5
 Disclaimer: this is stuff that I gather is important (and can fit on one page).
 However, my judgment could be off. (This is my way of saying, don't blame me if
 I omitted something important!) Also, pointing out typos is always appreciated.
-* Week 6: [promised face value](section5exam-facevalue)
+* Week 6: [promised face value](section5exam-facevalue.pdf)
 * Week 5: [synopsis](week5-synopsis.pdf)
 * Week 4: [formulas](week4-formulas.pdf)
 * Week 3: [options](week3-options.pdf)

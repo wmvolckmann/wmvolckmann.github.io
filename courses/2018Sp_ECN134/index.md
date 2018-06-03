@@ -9,7 +9,7 @@ order: 9.5
 Disclaimer: this is stuff that I gather is important (and can fit on one page).
 However, my judgment could be off. (This is my way of saying, don't blame me if
 I omitted something important!) Also, pointing out typos is always appreciated.
-* Week 8: [synopsi (Modigliani-Miller)](week8-synopsis.pdf)
+* Week 8: [synopsis (Modigliani-Miller)](week8-synopsis.pdf)
 * Week 7: [synopsis (beta, CAPM)](week7-synopsis.pdf)
 * Week 6: [post-midterm feel goods](https://www.youtube.com/watch?v=BcyYQXTHIV8)
 * Week 5: [synopsis (Arrow-Pratt)](week5-synopsis.pdf)

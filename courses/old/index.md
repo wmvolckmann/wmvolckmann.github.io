@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Old Courses
-order: 9.6
+order: 9.7
 ---
 <div class="home">
   <ul type="disc">

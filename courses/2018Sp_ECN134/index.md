@@ -6,10 +6,6 @@ order: 9.5
 
 
 ### Section Materials
-Disclaimer: this is stuff that I gather is important (and can fit on one page).
-However, my judgment could be off. (This is my way of saying, don't blame me if
-I omitted something important!) Also, pointing out typos is always appreciated.
-
 * [post-final feel goods](https://www.youtube.com/watch?v=6zbsUtQL4nY)
 
 

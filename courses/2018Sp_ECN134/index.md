@@ -10,9 +10,10 @@ Disclaimer: this is stuff that I gather is important (and can fit on one page).
 However, my judgment could be off. (This is my way of saying, don't blame me if
 I omitted something important!) Also, pointing out typos is always appreciated.
 
+* [post-final feel goods](https://www.youtube.com/watch?v=6zbsUtQL4nY)
 * Week 8: [Modigliani-Miller](week8-synopsis.pdf)
 * Week 7: [beta & CAPM](week7-synopsis.pdf)
-* Week 6: [post-midterm feel goods](https://www.youtube.com/watch?v=BcyYQXTHIV8)
+* [post-midterm feel goods](https://www.youtube.com/watch?v=BcyYQXTHIV8)
 * Week 5: [CARA & Arrow-Pratt](week5-synopsis.pdf)
 * Week 4: [replication & risk](week4-formulas.pdf)
 * Week 3: [options](week3-options.pdf)

@@ -22,7 +22,7 @@ order: 9.6
 * Sections: Thursday
   * 10:00-11:40AM, Wellman Hall 230
   * 12:10-1:50PM, Wellman Hall 7
-* Office Hours: Wednesday 4:00-6:00pm, 147 SSH
+* Office Hours: Wednesday 4:00-6:00pm, SSH 116
 
 [comment]: <Office Hours: Tuesday 12-2pm, 116 SSH>
 

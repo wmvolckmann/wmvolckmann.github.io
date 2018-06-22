@@ -1,12 +1,10 @@
 ---
 layout: page
-title: ECN 1B - Principles of Macro (Fall 2016)
+title: ECN 1B - Principles of Macro (Fall 2017)
 exclude: true
 ---
 
-### Section Materials
-Removed!
-
+Mean/Mediation Evaluation: 4.8/5.0
 
 ### Lecture
 * Instructor: Bagher Modjtahedi

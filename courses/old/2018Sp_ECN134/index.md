@@ -4,8 +4,8 @@ title: ECN 134 - Financial Economics (Spring 2018)
 exclude: true
 ---
 
-### Section Materials
-Removed!
+
+Mean/Mediation Evaluation: 4.7/5.0
 
 
 ### Lecture

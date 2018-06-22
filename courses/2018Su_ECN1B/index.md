@@ -11,8 +11,10 @@ order: 9.6
 * Instructor: Bagher Modjtahedi (bmodjtahedi at ucdavis.edu)
 * Time and Place: MTW 6:10–7:50pm, Everson Hall 176
 * Textbook: Principles of Macroeconomics by B. Modjtahedi
-
-[comment]: <Office Hours: MW 5:00-6:00pm and by appointment, 147 SSH>
+* Office Hours: Monday, 4:00-6:00pm and by appointment, 147 SSH
+* Midterm 1: Monday, July 9, 6:10-7:10pm
+* Midterm 2: Monday, July 23, 6:10-7:10pm
+* Final: Wednesday, August 1, 6:10-7:40pm
 
 
 ### Discussion
@@ -20,6 +22,7 @@ order: 9.6
 * Sections: Thursday
   * 10:00-11:40AM, Wellman Hall 230
   * 12:10-1:50PM, Wellman Hall 7
+* Office Hours: Wednesday 4:00-6:00pm, 147 SSH
 
 [comment]: <Office Hours: Tuesday 12-2pm, 116 SSH>
 

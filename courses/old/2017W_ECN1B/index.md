@@ -4,7 +4,7 @@ title: ECN 1B - Principles of Macro (Winter 2017)
 exclude: true
 ---
 
-Mean/Mediation Evaluation: 4.3/4.0
+Mean/Median Evaluation: 4.3/4.0
 
 
 ### Lecture

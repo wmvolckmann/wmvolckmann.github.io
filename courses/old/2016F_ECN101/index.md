@@ -4,7 +4,7 @@ title: ECN 101B - Intermed Macro (Fall 2016)
 exclude: true
 ---
 
-Mean/Mediation Evaluation: 4.5/5.0
+Mean/Median Evaluation: 4.5/5.0
 
 
 ### Lecture

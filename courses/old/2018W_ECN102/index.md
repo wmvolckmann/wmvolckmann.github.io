@@ -4,8 +4,7 @@ title: ECN 102 - Analysis of Econ Data (Winter 2018)
 exclude: true
 ---
 
-
-Mean/Mediation Evaluation: 4.9/5.0
+Mean/Median Evaluation: 4.9/5.0
 
 
 ### Lecture

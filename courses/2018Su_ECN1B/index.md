@@ -4,7 +4,8 @@ title: ECN 1B - Principles of Macro (Summer 2018)
 order: 9.6
 ---
 
-[comment]: <### Section Materials>
+### Section Materials
+Week 1: [part 1](week01-01.pdf), [part 2](week01-02.pdf)
 
 
 ### Lecture

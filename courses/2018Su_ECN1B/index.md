@@ -20,8 +20,8 @@ order: 9.6
 ### Discussion
 * Me: William M Volckmann II (wmvolckmann at ucdavis.edu)
 * Sections: Thursday
-  * 10:00-11:40AM, Wellman Hall 230
-  * 12:10-1:50PM, Wellman Hall 7
+  * 10:00-11:40am, Wellman Hall 230
+  * 12:10-1:50am, Hart Hall 1130
 * Office Hours: Wednesday 4:00-6:00pm, SSH 116
 
 [comment]: <Office Hours: Tuesday 12-2pm, 116 SSH>

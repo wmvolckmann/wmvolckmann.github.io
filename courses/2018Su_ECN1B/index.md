@@ -5,7 +5,7 @@ order: 9.6
 ---
 
 ### Section Materials
-Week 1: [part 1](week01-01.pdf), [part 2](week01-02.pdf)
+Week 1: [part 1](week01-01.pdf), [solutions](week01-01-ans.pdf), [part 2](week01-02.pdf), [solutions](week01-02-ans.pdf)
 
 
 ### Lecture

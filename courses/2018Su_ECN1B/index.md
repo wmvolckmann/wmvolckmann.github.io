@@ -6,6 +6,7 @@ order: 9.6
 
 ### Section Materials
 
+* [Post-Midterm 1 Feel Goods](https://www.youtube.com/watch?v=_reps5BBHTs )
 * Week 2: [part 1](week2-part1.pdf), [solutions](week2-part1-ans.pdf); [part 2](week2-part2.pdf), [solutions](week2-part2-ans.pdf); [homework 1 solutions](homework1.pdf)
 * Week 1: [part 1](week1-part1.pdf), [solutions](week1-part1-ans.pdf); [part 2](week1-part2.pdf), [solutions](week1-part2-ans.pdf)
 

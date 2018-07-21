@@ -4,11 +4,15 @@ title: ECN 1B - Principles of Macro (Summer 2018)
 order: 9.6
 ---
 
-### Section Materials
-* Week 4: [part 1](week4-part1-ans.pdf); [part 2](week4-part2-ans.pdf); [part 3](week4-part3-ans.pdf); [money multiplier](mm.pdf); [homework 3 solutions](homework3.pdf)
-* Week 3: [part 1](week3-part1-ans.pdf); [part 2](week3-part2-ans.pdf); [homework 2 solutions](homework2.pdf)
-* Week 2: [part 1](week2-part1-ans.pdf); [part 2](week2-part2-ans.pdf); [homework 1 solutions](homework1.pdf)
+### Section Materials and Homework Solutions
+* Week 4: [part 1](week4-part1-ans.pdf); [part 2](week4-part2-ans.pdf); [part 3](week4-part3-ans.pdf); [money multiplier](mm.pdf) 
+* Week 3: [part 1](week3-part1-ans.pdf); [part 2](week3-part2-ans.pdf)
+* Week 2: [part 1](week2-part1-ans.pdf); [part 2](week2-part2-ans.pdf)
 * Week 1: [part 1](week1-part1-ans.pdf); [part 2](week1-part2-ans.pdf)
+
+* [homework 3 solutions](homework3.pdf)
+* [homework 2 solutions](homework2.pdf)
+* [homework 1 solutions](homework1.pdf)
 
 * [Post-midterm 1 feel goods](https://www.youtube.com/watch?v=_reps5BBHTs )
 

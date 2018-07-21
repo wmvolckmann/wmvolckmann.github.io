@@ -42,5 +42,5 @@ On a busyness scale from 1-10, I'm at about 10-$$\epsilon$$, so I might not be
  able to respond to emails as timely as I'd like. And I probably won't be
  answering emails that come after 10pm or so until the next day.
 
- And before emailing, please try asking yourself: "is this question better
+ And before emailing, please try asking yourself: "Is this question better
  suited for office hours?"

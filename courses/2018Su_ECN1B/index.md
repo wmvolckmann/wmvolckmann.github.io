@@ -5,7 +5,7 @@ order: 9.6
 ---
 
 ### Section Materials and Homework Solutions
-* Week 5: [part 1](week5-part1.pdf); [part 2](week5-part2.pdf); [part 3](week5-part3.pdf); [part 3](week5-part4.pdf);
+* Week 5: [part 1](week5-part1.pdf); [part 2](week5-part2.pdf); [part 3](week5-part3.pdf); [part 4](week5-part4.pdf);
 * Week 4: [part 1](week4-part1-ans.pdf); [part 2](week4-part2-ans.pdf); [part 3](week4-part3-ans.pdf); [money multiplier](mm.pdf)
 * Week 3: [part 1](week3-part1-ans.pdf); [part 2](week3-part2-ans.pdf)
 * Week 2: [part 1](week2-part1-ans.pdf); [part 2](week2-part2-ans.pdf)

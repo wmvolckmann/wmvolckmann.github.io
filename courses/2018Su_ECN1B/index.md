@@ -15,7 +15,7 @@ order: 9.6
 * [Homework 3 solutions](homework3.pdf)
 * [Homework 2 solutions](homework2.pdf)
 * [Homework 1 solutions](homework1.pdf)
-
+w
 * [Post-midterm 2 feel goods](https://youtu.be/D23sMvVnrow)
 * [Post-midterm 1 feel goods](https://youtu.be/_reps5BBHTs)
 

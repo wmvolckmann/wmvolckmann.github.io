@@ -11,6 +11,7 @@ order: 9.6
 * Week 2: [part 1](week2-part1-ans.pdf); [part 2](week2-part2-ans.pdf)
 * Week 1: [part 1](week1-part1-ans.pdf); [part 2](week1-part2-ans.pdf)
 
+* [Homework 4 solutions](homework4.pdf)
 * [Homework 3 solutions](homework3.pdf)
 * [Homework 2 solutions](homework2.pdf)
 * [Homework 1 solutions](homework1.pdf)

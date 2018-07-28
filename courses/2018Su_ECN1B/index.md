@@ -5,7 +5,7 @@ order: 9.6
 ---
 
 ### Section Materials and Homework Solutions
-* Week 6: [shifting practice 1 (from week 5)](week5-part4-ans.pdf); [shifting practice 2 (new)](week6-part1-ans.pdf);
+* Week 6: [shifting practice 1 (from week 5)](week5-part4-ans.pdf); [shifting practice 2 (new)](week6-part1-ans.pdf)
 * Week 5: [part 1](week5-part1-ans.pdf); [part 2](week5-part2-ans.pdf); [part 3](week5-part3-ans.pdf)
 * Week 4: [part 1](week4-part1-ans.pdf); [part 2](week4-part2-ans.pdf); [part 3](week4-part3-ans.pdf); [money multiplier](mm.pdf)
 * Week 3: [part 1](week3-part1-ans.pdf); [part 2](week3-part2-ans.pdf)

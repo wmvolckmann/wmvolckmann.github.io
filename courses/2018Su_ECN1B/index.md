@@ -42,9 +42,7 @@ order: 9.6
 
 
 ### Contact
-On a busyness scale from 1-10, I'm at about 10-$$\epsilon$$, so I might not be
- able to respond to emails as timely as I'd like. And I probably won't be
- answering emails that come after 10pm or so until the next day.
-
- And before emailing, please ask yourself: "Is this question better
- suited for office hours?"
+Email is not a substitute for discussion sections or office hours. Furthermore,
+answering economics questions via email is extremely inefficient. Accordingly, 
+the kind of stuff I will answer over email is limited. Be judicious in what you
+ask.

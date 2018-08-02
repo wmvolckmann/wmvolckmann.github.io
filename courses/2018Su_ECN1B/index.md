@@ -8,7 +8,7 @@ order: 9.6
 
 
 ### Lecture
-* Instructor: Bagher Modjtahedi (bmodjtahedi at ucdavis.edu)
+* Instructor: Bagher Modjtahedi
 * Time and Place: MTW 6:10–7:50pm, Everson Hall 176
 * Textbook: Principles of Macroeconomics by B. Modjtahedi
 * Office Hours: Monday, 4:00-6:00pm and by appointment, 147 SSH
@@ -18,7 +18,7 @@ order: 9.6
 
 
 ### Discussion
-* Me: William M Volckmann II (wmvolckmann at ucdavis.edu)
+* Me: William M Volckmann II
 * Sections: Thursday
   * 10:00-11:40am, Wellman Hall 230
   * 12:10-1:50am, Hart Hall 1130

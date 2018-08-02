@@ -8,7 +8,7 @@ Mean/Median Evaluation: 4.7/5.0
 
 
 ### Lecture
-* Instructor: Madhav Chandrasekher (mchandrasekher at ucdavis.edu)
+* Instructor: Madhav Chandrasekher
 * Time and Place: MWF 3:10–4:00pm, Storer Hall 1322
 * Office Hours: Thursday, 12-2pm, SSH 147
 * [Textbook](http://book.ivo-welch.info/read/)
@@ -17,6 +17,6 @@ Mean/Median Evaluation: 4.7/5.0
 
 
 ### Discussion
-* Me: William M Volckmann II (wmvolckmann at ucdavis.edu)
+* Me: William M Volckmann II 
 * Office Hours: MW 12-1pm, 116 SSH
 * Sections: Wednesday, 5:10-6pm, 6:10-7pm, Wickson 1020

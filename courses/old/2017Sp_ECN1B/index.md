@@ -14,11 +14,11 @@ Mean/Median Evaluation: 4.5/5.0
 * Textbook: Principles of Macroeconomics by B. Modjtahedi
 * Midterm 1: Monday, April 24
 * Midterm 2: Monday, May 15
-* Final Exam: Tuesday, June 13, 8:30-10:30pm (yuck)
+* Final Exam: Tuesday, June 13, 8:30-10:30pm 
 
 
 ### Discussion
-* Me: William M Volckmann II (wmvolckmann at ucdavis.edu)
+* Me: William M Volckmann II
 * Office Hours: Tuesday 12-2pm, 116 SSH
 * Sections: Thursday
   * 4:10-5pm, Wellman Hall 25

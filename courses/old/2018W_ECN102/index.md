@@ -18,7 +18,7 @@ Mean/Median Evaluation: 4.9/5.0
 
 
 ### Discussion
-* Me: William M Volckmann II (wmvolckmann at ucdavis.edu)
+* Me: William M Volckmann II 
 * Office Hours: Wednesday, 3-5pm, 116 SSH
 * Sections: Wednesday
   * 5:10-6pm, Hutchison Hall 93

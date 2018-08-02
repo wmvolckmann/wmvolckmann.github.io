@@ -4,21 +4,7 @@ title: ECN 1B - Principles of Macro (Summer 2018)
 order: 9.6
 ---
 
-### Section Materials and Homework Solutions
-* Week 6: [shifting practice 1 (from week 5)](week5-part4-ans.pdf); [shifting practice 2 (new)](week6-part1-ans.pdf)
-* Week 5: [part 1](week5-part1-ans.pdf); [part 2](week5-part2-ans.pdf); [part 3](week5-part3-ans.pdf)
-* Week 4: [part 1](week4-part1-ans.pdf); [part 2](week4-part2-ans.pdf); [part 3](week4-part3-ans.pdf); [money multiplier](mm.pdf)
-* Week 3: [part 1](week3-part1-ans.pdf); [part 2](week3-part2-ans.pdf)
-* Week 2: [part 1](week2-part1-ans.pdf); [part 2](week2-part2-ans.pdf)
-* Week 1: [part 1](week1-part1-ans.pdf); [part 2](week1-part2-ans.pdf)
-
-* [Homework 4 solutions](homework4.pdf)
-* [Homework 3 solutions](homework3.pdf)
-* [Homework 2 solutions](homework2.pdf)
-* [Homework 1 solutions](homework1.pdf)
-
-* [Post-midterm 2 feel goods](https://youtu.be/D23sMvVnrow)
-* [Post-midterm 1 feel goods](https://youtu.be/_reps5BBHTs)
+* [Post-final feel goods](https://www.youtube.com/watch?v=MdPqtVMkeLI)
 
 
 ### Lecture
@@ -41,8 +27,8 @@ order: 9.6
 [comment]: <Office Hours: Tuesday 12-2pm, 116 SSH>
 
 
-### Contact
-Email is not a substitute for discussion sections or office hours. Furthermore,
-answering economics questions via email is extremely inefficient. Accordingly, 
-the kind of stuff I will answer over email is limited. Be judicious in what you
-ask.
+[comment]: ### Contact
+[comment]: Email is not a substitute for discussion sections or office hours. Furthermore,
+[comment]: answering economics questions via email is extremely inefficient. Accordingly,
+[comment]: the kind of stuff I will answer over email is limited. Be judicious in what you
+[comment]: ask.

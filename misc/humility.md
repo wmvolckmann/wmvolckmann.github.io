@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Shrine to Humility
-order: 10.1
+order: 10.2
 ---
 
 ### Articles

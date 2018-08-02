@@ -10,7 +10,7 @@ Hi. Here's some random factoids.
 * From [Wisconsin](wisconsin.jpg) (mind the accent)
 * Attended [UW-Madison](uwmadison.jpg); bachelor's degree in math and economics
 * Worked for [Paul Romer](https://en.wikipedia.org/wiki/Paul_Romer)
-* Used to record [mediocre]((https://youtu.be/a8SugaNcU98) [music](https://youtu.be/ZQbgzGuZRXg)
+* Used to record [mediocre](https://youtu.be/a8SugaNcU98) [music](https://youtu.be/ZQbgzGuZRXg)
 * Have been booed off stage before
 * Enjoy lifting weights
 * [My](https://youtu.be/vPQK9yEjJ8E) [best](https://youtu.be/NZAu0g-MDws)

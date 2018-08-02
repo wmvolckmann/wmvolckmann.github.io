@@ -14,14 +14,14 @@ order: 10.2
 
 
 ### Books
-* [Ego is the Enemy](https://www.goodreads.com/book/show/27036528-ego-is-the-enemy)
-* [The Righteous Mind: Why Good People are Divided by Politics and Religion](https://www.goodreads.com/book/show/11324722-the-righteous-mind)
-* [Fooled by Randomness](https://www.goodreads.com/book/show/38315.Fooled_by_Randomness)
-* [The Invisible Gorilla: And Other Ways Our Intuitions Deceive Us](https://www.goodreads.com/book/show/7783191-the-invisible-gorilla)
-* [Thinking, Fast and Slow](https://www.goodreads.com/book/show/11468377-thinking-fast-and-slow)
-* [Predictably Irrational](https://www.goodreads.com/book/show/1713426.Predictably_Irrational)
-* [Calculated Risks: How to Know When Numbers Deceive You](https://www.goodreads.com/book/show/720043.Calculated_Risks)
-* [The Drunkard's Walk: How Randomness Rules Our Lives](https://www.goodreads.com/book/show/2272880.The_Drunkard_s_Walk)
+* [Ryan Holiday  - Ego is the Enemy](https://www.goodreads.com/book/show/27036528-ego-is-the-enemy)
+* [Jonathan Haidt - The Righteous Mind: Why Good People are Divided by Politics and Religion](https://www.goodreads.com/book/show/11324722-the-righteous-mind)
+* [Nassim Nicholas Taleb - Fooled by Randomness](https://www.goodreads.com/book/show/38315.Fooled_by_Randomness)
+* [Chabris & Simons - The Invisible Gorilla: And Other Ways Our Intuitions Deceive Us](https://www.goodreads.com/book/show/7783191-the-invisible-gorilla)
+* [Daniel Kahneman - Thinking, Fast and Slow](https://www.goodreads.com/book/show/11468377-thinking-fast-and-slow)
+* [Dan Ariely - Predictably Irrational](https://www.goodreads.com/book/show/1713426.Predictably_Irrational)
+* [Gerd Gigerenzer - Calculated Risks: How to Know When Numbers Deceive You](https://www.goodreads.com/book/show/720043.Calculated_Risks)
+* [Leonard Mlodinow - The Drunkard's Walk: How Randomness Rules Our Lives](https://www.goodreads.com/book/show/2272880.The_Drunkard_s_Walk)
 
 
 

@@ -5,7 +5,7 @@ order: 10.2
 ---
 
 ### Articles
-* [Alison Jones - For a Modest Personality Trait, 'Intellectual Humility' Packs a Punch!](https://today.duke.edu/2017/03/modest-personality-trait-intellectual-humility-packs-punch)
+* [Alison Jones - For Modest Personality Trait, 'Intellectual Humility' Packs  Punch!](https://today.duke.edu/2017/03/modest-personality-trait-intellectual-humility-packs-punch)
 * [Sean Stevens - Intellectual Humility and Openness to the Opposing View](https://heterodoxacademy.org/research-summary-intellectual-humility-and-openness-to-the-opposing-view/)
 * [Tomas Chamorro-Premuzic - Why confidence is overrated](https://www.cnn.com/2014/10/23/business/opinion-low-confidence-success/index.html)
 * [Kristin Wong - Why Self-Compassion Beats Self-Confidence](https://www.nytimes.com/2017/12/28/smarter-living/why-self-compassion-beats-self-confidence.html)
@@ -14,14 +14,14 @@ order: 10.2
 
 
 ### Books
-* [Ryan Holiday  - Ego is the Enemy](https://www.goodreads.com/book/show/27036528-ego-is-the-enemy)
-* [Jonathan Haidt - The Righteous Mind: Why Good People are Divided by Politics and Religion](https://www.goodreads.com/book/show/11324722-the-righteous-mind)
+* [Ryan Holiday - Ego is the Enemy](https://www.goodreads.com/book/show/27036528-ego-is-the-enemy)
+* [Jonathan Haidt - The Righteous Mind](https://www.goodreads.com/book/show/11324722-the-righteous-mind)
 * [Nassim Nicholas Taleb - Fooled by Randomness](https://www.goodreads.com/book/show/38315.Fooled_by_Randomness)
-* [Chabris & Simons - The Invisible Gorilla: And Other Ways Our Intuitions Deceive Us](https://www.goodreads.com/book/show/7783191-the-invisible-gorilla)
+* [Chabris & Simons - The Invisible Gorilla](https://www.goodreads.com/book/show/7783191-the-invisible-gorilla)
 * [Daniel Kahneman - Thinking, Fast and Slow](https://www.goodreads.com/book/show/11468377-thinking-fast-and-slow)
 * [Dan Ariely - Predictably Irrational](https://www.goodreads.com/book/show/1713426.Predictably_Irrational)
-* [Gerd Gigerenzer - Calculated Risks: How to Know When Numbers Deceive You](https://www.goodreads.com/book/show/720043.Calculated_Risks)
-* [Leonard Mlodinow - The Drunkard's Walk: How Randomness Rules Our Lives](https://www.goodreads.com/book/show/2272880.The_Drunkard_s_Walk)
+* [Gerd Gigerenzer - Calculated Risks](https://www.goodreads.com/book/show/720043.Calculated_Risks)
+* [Leonard Mlodinow - The Drunkard's Walk](https://www.goodreads.com/book/show/2272880.The_Drunkard_s_Walk)
 
 
 

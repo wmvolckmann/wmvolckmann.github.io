@@ -6,6 +6,7 @@ order: 9.7
 <div class="home">
   <ul type="disc">
     <h2>
+      <li><a class="page-link" href="/courses/old/2018Su_ECN1B/">ECN 1B - Principles of Macro (Summer 2018)</a></li>
       <li><a class="page-link" href="/courses/old/2018Sp_ECN134/">ECN 134 - Financial Economics (Spring 2018)</a></li>
       <li><a class="page-link" href="/courses/old/2018W_ECN102/">ECN 102 - Analysis of Econ Data (Winter 2018)</a></li>
       <li><a class="page-link" href="/courses/old/2017F_ECN1B/">ECN 1B - Principles of Macro (Fall 2017)</a></li>

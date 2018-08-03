@@ -4,8 +4,6 @@ title: ECN 1B - Principles of Macro (Summer 2018)
 order: 9.6
 ---
 
-* [Post-final feel goods](https://www.youtube.com/watch?v=MdPqtVMkeLI)
-
 
 ### Lecture
 * Instructor: Bagher Modjtahedi

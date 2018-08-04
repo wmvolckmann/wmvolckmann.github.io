@@ -30,4 +30,5 @@ order: 10.2
 * [Brian Regan - The ME Monster](https://youtu.be/-yQGfxC1QI0)
 * [David Foster Wallace - This Is Water](https://youtu.be/8CrOL-ydFMI)
 * [Wellesley High School - You Are Not Special](https://youtu.be/_lfxYhtf8o4)
+* [David Litt - The secret power of self-deprecation](https://www.pbs.org/video/imho-1508534731/)
 * “John Bardeen won two Nobel Prizes in physics, and all who write about Bardeen remember him as a quiet and modest person. His hobby was golf, and many years after his second prize his long-time golf partner asked him, ‘Just what is it you do for a living’? Apparently Bardeen had never worked the two Nobel Prizes into conversations with his golf partner.” Hargittai, István. *The road to Stockholm: Nobel Prizes, science, and scientists.* OUP Oxford, 2002.

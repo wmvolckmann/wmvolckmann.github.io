@@ -4,6 +4,8 @@ title: ECN 1B - Principles of Macro (Summer 2018)
 exclude: true
 ---
 
+Mean/Median Evaluation: 5.0/5.0
+
 
 ### Lecture
 * Instructor: Bagher Modjtahedi

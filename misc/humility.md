@@ -11,7 +11,7 @@ order: 10.2
 * [Kristin Wong - Why Self-Compassion Beats Self-Confidence](https://www.nytimes.com/2017/12/28/smarter-living/why-self-compassion-beats-self-confidence.html)
 * [Greg Myre - Nelson Mandela And The Virtue Of Compromise](https://www.npr.org/sections/parallels/2013/12/08/249562974/nelson-mandela-and-the-virtue-of-compromise)
 * [Mark Sherman - Why We Don't Give Each Other a Break](https://www.psychologytoday.com/us/blog/real-men-dont-write-blogs/201406/why-we-dont-give-each-other-break)
-
+* [David Robson - Can high intelligence be a burden rather than a boon?](http://www.bbc.com/future/story/20150413-the-downsides-of-being-clever)
 
 
 ### Books

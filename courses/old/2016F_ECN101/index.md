@@ -19,7 +19,7 @@ Mean/Median Evaluation: 4.5/5.0
 
 
 ### Discussion
-* Me: William M Volckmann II 
+* Me: William M Volckmann II
 * Office Hours: Monday 1:00-3:00pm, 116 SSH
 * Sections: Monday
   * 6:10-7:00pm, Bainer Hall 1130

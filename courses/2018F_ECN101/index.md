@@ -12,10 +12,12 @@ order: 9
 * Online Textbook: [Macroeconomics, Mankiw, 9th edition](http://inclusiveaccess.ucdavis.edu/)
 * Midterm 1: Wednesday, October 24
 * Midterm 2: Friday, November 16
-* Final Exam: December 11, 10:30am, Wellman 2
+* Final Exam: December 11, 10:30am
 
 
 ### Discussion
 * Me: William M Volckmann II
 * Office Hours: ???
-* Sections: ???
+* Sections: Tuesday, Olson Hall 250
+  * 7:10-8:00pm
+  * 8:10-9:00pm

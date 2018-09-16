@@ -3,6 +3,10 @@ layout: page
 title: LaTeX Online Editor
 order: 10.1
 ---
-I use this all the time but keep forgetting where to find it. Now I won't forget.
 
-<iframe src = "https://www.codecogs.com/latex/eqneditor.php" width="700" height="600" frameborder="0"></iframe>
+
+I use this a lot but keep forgetting where to find it. This way I won't forget.
+Anyway, enter some LaTeX into the box below and it'll render.
+
+<iframe src="http://latex.codecogs.com/eqneditor/editor.php?design=:urc,bg,size,format"
+width="600" height="500" frameBorder="0"></iframe>

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: LaTeX Online Editor
+title: LaTeX Editor
 order: 10.1
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: LaTeX Starter Guide
-order: 10.1
+order: 10.2
 ---
 
 For Windows, you'll probably want to use MiKTeX, which can be found [here](http://miktex.org/download).

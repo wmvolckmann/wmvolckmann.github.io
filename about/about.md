@@ -8,7 +8,7 @@ order: 10.4
 Hi. Here's some random factoids.
 
 * From [Wisconsin](wisconsin.jpg) (mind the accent)
-* Attended [UW-Madison](uwmadison.jpg); bachelor's degree in math and economics
+* Bachelor's degree in math and economics from [UW-Madison](uwmadison.jpg); 
 * Worked for [Paul Romer](https://en.wikipedia.org/wiki/Paul_Romer) prior to Davis
 * Used to record [mediocre](https://youtu.be/a8SugaNcU98) [music](https://youtu.be/ZQbgzGuZRXg)
 * Have been booed off stage before

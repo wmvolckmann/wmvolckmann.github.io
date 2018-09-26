@@ -4,8 +4,11 @@ title: ECN 102 - Analysis of Econ Data (Fall 2018)
 order: 9
 ---
 
-### Lecture
+### Section Materials
+* Week 01: [Basic R Stuff.pdf](Rsheet-01.pdf)
 
+
+### Lecture
 * Instructor: Mark Siegler
 * Time and Place: MWF 9:00-9:50am, Everson Hall 176
 * Office Hours: Monday, 2-4pm, SSH 143

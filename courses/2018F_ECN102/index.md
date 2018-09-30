@@ -5,7 +5,7 @@ order: 9
 ---
 
 ### Section Materials
-* Week 02: [nytoilets.csv](nytoilets.csv)
+* Week 02: [1516PerkinsCDR.xlsx](1516PerkinsCDR.xlsx), [nytoilets.csv](nytoilets.csv)
 * Week 01: [Basic R Stuff.pdf](Rsheet-01.pdf)
 
 

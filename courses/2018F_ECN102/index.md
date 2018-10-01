@@ -5,9 +5,11 @@ order: 9
 ---
 
 ### Section Materials
-* Week 02: [R Sheet 02.pdf](Rsheet-02.pdf), [1516PerkinsCDR.xlsx](1516PerkinsCDR.xlsx), [nytoilets.csv](nytoilets.csv)
-* Week 01: [R Sheet 01.pdf](Rsheet-01.pdf)
+* Week 02: [1516PerkinsCDR.xlsx](1516PerkinsCDR.xlsx), [nytoilets.csv](nytoilets.csv)
 
+### R Sheets
+* [R Sheet 02.pdf](Rsheet-02.pdf)
+* [R Sheet 01.pdf](Rsheet-01.pdf)
 
 ### Lecture
 * Instructor: Mark Siegler

@@ -5,7 +5,6 @@ order: 9
 ---
 
 ### Section Materials
-
 * Week 02: [Problems](Discussion-01.pdf), [1516PerkinsCDR.xlsx](1516PerkinsCDR.xlsx), [nytoilets.csv](nytoilets.csv)
 
 ### R Sheets

@@ -4,8 +4,11 @@ title: ECN 102 - Analysis of Econ Data (Fall 2018)
 order: 9
 ---
 
+
 ### Section Materials
 * Discussion 01: [Problems](Discussion-01.pdf), [R script](discussion-01.R), [1516PerkinsCDR.xlsx](1516PerkinsCDR.xlsx), [nytoilets.csv](nytoilets.csv)
+
+Note that R scripts can be loaded into RStudio's script editor (File -> Open File)
 
 ### R Sheets
 * [R Sheet 02.pdf](Rsheet-02.pdf)

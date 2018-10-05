@@ -74,14 +74,14 @@ perkins[davis_name, c(1,2,5)]
 skewness(perkins$default_rate)
 kurtosis(perkins$default_rate)
 
-png(file = "default_histogram.png")
+png(file = "default_histogram.png")     #saved to your working directory
 hist(perkins$default_rate,
      xlab = "Default Rate",
      main = "Perkins Loan Default Rate Histogram"
      )
 dev.off() 
 
-png(file = "default_density.png")
+png(file = "default_density.png")       #saved to your working directory
 plot(density(perkins$default_rate),
      xlab = "Default Rate",
      main = "Perkins Loan Default Rate Density"
@@ -98,11 +98,11 @@ boroughtoiletnum
 
 pie(boroughtoiletnum)
 
-png(file = "toilet_pie.png")
+png(file = "toilet_pie.png")    #saved to your working directory
 pie(boroughtoiletnum,
     labels = boroughtoiletnum,
     col = gray.colors(length(boroughtoiletnum)),
-    main = "Toilets per NYC Borough"
+    main = "Public toilets in each NYC Borough"
     )
 legend("topright", 
        names(boroughtoiletnum),
@@ -110,10 +110,9 @@ legend("topright",
       )
 dev.off() 
 
-png(file = "toilet_bar.png")
+png(file = "toilet_bar.png")     #saved to your working directory
 barplot(boroughtoiletnum,
         width=1,
-        main = "Toilets per NYC Borough"
+        main = "Public toilets in each NYC Borough"
         )
 dev.off()
-

@@ -10,6 +10,10 @@ order: 9
 
 Note that R scripts can be loaded into RStudio's script editor (File -> Open File)
 
+If you really want to get tooled up, learn how to write up your homework in LaTeX.
+[Here](https://www.overleaf.com/read/ntswjnmttfjs) is a template and
+[here](http://www.wimivo.com/misc/latex/) is a quick guide.
+
 ### R Sheets
 * [R Sheet 02.pdf](Rsheet-02.pdf)
 * [R Sheet 01.pdf](Rsheet-01.pdf)

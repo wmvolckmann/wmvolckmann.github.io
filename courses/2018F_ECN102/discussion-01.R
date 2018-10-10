@@ -2,14 +2,12 @@
 ##### only needed once #####
 #install.packages("modeest")
 #install.packages("moments")
-#install.packages("stargazer")
 #install.packages("rio")
 
 
 ##### Load libraries #####
 library("modeest")
 library("moments")
-library("stargazer")
 library("rio")
 
 
@@ -59,3 +57,17 @@ mysummary <- function(mysummary_arg)
 }
 
 mysummary(donuts)
+
+boxplot(donuts,
+        main = "Boxplot for Donut Consumption",
+        ylab = "Donuts Consumed"
+)
+
+donuttable <- table(donuts)
+pie(donuttable,
+    main = "Donuts Consumed by Grad students",
+    labels = c("1 donut (43%)",
+              "2 donuts (14%)",
+              "6 donuts (43%)"
+              )
+)

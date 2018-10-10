@@ -6,7 +6,8 @@ order: 9
 
 
 ### Section Materials
-* Discussion 01: [Problems](Discussion-01.pdf), [R script](discussion-01.R), [1516PerkinsCDR.xlsx](1516PerkinsCDR.xlsx), [nytoilets.csv](nytoilets.csv)
+* Discussion 02: [Problems](Discussion-02.pdf)
+* Discussion 01: [Problems](Discussion-01.pdf), [R script](discussion-01.R)
 
 Note that R scripts can be loaded into RStudio's script editor (File -> Open File)
 

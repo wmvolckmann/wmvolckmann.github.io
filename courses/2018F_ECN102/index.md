@@ -6,7 +6,7 @@ order: 9
 
 
 ### Section Materials
-* Discussion 02: [Problems](Discussion-02.pdf)
+* Discussion 02: [Problems](Discussion-02.pdf), [Solutions](Discussion-02-ans.pdf)
 * Discussion 01: [Problems](Discussion-01.pdf), [R script](discussion-01.R)
 
 Note that R scripts can be loaded into RStudio's script editor (File -> Open File)

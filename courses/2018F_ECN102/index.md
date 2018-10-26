@@ -8,7 +8,7 @@ order: 9
 ### Section Materials
 * [Post-Quiz 1 Feel Goods](https://youtu.be/_reps5BBHTs)
 
-* Nov 01: [Regressions](Discussion-05.pdf)
+* Nov 01: [Regressions](Discussion-05.pdf), [Degrees of Freedom Explained](df.pdf)
 * Oct 25: [Testing](Discussion-04.pdf), [Variance and Chi-Squared Example](testvariancechi.pdf)
 * Oct 18: [Problems](Discussion-03.pdf), [Solutions](Discussion-03-ans.pdf)
 * Oct 11: [Problems](Discussion-02.pdf), [Solutions](Discussion-02-ans.pdf)

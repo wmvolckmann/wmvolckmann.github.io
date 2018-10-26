@@ -18,6 +18,7 @@ Note that R scripts can be loaded into RStudio's script editor (File -> Open Fil
 
 
 ### R Sheets
+* [R Sheet 04.pdf](Rsheet-04.pdf)
 * [R Sheet 03.pdf](Rsheet-03.pdf)
 * [R Sheet 02.pdf](Rsheet-02.pdf)
 * [R Sheet 01.pdf](Rsheet-01.pdf)

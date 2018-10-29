@@ -8,7 +8,7 @@ order: 9
 ### Section Materials
 * [Post-Quiz 1 Feel Goods](https://youtu.be/_reps5BBHTs)
 
-Oct 28: added some stuff about chi-squared, F test, correlation testing. If there
+Oct 28: added some stuff about chi-squared test, F test, correlation testing. If there
 is anything in particular you'd like me to cover on Thursday, feel free to send
 me an email, I am open to any and all suggestions.
 

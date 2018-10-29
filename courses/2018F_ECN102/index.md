@@ -8,7 +8,9 @@ order: 9
 ### Section Materials
 * [Post-Quiz 1 Feel Goods](https://youtu.be/_reps5BBHTs)
 
-Oct 28: added some stuff about chi-squared, F test, correlation testing
+Oct 28: added some stuff about chi-squared, F test, correlation testing. If there
+is anything in particular you'd like me to cover on Thursday, feel free to send
+me an email, I am open to any and all suggestions.
 
 * Nov 01: [Regressions](Discussion-05.pdf), [Degrees of Freedom Explained](df.pdf)
 * Oct 25: [Testing](Discussion-04.pdf), [Variance Testing Examples](chiandFexamples.pdf)

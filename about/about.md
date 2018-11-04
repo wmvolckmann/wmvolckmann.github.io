@@ -8,6 +8,7 @@ order: 10.4
 Hi. Here's some random factoids.
 
 * Contact me at wmvolckmann at ucdavis dot edu
+* I am not Mr. Volckmann. Don't call me that. It's gross.
 * From [Wisconsin](wisconsin.jpg) (mind the accent)
 * Bachelor's degree in math and economics from [UW-Madison](uwmadison.jpg)
 * Worked for [Paul Romer](https://en.wikipedia.org/wiki/Paul_Romer) prior to Davis

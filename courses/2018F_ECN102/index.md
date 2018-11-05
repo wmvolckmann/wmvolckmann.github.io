@@ -10,7 +10,7 @@ order: 9
 
 Nov 01: added calculation for slope standard error to end of "Regressions"
 
-* Nov 01: [Regressions](Discussion-05.pdf), [Degrees of Freedom Explained](df.pdf)
+* Nov 01: [Regressions](Discussion-05.pdf), [Degrees of Freedom Explained Kind Of](df.pdf)
 * Oct 25: [Testing](Discussion-04.pdf), [Variance Testing Examples](chiandFexamples.pdf)
 * Oct 18: [Problems](Discussion-03.pdf), [Solutions](Discussion-03-ans.pdf)
 * Oct 11: [Problems](Discussion-02.pdf), [Solutions](Discussion-02-ans.pdf)

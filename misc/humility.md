@@ -24,8 +24,6 @@ order: 10.3
 * [Gerd Gigerenzer - Calculated Risks](https://www.goodreads.com/book/show/720043.Calculated_Risks)
 * [Leonard Mlodinow - The Drunkard's Walk](https://www.goodreads.com/book/show/2272880.The_Drunkard_s_Walk)
 
-
-
 ### Videos and Quotes
 * [Brian Regan - The ME Monster](https://youtu.be/-yQGfxC1QI0)
 * [David Foster Wallace - This Is Water](https://youtu.be/8CrOL-ydFMI)

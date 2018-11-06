@@ -12,7 +12,7 @@ order: 10.3
 * [Greg Myre - Nelson Mandela And The Virtue Of Compromise](https://www.npr.org/sections/parallels/2013/12/08/249562974/nelson-mandela-and-the-virtue-of-compromise)
 * [Mark Sherman - Why We Don't Give Each Other a Break](https://www.psychologytoday.com/us/blog/real-men-dont-write-blogs/201406/why-we-dont-give-each-other-break)
 * [David Robson - Can high intelligence be a burden rather than a boon?](http://www.bbc.com/future/story/20150413-the-downsides-of-being-clever)
-
+* [Rose Eveleth - You Don't Know As Much As You Think You Do](https://www.smithsonianmag.com/smart-news/you-dont-know-as-much-as-you-think-you-do-65764329/)
 
 ### Books
 * [Ryan Holiday - Ego is the Enemy](https://www.goodreads.com/book/show/27036528-ego-is-the-enemy)

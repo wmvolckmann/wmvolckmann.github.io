@@ -9,6 +9,7 @@ order: 9
 * [Post-Quiz 1 Feel Goods](https://youtu.be/_reps5BBHTs)
 * [Post-Quiz 2 Feel Goods](https://youtu.be/zvEWFjWfqiU)
 
+* Nov 15: [Multiple Regression and Dummy Variables](Discussion-07.pdf), [wages.csv](wages.csv), [R Script](wages.R)
 * Nov 08: [Functional Forms](Discussion-06.pdf), [hcle.csv](hcle.csv), [R Script](hcle.R)
 * Nov 01: [Regressions](Discussion-05.pdf), [Degrees of Freedom Explained Kinda](df.pdf)
 * Oct 25: [Testing](Discussion-04.pdf), [Variance Testing Examples](chiandFexamples.pdf)

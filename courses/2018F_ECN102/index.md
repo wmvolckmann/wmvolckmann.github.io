@@ -35,7 +35,7 @@ Note that R scripts can be loaded into RStudio's script editor (File -> Open Fil
 * Textbook: reading packet from Davis Copy Max
 * Quiz 1: Monday, October 15
 * Quiz 2: Monday, November 5
-* Quiz 3: Monday, November 26... ???????
+* Quiz 3: lol?
 * Final Exam: Thursday, December 13, 3:30-5:30pm
 
 

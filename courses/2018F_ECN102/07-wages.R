@@ -1,4 +1,5 @@
 library("stargazer")
+
 wages <- read.csv("wages.csv")
 
 reg1 <- lm(wage ~ educ, data = wages)

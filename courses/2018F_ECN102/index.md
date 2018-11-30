@@ -8,19 +8,21 @@ order: 9
 ### Section Materials
 * [Post-Quiz 1 Feel Goods](https://youtu.be/_reps5BBHTs)
 * [Post-Quiz 2 Feel Goods](https://youtu.be/zvEWFjWfqiU)
-
-* Nov 27: [Multiple Regression and Dummy Variables](Discussion-07.pdf), [wages.csv](wages.csv), [R Script](wages.R)
-* Nov 08: [Functional Forms](Discussion-06.pdf), [hcle.csv](hcle.csv), [R Script](hcle.R)
-* Nov 01: [Regressions](Discussion-05.pdf), [Degrees of Freedom Explained Kinda](df.pdf)
-* Oct 25: [Testing](Discussion-04.pdf), [Variance Testing Examples](chiandFexamples.pdf)
-* Oct 18: [Problems](Discussion-03.pdf), [Solutions](Discussion-03-ans.pdf)
-* Oct 11: [Problems](Discussion-02.pdf), [Solutions](Discussion-02-ans.pdf)
-* Oct 04: [Problems](Discussion-01.pdf), [R script](discussion-01.R)
+* Dec 06: [F-tests](08-Ftests.pdf), [Other Tests](08-OtherTests.pdf), [F Script](08-Ftest.R),
+[BP Script](08-BPtest.R), [RESET Script](08-RESET.R), [JB Script](08-JBtest.R)
+* Nov 27: [Multiple Regression and Dummy Variables](07-multipleregression.pdf), [wages.csv](wages.csv), [R Script](07-wages.R)
+* Nov 08: [Functional Forms](06-functionalforms.pdf), [hcle.csv](hcle.csv), [R Script](06-hcle.R)
+* Nov 01: [Regressions](05-regressions.pdf), [Degrees of Freedom Explained Kinda](05-df.pdf)
+* Oct 25: [Testing](04-tests.pdf), [Variance Testing Examples](04-chiandFexamples.pdf)
+* Oct 18: [Problems](03-CIpvalue.pdf), [Solutions](03-CIpvalue-ans.pdf)
+* Oct 11: [Problems](02-sampling.pdf), [Solutions](02-sampling-ans.pdf)
+* Oct 04: [Problems](01-summarystats.pdf), [R script](01-summarystats.R)
 
 Note that R scripts can be loaded into RStudio's script editor (File -> Open File)
 
 
 ### R Sheets
+* [R Sheet 06.pdf](Rsheet-06.pdf)
 * [R Sheet 05.pdf](Rsheet-05.pdf)
 * [R Sheet 04.pdf](Rsheet-04.pdf)
 * [R Sheet 03.pdf](Rsheet-03.pdf)

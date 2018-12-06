@@ -4,9 +4,6 @@ title: ECN 102 - Analysis of Econ Data (Winter 2018)
 exclude: true
 ---
 
-Mean/Median Evaluation: 4.9/5.0
-
-
 ### Lecture
 * Instructor: Prof. A. Colin Cameron
 * Time and Place: Tu Th 9:00–10:20pm, Hunt 100
@@ -18,7 +15,7 @@ Mean/Median Evaluation: 4.9/5.0
 
 
 ### Discussion
-* Me: William M Volckmann II 
+* Me: William M Volckmann II
 * Office Hours: Wednesday, 3-5pm, 116 SSH
 * Sections: Wednesday
   * 5:10-6pm, Hutchison Hall 93

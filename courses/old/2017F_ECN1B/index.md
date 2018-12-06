@@ -4,9 +4,6 @@ title: ECN 1B - Principles of Macro (Fall 2017)
 exclude: true
 ---
 
-Mean/Median Evaluation: 4.8/5.0
-
-
 ### Lecture
 * Instructor: Bagher Modjtahedi
 * Time and Place: MW 6:10–7:30pm, Rock Hall
@@ -14,7 +11,7 @@ Mean/Median Evaluation: 4.8/5.0
 * Textbook: Principles of Macroeconomics by B. Modjtahedi (online)
 * Midterm 1: Monday October 23, 6:10-7:30pm
 * Midterm 2: Monday November 20, 6:10-7:30pm
-* Final Exam: Thursday December 14, 8:30-10:30pm 
+* Final Exam: Thursday December 14, 8:30-10:30pm
 
 
 ### Discussion

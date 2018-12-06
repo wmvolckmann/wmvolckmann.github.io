@@ -4,9 +4,6 @@ title: ECN 1B - Principles of Macro (Winter 2017)
 exclude: true
 ---
 
-Mean/Median Evaluation: 4.3/4.0
-
-
 ### Lecture
 * Instructor: Katheryn Russ
 * Time and Place: MWF 11:00–11:50am, Sciences Lecture Hall 123
@@ -18,7 +15,7 @@ Mean/Median Evaluation: 4.3/4.0
 
 
 ### Discussion
-* Me: William M Volckmann II 
+* Me: William M Volckmann II
 * Office Hours: Thursday 2-4pm, 118 SSH
 * Sections: Monday
   * 3:10-4pm, Hoagland Hall 113

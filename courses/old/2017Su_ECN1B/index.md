@@ -4,9 +4,6 @@ title: ECN 1B - Principles of Macro (Summer 2017)
 exclude: true
 ---
 
-Mean/Median Evaluation: 4.4/5.0
-
-
 ### Lecture
 * Time and Place: MTW 4:10–5:50pm, Olson Hall 206
 * Instructor: Kristin Van Gaasbeck

@@ -4,9 +4,6 @@ title: ECN 134 - Financial Economics (Spring 2018)
 exclude: true
 ---
 
-Mean/Median Evaluation: 4.7/5.0
-
-
 ### Lecture
 * Instructor: Madhav Chandrasekher
 * Time and Place: MWF 3:10–4:00pm, Storer Hall 1322
@@ -17,6 +14,6 @@ Mean/Median Evaluation: 4.7/5.0
 
 
 ### Discussion
-* Me: William M Volckmann II 
+* Me: William M Volckmann II
 * Office Hours: MW 12-1pm, 116 SSH
 * Sections: Wednesday, 5:10-6pm, 6:10-7pm, Wickson 1020

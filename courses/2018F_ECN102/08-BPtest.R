@@ -3,21 +3,18 @@ library("lmtest")
 
 wages <- read.csv("wages.csv")
 
+### unrestricted regression
 reg <- lm(wage ~ educ + IQ + sibs + brthord, data = wages)
 
-### square residuals
-uhatsq = reg$residuals^2  
+uhatsq = reg$residuals^2                    ### square residuals
 
 ### regress squared residuals
 auxreg <- lm(uhatsq ~ educ + IQ + sibs + brthord, data = wages)  
 
-### calculate R squared for auxiliary uhat^2 regression
-RSSuhat = sum(auxreg$residuals^2)
-TSSuhat = sum((uhatsq - mean(uhatsq))^2)
-Rsquhat = 1 - RSSuhat/TSSuhat
-
 ### calculate F-statistic and p-value
-F  = (Rsquhat/(4)) / ((1 - Rsquhat)/(847))  
-pv = pf(F, 4, 847, lower.tail=FALSE)  
+Rsquhat = summary(auxreg)$r.squared         ### R-squared for auxiliary
+F  = (Rsquhat/(4)) / ((1 - Rsquhat)/(847))  ### F-statistic
+pv = pf(F, 4, 847, lower.tail=FALSE)        ### p-value
 
+### be lazy and let R give you the p-value
 summary(auxreg)

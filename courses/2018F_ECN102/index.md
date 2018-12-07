@@ -49,6 +49,6 @@ Note that R scripts can be loaded into RStudio's script editor (File -> Open Fil
 ### Discussion
 * Me: William M Volckmann II
 * Office Hours: Thursday 2-4pm, SSH 116
-* Sections: Thursday, Hutchison Hall 93
+* Sections: Thursday, Hutchinson Hall 93
   * 11:00-11:50am
   * 12:10-1:00pm

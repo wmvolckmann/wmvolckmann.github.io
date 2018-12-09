@@ -13,6 +13,8 @@ Disclaimer: this isn't an exhaustive set of material you should know; consider
 it to be entirely supplementary. (This is my way of saying, don't blame me if
 I omitted something here, because I certainly did.)
 
+12/09: Updated BP test section in F-tests
+
 * Dec 06: [F-tests](08-Ftests.pdf), [Other Tests](08-OtherTests.pdf), [F Script](08-Ftest.R),
 [BP Script](08-BPtest.R), [RESET Script](08-RESET.R), [JB Script](08-JBtest.R)
 * Nov 27: [Multiple Regression and Dummy Variables](07-multipleregression.pdf), [wages.csv](wages.csv), [R Script](07-wages.R)

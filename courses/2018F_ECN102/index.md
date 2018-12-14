@@ -4,8 +4,6 @@ title: ECN 102 - Analysis of Econ Data (Fall 2018)
 order: 9
 ---
 
-* [Post-Quiz 1 Feel Goods](https://youtu.be/_reps5BBHTs)
-* [Post-Quiz 2 Feel Goods](https://youtu.be/zvEWFjWfqiU)
 * [Post-Final Feel Goods](https://youtu.be/6zbsUtQL4nY)
 
 

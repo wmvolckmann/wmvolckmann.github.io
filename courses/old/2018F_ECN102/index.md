@@ -4,9 +4,6 @@ title: ECN 102 - Analysis of Econ Data (Fall 2018)
 order: 9
 ---
 
-* [Post-Final Feel Goods](https://youtu.be/6zbsUtQL4nY)
-
-
 ### Lecture
 * Instructor: Mark Siegler
 * Time and Place: MWF 9:00-9:50am, Everson Hall 176

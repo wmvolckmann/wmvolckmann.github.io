@@ -16,10 +16,10 @@ exclude: true
 
 ### Discussion
 * Me: William M Volckmann II
+* Office Hours: Wednesday 4:00-6:00pm, SSH 116
 * Sections: Thursday
   * 10:00-11:40am, Wellman Hall 230
   * 12:10-1:50am, Hart Hall 1130
-* Office Hours: Wednesday 4:00-6:00pm, SSH 116
 
 [comment]: <Office Hours: Tuesday 12-2pm, 116 SSH>
 

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ECN 102 - Analysis of Econ Data (Fall 2018)
-order: 9
+exclude: true
 ---
 
 ### Lecture

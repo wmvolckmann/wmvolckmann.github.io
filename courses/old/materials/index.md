@@ -17,6 +17,11 @@ materials. I archive some here for posterity.
 * [R Sheet 03](102-Rsheet-03.pdf)
 * [R Sheet 04](102-Rsheet-04.pdf)
 * [R Sheet 05](102-Rsheet-05.pdf)
+* [Simple Regression](102-simpleregressions.pdf)
+* [Multiple Regression](102-multipleregression.pdf)
+* [Functional Forms](102-functionalforms.pdf)
+
+
 
 ### ECN 134 - Financial Economics
 * [Present Value](134-presentvalue.pdf)

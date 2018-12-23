@@ -8,7 +8,7 @@ order: 9
 * Instructor: Professor Giacomo Bonanno
 * Time and Place: MWF 10:00-10:50am, Wellman Hall 2
 * Office Hours: ??
-* Textbook: [Game Theory](http://faculty.econ.ucdavis.edu/faculty/bonanno/GT_Book.html) by Giacomo Bonanno
+* Textbook: [Game Theory](http://faculty.econ.ucdavis.edu/faculty/bonanno/GT_Book.html) by Giacomo Bonanno (it's freeeee)
 * Midterm 1: ??
 * Midterm 2: ??
 * Midterm 2: ??

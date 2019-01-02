@@ -5,7 +5,7 @@ order: 9
 ---
 
 ### Lecture
-* Instructor: Professor Giacomo Bonanno
+* Instructor: Prof Giacomo Bonanno
 * Time and Place: MWF, 10-10:50am, Wellman Hall 2
 * Office Hours: Thursday, 10:30am-12pm, 2-3:30pm
 * Textbook: [Game Theory](http://faculty.econ.ucdavis.edu/faculty/bonanno/GT_Book.html) by Giacomo Bonanno (it's freeeee)

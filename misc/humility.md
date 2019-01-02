@@ -13,6 +13,7 @@ order: 10.3
 * [Greg Myre - Nelson Mandela And The Virtue Of Compromise](https://www.npr.org/sections/parallels/2013/12/08/249562974/nelson-mandela-and-the-virtue-of-compromise)
 * [Mark Sherman - Why We Don't Give Each Other a Break](https://www.psychologytoday.com/us/blog/real-men-dont-write-blogs/201406/why-we-dont-give-each-other-break)
 * [Neera Chandhoke - The Road to Toleration: On the Ethical Virtue of Doubt](http://www.21global.ucsb.edu/global-e/october-2017/road-toleration-ethical-virtue-doubt)
+* [Tania Lombrozo - A New Goal: Aim To Be Less Wrong](https://www.npr.org/sections/13.7/2018/02/12/585057058/a-new-goal-aim-to-be-less-wrong)
 * [Rose Eveleth - You Don't Know As Much As You Think You Do](https://www.smithsonianmag.com/smart-news/you-dont-know-as-much-as-you-think-you-do-65764329/)
 * [David Robson - Can high intelligence be a burden rather than a boon?](http://www.bbc.com/future/story/20150413-the-downsides-of-being-clever)
 

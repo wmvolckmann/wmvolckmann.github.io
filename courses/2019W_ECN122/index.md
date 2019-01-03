@@ -18,6 +18,6 @@ order: 9
 ### Discussion
 * Me: William M Volckmann II
 * Office Hours: ??
-* Sections:
-  * ??
-  * ??
+* Sections: Monday,
+  * 6:10pm-7pm, Art 204
+  * 7:10pm-8pm, Art 204

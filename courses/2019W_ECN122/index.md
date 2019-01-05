@@ -17,7 +17,7 @@ order: 9
 
 ### Discussion
 * Me: William M Volckmann II
-* Office Hours: ??
+* Office Hours: Wednesday, 11am-1pm, SSH 116
 * Sections: Monday,
-  * 6:10pm-7pm, Art 204
-  * 7:10pm-8pm, Art 204
+  * A01, 6:10pm-7pm, Art 204
+  * A02, 7:10pm-8pm, Art 204

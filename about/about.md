@@ -5,7 +5,7 @@ permalink: /about/
 order: 10.4
 ---
 
-Hi. Here's some random factoids.
+Hi. Here are some random factoids.
 
 * Contact me at wmvolckmann at ucdavis dot edu
 * I am not Mr. Volckmann. Don't call me that. It's gross.

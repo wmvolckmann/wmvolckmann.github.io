@@ -15,7 +15,7 @@ Hi. Here are some random factoids.
 * Used to record [mediocre](https://youtu.be/a8SugaNcU98) [music](https://youtu.be/ZQbgzGuZRXg)
 * Have been booed off stage before
 * Enjoy lifting weights
-* [My](https://youtu.be/vPQK9yEjJ8E) [best](https://youtu.be/NZAu0g-MDws)
+* [My](https://youtu.be/vPQK9yEjJ8E) [best](https://youtu.be/ryGWz79q0TM)
   [friends](https://youtu.be/NmfF18jSU_c) [are](https://youtu.be/vqGo6AzBPvk)
   [stray](https://youtu.be/D8_4oXLJmC4) [cats](https://youtu.be/sO0uWgMzu6E)  
 * You must be really bored if you're reading this

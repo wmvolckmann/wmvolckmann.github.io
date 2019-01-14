@@ -5,8 +5,8 @@ order: 9
 ---
 
 ### Section Materials
-[Discussion 02](Discussion02.pdf)
-[Discussion 01](Discussion01.pdf)
+* [Discussion 02](Discussion02.pdf)
+* [Discussion 01](Discussion01.pdf)
 
 
 ### Lecture

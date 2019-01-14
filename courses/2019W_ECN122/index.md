@@ -4,6 +4,11 @@ title: ECN 122 - Game Theory (Winter 2019)
 order: 9
 ---
 
+### Section Materials
+[Discussion 02](Discussion02.pdf)
+[Discussion 01](Discussion01.pdf)
+
+
 ### Lecture
 * Instructor: Prof Giacomo Bonanno
 * Time and Place: MWF, 10-10:50am, Wellman Hall 2

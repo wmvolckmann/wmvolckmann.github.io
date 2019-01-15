@@ -16,6 +16,7 @@ order: 10.3
 * [Tania Lombrozo - A New Goal: Aim To Be Less Wrong](https://www.npr.org/sections/13.7/2018/02/12/585057058/a-new-goal-aim-to-be-less-wrong)
 * [Rose Eveleth - You Don't Know As Much As You Think You Do](https://www.smithsonianmag.com/smart-news/you-dont-know-as-much-as-you-think-you-do-65764329/)
 * [David Robson - Can high intelligence be a burden rather than a boon?](http://www.bbc.com/future/story/20150413-the-downsides-of-being-clever)
+* [Do you understand less about the world than a monkey?](https://www.gapminder.org/ignorance/gms/)
 
 ### Books
 * [Ryan Holiday - Ego is the Enemy](https://www.goodreads.com/book/show/27036528-ego-is-the-enemy)

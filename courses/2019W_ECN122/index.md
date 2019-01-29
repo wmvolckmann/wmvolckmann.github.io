@@ -6,7 +6,7 @@ order: 9
 
 
 ### Section Materials
-* [Discussion 03](Discussion03.pdf)
+* [Discussion 03](Discussion03.pdf), [Solution](Discussion03_sol.pdf)
 * [Discussion 02](Discussion02.pdf), [Solution](Discussion02_sol.pdf)
 * [Discussion 01](Discussion01.pdf), [Solution](Discussion01_sol.pdf)
 

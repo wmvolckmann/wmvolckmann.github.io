@@ -6,7 +6,7 @@ order: 9
 
 
 ### Section Materials
-* [Week 04](Discussion04.pdf)
+* [Week 04](Discussion04.pdf), [Solution](Discussion04_sol.pdf)
 * [Week 03](Discussion03.pdf), [Solution](Discussion03_sol.pdf)
 * [Week 02](Discussion02.pdf), [Solution](Discussion02_sol.pdf)
 * [Week 01](Discussion01.pdf), [Solution](Discussion01_sol.pdf)

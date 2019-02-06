@@ -4,7 +4,6 @@ title: ECN 122 - Game Theory (Winter 2019)
 order: 9
 ---
 
-
 ### Section Materials
 * [Week 04](Discussion04.pdf), [Solution](Discussion04_sol.pdf)
 * [Week 03](Discussion03.pdf), [Solution](Discussion03_sol.pdf)

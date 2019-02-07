@@ -1,7 +1,7 @@
 ---
 layout: page
 title: LaTeX Editor
-order: 10.1
+order: 10.7
 ---
 
 

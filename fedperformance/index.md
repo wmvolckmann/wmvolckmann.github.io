@@ -4,8 +4,6 @@ title: Federal Reserve Performance
 order: 10.6
 ---
 
-### Dual Mandate
-
 ![Dual Mandate Performance](applied_GMtoToday_abs_individual.png)
 
 I construct a performance index for the Federal Reserve apropos their dual mandate

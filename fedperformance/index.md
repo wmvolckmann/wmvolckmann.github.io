@@ -4,7 +4,7 @@ title: Federal Reserve Performance
 order: 10.6
 ---
 
-![Dual Mandate Performance](applied_GMtoToday_abs_individual.png)
+[![Dual Mandate Performance](applied_GMtoToday_abs_individual.png)](applied_GMtoToday_abs_individual.png)
 
 I construct a performance index for the Federal Reserve apropos their dual mandate
 with a five-year trailing moving average understanding of "medium term." The price

@@ -8,7 +8,7 @@ Note: if you send me an email and don't address me by name, then I will assume
 that you've CCed it to the other TAs and I won't answer it.
 
 ### Section Materials
-* [Week 05](Discussion05.pdf), [Solution](Discussion05_sol.pdf), [MT2 Practice Q2 Payoffs](mt2q2payoffs.pdf)
+* [Week 05](Discussion05.pdf), [Solution](Discussion05_sol.pdf)
 * [Week 04](Discussion04.pdf), [Solution](Discussion04_sol.pdf)
 * [Week 03](Discussion03.pdf), [Solution](Discussion03_sol.pdf)
 * [Week 02](Discussion02.pdf), [Solution](Discussion02_sol.pdf)

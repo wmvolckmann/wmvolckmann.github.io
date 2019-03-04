@@ -8,6 +8,7 @@ Note: if you send me an email and don't address me by name, then I will assume
 that you've CCed it to the other TAs and I won't answer it.
 
 ### Section Materials
+* [Week 08](Discussion08.pdf)
 * [Week 07](Discussion07.pdf), [Solution](Discussion07_sol.pdf)
 * [Week 05](Discussion05.pdf), [Solution](Discussion05_sol.pdf)
 * [Week 04](Discussion04.pdf), [Solution](Discussion04_sol.pdf)

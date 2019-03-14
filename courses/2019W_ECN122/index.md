@@ -9,7 +9,7 @@ that you've CCed it to the other TAs and I won't answer it.
 
 ### Section Materials
 * [WSE Examples 2](WSE2.pdf), [Solution](WSE2_sol.pdf)
-* [WSE Examples](WSE.pdf), [Solution](WSE_sol.pdf)
+* [WSE Examples 1](WSE.pdf), [Solution](WSE_sol.pdf)
 * [Week 09](Discussion09.pdf), [Solution](Discussion09_sol.pdf)
 * [Week 08](Discussion08.pdf), [Solution](Discussion08_sol.pdf)
 * [Week 07](Discussion07.pdf), [Solution](Discussion07_sol.pdf)

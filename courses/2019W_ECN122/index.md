@@ -4,21 +4,9 @@ title: ECN 122 - Game Theory (Winter 2019)
 order: 9
 ---
 
-Note: if you send me an email and don't address me by name, then I will assume
-that you've CCed it to the other TAs and I won't answer it.
 
 ### Section Materials
-* [WSE Examples 3](WSE3.pdf), [Solution](WSE3_sol.pdf)
-* [WSE Examples 2](WSE2.pdf), [Solution](WSE2_sol.pdf)
-* [WSE Examples 1](WSE.pdf), [Solution](WSE_sol.pdf)
-* [Week 09](Discussion09.pdf), [Solution](Discussion09_sol.pdf)
-* [Week 08](Discussion08.pdf), [Solution](Discussion08_sol.pdf)
-* [Week 07](Discussion07.pdf), [Solution](Discussion07_sol.pdf)
-* [Week 05](Discussion05.pdf), [Solution](Discussion05_sol.pdf)
-* [Week 04](Discussion04.pdf), [Solution](Discussion04_sol.pdf)
-* [Week 03](Discussion03.pdf), [Solution](Discussion03_sol.pdf)
-* [Week 02](Discussion02.pdf), [Solution](Discussion02_sol.pdf)
-* [Week 01](Discussion01.pdf), [Solution](Discussion01_sol.pdf)
+* [Post-Final Feel Goods](https://youtu.be/_reps5BBHTs)
 
 
 ### Lecture

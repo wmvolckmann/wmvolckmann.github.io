@@ -2,7 +2,7 @@
 layout: page
 title: About Me
 permalink: /about/
-order: 10.4
+order: 11
 ---
 
 Hi. Here are some random factoids.

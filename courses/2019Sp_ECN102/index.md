@@ -10,9 +10,9 @@ order: 9
 * Time and Place: MWF, 1:10-2:00pm, Wellman Hall 106
 * Office Hours: WF, 2:10-3:10pm
 * Textbook: ???
-* Midterm 1: ???
-* Midterm 2: ???
-* Final Exam: ???
+* Midterm 1: Friday, April 26
+* Midterm 2: Friday, May 17
+* Final Exam: Thursday, June 13, 1-3pm
 
 
 ### Discussion

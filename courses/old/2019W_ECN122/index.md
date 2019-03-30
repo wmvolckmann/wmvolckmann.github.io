@@ -1,12 +1,8 @@
 ---
 layout: page
 title: ECN 122 - Game Theory (Winter 2019)
-order: 9
+exclude: true
 ---
-
-
-### Section Materials
-* [Post-Final Feel Goods](https://youtu.be/_reps5BBHTs)
 
 
 ### Lecture

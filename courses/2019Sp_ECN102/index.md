@@ -4,6 +4,8 @@ title: ECN 102 - Analysis of Econ Data (Spring 2019)
 order: 9
 ---
 
+### Section Materials
+* [Discussion 01](discussion01.pdf), [Stata Sheet 01](stata01.pdf)
 
 ### Lecture
 * Instructor: Prof Diana Moreira

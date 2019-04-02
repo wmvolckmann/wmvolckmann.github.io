@@ -11,7 +11,7 @@ order: 9
 * Instructor: Prof Diana Moreira
 * Time and Place: MWF, 1:10-2:00pm, Wellman Hall 106
 * Office Hours: WF, 2:10-3:10pm
-* Textbook: ???
+* Textbook: available at Davis Copy Max (Cameron)
 * Midterm 1: Friday, April 26
 * Midterm 2: Friday, May 17
 * Final Exam: Thursday, June 13, 1-3pm

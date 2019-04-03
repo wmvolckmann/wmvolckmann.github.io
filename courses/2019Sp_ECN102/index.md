@@ -5,7 +5,7 @@ order: 9
 ---
 
 ### Section Materials
-* [Discussion 01](discussion01.pdf), [Stata Sheet 01](stata01.pdf)
+* [Discussion 01](discussion01.pdf), [Stata Sheet 01](stata01.pdf), [Example do-file](dofile01.do)
 
 ### Lecture
 * Instructor: Prof Diana Moreira

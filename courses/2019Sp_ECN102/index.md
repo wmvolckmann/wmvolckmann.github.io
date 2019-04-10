@@ -9,8 +9,8 @@ order: 9
 * [Discussion 01](discussion01.pdf), [Example do-file](dofile01.do)
 
 ### Stata Sheets
-* [Stata Sheet 02](stata02.pdf)
 * [Stata Sheet 01](stata01.pdf)
+* [Stata Sheet 02](stata02.pdf)
 
 ### Lecture
 * Instructor: Prof Diana Moreira

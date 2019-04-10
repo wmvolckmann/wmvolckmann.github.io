@@ -5,6 +5,7 @@ order: 9
 ---
 
 ### Section Materials
+* [Stata Sheet 02](stata02.pdf), [Skew/Kurtosis do-file](dofile02.do), [68-65-99.7 rule](68-95-997.jpg),
 * [Discussion 01](discussion01.pdf), [Stata Sheet 01](stata01.pdf), [Example do-file](dofile01.do)
 
 

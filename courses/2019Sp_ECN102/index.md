@@ -18,7 +18,7 @@ order: 9
 * Office Hours: WF, 2:10-3:10pm
 * Textbook: Cameron (available at Davis Copy Max)
 * Software: Stata. You can VPN and use a campus copy [here](https://virtuallab.ucdavis.edu/)
-* [Previous/Practice Exams](http://cameron.econ.ucdavis.edu/e102/supp102.html)
+* [Previous/Practice Exams](http://cameron.econ.ucdavis.edu/e102/supp102.html) (with some differences)
 * Midterm 1: Friday, April 26
 * Midterm 2: Friday, May 17
 * Final Exam: Thursday, June 13, 1-3pm

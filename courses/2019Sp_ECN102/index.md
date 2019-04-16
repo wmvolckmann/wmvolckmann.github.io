@@ -19,6 +19,7 @@ order: 9
 * Textbook: Cameron (available at Davis Copy Max)
 * Software: Stata. You can VPN and use a campus copy [here](https://virtuallab.ucdavis.edu/)
 * [Previous/Practice Exams](http://cameron.econ.ucdavis.edu/e102/supp102.html) (with some differences)
+* [Data Website](http://cameron.econ.ucdavis.edu/ECN102SPRING/AED_DATA.html)
 * Midterm 1: Friday, April 26
 * Midterm 2: Friday, May 17
 * Final Exam: Thursday, June 13, 1-3pm

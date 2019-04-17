@@ -5,22 +5,26 @@ order: 9
 ---
 
 ### Section Materials
+* [Confidence Intervals, Hypothesis Testing, and p-values](CI_htest_pvalue.pdf)
 * [Skew/Kurtosis do-file](dofile02.do), [68-95-99.7 rule](68-95-997.jpg)
 * [Discussion 01](discussion01.pdf), [Example do-file](dofile01.do)
+
 
 ### Stata Sheets
 * [Stata Sheet 01](stata01.pdf)
 * [Stata Sheet 02](stata02.pdf)
+* [Stata Sheet 03](stata03.pdf)
+
 
 ### Lecture
 * Instructor: Prof Diana Moreira
 * Time and Place: MWF, 1:10-2:00pm, Wellman Hall 106
 * Office Hours: WF, 2:10-3:10pm
 * Textbook: Cameron (available at Davis Copy Max)
-* Software: Stata. You can VPN and use a campus copy [here](https://virtuallab.ucdavis.edu/)
+* Software: Stata. You can VPN and use a campus copy [here](https://virtuallab.ucdavis.edu/) after 6pm
 * [Previous/Practice Exams](http://cameron.econ.ucdavis.edu/e102/supp102.html) (with some differences)
 * [Data Website](http://cameron.econ.ucdavis.edu/ECN102SPRING/AED_DATA.html)
-* Midterm 1: Friday, April 26
+* Midterm 1: Monday, April 29
 * Midterm 2: Friday, May 17
 * Final Exam: Thursday, June 13, 1-3pm
 

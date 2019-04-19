@@ -5,9 +5,9 @@ order: 9
 ---
 
 ### Section Materials
-* Week 3: [Confidence Intervals, Hypothesis Testing, and p-values](CI_htest_pvalue.pdf), [set seed illustrated](setseed.do)
-* Week 2: [Skew/Kurtosis do-file](dofile02.do), [68-95-99.7 rule](68-95-997.jpg)
-* Week 1: [Discussion 01](discussion01.pdf), [Example do-file](dofile01.do)
+* Week 3: [Confidence Intervals and Hypothesis Testing,](CI_htest_pvalue.pdf); [set seed illustrated](setseed.do)
+* Week 2: [Skew/Kurtosis do-file](dofile02.do); [68-95-99.7 rule](68-95-997.jpg)
+* Week 1: [Discussion 01](discussion01.pdf); [Example do-file](dofile01.do)
 
 
 ### Stata Sheets

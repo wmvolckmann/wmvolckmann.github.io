@@ -16,7 +16,7 @@ order: 9
 ### Stata Sheets
 * [Stata Sheet 01](stata01.pdf)
 * [Stata Sheet 02](stata02.pdf)
-* [Stata Sheet 03](stata03.pdf) (updated Friday)
+* [Stata Sheet 03](stata03.pdf) 
 
 
 ### Lecture

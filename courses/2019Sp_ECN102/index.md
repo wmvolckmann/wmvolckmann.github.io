@@ -5,7 +5,8 @@ order: 9
 ---
 
 ### Section Materials
-* Week 6 (and probably 7): [Simple Regressions](simpleregressions.pdf)
+* Week 7: [Midterm 2 Practice](discussion07.pdf), [Solutions](discussion07_answers)
+* Week 6: [Simple Regressions](simpleregressions.pdf)
 * Week 5: [Post-Exam Feel Goods](https://youtu.be/nMNLrQW7_pU)
 * Week 4: [Midterm 1 Practice](discussion04.pdf), [Solutions](discussion04_answers.pdf), [z-scores](https://www.statisticshowto.datasciencecentral.com/probability-and-statistics/z-score/)
 * Week 3: [Confidence Intervals and Hypothesis Testing](CI_htest_pvalue.pdf); [set seed illustrated](setseed.do)

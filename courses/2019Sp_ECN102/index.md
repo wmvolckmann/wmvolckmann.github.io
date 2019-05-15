@@ -7,7 +7,7 @@ order: 9
 ### Section Materials
 * Week 7: [Midterm 2 Practice](discussion07.pdf), [Solutions](discussion07_answers.pdf)
 * Week 6: [Simple Regressions](simpleregressions.pdf) (May 12 added violations of OLS assumptions)
-* Week 5: [Post-Exam Feel Goods](https://youtu.be/nMNLrQW7_pU)
+* Week 5: [Post-Midterm 1 Feel Goods](https://youtu.be/nMNLrQW7_pU)
 * Week 4: [Midterm 1 Practice](discussion04.pdf), [Solutions](discussion04_answers.pdf), [z-scores](https://www.statisticshowto.datasciencecentral.com/probability-and-statistics/z-score/)
 * Week 3: [Confidence Intervals and Hypothesis Testing](CI_htest_pvalue.pdf); [set seed illustrated](setseed.do)
 * Week 2: [Skew/Kurtosis do-file](dofile02.do); [68-95-99.7 rule](68-95-997.jpg)
@@ -18,6 +18,7 @@ order: 9
 * [Stata Sheet 01](stata01.pdf)
 * [Stata Sheet 02](stata02.pdf)
 * [Stata Sheet 03](stata03.pdf)
+* [Stata Sheet 04](stata04.pdf)
 
 
 ### Lecture

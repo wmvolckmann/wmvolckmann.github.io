@@ -5,6 +5,7 @@ order: 9
 ---
 
 ### Section Materials
+* Week 8: [Post-Midterm 2 Feel Goods](https://youtu.be/-GgvLVqoIk4)
 * Week 7: [Midterm 2 Practice](discussion07.pdf), [Solutions](discussion07_answers.pdf)
 * Week 6: [Simple Regressions](simpleregressions.pdf) (May 12 added violations of OLS assumptions)
 * Week 5: [Post-Midterm 1 Feel Goods](https://youtu.be/nMNLrQW7_pU)

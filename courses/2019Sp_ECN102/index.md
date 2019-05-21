@@ -5,15 +5,15 @@ order: 9
 ---
 
 ### Section Materials
-* Week 8: [Functional Forms](discussion08.pdf)
+* Week 8: [Functional Forms](discussion08.pdf), [hcle.dta](hcle.dta)
 * [Post-Midterm 2 Feel Goods](https://youtu.be/-GgvLVqoIk4)
 * Week 7: [Midterm 2 Practice](discussion07.pdf), [Solutions](discussion07_answers.pdf)
 * Week 6: [Simple Regressions](simpleregressions.pdf)
 * [Post-Midterm 1 Feel Goods](https://youtu.be/nMNLrQW7_pU)
 * Week 4: [Midterm 1 Practice](discussion04.pdf), [Solutions](discussion04_answers.pdf), [z-scores](https://www.statisticshowto.datasciencecentral.com/probability-and-statistics/z-score/)
-* Week 3: [Confidence Intervals and Hypothesis Testing](CI_htest_pvalue.pdf); [set seed illustrated](setseed.do)
-* Week 2: [Skew/Kurtosis do-file](dofile02.do); [68-95-99.7 rule](68-95-997.jpg)
-* Week 1: [Discussion 01](discussion01.pdf); [Example do-file](dofile01.do)
+* Week 3: [Confidence Intervals and Hypothesis Testing](CI_htest_pvalue.pdf), [set seed illustrated](setseed.do)
+* Week 2: [Skew/Kurtosis do-file](dofile02.do), [68-95-99.7 rule](68-95-997.jpg)
+* Week 1: [Discussion 01](discussion01.pdf), [Example do-file](dofile01.do)
 
 
 ### Stata Sheets

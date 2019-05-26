@@ -4,6 +4,10 @@ title: ECN 102 - Analysis of Econ Data (Spring 2019)
 order: 9
 ---
 
+Disclaimer: The material below is not exhaustive. It works best as a starting
+point for various topics, but there are still blanks you'll have to fill in with
+lecture and homework.
+
 ### Section Materials
 * Week 9: [Multiple Regressions](09-multipleregression.pdf), [wages.dta](wages.dta)
 * Week 8: [Functional Forms](discussion08.pdf), [hcle.dta](hcle.dta)

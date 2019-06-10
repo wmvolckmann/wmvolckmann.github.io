@@ -9,9 +9,9 @@ point for various topics, but there are still blanks you'll have to fill in with
 lecture and homework.
 
 ### Section Materials
-* Week 11: [Final Practice](practicefinal.pdf), [Solutions](practicefinalanswers.pdf)
+* Week 11: [Final Practice](practicefinal.pdf), [Solutions](practicefinalanswers.pdf) (June 9: 2 new questions)
 * Week 10: [F-tests](ftest.pdf)
-* Week 9: [Multiple Regressions](09-multipleregression.pdf), [wages.dta](wages.dta) (June 3: added interactions)
+* Week 9: [Multiple Regressions](09-multipleregression.pdf), [wages.dta](wages.dta)
 * Week 8: [Functional Forms](discussion08.pdf), [hcle.dta](hcle.dta)
 * [Post-Midterm 2 Feel Goods](https://youtu.be/-GgvLVqoIk4)
 * Week 7: [Midterm 2 Practice](discussion07.pdf), [Solutions](discussion07_answers.pdf)

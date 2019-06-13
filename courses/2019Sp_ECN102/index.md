@@ -9,26 +9,7 @@ point for various topics, but there are still blanks you'll have to fill in with
 lecture and homework.
 
 ### Section Materials
-* Week 11: [Final Practice](practicefinal.pdf), [Solutions](practicefinalanswers.pdf) (June 9: 2 new questions)
-* Week 10: [F-tests](ftest.pdf)
-* Week 9: [Multiple Regressions](09-multipleregression.pdf), [wages.dta](wages.dta)
-* Week 8: [Functional Forms](discussion08.pdf), [hcle.dta](hcle.dta)
-* [Post-Midterm 2 Feel Goods](https://youtu.be/-GgvLVqoIk4)
-* Week 7: [Midterm 2 Practice](discussion07.pdf), [Solutions](discussion07_answers.pdf)
-* Week 6: [Simple Regressions](simpleregressions.pdf)
-* [Post-Midterm 1 Feel Goods](https://youtu.be/nMNLrQW7_pU)
-* Week 4: [Midterm 1 Practice](discussion04.pdf), [Solutions](discussion04_answers.pdf), [z-scores](https://www.statisticshowto.datasciencecentral.com/probability-and-statistics/z-score/)
-* Week 3: [Confidence Intervals and Hypothesis Testing](CI_htest_pvalue.pdf), [set seed illustrated](setseed.do)
-* Week 2: [Skew/Kurtosis do-file](dofile02.do), [68-95-99.7 rule](68-95-997.jpg)
-* Week 1: [Discussion 01](discussion01.pdf), [Example do-file](dofile01.do)
-
-
-### Stata Sheets
-* [Stata Sheet 01](stata01.pdf)
-* [Stata Sheet 02](stata02.pdf)
-* [Stata Sheet 03](stata03.pdf)
-* [Stata Sheet 04](stata04.pdf)
-
+* [Post-Final Feel Goods](https://youtu.be/uxIOpNMRuXg)
 
 ### Lecture
 * Instructor: Prof Diana Moreira

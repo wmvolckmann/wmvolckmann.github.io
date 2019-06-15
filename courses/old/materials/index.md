@@ -22,9 +22,11 @@ materials. I archive some here for posterity.
 * [R Sheet 03](102-Rsheet-03.pdf)
 * [R Sheet 04](102-Rsheet-04.pdf)
 * [R Sheet 05](102-Rsheet-05.pdf)
+* [Confidence Intervals and Testing](102-CI_htest_pvalue.pdf)
 * [Simple Regression](102-simpleregressions.pdf)
-* [Multiple Regression](102-multipleregression.pdf)
 * [Functional Forms](102-functionalforms.pdf)
+* [Multiple Regression](102-multipleregression.pdf)
+* [F-test](102-ftest.pdf)
 
 
 ### ECN 134 - Financial Economics

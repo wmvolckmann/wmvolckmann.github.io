@@ -7,6 +7,7 @@ order: 9
 ### Section Materials
 * [Post-Final Feel Goods](https://youtu.be/uxIOpNMRuXg)
 
+
 ### Lecture
 * Instructor: Prof Diana Moreira
 * Time and Place: MWF, 1:10-2:00pm, Wellman Hall 106

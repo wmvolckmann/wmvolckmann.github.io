@@ -7,6 +7,7 @@ order: 9.7
   <ul type="disc">
     <h2>
       <li><a class="page-link" href="/courses/old/materials/">Old Course Materials</a></li>
+      <li><a class="page-link" href="/courses/old/2019Sp_ECN102/">ECN 102 - Analysis of Econ Data (Spring 2019)</a></li>
       <li><a class="page-link" href="/courses/old/2019W_ECN122/">ECN 122 - Game Theory (Winter 2019)</a></li>
       <li><a class="page-link" href="/courses/old/2018F_ECN102/">ECN 102 - Analysis of Econ Data (Fall 2018)</a></li>
       <li><a class="page-link" href="/courses/old/2018Su_ECN1B/">ECN 1B - Principles of Macro (Summer 2018)</a></li>

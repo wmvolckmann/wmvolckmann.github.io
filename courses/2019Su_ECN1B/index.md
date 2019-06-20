@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ECN 1B - Principles of Macro (Summer 2019)
-exclude: true
+order: 9
 ---
 
 ### Lecture

@@ -6,7 +6,7 @@ order: 9
 
 ### Lecture
 * Instructor: Bagher Modjtahedi
-* Time and Place: MTW 6:10–7:50pm, Veihmeyer Hall 212
+* Time and Place: MTW 6:10-7:50pm, Veihmeyer Hall 212
 * Textbook: Principles of Macroeconomics by B. Modjtahedi
 * Office Hours: Thursday, 5:30-7:00pm and by appointment, 147 SSH
 * Midterm 1: Monday, July 8, 6:10-7:10pm

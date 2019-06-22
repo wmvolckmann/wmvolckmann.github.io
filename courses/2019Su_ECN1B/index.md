@@ -19,4 +19,4 @@ order: 9
 * Sections: Thursday
   * 4:10-5:50pm, Olson Hall 158
   * 6:10-7:50pm, Olson Hall 158
-* Office Hours: MT, 3-4pm, 116 SSH
+* Office Hours: MT, 4-5pm, 116 SSH

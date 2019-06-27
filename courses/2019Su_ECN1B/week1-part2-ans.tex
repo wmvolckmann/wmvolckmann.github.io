@@ -1,0 +1,275 @@
+\title{\tt{Week 1, Part 2 Answers}}
+\author{\tt{ECN 1B, Summer 2019}}
+\documentclass[17pt, landscape]{article}
+\usepackage{bm}
+\usepackage{amsmath}
+\usepackage{amsfonts}
+\usepackage{graphicx}
+\usepackage{amssymb}
+\usepackage{amsthm}
+\usepackage{setspace}
+\usepackage{extsizes}
+\usepackage{amsthm}
+\usepackage{mathtools}
+\usepackage{enumitem}
+\usepackage{pdfpages}
+\usepackage{xifthen}
+\usepackage{titlesec}
+\usepackage[hidelinks]{hyperref}
+\usepackage[normalem]{ulem}
+\usepackage[top=1in, bottom=1in, left=1in, right=1in]{geometry}
+\usepackage{fancyvrb}
+\usepackage{fancyhdr}
+% \usepackage{tikz} 
+\usepackage{mathpazo}
+
+
+\setlength{\columnsep}{.5in} 
+\newcommand{\C}{\mathbb{C}}
+\newcommand{\F}{\mathbb{F}}
+\newcommand{\N}{\mathbb{N}}
+\newcommand{\Q}{\mathbb{Q}}
+\newcommand{\R}{\mathbb{R}}
+\newcommand{\Z}{\mathbb{Z}}
+\newcommand{\Chi}{\mathcal{X}}
+\newcommand{\B}{\beta}
+\newcommand{\BH}{\hat{\beta}}
+\newcommand{\bh}{\hat{\beta}}
+\newcommand{\sumn}{\sum_{i=1}^N}
+\newcommand{\crit}{c_{\alpha}}
+\newcommand{\given}{\; | \;}
+\newcommand{\xbar}{\overline{X}_n}
+\newcommand{\asim}{\overset{a}{\sim}}
+\DeclareMathOperator*{\argmin}{arg\,min}
+\newcommand{\Lindent}{\hspace{.4cm} \Longrightarrow \hspace{.4cm}}
+\renewcommand{\vec}[1]{\mathbf{#1}}
+
+\DeclareMathOperator*{\var}{Var}
+\DeclareMathOperator*{\cov}{Cov}
+\DeclareMathOperator*{\plim}{plim}
+\newcommand{\cprob}{\overset{p}{\rightarrow}}
+\newcommand{\cdist}{\overset{d}{\rightarrow}}
+\newcommand{\normal}[2]{\mathcal{N} \left({#1}, {#2} \right)}
+\DeclareMathOperator{\rank}{rank}
+
+\newtheorem{theorem}{Theorem}
+\theoremstyle{definition}
+\newtheorem{definition}{Definition}
+\newtheorem{example}{Example}
+
+\setlength{\jot}{8pt}
+
+\newcounter{ProbCounter}
+\setcounter{ProbCounter}{1}
+\newcommand{\problem}[1][]{%
+\ifthenelse{\equal{#1}{}}{\paragraph{Problem \arabic{ProbCounter}.}}
+{\section*{Problem \arabic{ProbCounter} (#1)}}%
+\stepcounter{ProbCounter}}
+
+\newcounter{AnsCounter}
+\setcounter{AnsCounter}{1}
+\newcommand{\answer}[1][]{%
+\ifthenelse{\equal{#1}{}}{\paragraph{Answer \arabic{AnsCounter}.}}
+{\paragraph*{Answer \arabic{AnsCounter}: #1.}}%
+\stepcounter{AnsCounter}}
+
+\setenumerate{itemsep=-4pt, label=\textbf{(\alph*)}, topsep=8pt}
+\setitemize{itemsep=0pt, topsep=8pt}
+
+\titlespacing*{\section}{0pt}{0ex plus 0ex minus 0ex}{1ex plus 0ex}
+\titlespacing*{\subsection}{0pt}{2ex plus 1ex minus .2ex}{0ex plus 0ex}
+\titlespacing*{\subsubsection}{0pt}{3ex plus 1ex minus .2ex}{0ex plus .2ex}
+
+
+\begin{document}
+
+\setstretch{1.10}
+  
+   \pagestyle{fancy}
+\makeatletter
+   \markboth{\small \textbf{\emph{\@title}}}{\small \emph{\textbf{\@author}}}
+\makeatother
+
+
+
+
+\problem  The supply of labor is the same thing as
+\begin{enumerate}
+	\item the total number of jobs available in the economy
+	\item the labor force
+	\item the number of vacant jobs in the economy
+	\item the nubmer of jobs firms offer to households
+	\item none of the above
+\end{enumerate}
+
+\vfill
+\answer[b] Those who are willing and able to work---the labor force---want to supply their labor in order to earn a wage.
+
+
+\newpage \problem At the macroeconomic level, demand for labor is
+\begin{enumerate}
+	\item the total number of filled and unfilled jobs available
+	\item the total number of unfilled jobs available
+	\item the total number of people who have jobs
+	\item the total number of people who demand jobs from business firms
+	\item none of the above
+\end{enumerate}
+
+\vfill
+\answer[a] Firms demand labor since they need workers in order to actually produce stuff. The way they demand labor is through employment, i.e. firms want to hire a certain number of people to fill in job vacancies. Some of those vacancies will be filled, some won't. 
+
+
+\newpage \problem
+In the labor market, the \textbf{substitution effect} refers to the notion that when the real wage increases,
+\begin{enumerate}
+	\item the opportunity cost of labor increases and, therefore, workers work less
+	\item the opportunity cost of leisure increases and, therefore, workers work more
+	\item workers feel they are richer and, therefore, they consume more and save less
+	\item workers feel they are richer and, therefore, they save more and consume less
+	\item none of the above
+\end{enumerate}
+
+
+\vfill \answer When the real wage increases, it means that working now gives more of a benefit to workers. So, compared to leisure, working is relatively more attractive than it was before. The substitution effect says that since working is now relatively more attractive than leisure, people will choose to work more---they will substitute their time away from leisure and into work. Another way of stating this is that the opportunity cost of leisure increases, so people want less of it. \\
+
+\noindent \textbf{This implies an upward sloping labor supply curve.}
+
+
+
+\newpage \problem
+In the labor market, the \textbf{income effect} indicates that
+\begin{enumerate}
+	\item when real wage increases, workers' income increases and therefore they save more
+	\item when real wage increases, workers need to work fewer hours to earn the same income as before
+	\item when real wage increases, workers need to work fewer hours to earn the same income as before, so they work less
+	\item when real wage increases, workers' income increases, and therefore they increase their demand for goods and services
+	\item none of the above
+\end{enumerate}
+
+
+\answer[c] Pretty self explanatory. If you earn a higher wage, then you make the same amount of money you did before by working fewer hours. So in a sense you have an incentive to work fewer hours---you can still pay the bills, but now you can spend a few extra hours each day playing Pokemon Go. This is the income effect.\\
+
+\noindent \textbf{This implies a downward sloping labor supply curve.}\\
+
+\noindent Substitution dominates the income effect, so an increase in the real wage causes an increase in the quantity of labor supplied, i.e. an upward sloping labor supply curve.
+
+
+
+\newpage \problem
+Which of the following is correct?
+\begin{enumerate}
+	\item supply of labor = labor force participation rate $\times$ labor force
+	\item supply of labor = labor force participation rate $\times$ employment
+	\item supply of labor = labor force participation rate $\times$ (employed + unemployed)
+ 	\item supply of labor = labor force participation rate $\times$ population
+ 	\item none of the above
+\end{enumerate}
+
+\vfill \answer[d] This is basically just the definition of the labor force participation rate, i.e. the percentage of people in the population who are able and willing to work. 
+
+
+
+\newpage \problem
+\begin{center}	\includegraphics[width=250px] {p6.png}\end{center}
+The price level is $P=\$30$. What is the nominal wage?
+
+
+\vfill \answer The market is in equilibrium when labor demand equals labor supply. In this case, at $L=500$, which means the real wage must be 10. Since the price level is 30, that means the nominal wage must be $30 \times 10 = \$300$. 
+
+
+
+%%%%%%%%%%%%%%%%%%%%%
+\newpage \problem %11
+%%%%%%%%%%%%%%%%%%%%%
+If the nominal wage rate is $W = 5,000$ per worker and the price of the output is $P = 100$ per unit, the firm will want to employ  \rule{1.5in}{.5pt} workers (using the marginal productivity rule discussed in the class). With this many workers, it will be able to produce  \rule{1.5in}{.5pt} tons of output.
+
+If the wage rate increases to $W = 6,000$ and the price level increases to $P = 150$, the firm will want to hire  \rule{1.5in}{.5pt} workers in which case it will produce  \rule{1.5in}{.5pt} tons of output.
+
+\begin{center}\includegraphics[width=170px]{hw2p2.png}\end{center}
+
+
+\vfill \answer The real wage is $5000/100 = 50$. Hence the firm will hire up to the worker with $MPL=50$, which happens to be the fourth worker. With four workers, 260 tons of output is produced. 
+
+After the wage change, $W/P=40$, so the firm will hire up to the worker with $MPL=40$, which happens to be the fifth worker. With five workers, 300 units will be produced. 
+
+
+
+
+
+%%%%%%%%%%%%%%%%%%%%%
+\newpage \problem %14
+%%%%%%%%%%%%%%%%%%%%%
+ Assume that there are 1,000 identical firms in the economy so that if one firm hires, for example, 3 workers, all the firms in the economy will hire 3,000 workers. In this economy the equilibrium real wage equals \rule{1.5in}{.5pt} units and the equilibrium level of employment equals \rule{1.5in}{.5pt} persons.
+\begin{center}\includegraphics[width=350px]{hw2p5.png}\end{center}
+
+
+\newpage \answer At the real wage of 50, each firm hires four workers because the fourth worker has MPL of 50. Thus, in total, firms want to fill 4000 jobs. Also at the real wage of 50, 4000 workers want to work. Hence the equilibrium real wage is 50 with 4000 jobs. (The demand curve is derived by using $MPL = W/P$ for 1000 identical firms.)
+
+We can also use the tables to construct the labor market graph, which illustrates the same conclusion.
+\begin{center}\includegraphics[width=500px]{hw2p14.png}\end{center}
+
+
+
+
+
+
+
+\newpage \problem
+The figure shows the labor market for a country, with labor measured in workers. The nominal wage is $\$20$ and the price level is \$4. If the supply of labor increases by 30 units, and the price level remains unchanged, what will be the new equilibrium nominal wage?
+
+\begin{center}	\includegraphics[width=400px] {problem4.png}\end{center}
+
+
+\newpage \answer 
+\begin{center}	\includegraphics[width=400px] {p3ans.png}\end{center}
+After shifting the supply of labor by 30, we see that the new real wage is 4. Since the price level is 4, this means that the new equilibrium nominal wage is $4 \times  4 = 16$. 
+
+
+\newpage \problem 
+
+\begin{center}	\includegraphics[width=400px] {problem4.png}\end{center}
+If the supply of and demand for labor both increase by 30 units, what is the new equilibrium number of jobs available?
+
+\newpage \answer 
+\begin{center}	\includegraphics[width=400px] {p4ans.png}\end{center}
+Shift both by 30 units of labor. The new equilibrium number of jobs available is 80. Notice that the real wage is unchanged!
+
+
+
+
+\newpage \problem
+Which of the following events could cause the demand for labor function to shift to the right?
+\begin{enumerate}
+	\item an increase in the amount of complementary capital
+	\item an increase in the productivity of labor
+	\item a labor-using technological progress
+	\item all of the above
+	\item none of the above
+\end{enumerate}
+
+\vfill \answer[d]  All of the first three choices will increase the MPL of workers, i.e. make them more produce more stuff. This shifts the labor demand curve up (i.e. to the right) by the increase in MPL, since the demand for labor curve essentially is the MPL curve. (Remember the profit maximizing conditions that firms use: $MPL = W/P$.)
+
+
+\newpage \problem Which of the following events could cause the supply of labor to shift to the right, all else equal?
+\begin{enumerate}
+	\item an increase in net immigration
+	\item an increase in net birth
+	\item an increase in the labor force participation rate
+	\item all of the above
+	\item none of the above
+\end{enumerate}
+
+\vfill \answer[d] Recall that the supply of labor = labor force participation rate $\times$ population. The first two increase the population, and the effect of option (c) is obvious. So any of these will mean a higher $L$ for any level of the real wage for the supply curve.
+
+
+
+\end{document}
+
+
+
+
+
+
+ \rule{1.5in}{.5pt}
+
+\begin{center}	\includegraphics[width=500px] {p5.png}\end{center}

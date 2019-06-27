@@ -4,6 +4,10 @@ title: ECN 1B - Principles of Macro (Summer 2019)
 order: 9
 ---
 
+### Section Materials
+* [Week 1, Part 1](week1-part1.pdf), [Week 1, Part 2](week1-part2.pdf)
+
+
 ### Lecture
 * Instructor: Bagher Modjtahedi
 * Time and Place: MTW 6:10-7:50pm, Veihmeyer Hall 212

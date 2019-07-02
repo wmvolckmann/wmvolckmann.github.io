@@ -19,4 +19,5 @@ Hi. Here are some random factoids.
 * [My](https://youtu.be/vPQK9yEjJ8E) [best](https://youtu.be/ryGWz79q0TM)
   [friends](https://youtu.be/NmfF18jSU_c) [are](https://youtu.be/vqGo6AzBPvk)
   [stray](https://youtu.be/D8_4oXLJmC4) [cats](https://youtu.be/sO0uWgMzu6E)  
+* My best quality is that I don't own salmon-color pants  
 * You must be really bored if you're reading this

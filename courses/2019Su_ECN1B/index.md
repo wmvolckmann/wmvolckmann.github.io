@@ -5,7 +5,7 @@ order: 9
 ---
 
 ### Section Materials
-* Midterm 1 Practice: [Part 1](mt1p_part1.pdf), [Part 2](mt1p_part2.pdf)
+* Midterm 1 Practice: [Part 1](mt1p_part1.pdf), [Part 2](mt1p_part2.pdf), [Part 3](mt1p_part3.pdf)
 * Week 2: [Part 1](week2-part1.pdf), [Solutions](week2-part1-ans.pdf)
 * Week 1: [Part 1](week1-part1.pdf), [Solutions](week1-part1-ans.pdf); [Part 2](week1-part2.pdf), [Solutions](week1-part2-ans.pdf)
 

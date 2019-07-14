@@ -16,6 +16,7 @@ order: 10.9
 * [Tania Lombrozo - A New Goal: Aim To Be Less Wrong](https://www.npr.org/sections/13.7/2018/02/12/585057058/a-new-goal-aim-to-be-less-wrong)
 * [Rose Eveleth - You Don't Know As Much As You Think You Do](https://www.smithsonianmag.com/smart-news/you-dont-know-as-much-as-you-think-you-do-65764329/)
 * [David Robson - Can high intelligence be a burden rather than a boon?](http://www.bbc.com/future/story/20150413-the-downsides-of-being-clever)
+* [Researchers Gave Math Geniuses 5th Grade Math Problems. It Didn't Go Well](https://www.inc.com/chris-matyszczyk/researchers-gave-math-geniuses-5th-grade-math-problems-it-didnt-go-well.html)
 * [Gapminder - Do you understand less about the world than a monkey?](https://www.gapminder.org/ignorance/gms/)
 
 ### Books

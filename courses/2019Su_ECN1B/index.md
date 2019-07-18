@@ -5,6 +5,7 @@ order: 9
 ---
 
 ### Section Materials
+* Week 4: [Part 1](week4-part1.pdf); [Part 2](week4-part2.pdf)
 * Week 3: [Part 1](week3-part1.pdf), [Solutions](week3-part1-ans.pdf); [Part 2](week3-part2.pdf), [Solutions](week3-part2-ans.pdf)
 * Week 2: [Part 1](week2-part1.pdf), [Solutions](week2-part1-ans.pdf)
 * Week 1: [Part 1](week1-part1.pdf), [Solutions](week1-part1-ans.pdf); [Part 2](week1-part2.pdf), [Solutions](week1-part2-ans.pdf)

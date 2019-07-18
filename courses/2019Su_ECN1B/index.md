@@ -25,7 +25,7 @@ order: 9
 
 ### Discussion
 * Me: William M Volckmann II
+* Office Hours: MT, 4-5pm, 116 SSH
 * Sections: Thursday
   * 4:10-5:50pm, Olson Hall 158
   * 6:10-7:50pm, Olson Hall 158
-* Office Hours: MT, 4-5pm, 116 SSH

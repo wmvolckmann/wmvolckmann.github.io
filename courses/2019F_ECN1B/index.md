@@ -12,7 +12,7 @@ exclude: true
 * Office Hours: Tuesday, 5:30-7:30pm and by appointment, 147 SSH
 * Midterm 1: Monday, October 21, 6:10-7:30pm
 * Midterm 2: Monday, November 18, 6:10-7:30pm
-* Final: Tuesday, December 10 31, 8:30-10:30pm (gross)
+* Final: Tuesday, December 10, 8:30-10:30pm (gross)
 
 
 ### Discussion

@@ -4,6 +4,8 @@ title: ECN 1B - Principles of Macro (Fall 2019)
 exclude: true
 ---
 
+### Section Materials
+* Week 1: [problems](week1.pdf)
 
 ### Lecture
 * Instructor: Bagher Modjtahedi

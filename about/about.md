@@ -17,7 +17,8 @@ Hi. Here are some random factoids.
 * Have been booed off stage before
 * Enjoy lifting weights
 * [My](https://youtu.be/vPQK9yEjJ8E) [best](https://youtu.be/ryGWz79q0TM)
-  [friends](https://youtu.be/NmfF18jSU_c) [are](https://youtu.be/vqGo6AzBPvk)
-  [stray](https://youtu.be/D8_4oXLJmC4) [cats](https://youtu.be/sO0uWgMzu6E)  
+  [(only?)](https://youtu.be/NmfF18jSU_c) [friends](https://youtu.be/vqGo6AzBPvk)
+  [are](https://youtu.be/D8_4oXLJmC4) [stray](https://youtu.be/sO0uWgMzu6E)  
+  [cats](https://youtu.be/pVxQLtNb5uA)  
 * My best quality is that I don't own salmon-colored shorts
 * You must be really bored if you're reading this

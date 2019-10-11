@@ -5,7 +5,7 @@ exclude: true
 ---
 
 ### Section Materials
-* Week 2: [problems](week2.pdf)
+* Week 2: [problems](week2.pdf), [solutions](week2-ans.pdf)
 * Week 1: [problems](week1.pdf), [solutions](week1-ans.pdf)
 
 ### Lecture

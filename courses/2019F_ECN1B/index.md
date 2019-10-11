@@ -24,5 +24,5 @@ exclude: true
 * Sections: Thursday
   * 4:10-5:00pm, Hutchison Hall 103
   * 5:10-6:00pm, Young Hall 184
-  * 6:10-7:00pm, Young Hall 184
-  * 7:10-8:00pm, Young Hall 184
+  * 6:10-7:00pm, Olson Hall 146
+  * 7:10-8:00pm, Olson Hall 146

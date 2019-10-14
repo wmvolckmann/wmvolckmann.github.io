@@ -5,10 +5,11 @@ exclude: true
 ---
 
 ### Section Materials
-* Midterm 1 Practice: [problems](mt1practice.pdf)
 * Week 3: [problems](week3.pdf)
 * Week 2: [problems](week2.pdf), [solutions](week2-ans.pdf)
 * Week 1: [problems](week1.pdf), [solutions](week1-ans.pdf)
+
+* Midterm 1 Practice: [problems](mt1practice.pdf)
 
 ### Lecture
 * Instructor: Bagher Modjtahedi

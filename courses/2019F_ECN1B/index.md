@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ECN 1B - Principles of Macro (Fall 2019)
-exclude: true
+order: 9
 ---
 
 ### Section Materials
@@ -10,6 +10,7 @@ exclude: true
 * Week 1: [problems](week1.pdf), [solutions](week1-ans.pdf)
 
 * Midterm 1 Practice: [problems](mt1practice.pdf)
+
 
 ### Lecture
 * Instructor: Bagher Modjtahedi

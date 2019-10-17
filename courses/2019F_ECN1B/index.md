@@ -9,7 +9,7 @@ order: 9
 * Week 2: [problems](week2.pdf), [solutions](week2-ans.pdf)
 * Week 1: [problems](week1.pdf), [solutions](week1-ans.pdf)
 
-* Midterm 1 Practice: [problems](mt1practice.pdf)
+* Extra Midterm 1 Practice: [problems](mt1practice.pdf)
 
 
 ### Lecture

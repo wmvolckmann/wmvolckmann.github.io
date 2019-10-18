@@ -5,11 +5,11 @@ order: 9
 ---
 
 ### Section Materials
-* Week 3: [problems](week3.pdf)
+* Week 3: [problems](week3.pdf), [solutions](week3-ans.pdf)
 * Week 2: [problems](week2.pdf), [solutions](week2-ans.pdf)
 * Week 1: [problems](week1.pdf), [solutions](week1-ans.pdf)
 
-* Extra Midterm 1 Practice: [problems](mt1practice.pdf)
+* Extra Midterm 1 Practice: [problems](mt1practice.pdf), [solutions](mt1practice-ans.pdf)
 
 
 ### Lecture

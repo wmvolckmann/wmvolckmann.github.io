@@ -5,6 +5,7 @@ order: 9.1
 ---
 
 ### Section Materials
+* Week 5: [problems part 1](week5-part1.pdf), [part 2](week5-part2.pdf)
 * Week 4: [problems](week4.pdf), [solutions](week4-ans.pdf)
 * [Post-Midterm 1 Feel Goods](https://youtu.be/MdPqtVMkeLI)
 * Week 3: [problems](week3.pdf), [solutions](week3-ans.pdf)

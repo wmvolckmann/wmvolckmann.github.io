@@ -6,9 +6,11 @@ order: 9.1
 
 
 ### Section Materials
+
+[HAPPY HALLOWEEEEEEEEEEENNNNN](https://youtu.be/GyCcFrSZxG0)
+
 * Week 5: [problems part 1](week5-part1.pdf), [part 2](week5-part2.pdf)
 * Week 4: [problems](week4.pdf), [solutions](week4-ans.pdf)
-* [Post-Midterm 1 Feel Goods](https://youtu.be/MdPqtVMkeLI)
 * Week 3: [problems](week3.pdf), [solutions](week3-ans.pdf)
 * Week 2: [problems](week2.pdf), [solutions](week2-ans.pdf)
 * Week 1: [problems](week1.pdf), [solutions](week1-ans.pdf)

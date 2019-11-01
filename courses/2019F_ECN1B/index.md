@@ -9,7 +9,7 @@ order: 9.1
 
 [HAPPY HALLOWEEEEEEEEEEENNNNN](https://youtu.be/GyCcFrSZxG0)
 
-* Week 5: part 1 [problems](week5-part1.pdf), [solutions](week5-part1-ans.pdf); part 1 [problems](week5-part2.pdf), [solutions](week5-part2-ans.pdf)
+* Week 5: part 1 [problems](week5-part1.pdf), [solutions](week5-part1-ans.pdf); part 2 [problems](week5-part2.pdf), [solutions](week5-part2-ans.pdf)
 * Week 4: [problems](week4.pdf), [solutions](week4-ans.pdf)
 * Week 3: [problems](week3.pdf), [solutions](week3-ans.pdf)
 * Week 2: [problems](week2.pdf), [solutions](week2-ans.pdf)

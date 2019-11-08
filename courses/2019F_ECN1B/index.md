@@ -7,7 +7,7 @@ order: 9.1
 
 ### Section Materials
 
-* Week 6: [problems](week6.pdf)
+* Week 6: [problems](week6.pdf), [solutions](week6-ans.pdf)
 * Week 5: part 1 [problems](week5-part1.pdf), [solutions](week5-part1-ans.pdf); part 2 [problems](week5-part2.pdf), [solutions](week5-part2-ans.pdf)
 * Week 4: [problems](week4.pdf), [solutions](week4-ans.pdf)
 * Week 3: [problems](week3.pdf), [solutions](week3-ans.pdf)

@@ -1,15 +1,22 @@
 ### bootstraps mean of percentage GDP gap from 1992-04-01 to 2008-01-01 from FRED
 ### primarily meant to generate BCa confidence intervals and p-values
 
+### run this once: install.packages(c('rio', 'boot', 'resample', 'np'))
 
+
+library('rio')
 library('boot')
 library('resample')
 library('np')
 
 
+### imports GDP gap data as a data frame
+gdpgap <- import('http://www.wimivo.com/code/gdpgap.xls')
+
+
 ### set random seed, bootstrap reps, significance alpha
 set.seed(69)
-reps <- 1000
+reps <- 10000
 alpha <- 0.05
 
 

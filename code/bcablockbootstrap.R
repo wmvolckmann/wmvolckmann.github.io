@@ -1,4 +1,4 @@
-### calculates mean of percentage GDP gap from 1992-04-01 to 2008-01-01
+### calculates mean of percentage GDP gap from 1992-04-01 to 2008-01-01 from FRED
 ### primarily meant to generate BCa confidence intervals and p-values
 
 

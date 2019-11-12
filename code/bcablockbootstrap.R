@@ -7,13 +7,13 @@ library('resample')
 library('np')
 
 
-## set random seed, bootstrap reps, significance alpha
+### set random seed, bootstrap reps, significance alpha
 set.seed(69)
 reps <- 1000
 alpha <- 0.05
 
 
-## find optimal block length and run the bootstrap for mean
+### find optimal block length and run the bootstrap for mean
 blocklength <- b.star(gdpgap$value)[1]
 bsresults   <- tsboot(gdpgap$value, mean, reps, l=blocklength, sim="geom")
 
@@ -22,20 +22,20 @@ cat("Bootstrap mean: ", mean(bsresults$t));cat('\n')
 cat("Block length: ", blocklength);cat('\n')
 
 
-# calculates crude percentile confidence intervals
+### calculates crude percentile confidence intervals
 CIlow_percentile  <- quantile(bsresults$t, alpha/2)
 CIhigh_percentile <- quantile(bsresults$t, 1-alpha/2)
 cat(alpha, "Significance Confidence Interval: ", CIlow_percentile,",",CIhigh_percentile);cat('\n')
 
 
-## calculates and displays bias-corrected confidence intervals
+### calculates and displays bias-corrected confidence intervals
 z0 <- sum(bsresults$t <= bsresults$t0)/reps
 CIlow_bc   <- quantile(bsresults$t, pnorm(z0 + (z0 + qnorm(alpha/2))))
 CIhigh_bc  <- quantile(bsresults$t, pnorm(z0 + (z0 + qnorm(1-alpha/2))))
 cat(alpha, "Significance BC Confidence Interval: ", CIlow_bc,",",CIhigh_bc);cat('\n')
 
 
-# jackknife acceleration factor for BCa 
+### jackknife acceleration factor for BCa 
 jkresults <- jackknife(data = gdpgap$value, statistic = mean)
 jkmean    <- mean(jkresults$replicates)
 num <- sum((jkmean-jkresults$replicates)^3)
@@ -43,14 +43,14 @@ den <- 6*sum((jkmean-jkresults$replicates)^2)^(3/2)
 a <- num/den
 
 
-## calculates and displays BCa confidence intervals
+### calculates and displays BCa confidence intervals
 z0 <- sum(bsresults$t <= bsresults$t0)/reps
 CIlow_bca   <- quantile(bsresults$t, pnorm(z0 + (z0 + qnorm(alpha/2)) / (1 - a*(z0 + qnorm(alpha/2)))))
 CIhigh_bca  <- quantile(bsresults$t, pnorm(z0 + (z0 + qnorm(1-alpha/2)) / (1 - a*(z0 + qnorm(1-alpha/2)))))
 cat(alpha, "Significance BCa Confidence Interval: ", CIlow_bca,",",CIhigh_bca);cat('\n')
 
 
-## calculates p-value for two-sided test of H0: mean = 0
+### calculates p-value for two-sided test of H0: mean = 0
 for (j in 1:10000){
   alpha  <- 1 - .0001*j
   z0 <- sum(bsresults$t <= bsresults$t0) / reps

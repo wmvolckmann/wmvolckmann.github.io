@@ -1,7 +1,7 @@
 clear all
 
 //monthly FRED inflation data, datestr is the date string
-use "https://github.com/wmvolckmann/wmvolckmann.github.io/raw/master/code/inflationdata.dta"
+use "http://www.wimivo.com/code/inflationdata.dta"
 
 //converts datastr into a raw number (datneum),
 //then the number into monthly form (dateq)

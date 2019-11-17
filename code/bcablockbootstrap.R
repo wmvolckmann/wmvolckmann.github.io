@@ -59,11 +59,11 @@ cat(alpha, "Significance BCa Confidence Interval: ", CIlow_bca,",",CIhigh_bca);c
 
 ### calculates p-value for two-sided test of H0: mean = 0
 for (j in 1:10000){
-  alpha  <- 1 - .0001*j
+  alphap  <- 1 - .0001*j
   z0 <- sum(bsresults$t <= bsresults$t0) / reps
-  CIlow   <-  quantile(bsresults$t, pnorm(z0 + (z0 + qnorm(alpha/2)) / (1 - a*(z0 + qnorm(alpha/2)))))
-  CIhigh  <- quantile(bsresults$t, pnorm(z0 + (z0 + qnorm(1-alpha/2)) / (1 - a*(z0 + qnorm(1-alpha/2)))))
-  if (alpha == 0){break}
+  CIlow   <-  quantile(bsresults$t, pnorm(z0 + (z0 + qnorm(alphap/2)) / (1 - a*(z0 + qnorm(alphap/2)))))
+  CIhigh  <- quantile(bsresults$t, pnorm(z0 + (z0 + qnorm(1-alphap/2)) / (1 - a*(z0 + qnorm(1-alphap/2)))))
+  if (alphap == 0){break}
   if (CIlow < 0 & 0 < CIhigh){break}
 }
-cat("BCa p-value: ", alpha);cat('\n')
+cat("BCa p-value: ", alphap);cat('\n')

@@ -8,7 +8,8 @@ order: 10.7
 I forget code sometimes, so I'm putting some examples here for my own reference.
 
 ### MATLAB
- * nonlinear constrained optimization: [view code](https://matlab.mathworks.com/users/wmvolckmann/Published/fminconexample/index.html), [download script](fminconexample.m)
+* nonlinear constrained optimization: [view code](https://matlab.mathworks.com/users/wmvolckmann/Published/fminconexample/index.html), [download script](fminconexample.m)
+* plotting a function: [view code](https://matlab.mathworks.com/users/wmvolckmann/Published/fplotexample/index.html), [download script](fplotexample.m)
 
 ### R
 * bias-corrected and accelerated block bootstrap: [view code](https://github.com/wmvolckmann/wmvolckmann.github.io/blob/master/code/bcablockbootstrap.R), [download script](bcablockbootstrap.R)

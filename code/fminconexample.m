@@ -56,6 +56,6 @@ function [c,ceq] = constraint(x,params)
     b = params(2);
     r = params(3);
     
-    c = x(1)^2 + x(2)^2 - r;    %two constraints would be as c = [f,g];
+    c = x(1)^2 + x(2)^2 - r;    %two constraints would be as c = [g(x,y)-r;h(x,y)-s];
     ceq = [];                   %for nonlinear equality constraint
 end

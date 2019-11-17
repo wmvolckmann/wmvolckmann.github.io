@@ -61,7 +61,7 @@ cat(alpha, "Significance BCa Confidence Interval: ", CIlow_bca,",",CIhigh_bca);c
 for (j in 1:10000){
   alphap  <- 1 - .0001*j
   z0 <- sum(bsresults$t <= bsresults$t0) / reps
-  CIlow   <-  quantile(bsresults$t, pnorm(z0 + (z0 + qnorm(alphap/2)) / (1 - a*(z0 + qnorm(alphap/2)))))
+  CIlow   <- quantile(bsresults$t, pnorm(z0 + (z0 + qnorm(alphap/2)) / (1 - a*(z0 + qnorm(alphap/2)))))
   CIhigh  <- quantile(bsresults$t, pnorm(z0 + (z0 + qnorm(1-alphap/2)) / (1 - a*(z0 + qnorm(1-alphap/2)))))
   if (alphap == 0){break}
   if (CIlow < 0 & 0 < CIhigh){break}

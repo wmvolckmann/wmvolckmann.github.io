@@ -8,7 +8,7 @@ order: 9.1
 ### Section Materials
 
 * [post-midterm 2 feel goods](https://youtu.be/6zbsUtQL4nY)
-* Week 7: [problems](week7.pdf)
+* Week 7: [problems](week7.pdf), [solutions](week7-ans.pdf)
 * Week 6: [problems](week6.pdf), [solutions](week6-ans.pdf)
 * Week 5: [problems](week5.pdf), [solutions](week5-ans.pdf)
 * Week 4: [problems](week4.pdf), [solutions](week4-ans.pdf)

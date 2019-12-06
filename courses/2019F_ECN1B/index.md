@@ -6,7 +6,8 @@ order: 9.1
 
 
 ### Section Materials
-
+* [Final Stress Relief 1](https://youtu.be/UnmV40K-FAQ)
+* [Final Stress Relief 2](https://youtu.be/zvEWFjWfqiU)
 * Week 9: [problems](week9.pdf), [solutions](week8-ans.pdf)
 * Week 7: [problems](week7.pdf), [solutions](week7-ans.pdf)
 * Week 6: [problems](week6.pdf), [solutions](week6-ans.pdf)

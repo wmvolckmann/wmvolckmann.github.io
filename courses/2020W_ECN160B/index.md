@@ -2,7 +2,6 @@
 layout: page
 title: ECN 160B - International Macro (Winter 2020)
 order: 9.1
-exclude: true
 ---
 
 ### Lecture

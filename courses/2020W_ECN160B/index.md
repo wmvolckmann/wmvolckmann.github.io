@@ -5,8 +5,8 @@ order: 9.1
 ---
 
 ## Materials
-Week 02: [problems](week02.pdf)
-Week 01: [problems](week01.pdf), [solutions](week01-ans.pdf)
+* Week 02: [problems](week02.pdf)
+* Week 01: [problems](week01.pdf), [solutions](week01-ans.pdf)
 
 ### Lecture
 * Instructor: Alan Taylor

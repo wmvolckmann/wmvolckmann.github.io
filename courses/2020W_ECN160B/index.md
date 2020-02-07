@@ -7,7 +7,7 @@ order: 9.1
 ## Materials
 * Week 05: [problems](week05.pdf), [solutions](week05-ans.pdf)
 * Week 04: [midterm 1 feel goods](https://youtu.be/D23sMvVnrow)
-* Week 03: sample exam on canvas
+* Week 03: sample exam on Canvas
 * Week 02: [problems](week02.pdf), [solutions](week02-ans.pdf)
 * Week 01: [problems](week01.pdf), [solutions](week01-ans.pdf)
 

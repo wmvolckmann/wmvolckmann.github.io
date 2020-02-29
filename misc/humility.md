@@ -8,7 +8,7 @@ order: 10.9
 * [Alison Jones - Modest Personality Trait, 'Intellectual Humility' Packs Punch](https://today.duke.edu/2017/03/modest-personality-trait-intellectual-humility-packs-punch)
 * [Sean Stevens - Intellectual Humility and Openness to the Opposing View](https://heterodoxacademy.org/research-summary-intellectual-humility-and-openness-to-the-opposing-view/)
 * [Tania Lombrozo - Do You Suffer From Illusions Of Moral Superiority?](https://www.npr.org/sections/13.7/2017/01/23/511164613/do-you-suffer-from-illusions-of-moral-superiority)
-* [Escaping the Trap of Self-Righteousness](https://www.insidehighered.com/views/2019/09/19/need-engage-sincere-conversation-those-whom-one-disagrees-opinion)
+* [Morson and Schapiro - Escaping the Trap of Self-Righteousness](https://www.insidehighered.com/views/2019/09/19/need-engage-sincere-conversation-those-whom-one-disagrees-opinion)
 * [Tomas Chamorro-Premuzic - Why confidence is overrated](https://www.cnn.com/2014/10/23/business/opinion-low-confidence-success/index.html)
 * [Kristin Wong - Why Self-Compassion Beats Self-Confidence](https://www.nytimes.com/2017/12/28/smarter-living/why-self-compassion-beats-self-confidence.html)
 * [Greg Myre - Nelson Mandela And The Virtue Of Compromise](https://www.npr.org/sections/parallels/2013/12/08/249562974/nelson-mandela-and-the-virtue-of-compromise)

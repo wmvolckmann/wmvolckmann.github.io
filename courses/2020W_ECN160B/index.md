@@ -5,7 +5,7 @@ order: 9.1
 ---
 
 ## Materials
-* Week 09: [problems](week09.pdf)
+* Week 09: [problems](week09.pdf), [solutions](week09-ans.pdf)
 * Week 08: [problems](week08.pdf), [solutions](week08-ans.pdf)
 * Week 07: sample exam on Canvas 5-8, [my solutions](week07-ans.pdf)
 * Week 06: sample exam on Canvas 1-4, [my solutions](week06-ans.pdf)

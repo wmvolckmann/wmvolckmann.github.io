@@ -4,7 +4,11 @@ title: ECN 160B - International Macro (Winter 2020)
 order: 9.1
 ---
 
+Please note that all materials will be removed as soon as the take-home final
+exam is distributed.
+
 ## Materials
+* Week 10: sample exam, [my solutions](week10-ans.pdf)
 * Week 09: [problems](week09.pdf), [solutions](week09-ans.pdf)
 * Week 08: [problems](week08.pdf), [solutions](week08-ans.pdf)
 * Week 07: sample exam on Canvas 5-8, [my solutions](week07-ans.pdf)

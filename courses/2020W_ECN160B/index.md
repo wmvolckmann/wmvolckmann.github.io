@@ -4,20 +4,7 @@ title: ECN 160B - International Macro (Winter 2020)
 order: 9.1
 ---
 
-Please note that all materials will be removed as soon as the take-home final
-exam is distributed, provided I actually wake up that early. 
-
-## Materials
-* Week 10: sample exam on Canvas, [my solutions](week10-ans.pdf)
-* Week 09: [problems](week09.pdf), [solutions](week09-ans.pdf)
-* Week 08: [problems](week08.pdf), [solutions](week08-ans.pdf)
-* Week 07: sample exam on Canvas 5-8, [my solutions](week07-ans.pdf)
-* Week 06: sample exam on Canvas 1-4, [my solutions](week06-ans.pdf)
-* Week 05: [problems](week05.pdf), [solutions](week05-ans.pdf)
-* Week 04: [midterm 1 feel goods](https://youtu.be/D23sMvVnrow)
-* Week 03: sample exam on Canvas
-* Week 02: [problems](week02.pdf), [solutions](week02-ans.pdf)
-* Week 01: [problems](week01.pdf), [solutions](week01-ans.pdf)
+[Good luck](https://youtu.be/oj0Iz9ZsDAc)
 
 ### Lecture
 * Instructor: Alan Taylor

@@ -5,7 +5,7 @@ order: 9.1
 ---
 
 Please note that all materials will be removed as soon as the take-home final
-exam is distributed.
+exam is distributed, provided I actually wake up that early. 
 
 ## Materials
 * Week 10: sample exam on Canvas, [my solutions](week10-ans.pdf)

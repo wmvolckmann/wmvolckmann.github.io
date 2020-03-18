@@ -4,7 +4,7 @@ title: ECN 160B - International Macro (Winter 2020)
 order: 9.1
 ---
 
-[Good luck](https://youtu.be/oj0Iz9ZsDAc)
+[bye](https://youtu.be/j1eW9K0a-60)
 
 ### Lecture
 * Instructor: Alan Taylor

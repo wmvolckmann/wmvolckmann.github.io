@@ -7,6 +7,7 @@ order: 9.7
   <ul type="disc">
     <h2>
       <li><a class="page-link" href="/courses/old/materials/">Old Course Materials</a></li>
+      <li><a class="page-link" href="/courses/old/2020W_ECN160B/">ECN 160B - International Macro (Winter 2020)</a></li>
       <li><a class="page-link" href="/courses/old/2019F_ECN1B/">ECN 1B - Principles of Macro (Fall 2019)</a></li>
       <li><a class="page-link" href="/courses/old/2019Su_ECN1B/">ECN 1B - Principles of Macro (Summer 2019)</a></li>
       <li><a class="page-link" href="/courses/old/2019Sp_ECN102/">ECN 102 - Analysis of Econ Data (Spring 2019)</a></li>

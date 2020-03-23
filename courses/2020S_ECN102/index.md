@@ -6,7 +6,7 @@ order: 9.1
 
 ### Lecture
 * Instructor: Colin Cameron
-* Time and Place: MWF 12:10-1 PM, the Internet
+* Time and Place: MWF 12:10-1 PM, the Internets
 * Office Hours: ???
 * Midterm 1: ???
 * Midterm 2: ???

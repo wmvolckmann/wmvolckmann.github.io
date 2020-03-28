@@ -4,6 +4,7 @@ title: ECN 102A - Analysis of Econ Data (Spring 2020)
 order: 9.1
 ---
 
+
 ### Section Materials
 * Week 01: [nuclear cheese dataset](nuclearcheese.dta)
 

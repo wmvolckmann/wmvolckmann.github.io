@@ -4,6 +4,10 @@ title: ECN 102A - Analysis of Econ Data (Spring 2020)
 order: 9.1
 ---
 
+### Section Materials
+* Week 01: [nuclear cheese dataset](nuclearcheese.dta)
+
+
 ### Lecture
 * Instructor: Colin Cameron
 * Time and Place: MWF 12:10-1pm, the Internets

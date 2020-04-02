@@ -8,7 +8,7 @@ Links to all Zoom sessions can be found on Canvas.
 
 
 ### Section Materials
-* Week 01: [nuclear cheese dataset](nuclearcheese.dta)
+* Week 01: Stata introduction
 
 
 ### Lecture

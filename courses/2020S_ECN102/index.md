@@ -8,6 +8,7 @@ Links to all Zoom sessions can be found on Canvas.
 
 
 ### Section Materials
+* Week 03: [Stata Cheat Sheet 2](102-stata-02.pdf)
 * Week 02: [Stata Cheat Sheet 1](102-stata-01.pdf)
 * Week 01: Stata introduction
 

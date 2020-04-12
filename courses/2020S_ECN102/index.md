@@ -12,7 +12,7 @@ Disclaimer: I am just some doofus grad student. This stuff here is
 supplementary and it's possible I made some mistake somewhere.
 
 * Week 03: [Confidence Intervals and Two-Sided Hypothesis Testing](CI_htest_pvalue.pdf)
-* Week 02: [Central Limit theorem](CLT.pdf)
+* Week 02: [Central Limit Theorem](CLT.pdf)
 * Week 01: [Example do-file](week1example.do)
 
 * [Stata Cheat Sheet 1](102-stata-01.pdf)

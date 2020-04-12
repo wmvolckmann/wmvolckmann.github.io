@@ -8,8 +8,8 @@ Links to all Zoom sessions can be found on Canvas.
 
 
 ### Section Materials
-Disclaimer: I am just some doofus TA. This stuff here is supplementary and
-it's possible I made some mistake somewhere.
+Disclaimer: I am just some doofus grad student. This stuff here is
+supplementary and it's possible I made some mistake somewhere.
 
 * Week 03: [Confidence Intervals and Two-Sided Hypothesis Testing](CI_htest_pvalue.pdf)
 * Week 02: [Central Limit theorem](CLT.pdf)

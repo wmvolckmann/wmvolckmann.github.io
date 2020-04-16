@@ -8,7 +8,7 @@ order: 10.7
 I forget code sometimes, so I'm putting some examples here for my own reference.
 
 ### MATLAB
-* implicitly implicit equation: [view code](https://matlab.mathworks.com/users/wmvolckmann/Published/fsolveexample/index.html), [download script](https://matlab.mathworks.com/users/wmvolckmann/Published/fsolveexample/fsolveexample.m)
+* implicitly solve equation: [view code](https://matlab.mathworks.com/users/wmvolckmann/Published/fsolveexample/index.html), [download script](https://matlab.mathworks.com/users/wmvolckmann/Published/fsolveexample/fsolveexample.m)
 * nonlinear constrained optimization: [view code](https://matlab.mathworks.com/users/wmvolckmann/Published/fminconexample/index.html), [download script](https://matlab.mathworks.com/users/wmvolckmann/Published/fminconexample/fminconexample.m)
 * plotting a function: [view code](https://matlab.mathworks.com/users/wmvolckmann/Published/fplotexample/index.html), [download script](https://matlab.mathworks.com/users/wmvolckmann/Published/fplotexample/fplotexample.m)
 

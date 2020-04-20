@@ -25,10 +25,10 @@ supplementary and it's possible I made some mistake somewhere.
 * Office Hours: WF, 10-11:30am, the Internets
 * Textbook: Analysis of Economics Data (it's on Canvas, for freeee)
 * Software: Stata. There is limited (i.e. unreliable) access [here](https://virtuallab.ucdavis.edu/). Since the textbook is being given away for free, I suggest you spend that money on your own Stata license [here](https://www.stata.com/order/new/edu/gradplans/student-pricing/).
-* Midterm 0: Friday, April 17 
-* Midterm 1: Friday, April 24 through Examity
-* Midterm 2: Friday, May 15 through Examity
-* Final Exam: Monday, June 8 through Examity
+* Midterm 0: Friday, April 17 on Canvas
+* Midterm 1: Friday, April 24 on Canvas
+* Midterm 2: Friday, May 15 on Canvas through Examity
+* Final Exam: Monday, June 8 on Canvas through Examity
 
 
 ### Discussion

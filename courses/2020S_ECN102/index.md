@@ -11,7 +11,7 @@ Links to all Zoom sessions can be found on Canvas.
 Disclaimer: I am just some doofus grad student. This stuff here is
 supplementary and it's possible I made some mistake somewhere.
 
-* Week 04: [Hypothesis Testing Slides](week4_testing.pdf),[Multiple Choice Slides](week4_multiplechoice.pdf), [Testing do-file](week4_testing.do)
+* Week 04: [Hypothesis Testing Slides](week4_testing.pdf), [Multiple Choice Slides](week4_multiplechoice.pdf), [Testing do-file](week4_testing.do)
 * Week 03: [Confidence Intervals and Two-Sided Hypothesis Testing](CI_htest_pvalue.pdf)
 * Week 02: [Central Limit Theorem](CLT.pdf)
 * Week 01: [Example do-file](week1_example.do)

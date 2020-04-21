@@ -8,9 +8,9 @@ Links to all Zoom sessions can be found on Canvas.
 
 
 ### Section Materials
-Disclaimer: I am just some doofus grad student. This stuff here is
+Disclaimer: I am just some doofus grad student. This stuff is
 supplementary and it's possible I made some mistake somewhere (which is why
-it's not on Canvas). 
+it's not on Canvas).
 
 * Week 04: [Hypothesis Testing Slides](week4_testing.pdf), [Multiple Choice Slides](week4_multiplechoice.pdf), [Testing do-file](week4_testing.do)
 * Week 03: [Confidence Intervals and Two-Sided Hypothesis Testing](CI_htest_pvalue.pdf)

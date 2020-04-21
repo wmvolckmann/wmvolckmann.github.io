@@ -16,6 +16,8 @@ order: 10.9
 * [Neera Chandhoke - The Road to Toleration: On the Ethical Virtue of Doubt](http://www.21global.ucsb.edu/global-e/october-2017/road-toleration-ethical-virtue-doubt)
 * [Tania Lombrozo - A New Goal: Aim To Be Less Wrong](https://www.npr.org/sections/13.7/2018/02/12/585057058/a-new-goal-aim-to-be-less-wrong)
 * [Rose Eveleth - You Don't Know As Much As You Think You Do](https://www.smithsonianmag.com/smart-news/you-dont-know-as-much-as-you-think-you-do-65764329/)
+*[Tenelle Porter, The Benefits of Admitting When You Don’t Know](https://behavioralscientist.org/the-benefits-of-admitting-when-you-dont-know/)
+*[Erik Angner - Epistemic Humility—Knowing Your Limits in a Pandemic](https://behavioralscientist.org/epistemic-humility-coronavirus-knowing-your-limits-in-a-pandemic/)
 * [David Robson - Can high intelligence be a burden rather than a boon?](http://www.bbc.com/future/story/20150413-the-downsides-of-being-clever)
 * [Math Geniuses Given 5th Grade Math Problems. It Didn't Go Well](https://www.inc.com/chris-matyszczyk/researchers-gave-math-geniuses-5th-grade-math-problems-it-didnt-go-well.html)
 * [Gapminder - Do you understand less about the world than a monkey?](https://www.gapminder.org/ignorance/gms/)

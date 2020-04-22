@@ -43,14 +43,14 @@ di invttail(74-1, 0.01/2)
 ********************************
 * confidence interval approach *
 ********************************
-* 90% confidence interval does not contain 3200, reject null at 10% significance
 mean weight, level(90)
+* 90% confidence interval does not contain 3200, reject null at 10% significance
 
-* 95% confidence interval does not contain 3200, reject null at 5% significance
 mean weight, level(95)
+* 95% confidence interval does not contain 3200, reject null at 5% significance
 
-* 99% confidence interval does contain 3200, fail to reject null at 1% significance
 mean weight, level(99)
+* 99% confidence interval does contain 3200, fail to reject null at 1% significance
 
 
 * So conclusions are the same regardless of which method we use to test. The

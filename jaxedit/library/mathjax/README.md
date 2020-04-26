@@ -1,3 +1,7 @@
+---
+exclude: true
+---
+
 # MathJax
 
 ## Beautiful math in all browsers

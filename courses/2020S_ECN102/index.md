@@ -32,8 +32,8 @@ it's not on Canvas). That said, I am told they are quite helpful.
 * Software: Stata. There is limited (i.e. unreliable) access [here](https://virtuallab.ucdavis.edu/). Since the textbook is being given away for free, I suggest you spend that money on your own Stata license [here](https://www.stata.com/order/new/edu/gradplans/student-pricing/).
 * Midterm 0: Friday, April 17 on Canvas
 * Midterm 1: Friday, April 24 on Canvas
-* Midterm 2: Friday, May 15 on Canvas through Examity
-* Final Exam: Monday, June 8 on Canvas through Examity
+* Midterm 2: Friday, May 15 on Canvas, monitored via Zoom
+* Final Exam: Monday, June 8 on Canvas, monitored via Zoom
 
 
 ### Discussion

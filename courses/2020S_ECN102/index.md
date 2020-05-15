@@ -12,11 +12,12 @@ Disclaimer: I am just some doofus grad student. This stuff is
 supplementary and it's possible I made some mistake somewhere (which is why
 it's not on Canvas). That said, I am told they are quite helpful.
 
+* Week 08: [Functional Forms (Logarithms)](102-functionalforms.pdf)
 * Week 07: [Regression Slides](week7_regression.pdf), [Sums Slides](week7_SS.pdf), [Multiple Choice Slides](week7_multiplechoice.pdf)
 * Week 05: [Simple Regressions](102-simpleregressions.pdf)
 * Week 04: [Hypothesis Testing Slides](week4_testing.pdf), [Multiple Choice Slides](week4_multiplechoice.pdf), [Testing do-file](week4_testing.do)
-* Week 03: [Confidence Intervals and Two-Sided Hypothesis Testing](CI_htest_pvalue.pdf)
-* Week 02: [Central Limit Theorem](CLT.pdf)
+* Week 03: [Confidence Intervals and Two-Sided Hypothesis Testing](102-CI_htest_pvalue.pdf)
+* Week 02: [Central Limit Theorem](102-CLT.pdf)
 * Week 01: [Example do-file](week1_example.do)
 
 * [Stata Cheat Sheet 1](102-stata-01.pdf)

@@ -36,7 +36,7 @@ it's not on Canvas). That said, I am told they are quite helpful.
 * Midterm 0: Friday, April 17 on Canvas
 * Midterm 1: Friday, April 24 on Canvas
 * Midterm 2: Friday, May 15 on Canvas, monitored via Zoom
-* Final Exam: Monday, June 8 on Canvas
+* Final Exam: Monday, June 8, 10:30am-12:30pm, on Canvas
 
 
 ### Discussion

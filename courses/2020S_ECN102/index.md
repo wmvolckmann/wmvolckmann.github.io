@@ -12,6 +12,7 @@ Disclaimer: I am just some doofus grad student. This stuff is
 supplementary and it's possible I made some mistake somewhere (which is why
 it's not on Canvas). That said, I am told they are quite helpful.
 
+* Week 10: [Marginal Effects](102-marginaleffects.pdf)
 * Week 09: [Multiple Regression](102-multipleregression.pdf), [wages.dta](wages.dta)
 * Week 08: [Functional Forms (Logarithms)](102-functionalforms.pdf)
 * Week 07: [Regression Slides](week7_regression.pdf), [Sums Slides](week7_SS.pdf), [Multiple Choice Slides](week7_multiplechoice.pdf)

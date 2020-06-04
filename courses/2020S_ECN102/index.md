@@ -13,12 +13,12 @@ supplementary and it's possible I made some mistake somewhere (which is why
 it's not on Canvas). That said, I am told they are quite helpful.
 
 
-* Midterm 1 Review: [Hypothesis Testing Slides](week4_testing.pdf), [Multiple Choice Slides](week4_multiplechoice.pdf), [Testing do-file](week4_testing.do)
+* Midterm 1 Review: [Hypothesis Testing Slides](week4_testing.pdf), [Multiple Choice Slides](week4_multiplechoice.pdf)
 * Midterm 2 Review: [Regression Slides](week7_regression.pdf), [Sums Slides](week7_SS.pdf), [Multiple Choice Slides](week7_multiplechoice.pdf)
 * Final Exam Review: it'll be here on Friday
 
 * Week 10: [Marginal Effects](102-marginaleffects.pdf)
-* Week 09: [F-test](102-ftest.pdf), [F-test do file](102-ftestexample.do) and [output](102-ftestdooutput.pdf)
+* Week 09: [F-test](102-ftest.pdf), [F-test do-file](102-ftestexample.do) and [output](102-ftestdooutput.pdf)
 * Week 08: [Functional Forms (Logarithms)](102-functionalforms.pdf)
 * Week 07: [Multiple Regression](102-multipleregression.pdf), [wages.dta](wages.dta)
 * Week 05: [Simple Regressions](102-simpleregressions.pdf)

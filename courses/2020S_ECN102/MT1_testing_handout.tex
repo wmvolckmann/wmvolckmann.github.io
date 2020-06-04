@@ -1,0 +1,347 @@
+\documentclass[handout, 9pt]{beamer}
+
+\mode<presentation> {
+
+%\usetheme{default}
+%\usetheme{AnnArbor}
+%\usetheme{Antibes}
+%\usetheme{Bergen}
+%\usetheme{Berkeley}
+%\usetheme{Berlin}
+%\usetheme{Boadilla}
+%\usetheme{CambridgeUS}
+%\usetheme{Copenhagen}
+%\usetheme{Darmstadt}
+%\usetheme{Dresden}
+%\usetheme{Frankfurt}
+%\usetheme{Goettingen}
+%\usetheme{Hannover}
+%\usetheme{Ilmenau}
+%\usetheme{JuanLesPins}
+%usetheme{Luebeck}
+%\usetheme{Madrid}
+%\usetheme{Malmoe}
+%\usetheme{Marburg}
+%\usetheme{Montpellier}
+%\usetheme{PaloAlto}
+%\usetheme{Pittsburgh}
+%\usetheme{Rochester}
+%\usetheme{Singapore}
+%\usetheme{Szeged}
+%\usetheme{Warsaw}
+
+
+%\usecolortheme{albatross}
+\usecolortheme{beaver}
+%\usecolortheme{beetle}
+%\usecolortheme{crane}
+%\usecolortheme{dolphin}
+%\usecolortheme{dove}
+%\usecolortheme{fly}
+%\usecolortheme{lily}
+%\usecolortheme{orchid}
+%\usecolortheme{rose}
+%\usecolortheme{seagull}
+%\usecolortheme{seahorse}
+%\usecolortheme{whale}
+%\usecolortheme{wolverine}
+
+\useinnertheme{circles}
+}
+
+\renewcommand{\vec}[1]{\mathbf{#1}}
+\renewcommand{\a}{\vec{a}}
+\newcommand{\p}{\vec{p}}
+\newcommand{\s}{\vec{s}}
+\newcommand{\G}{\vec{G}}
+{\renewcommand{\arraystretch}{1.3}
+
+\usepackage{graphicx}
+\usepackage{booktabs} 
+\usepackage{enumitem}
+\usepackage{array}
+%\setlength\extrarowheight{4pt}
+
+\setenumerate{itemsep=5pt, topsep=5pt, label=$\bullet$}
+
+
+
+%-------------
+%TITLE PAGE
+%-------------
+\date{}
+
+\title{ECN 102, Spring 2020}
+\author{Midterm 1 Review \\ Testing}
+
+
+
+\begin{document}
+
+
+
+
+\begin{frame}
+\titlepage
+\end{frame}
+\small
+
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{frame}
+	\frametitle{MT1, W18, Problem 2d}
+	The variable \texttt{weeks} measures the number of weeks that an unemployed person is unemployed until finding another job.
+	\begin{figure}[H]\centering
+		\includegraphics[width=\textwidth]{summarizeweeks.png}
+	\end{figure}
+	
+	Provide a 90 percent confidence interval for the population mean length of an unemployment spell.
+	\begin{enumerate}
+		\item<only@2>	Formula: $\left(\overline{x} \pm t_{n-1,\alpha/2} \times \dfrac{s}{\sqrt{n}}\right)$
+		\item<only@3>	Formula: $\left( 15.4889 \pm 1.680 \times \dfrac{12.5728}{\sqrt{45}}\right)$
+		\item	<4->Answer: $\left(12.3402, 18.6376\right)$
+		\item <5-> \texttt{mean weeks, level(90)}
+	\end{enumerate}
+\end{frame}
+%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+
+
+
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{frame}
+	\frametitle{MT1, W18, Problem 2e}
+	The claim is made that the population mean length of an unemployment spell is twenty weeks. Test this claim at significance level 0.05. State clearly the null and alternative hypotheses and your conclusion.
+	
+	\begin{enumerate}
+		\item<2-> Test $H_0: \mu = 20$ against $H_a: \mu \neq 20$
+		\item<3-> Step 1: calculate the test statistic
+		\[
+			t \equiv \frac{\overline{x} - \mu^*}{s / \sqrt{n}} \onslide<4-> = \frac{15.4889 - 20}{12.5727/\sqrt{45}}\onslide<5-> = -2.4069
+		\]
+		\item<6->  Remember, $T \equiv \frac{\overline{X} - \mu}{S / \sqrt{n}} \sim T(n-1)$
+		\item<7-> If null is correct (i.e. $\mu^* = \mu$), then $T \equiv \frac{\overline{X} - \mu^*}{S / \sqrt{n}} \sim T(n-1)$.
+		\item<8-> If $\mu^* = \mu$, then $t$ unlikely to be ``far'' from zero. If far, reject null. 
+	\end{enumerate}
+\end{frame}
+%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{frame}
+	\frametitle{MT1, W18, Problem 2e}
+	The claim is made that the population mean length of an unemployment spell is twenty weeks. Test this claim at significance level 0.05. State clearly the null and alternative hypotheses and your conclusion.
+	
+	\begin{enumerate}
+		\item Is $t = -2.4069$ too far from zero? Need to define \emph{rejection region}.
+		\begin{figure}[H]\centering
+			\includegraphics[width=200px]{criticalvalues.png}
+		\end{figure}
+
+	\end{enumerate}
+\end{frame}
+%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+
+
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{frame}
+	\frametitle{MT1, W18, Problem 2e}
+	The claim is made that the population mean length of an unemployment spell is twenty weeks. Test this claim at significance level 0.05. State clearly the null and alternative hypotheses and your conclusion.
+	
+		\begin{figure}[H]\centering
+				\includegraphics[width=200px]{criticalvalues2.png}
+		\end{figure}
+$|-2.4069| > 2.015$, reject the null at 5\% significance
+
+\end{frame}
+%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{frame}
+	\frametitle{MT1, W18, Problem 2 extra}
+	The claim is made that the population mean length of an unemployment spell is twenty weeks. What command would you use in Stata to find the $p$-value of the test?
+	
+	\begin{enumerate}
+		\item<2-> $p$-value tells you the probability of observing a $t$-statistic at least as extreme as the one we observe, if the null hypothesis were true
+		\item<3-> In other words, $P(T_{44} < -2.4069)$ or $P(T_{44} > 2.4069)$
+		\begin{figure}[H]\centering
+				\includegraphics[width=170px]{pvalue.png}
+		\end{figure}
+	\end{enumerate}
+\end{frame}
+%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{frame}
+	\frametitle{MT1, W18, Problem 2 extra}
+	The claim is made that the population mean length of an unemployment spell is twenty weeks. What command would you use in Stata to find the $p$-value of the test?
+	
+	\begin{enumerate}
+		\item<1-> In other words, $P(T_{44} < -2.4069)$ or $P(T_{44} > 2.4069)$
+		\begin{figure}[H]\centering
+				\includegraphics[width=170px]{pvalue.png}
+		\end{figure}
+		\item<1-> \texttt{di 2*ttail(44,2.4069)} or \texttt{ttest weeks = 20}
+		\item<2-> Equals $p=.02$, so reject at .10 and .05 but not .01 significance
+	\end{enumerate}
+\end{frame}
+%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{frame}
+	\frametitle{MT1, W18, Problem 2 extra}
+	The claim is made that the population mean length of an unemployment spell is twenty weeks. What does the 90\% confidence interval say?
+	
+	\begin{enumerate}
+		\item<1-> Confidence interval was $\left(12.3402, 18.6376\right)$
+		\item<2-> This does not contain $\mu^*=20$
+		\item<3-> There's is 90\% probability that the interval does contain $\mu$, however
+		\item<4-> If the interval probably contains $\mu$ but doesn't contain $\mu^*$, then $\mu^*$ is probably not $\mu$
+		\item<5-> Reject the null at 10\% significance
+	\end{enumerate}
+\end{frame}
+%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{frame}
+	\frametitle{Equivalent Rejection Criteria}
+	Three equivalent justifications for rejecting a null hypothesis at significance level $\alpha$	
+	\begin{enumerate}
+		\item<2-> The $1-\alpha$ percent confidence interval does not contain $\mu^*$
+		\item<3-> The $t$-statistic is larger in magnitude than the $t_{n-1, \alpha/2}$ critical value
+		\item<4-> The $p$-value is less than $\alpha$
+	\end{enumerate}
+\end{frame}
+%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{frame}
+	\frametitle{Fail to Reject Null: Why not Accept Null?}
+	First, some logical preliminaries.
+	\begin{enumerate}
+		\item<2-> Consider a true logical statement of the form: If $A$, then $B$
+		\item<3->[] (\emph{If my pet is a cat, then my pet is a mammal.})\\[2em]
+		
+		\item<4-> \textcolor{blue}{Logical equivalent (contrapositive)}: If not $B$, then not $A$.
+		\item<5->[] (\emph{If my pet is not a mammal, then my pet is not a cat.})\\[2em]
+		
+		\item<6-> \textcolor{red}{Logical fallacy (affirming the consequent):} If $B$, then $A$. \hfill (\emph{Evil!})
+		\item<7->[] (\emph{If my pet is a mammal, then my pet is a cat.}) \hfill (\emph{An aardvark?})
+	\end{enumerate}
+\end{frame}
+%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{frame}
+	\frametitle{Fail to Reject Null: Why not Accept Null?}
+	\begin{enumerate}
+		\item<1-> Consider a true logical statement of the form: If $A$, then $B$
+		\item<2->[] (\emph{If null is true, then $t$-statistic will probably be near zero.})\\[2em]
+		
+		\item<3-> \textcolor{blue}{Logical equivalent (contrapositive)}: If not $B$, then not $A$.
+		\item<4->[] (\emph{If $t$-statistic is far from zero, then null is probably false. Reject!})\\[2em]
+		
+		\item<5-> \textcolor{red}{Logical fallacy (affirming the consequent):} If $B$, then $A$. \hfill (\emph{Evil!})
+		\item<6->[] (\emph{If $t$-statistic is near zero, then null is probably true. Accept!})  \\[2em]
+	\end{enumerate}
+	\only<7>{Thus we can only \emph{fail to reject} the null; it is a logical mistake to \emph{accept} it.}
+\end{frame}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%
+\end{document}
+%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+
+
+
+
+
+
+
+  \begin{multline*}
+     \tilde{y}_t = a_{y,1} \tilde{y}_{t-1} + a_{y,2}\tilde{y}_{t-2} +\textcolor{blue} {\frac{a_3}{2} (r_{t-1} + r_{t-2}) \\
+     + \frac{a_3}{2} (c g_{t-1} + c g_{t-2} + z_{t-1} + z_{t-2}) + \epsilon_{1,t} 
+    \end{multline*}   
+ 
+ 
+ 
+\begin{tabular}{|c |c c  }
+	\hline \hline 
+	$i$		& 	$x_i$ \\
+	\hline 
+	$1$		&	24 \\
+	$2$ 		&	16 \\ 
+	$3$		&	18 \\
+	$4$ 		& 	6  \\
+	\hline
+	$\sum$	& 	64 \\
+	\hline \hline 
+\end{tabular}
+\end{frame}
+
+
+
+\begin{figure}[H]\centering
+	\includegraphics[width=\textwidth]{normalstd.png}
+\end{figure}

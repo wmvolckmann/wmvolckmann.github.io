@@ -13,8 +13,8 @@ supplementary and it's possible I made some mistake somewhere (which is why
 it's not on Canvas). That said, I am told these are quite helpful.
 
 
-* Midterm 1 Review: [Hypothesis Testing Slides](week4_testing.pdf), [Multiple Choice Slides](week4_multiplechoice.pdf)
-* Midterm 2 Review: [Regression Slides](week7_regression.pdf), [Sums Slides](week7_SS.pdf), [Multiple Choice Slides](week7_multiplechoice.pdf)
+* Midterm 1 Review (Apr 21 recordings): [Hypothesis Testing Slides](week4_testing.pdf), [Multiple Choice Slides](week4_multiplechoice.pdf)
+* Midterm 2 Review (May 12 recordings): [Regression Slides](week7_regression.pdf), [Sums Slides](week7_SS.pdf), [Multiple Choice Slides](week7_multiplechoice.pdf)
 * Final Exam Review: it'll be here on Friday
 
 * Week 10: [Marginal Effects](102-marginaleffects.pdf)

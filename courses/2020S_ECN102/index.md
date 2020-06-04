@@ -10,7 +10,7 @@ Links to all Zoom sessions can be found on Canvas.
 ### Section Materials
 Disclaimer: I am just some doofus grad student. This stuff is
 supplementary and it's possible I made some mistake somewhere (which is why
-it's not on Canvas). That said, I am told they are quite helpful.
+it's not on Canvas). That said, I am told these are quite helpful.
 
 
 * Midterm 1 Review: [Hypothesis Testing Slides](week4_testing.pdf), [Multiple Choice Slides](week4_multiplechoice.pdf)

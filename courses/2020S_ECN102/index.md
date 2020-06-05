@@ -15,10 +15,10 @@ it's not on Canvas). That said, I am told these are quite helpful.
 
 * Midterm 1 Review (Apr 21 recordings): [Hypothesis Testing](MT1_testing_handout.pdf), [Multiple Choice](MT1_multiplechoice_handout.pdf)
 * Midterm 2 Review (May 12 recordings): [Regression](MT2_regression_handout.pdf), [Sums](MT2_SS_handout.pdf), [Multiple Choice](MT2_multiplechoice_handout.pdf)
-* Final Exam Review: it'll be here on Friday
+* Final Exam Review: [Multiple Choice](final_multiplechoice_handout.pdf), [F-test do-file](102-ftestexample.do) and [output](102-ftestdooutput.pdf)
 
 * Week 10: [Marginal Effects](102-marginaleffects.pdf)
-* Week 09: [F-test](102-ftest.pdf), [F-test do-file](102-ftestexample.do) and [output](102-ftestdooutput.pdf)
+* Week 09: [F-test](102-ftest.pdf)
 * Week 08: [Multiple Regression](102-multipleregression.pdf), [wages.dta](wages.dta)
 * Week 07: [Functional Forms (Logarithms)](102-functionalforms.pdf)
 * Week 05: [Simple Regressions](102-simpleregressions.pdf)

@@ -157,13 +157,13 @@ html, body {
 #left {
   z-index: 0;
   left: 0;
-  right: 50%;
+  right: 65%;
 }
 
 #right {
   z-index: 4;
   right: 0;
-  left: 50%;
+  left: 35%;
   background: white;
 }
 
@@ -250,6 +250,7 @@ html, body {
 
 #resizer {
   position: relative;
+  right: 15%;
   width: 0;
   height: 100%;
   padding: 0 2px;
@@ -358,7 +359,7 @@ html, body {
   padding: 4px 0 4px 4px;
   border-left: 1px solid #C1C1C1;
   border-right: 1px solid #C1C1C1;
-  font-size: 36px;
+  font-size: 30px;
 }
 
 #showarea {
@@ -367,6 +368,7 @@ html, body {
   right: 0;
   top: 4px;
   bottom: 4px;
+  padding: 4px 25px 4px 25px;
   overflow: auto;
   font-family: Georgia, "Times New Roman", Times, serif;
   line-height: 1.3;

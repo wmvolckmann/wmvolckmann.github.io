@@ -20,7 +20,7 @@ it's not on Canvas). That said, I am told these are quite helpful.
 * Week 10: [Marginal Effects](102-marginaleffects.pdf)
 * Week 09: [F-test](102-ftest.pdf)
 * Week 08: [Multiple Regression](102-multipleregression.pdf), [wages.dta](wages.dta)
-* Week 07: [Functional Forms (Logarithms)](102-functionalforms.pdf)
+* Week 07: [Log Functional Forms](102-logfunctionalforms.pdf)
 * Week 05: [Simple Regressions](102-simpleregressions.pdf)
 * Week 03: [Confidence Intervals and Two-Sided Hypothesis Testing](102-CI_htest_pvalue.pdf)
 * Week 02: [Central Limit Theorem](102-CLT.pdf)

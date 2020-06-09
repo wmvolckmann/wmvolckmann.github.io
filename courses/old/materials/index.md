@@ -8,7 +8,7 @@ I tend to write cheat sheets, formula sheets, and other useful (hopefully)
 materials. I archive some here for posterity.
 
 ### ECN 101 - Intermediate Macro
-* [GDP Accounting, Money, Yield Curve](101-gdp.pdf  )
+* [GDP Accounting, Money, Yield Curve](101-gdp.pdf)
 * [Open Economy, Solow Model, AS/AD](101-solow.pdf)
 * [IS-LM, Mundell-Flemming](101-islm.pdf)
 

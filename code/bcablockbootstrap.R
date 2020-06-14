@@ -54,7 +54,6 @@ a <- num/den
 z0 <- sum(bsresults$t <= bsresults$t0)/reps
 CIlow_bca   <- quantile(bsresults$t, pnorm(z0 + (z0 + qnorm(alpha/2)) / (1 - a*(z0 + qnorm(alpha/2)))))
 CIhigh_bca  <- quantile(bsresults$t, pnorm(z0 + (z0 + qnorm(1-alpha/2)) / (1 - a*(z0 + qnorm(1-alpha/2)))))
-cat(alpha, "Significance BCa Confidence Interval: ", CIlow_bca,",",CIhigh_bca);cat('\n')
 
 
 ### calculates p-value for two-sided test of H0: mean = 0
@@ -66,4 +65,6 @@ for (j in 1:10000){
   if (alphap == 0){break}
   if (CIlow < 0 & 0 < CIhigh){break}
 }
+
+cat(alpha, "Significance BCa Confidence Interval: ", CIlow_bca,",",CIhigh_bca);cat('\n')
 cat("BCa p-value: ", alphap);cat('\n')

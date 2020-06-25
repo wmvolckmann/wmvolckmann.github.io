@@ -1,0 +1,24 @@
+---
+layout: page
+title: ECN 102A - Analysis of Econ Data (Summer 2020)
+order: 9.1
+---
+
+### Materials
+* [R Cheat Sheet 1](102-Rsheet-01.pdf)
+
+### Lecture
+* Instructor: Mark Siegler
+* Time and Place: MTW, 10-11:40am, the Internets
+* Office Hours: Friday, 12:00pm-1:30, the Internets
+* Software: [R](https://cloud.r-project.org/). I recommend [RStudio](https://rstudio.com/products/rstudio/download/).
+* Midterm 1: Monday, July 6, 10-11:40am, on Canvas
+* Midterm 2: Monday, July 20, 10-11:40am, on Canvas
+* Final: Wednesday, July 29, 10:00-11:40am, on Canvas
+
+### Discussion
+* Me: William M Volckmann II
+* Sections
+  * Thursday A02, 12:10pm-1:50pm, the Internets
+  * Thursday A03, 2:10pm-3:50pm, the Internets
+* Office Hours: Monday, 12-2pm, the Internets

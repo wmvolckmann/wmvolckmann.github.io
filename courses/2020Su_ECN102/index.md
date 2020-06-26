@@ -18,7 +18,7 @@ order: 9.1
 
 ### Discussion
 * Me: William M Volckmann II
-* Sections
-  * A02: Thursday, 12:10pm-1:50pm, the Internets
-  * A03: Thursday, 2:10pm-3:50pm, the Internets
 * Office Hours: Monday, 12-2pm, the Internets
+* Sections
+  * A02: Thursday, 12:10-1:50pm, the Internets
+  * A03: Thursday, 2:10-3:50pm, the Internets

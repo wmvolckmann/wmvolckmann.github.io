@@ -5,6 +5,7 @@ order: 9.1
 ---
 
 ### Materials
+* [cats](cats.csv)
 * [R Cheat Sheet 1](102-Rsheet-01.pdf)
 
 ### Lecture

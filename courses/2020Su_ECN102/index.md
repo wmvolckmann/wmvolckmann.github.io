@@ -6,6 +6,9 @@ order: 9.1
 
 ### Materials
 * [cats](cats.csv)
+* [R Sheet 1]()
+* [R Sheet 2]()
+* [R Sheet 3]()
 
 ### Lecture
 * Instructor: Mark Siegler

@@ -7,7 +7,7 @@ order: 9.1
 
 
 ### Random Materials
-* [Univariate Tests](univariatetests.pdf)
+* [Central Limit Theorem](CLT.pdf), [Confidence Intervals and Testing](CI_htest_pvalue), [More Tests](univariatetests.pdf)
 * [cats](cats.csv)
 
 ### R Sheets

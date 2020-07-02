@@ -8,7 +8,7 @@ inaccurate since I am just some doofus grad student.
 
 ### Random Materials
 * [Central Limit Theorem](CLT.pdf), [Confidence Intervals and Testing](CI_htest_pvalue.pdf), [More Tests](univariatetests.pdf)
-* [cats](cats.csv)
+* [cats R script](cats.R), [cats data](cats.csv)
 
 ### R Sheets
 * [R Sheet 1](102-Rsheet-01.pdf)

@@ -4,7 +4,8 @@ title: ECN 102A - Analysis of Econ Data (Summer 2020)
 order: 9.1
 ---
 Disclaimer: The material here should be considered supplementary and possibly
-inaccurate since I am just some doofus grad student.
+inaccurate since I am just some doofus grad student. That said, I am told they
+are quite helpful.
 
 ### Random Materials
 * [Central Limit Theorem](CLT.pdf), [Confidence Intervals and Testing](CI_htest_pvalue.pdf), [More Tests](univariatetests.pdf)

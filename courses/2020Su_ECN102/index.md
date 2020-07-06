@@ -15,6 +15,8 @@ are quite helpful.
 * [R Sheet 1](102-Rsheet-01.pdf)
 * [R Sheet 2](102-Rsheet-02.pdf)
 * [R Sheet 3](102-Rsheet-03.pdf)
+* [R Sheet 4](102-Rsheet-04.pdf)
+
 
 ### Lecture
 * Instructor: Mark Siegler

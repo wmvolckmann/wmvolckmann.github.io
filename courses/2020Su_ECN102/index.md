@@ -12,10 +12,12 @@ are quite helpful.
 * [cats slides](twosampletest_handout.pdf), [cats R script](cats.R), [cats data](cats.csv)
 
 ### R Sheets
-When using the interactive script, use Shift + Enter to proceed step-by-step.
+When using interactive scripts, use Shift + Enter to proceed step-by-step. It
+will also give a warning but I can promise you that my R script will not steal
+your credit card information.
 
 * [R Sheet 1](102-Rsheet-01.pdf)
-* [R Sheet 2](102-Rsheet-02.pdf)
+* [R Sheet 2](102-Rsheet-02.pdf), [Interactive Script](https://colab.research.google.com/drive/1TkTdZ4FAGHhuL8acM3uNGhHQ95kvbd7e?usp=sharing)
 * [R Sheet 3](102-Rsheet-03.pdf)
 * [R Sheet 4](102-Rsheet-04.pdf), [Interactive Script](https://colab.research.google.com/drive/1UOofb_0qcgF68enCL2bYtN7U3zfZbqPy?usp=sharing)
 

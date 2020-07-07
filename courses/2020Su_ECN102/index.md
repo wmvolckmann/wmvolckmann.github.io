@@ -17,7 +17,6 @@ are quite helpful.
 * [R Sheet 3](102-Rsheet-03.pdf)
 * [R Sheet 4](102-Rsheet-04.pdf)
 
-
 ### Lecture
 * Instructor: Mark Siegler
 * Time and Place: MTW, 10-11:40am, the Internets

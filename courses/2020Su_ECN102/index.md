@@ -9,12 +9,12 @@ are quite helpful.
 
 ### Random Materials
 * [Central Limit Theorem](CLT.pdf), [Confidence Intervals and Testing](CI_htest_pvalue.pdf), [More Tests](univariatetests.pdf)
-* [Cats Slides](twosampletest_handout.pdf), [Cats R Script](cats.R), [Cats Interactive Script](https://colab.research.google.com/drive/1p8SiTIS6PCAFTn7h3Rrz63b4Q2fguW1J?usp=sharing), [Cats Data](cats.csv), 
+* [Cats Slides](twosampletest_handout.pdf), [Cats R Script](cats.R), [Cats Interactive Script](https://colab.research.google.com/drive/1p8SiTIS6PCAFTn7h3Rrz63b4Q2fguW1J?usp=sharing), [Cats Data](cats.csv)
 
 ### R Sheets
-When using interactive scripts, use Shift + Enter to proceed step-by-step. It
-will also give a warning but I can promise you that my R script will not steal
-your credit card information.
+When using interactive scripts, press *Shift + Enter* to proceed step-by-step; or
+click on *Runtime -> run* to run the entire script. It will give a warning but I
+can assure you that my R script will not steal your credit card information.
 
 * [R Sheet 1](102-Rsheet-01.pdf)
 * [R Sheet 2](102-Rsheet-02.pdf), [Interactive Script](https://colab.research.google.com/drive/1TkTdZ4FAGHhuL8acM3uNGhHQ95kvbd7e?usp=sharing)

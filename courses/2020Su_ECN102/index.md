@@ -18,7 +18,7 @@ your credit card information.
 
 * [R Sheet 1](102-Rsheet-01.pdf)
 * [R Sheet 2](102-Rsheet-02.pdf), [Interactive Script](https://colab.research.google.com/drive/1TkTdZ4FAGHhuL8acM3uNGhHQ95kvbd7e?usp=sharing)
-* [R Sheet 3](102-Rsheet-03.pdf)
+* [R Sheet 3](102-Rsheet-03.pdf), [Interactive Script (cats)](https://colab.research.google.com/drive/1p8SiTIS6PCAFTn7h3Rrz63b4Q2fguW1J?usp=sharing)
 * [R Sheet 4](102-Rsheet-04.pdf), [Interactive Script](https://colab.research.google.com/drive/1UOofb_0qcgF68enCL2bYtN7U3zfZbqPy?usp=sharing)
 
 ### Lecture

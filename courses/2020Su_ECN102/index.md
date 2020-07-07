@@ -9,7 +9,7 @@ are quite helpful.
 
 ### Random Materials
 * [Central Limit Theorem](CLT.pdf), [Confidence Intervals and Testing](CI_htest_pvalue.pdf), [More Tests](univariatetests.pdf)
-* [cats slides](twosampletest_handout.pdf), [cats R script](cats.R), [cats data](cats.csv)
+* [Cats Slides](twosampletest_handout.pdf), [Cats R Script](cats.R), [Cats Interactive Script](https://colab.research.google.com/drive/1p8SiTIS6PCAFTn7h3Rrz63b4Q2fguW1J?usp=sharing), [Cats Data](cats.csv), 
 
 ### R Sheets
 When using interactive scripts, use Shift + Enter to proceed step-by-step. It

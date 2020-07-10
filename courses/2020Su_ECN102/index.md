@@ -14,7 +14,7 @@ are quite helpful.
 
 ### R Sheets
 When using interactive scripts, press *Shift + Enter* to proceed step-by-step; or
-click on *Runtime -> run* to run the entire script. It will give a warning but I
+click on *Runtime -> Run all* to run the entire script. It will give a warning but I
 can assure you that my R script will not steal your credit card information.
 
 * [R Sheet 1](102-Rsheet-01.pdf)

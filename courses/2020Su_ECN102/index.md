@@ -12,7 +12,7 @@ are quite helpful.
 * [Central Limit Theorem](CLT.pdf), [Confidence Intervals and Testing](CI_htest_pvalue.pdf), [More Tests](univariatetests.pdf)
 * [Cats Slides](twosampletest_handout.pdf), [Cats R Script](cats.R), [Cats Interactive Script](https://colab.research.google.com/drive/1p8SiTIS6PCAFTn7h3Rrz63b4Q2fguW1J?usp=sharing), [Cats Data](cats.csv)
 
-### R Sheets
+### R Sheets and Notebooks
 When using interactive scripts, press *Shift + Enter* to proceed step-by-step; or
 click on *Runtime -> Run all* to run the entire script. It will give a warning but I
 can assure you that my R script will not steal your credit card information.
@@ -21,6 +21,7 @@ can assure you that my R script will not steal your credit card information.
 * [R Sheet 2](102-Rsheet-02.pdf), [Interactive Script](https://colab.research.google.com/drive/1TkTdZ4FAGHhuL8acM3uNGhHQ95kvbd7e?usp=sharing)
 * [R Sheet 3](102-Rsheet-03.pdf), [Interactive Script (cats)](https://colab.research.google.com/drive/1p8SiTIS6PCAFTn7h3Rrz63b4Q2fguW1J?usp=sharing)
 * [R Sheet 4](102-Rsheet-04.pdf), [Interactive Script](https://colab.research.google.com/drive/1UOofb_0qcgF68enCL2bYtN7U3zfZbqPy?usp=sharing)
+* [Interactive Script (Multiple Regression)](https://colab.research.google.com/drive/105kjMxIhP0B-le4pDYBKfTIP43ByTxYN?usp=sharing)
 
 ### Lecture
 * Instructor: Mark Siegler

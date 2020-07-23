@@ -3,6 +3,7 @@ layout: page
 title: ECN 102A - Analysis of Econ Data (Summer 2020)
 order: 9.1
 ---
+
 Disclaimer: The material here should be considered supplementary and possibly
 inaccurate since I am just some doofus grad student. That said, I am told they
 are quite helpful.
@@ -15,17 +16,22 @@ are quite helpful.
 * [Cats Slides](twosampletest_handout.pdf), [Cats R Script](cats.R), [Cats Interactive Script](https://colab.research.google.com/drive/1p8SiTIS6PCAFTn7h3Rrz63b4Q2fguW1J?usp=sharing), [Cats Data](cats.csv)
 
 ### R Sheets and Notebooks
+* [R Sheet 1](102-Rsheet-01.pdf)
+* [R Sheet 2](102-Rsheet-02.pdf)
+* [R Sheet 3](102-Rsheet-03.pdf)
+* [R Sheet 4](102-Rsheet-04.pdf)
+* [R Sheet 5](102-Rsheet-05.pdf)
+
+### Interactive R Notebooks
 When using interactive scripts, press *Shift + Enter* to proceed step-by-step; or
 click on *Runtime -> Run all* to run the entire script. It will give a warning but I
 can assure you that my R script will not steal your credit card information.
-
-* [R Sheet 1](102-Rsheet-01.pdf)
-* [R Sheet 2](102-Rsheet-02.pdf), [Interactive Script](https://colab.research.google.com/drive/1TkTdZ4FAGHhuL8acM3uNGhHQ95kvbd7e?usp=sharing)
-* [R Sheet 3](102-Rsheet-03.pdf), [Interactive Script (cats)](https://colab.research.google.com/drive/1p8SiTIS6PCAFTn7h3Rrz63b4Q2fguW1J?usp=sharing)
-* [R Sheet 4](102-Rsheet-04.pdf), [Interactive Script](https://colab.research.google.com/drive/1UOofb_0qcgF68enCL2bYtN7U3zfZbqPy?usp=sharing)
-* [Interactive Script (multiple regressions)](https://colab.research.google.com/drive/105kjMxIhP0B-le4pDYBKfTIP43ByTxYN?usp=sharing)
-* [R Sheet 5](102-Rsheet-05.pdf), [Joint Testing Interactive  Script](https://colab.research.google.com/drive/17niELnclHU6QLx8c58KLpcOy5Ks9WWWM?usp=sharing), [OLS Testing Interactive Script](https://colab.research.google.com/drive/1vglGVMTmW_FBXBvS_HAdulacAZVpsAYW?usp=sharing)
-
+* [Graphics](https://colab.research.google.com/drive/1TkTdZ4FAGHhuL8acM3uNGhHQ95kvbd7e?usp=sharing)
+* [Two-Sample Tests](https://colab.research.google.com/drive/1p8SiTIS6PCAFTn7h3Rrz63b4Q2fguW1J?usp=sharing)
+* [Correlation and Simple Regression](https://colab.research.google.com/drive/1UOofb_0qcgF68enCL2bYtN7U3zfZbqPy?usp=sharing)
+* [Multiple Regression](https://colab.research.google.com/drive/105kjMxIhP0B-le4pDYBKfTIP43ByTxYN?usp=sharing)
+* [Joint Testing](https://colab.research.google.com/drive/17niELnclHU6QLx8c58KLpcOy5Ks9WWWM?usp=sharing)
+* [OLS Testing](https://colab.research.google.com/drive/1vglGVMTmW_FBXBvS_HAdulacAZVpsAYW?usp=sharing)
 
 ### Lecture
 * Instructor: Mark Siegler

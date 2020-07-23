@@ -8,7 +8,7 @@ inaccurate since I am just some doofus grad student. That said, I am told they
 are quite helpful.
 
 ### Random Materials
-* [Joint Tests](ftest.pdf), [sleep](sleep.csv), [OLS Tests](OLStests.pdf)
+* [Joint Tests](ftest.pdf), [sleep](sleep.csv), [OLS Tests](OLStests.pdf), [Discussion 5 Recap](week5recap_handout.pdf)
 * [Multiple Regression](multipleregressions.pdf), [wages](wages.csv), [Logarithms](logfunctionalforms.pdf), [hcle.csv](hcle.csv), [Discussion 4 Recap](week4recap_handout.pdf)
 * [Simple Regression](simpleregressions.pdf), [Discussion 3 Recap](week3recap_handout.pdf)
 * [Central Limit Theorem](CLT.pdf), [Confidence Intervals and Testing](CI_htest_pvalue.pdf), [More Tests](univariatetests.pdf)

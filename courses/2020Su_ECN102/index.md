@@ -15,7 +15,7 @@ are quite helpful.
 * [Central Limit Theorem](CLT.pdf), [Confidence Intervals and Testing](CI_htest_pvalue.pdf), [More Tests](univariatetests.pdf)
 * [Cats Slides](twosampletest_handout.pdf), [Cats R Script](cats.R), [Cats Interactive Script](https://colab.research.google.com/drive/1p8SiTIS6PCAFTn7h3Rrz63b4Q2fguW1J?usp=sharing), [Cats Data](cats.csv)
 
-### R Sheets and Notebooks
+### R Sheets
 * [R Sheet 1](102-Rsheet-01.pdf)
 * [R Sheet 2](102-Rsheet-02.pdf)
 * [R Sheet 3](102-Rsheet-03.pdf)

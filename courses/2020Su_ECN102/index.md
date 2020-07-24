@@ -9,11 +9,11 @@ inaccurate since I am just some doofus grad student. That said, I am told they
 are quite helpful.
 
 ### Random Materials
-* [Joint Tests](ftest.pdf), [sleep](sleep.csv), [OLS Tests](OLStests.pdf), [Discussion 5 Recap](week5recap_handout.pdf)
-* [Multiple Regression](multipleregressions.pdf), [wages](wages.csv), [Logarithms](logfunctionalforms.pdf), [hcle.csv](hcle.csv), [Discussion 4 Recap](week4recap_handout.pdf)
+* [Joint Tests](ftest.pdf), [sleep.csv](sleep.csv), [OLS Tests](OLStests.pdf), [Discussion 5 Recap](week5recap_handout.pdf)
+* [Multiple Regression](multipleregressions.pdf), [wages.csv](wages.csv), [Logarithms](logfunctionalforms.pdf), [hcle.csv](hcle.csv), [Discussion 4 Recap](week4recap_handout.pdf)
 * [Simple Regression](simpleregressions.pdf), [Discussion 3 Recap](week3recap_handout.pdf)
 * [Central Limit Theorem](CLT.pdf), [Confidence Intervals and Testing](CI_htest_pvalue.pdf), [More Tests](univariatetests.pdf)
-* [Cats Slides](twosampletest_handout.pdf), [Cats R Script](cats.R), [Cats Interactive Script](https://colab.research.google.com/drive/1p8SiTIS6PCAFTn7h3Rrz63b4Q2fguW1J?usp=sharing), [Cats Data](cats.csv)
+* [Cats Slides](twosampletest_handout.pdf), [Cats R Script](cats.R), [Cats Interactive Script](https://colab.research.google.com/drive/1p8SiTIS6PCAFTn7h3Rrz63b4Q2fguW1J?usp=sharing), [cats.csv](cats.csv)
 
 ### R Sheets
 * [R Sheet 1](102-Rsheet-01.pdf)

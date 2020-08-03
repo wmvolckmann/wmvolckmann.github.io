@@ -37,10 +37,10 @@ materials. I archive some here for posterity.
 * [Multiple Regression](102-R-multipleregressions.pdf)
 * [F-tests](102-R-ftest.pdf)
 * [OLS Assumption Tests](102-R-OLStests.pdf)
-* [cats](cats.csv)
-* [wages](wages.csv)
-* [hcle](hcle.csv)
-* [sleep](sleep.csv)
+* [cats.csv](cats.csv)
+* [wages.csv](wages.csv)
+* [hcle.csv](hcle.csv)
+* [sleep.csv](sleep.csv)
 
 When using interactive scripts, press *Shift + Enter* to proceed step-by-step; or
 click on *Runtime -> Run all* to run the entire script. It will give a warning but I

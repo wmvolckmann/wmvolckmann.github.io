@@ -7,6 +7,7 @@ order: 10.9
 ### Articles
 * [Alison Jones - Modest Personality Trait, 'Intellectual Humility' Packs Punch](https://today.duke.edu/2017/03/modest-personality-trait-intellectual-humility-packs-punch)
 * [Sean Stevens - Intellectual Humility and Openness to the Opposing View](https://heterodoxacademy.org/research-summary-intellectual-humility-and-openness-to-the-opposing-view/)
+* [Be Humble, and Proudly, Psychologists Say](https://www.nytimes.com/2019/10/21/health/psychology-humility-pride-behavior.html)
 * [Michael Patrick Lynch - Teaching Humility in an Age of Arrogance](https://www.chronicle.com/article/Teaching-Humility-in-an-Age-of/240266)
 * [Tania Lombrozo - Do You Suffer From Illusions Of Moral Superiority?](https://www.npr.org/sections/13.7/2017/01/23/511164613/do-you-suffer-from-illusions-of-moral-superiority)
 * [Morson and Schapiro - Escaping the Trap of Self-Righteousness](https://www.insidehighered.com/views/2019/09/19/need-engage-sincere-conversation-those-whom-one-disagrees-opinion)

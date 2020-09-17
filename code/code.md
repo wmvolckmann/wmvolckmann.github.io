@@ -8,9 +8,10 @@ order: 10.7
 I forget code sometimes, so I'm putting some examples here for my own reference.
 
 ### MATLAB
-* implicitly solve equation: [view code](https://matlab.mathworks.com/users/wmvolckmann/Published/fsolveexample/html/fsolveexample.html), [download script](https://matlab.mathworks.com/users/wmvolckmann/Published/fsolveexample/fsolveexample.m)
-* solve nonlinear system: [view code](https://matlab.mathworks.com/users/wmvolckmann/Published/systemsolve/html/systemsolve.html), [download script](https://matlab.mathworks.com/users/wmvolckmann/Published/systemsolve/systemsolve.m)
-* nonlinear constrained optimization: [view code](https://matlab.mathworks.com/users/wmvolckmann/Published/fminconexample/html/fminconexample.html), [download script](https://matlab.mathworks.com/users/wmvolckmann/Published/fminconexample/fminconexample.m)
+* implicitly solve equation using fsolve: [view code](https://matlab.mathworks.com/users/wmvolckmann/Published/fsolveexample/html/fsolveexample.html), [download script](https://matlab.mathworks.com/users/wmvolckmann/Published/fsolveexample/fsolveexample.m)
+* solve nonlinear system using fsolve: [view code](https://matlab.mathworks.com/users/wmvolckmann/Published/systemsolve/html/systemsolve.html), [download script](https://matlab.mathworks.com/users/wmvolckmann/Published/systemsolve/systemsolve.m)
+* nonlinear constrained optimization using fmincon: [view code](https://matlab.mathworks.com/users/wmvolckmann/Published/fminconexample/html/fminconexample.html), [download script](https://matlab.mathworks.com/users/wmvolckmann/Published/fminconexample/fminconexample.m)
+* Constrained maximization using optimization variables: [view code](https://matlab.mathworks.com/users/wmvolckmann/Published/optimvarsexample/html/optimvarsexample.html), [download script](https://matlab.mathworks.com/users/wmvolckmann/Published/optimvarsexample/optimvarsexample.m)
 * plotting a function: [view code](https://matlab.mathworks.com/users/wmvolckmann/Published/fplotexample/html/fplotexample.html), [download script](https://matlab.mathworks.com/users/wmvolckmann/Published/fplotexample/fplotexample.m)
 * waitbar in a loop: [view code](https://matlab.mathworks.com/users/wmvolckmann/Published/waitbar/html/progressbar.html), [download script](https://matlab.mathworks.com/users/wmvolckmann/Published/waitbar/progressbar.m)
 

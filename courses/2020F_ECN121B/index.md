@@ -7,7 +7,7 @@ order: 9.1
 
 ### Lecture
 * Instructor: Erich Muehlegger
-* Time and Place: MWF 9-9:50pm, on The Internets
+* Time and Place: MWF 9-9:5am, on The Internets
 * Office Hours: Thursdays, 1–3pm, on The Internets
 * Midterm 1: Wednesday, October 21
 * Midterm 2: Friday, November 20

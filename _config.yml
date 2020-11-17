@@ -11,7 +11,7 @@ title: William M Volckmann II
 description: > # this means to ignore newlines until "baseurl:"
   William M Volckmann II
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://www.wimivo.com/" # the base hostname & protocol for your site
+url: "https://www.wimivo.com/" # the base hostname & protocol for your site
 #twitter_username: jekyllrb
 #github_username:  jekyll
 permalink: /:categories/:title/

@@ -18,9 +18,9 @@ exclude: true
 
 ### Discussion
 * Me: William M Volckmann II
-* Sections
-  * Tuesday, 1:10-2pm, the Internets
-  * Tuesday, 2:10-3pm, the Internets
 * Office Hours
   * Tuesday, 4-5pm, the Internets
   * Thursday, 1-2pm, the Internets
+* Sections
+  * Tuesday, 1:10-2pm, the Internets
+  * Tuesday, 2:10-3pm, the Internets

@@ -16,5 +16,5 @@ exclude: true
 
 ### Discussion
 * Me: William M Volckmann II
-* Sections: Thursday, 6:10-7:00pm, SSH 90
 * Office Hours: Monday, 12-1pm, SSH 116
+* Sections: Thursday, 6:10-7:00pm, SSH 90

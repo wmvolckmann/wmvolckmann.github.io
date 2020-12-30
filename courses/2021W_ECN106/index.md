@@ -17,7 +17,5 @@ order: 9.1
 
 ### Discussion
 * Me: William M Volckmann II
-* Sections
-  * A00: ?
-  * A00: ?
-* Office Hours: ?
+* Office Hours: Wednesday, 7-9pm, on The Internets
+* Sections: A01 and A05, Tuesday, 5:10-6pm, on The Internets

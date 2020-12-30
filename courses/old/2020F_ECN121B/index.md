@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ECN 121B - Industrial Organization (Fall 2020)
-order: 9.1
+exclude: true
 ---
 
 

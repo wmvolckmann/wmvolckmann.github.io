@@ -18,6 +18,6 @@ order: 9.1
 ### Discussion
 * Me: William M Volckmann II
 * Office Hours: Wednesday, 7-9pm, on The Internets
-* Sections
+* Sections: Weeks 3, 6, and 9
   * Tuesdays, 6:10-7pm (pre-quiz practice)
   * Thursdays, 5:10-6pm (post-quiz review)

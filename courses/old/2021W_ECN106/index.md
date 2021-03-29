@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ECN 106 - Decision Making (Winter 2021)
-order: 9.1
+exclude: true
 ---
 
 

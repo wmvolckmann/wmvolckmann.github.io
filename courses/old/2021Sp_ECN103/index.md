@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ECN 103 - Uncertainty & Information (Spring 2021)
-order: 9.1
+exclude: true
 ---
 
 

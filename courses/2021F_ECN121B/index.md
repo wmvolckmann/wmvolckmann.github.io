@@ -10,7 +10,7 @@ order: 2
 
 ### Lecture
 * Instructor: Erich Muehlegger
-* Time and Place: MWF 9-9:50am, Giedt 100
+* Time and Place: MWF 9-9:50am, Giedt 1003
 * Office Hours: Thursdays, 1–3pm, on The Internets
 * Midterm 1: Friday, October 15
 * Midterm 2: Monday, November 15

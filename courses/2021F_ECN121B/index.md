@@ -21,5 +21,5 @@ order: 2
 * Me: William M Volckmann II
 * Office Hours: Friday, 1-3pm, SSH 116
 * Sections
-  * A01: Tuesday, 6:10-7pm, Olson 20
+  * A01: Tuesday, 6:10-7pm, Olson 205
   * A02: Tuesday, 7:10-8pm, SSH 90

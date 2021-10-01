@@ -5,10 +5,9 @@ order: 2
 ---
 
 ### Discussion Materials
-  * Week 02: [problems](week02.pdf)
+  * Week 02: [handout](week02.pdf), [solutions](week02-ans.pdf)
 
 
-### Lecture
 * Instructor: Erich Muehlegger
 * Time and Place: MWF 9-9:50am, Giedt 1003
 * Office Hours: Thursdays, 1–3pm, on The Internets

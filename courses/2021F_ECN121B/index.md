@@ -5,8 +5,9 @@ order: 2
 ---
 
 ### Discussion Materials
-  * Week 02: [handout](week02.pdf), [solutions](week02-ans.pdf)
-  * Week 03: [handout](week03.pdf)
+* Week 03: [handout](week03.pdf)
+* Week 02: [handout](week02.pdf), [solutions](week02-ans.pdf)
+
 
 
 * Instructor: Erich Muehlegger

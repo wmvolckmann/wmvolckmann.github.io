@@ -5,6 +5,7 @@ order: 2
 ---
 
 ### Discussion Materials
+* Week 07: [handout](week07.pdf)
 * Week 06: [handout](week06.pdf), [solutions](week06-ans.pdf)
 * Week 05: [handout](week05.pdf), [solutions](week05-ans.pdf)
 * Week 04: [handout](week04.pdf), [solutions](week04-ans.pdf)

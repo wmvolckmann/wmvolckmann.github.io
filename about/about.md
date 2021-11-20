@@ -7,7 +7,7 @@ order: 11
 
 Hi. Here are some random factoids.
 
-* Contact me at wmvolckmann at ucdavis dot edu
+* Contact me at wmvolckmann at gmail dot com
 * I am not Mr. Volckmann. Don't call me that. It's gross.
 * From [Wisconsin](wisconsin.jpg) (mind the accent)
 * Bachelor's degree in math and economics from [UW-Madison](uwmadison.jpg)

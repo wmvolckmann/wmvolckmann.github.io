@@ -9,7 +9,7 @@ order: 1
 * Instructor: Giacomo Bonanno
 * Time and Place: Youtube or AggieVideo
 * Course website: Canvas and [here](http://faculty.econ.ucdavis.edu/faculty/bonanno/teaching/103/index.html)
-* Textbook: [Giacomo Bonanno - Decision Making (it's freeeeee)](http://faculty.econ.ucdavis.edu/faculty/bonanno/URI_Book.html)
+* Textbook: [Giacomo Bonanno - Uncertainty, Risk and Information (it's freeeeee)](http://faculty.econ.ucdavis.edu/faculty/bonanno/URI_Book.html)
 * Office Hours:
 * Quizzes:
 * Final Exam:

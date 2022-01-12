@@ -4,6 +4,10 @@ title: ECN 103 - Uncertainty & Information (Winter 2022)
 order: 1
 ---
 
+### Section Materials
+* [Week 02 Slides](Week 02 Slides.pdf), [Spreadsheet](Week 02 - VNM Transformation)
+
+
 
 ### Lecture
 * Instructor: Giacomo Bonanno

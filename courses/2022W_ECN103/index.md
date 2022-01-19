@@ -5,6 +5,7 @@ order: 1
 ---
 
 ### Section Materials
+* [Week 03 Slides](Week 03 Slides.pdf)
 * [Week 02 Slides](Week 02 Slides.pdf), [Spreadsheet](Week 02 - VNM Transformation.xlsx)
 
 

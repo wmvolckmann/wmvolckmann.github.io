@@ -68,6 +68,6 @@ The overall quality of top-shelf games shows no trend according to professional 
 ![All Count Trend](all_trend_count.png)
 
 ### Conclusions ###
-Professional reviewers seem to be more charitable in their assessments over time compared to users. PC as an ecosystem seems to be holding fairly steady as far as quality is concerned, whereas Playstation and Xbox seem to be struggling, and Nintendo seems to be thriving (especially thanks to the success of the Switch).
+Professional reviewers seem to be more charitable in their assessments over time compared to user, often to a degree that casts doubt upon the relevance of professional reviewers as sources of useful information for gamers in general. PC as an ecosystem seems to be holding fairly steady as far as quality is concerned, whereas Playstation and Xbox seem to be struggling, and Nintendo seems to be thriving (especially thanks to the success of the Switch).
 
 #### Footnotes ####

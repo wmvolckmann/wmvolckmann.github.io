@@ -52,7 +52,7 @@ The overall quality of top-shelf Nintendo games shows no trend according to prof
 The overall quality of top-shelf Xbox games shows no trend according to professional reviewers, but has a steep downward trend according to users, accumulating to a decline of around 9 points over the last 20 years.[^8] Likewise, the number of top-shelf Xbox games shows no trend according to professional reviewers, but has a steep downward trend according to users, accumulating to a decline of about 12 top-shelf games being released per quarter.[^9]
 
 [^8]: p = 0.456 and p < 0.001, respectively
-[^9]: p < 0.260 and p < 0.001, respectively
+[^9]: p = 0.260 and p < 0.001, respectively
 
 ![Xbox Percentile Trend](xbox_trend_percentile.png)
 ![Xbox Count Trend](xbox_trend_count.png)
@@ -62,7 +62,7 @@ The overall quality of top-shelf Xbox games shows no trend according to professi
 The overall quality of top-shelf games shows no trend according to professional reviewers; but has a steep downward trend according to users, accumulating to a decline of around 7 points over the last 20 years.[^10] The number of top-shelf games has an upward trend according to professional reviewers, accumulating to an increase of around 29 top-shelf games being released per quarter; but there is a downward trend according to users, accumulating to a decline of about 16 top-shelf games being released per quarter.[^11]
 
 [^10]: p = 0.217 and p < 0.001, respectively
-[^11]: p < 0.360 and p = 0.024, respectively
+[^11]: p = 0.360 and p = 0.024, respectively
 
 ![All Percentile Trend](all_trend_percentile.png)
 ![All Count Trend](all_trend_count.png)

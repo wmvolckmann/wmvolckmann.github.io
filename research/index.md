@@ -4,7 +4,7 @@ title: Research
 order: 2
 ---
 
-Simply being in grad school didn't make me enough of a nerd, so I decided to study subjects that are nerdy even by the standards of nerdy grad students. 
+Be warned: simply being in grad school didn't make me enough of a nerd, so I decided to study subjects that are nerdy even by the standards of nerdy grad students. 
 
 ### An Economic Model of Disutility of DRM ###
 *Abstract.* I develop a model in which software developers can choose to respond to the anticipated presence of piracy either by undercutting piracy or by acquiring costly digital rights management (DRM) technology from a third-party DRM provider. DRM works by delaying the availability of pirated copies to an uncertain future time, incentivizing impatient consumers to purchase a legitimate copy immediately. DRM, however, is disliked by consumers and is therefore a source of disutility. The model implies that unobstructed piracy, when accessible enough, reduces developer profit, and the reduction in profit is more severe for developers in larger markets. DRM, provided it is not too costly or too annoying to users, increases a developer's expected profit and the welfare of those who purchase the software relative to unobstructed piracy. Furthermore, the model suggests that developers can increase expected profit by credibly agreeing to remove DRM from legitimate copies after DRM has been cracked but it is not necessarily true that the eventual removal of DRM increases expected buyer welfare relative to indefinitely retained DRM.

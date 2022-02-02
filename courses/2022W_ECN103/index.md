@@ -5,7 +5,7 @@ order: 1
 ---
 
 ### Section Materials
-* [Week 05 Handout](Week 05 Handout.pdf), [Week 05 Solutions](Week 05 Solutions.pdf)
+* [Week 05 Handout](week05.pdf), [Week 05 Solutions](week05-ans.pdf)
 * [Week 04 Slides](Week 04 Slides.pdf)
 * [Week 03 Slides](Week 03 Slides.pdf)
 * [Week 02 Slides](Week 02 Slides.pdf), [Spreadsheet](Week 02 - VNM Transformation.xlsx)

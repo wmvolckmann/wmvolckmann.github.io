@@ -1,0 +1,65 @@
+I"B<p>I tend to write cheat sheets, formula sheets, and other useful (hopefully)
+materials. I archive some here for posterity.</p>
+
+<h3 id="ecn-101---intermediate-macro">ECN 101 - Intermediate Macro</h3>
+<ul>
+  <li><a href="101-gdp.pdf">GDP Accounting, Money, Yield Curve</a></li>
+  <li><a href="101-solow.pdf">Open Economy, Solow Model, AS/AD</a></li>
+  <li><a href="101-islm.pdf">IS-LM, Mundell-Flemming</a></li>
+</ul>
+
+<h3 id="ecn-102---analysis-of-econ-data-stata">ECN 102 - Analysis of Econ Data (Stata)</h3>
+<ul>
+  <li><a href="102-stata-01.pdf">Stata Sheet 01</a></li>
+  <li><a href="102-stata-02.pdf">Stata Sheet 02</a></li>
+  <li><a href="102-stata-03.pdf">Stata Sheet 03</a></li>
+  <li><a href="102-CLT.pdf">Central Limit Theorem</a></li>
+  <li><a href="102-CI_htest_pvalue.pdf">Confidence Intervals and Testing</a></li>
+  <li><a href="102-simpleregressions.pdf">Simple Regression</a></li>
+  <li><a href="102-logfunctionalforms.pdf">Log Functional Forms</a></li>
+  <li><a href="102-multipleregression.pdf">Multiple Regression</a></li>
+  <li><a href="102-marginaleffects.pdf">Marginal Effects</a></li>
+  <li><a href="102-ftest.pdf">F-test</a></li>
+</ul>
+
+<h3 id="ecn-102---analysis-of-econ-data-r">ECN 102 - Analysis of Econ Data (R)</h3>
+<ul>
+  <li><a href="102-Rsheet-01.pdf">R Sheet 01</a></li>
+  <li><a href="102-Rsheet-02.pdf">R Sheet 02</a></li>
+  <li><a href="102-Rsheet-03.pdf">R Sheet 03</a></li>
+  <li><a href="102-Rsheet-04.pdf">R Sheet 04</a></li>
+  <li><a href="102-Rsheet-05.pdf">R Sheet 05</a></li>
+  <li><a href="102-R-CLT.pdf">Central Limit Theorem</a></li>
+  <li><a href="102-CI_htest_pvalue.pdf">Confidence Intervals and Testing</a></li>
+  <li><a href="102-R-simpleregressions.pdf">Simple Regression</a></li>
+  <li><a href="102-R-logfunctionalforms.pdf">Log Functional Forms</a></li>
+  <li><a href="102-R-multipleregressions.pdf">Multiple Regression</a></li>
+  <li><a href="102-R-ftest.pdf">F-tests</a></li>
+  <li><a href="102-R-OLStests.pdf">OLS Assumption Tests</a></li>
+  <li><a href="cats.csv">cats.csv</a></li>
+  <li><a href="wages.csv">wages.csv</a></li>
+  <li><a href="hcle.csv">hcle.csv</a></li>
+  <li><a href="sleep.csv">sleep.csv</a></li>
+</ul>
+
+<p>When using interactive scripts, press <em>Shift + Enter</em> to proceed step-by-step; or
+click on <em>Runtime -&gt; Run all</em> to run the entire script. It will give a warning but I
+can assure you that my R script will not steal your credit card information.</p>
+<ul>
+  <li><a href="https://colab.research.google.com/drive/1TkTdZ4FAGHhuL8acM3uNGhHQ95kvbd7e?usp=sharing">Basic Graphics</a></li>
+  <li><a href="https://colab.research.google.com/drive/1p8SiTIS6PCAFTn7h3Rrz63b4Q2fguW1J?usp=sharing">Two-Sample Tests</a></li>
+  <li><a href="https://colab.research.google.com/drive/1UOofb_0qcgF68enCL2bYtN7U3zfZbqPy?usp=sharing">Correlation and Simple Regression</a></li>
+  <li><a href="https://colab.research.google.com/drive/105kjMxIhP0B-le4pDYBKfTIP43ByTxYN?usp=sharing">Multiple Regression</a></li>
+  <li><a href="https://colab.research.google.com/drive/17niELnclHU6QLx8c58KLpcOy5Ks9WWWM?usp=sharing">Joint Testing</a></li>
+  <li><a href="https://colab.research.google.com/drive/1vglGVMTmW_FBXBvS_HAdulacAZVpsAYW?usp=sharing">OLS Testing</a></li>
+</ul>
+
+<h3 id="ecn-134---financial-economics">ECN 134 - Financial Economics</h3>
+<ul>
+  <li><a href="134-presentvalue.pdf">Present Value</a></li>
+  <li><a href="134-rateofreturn.pdf">Rate of Return</a></li>
+  <li><a href="134-putcallchoice.pdf">Put-Call Parity and Portfolio Choice</a></li>
+  <li><a href="134-capm.pdf">Market Beta and CAPM</a></li>
+  <li><a href="134-mm.pdf">Modigliani-Miller Theorem</a></li>
+</ul>
+:ET

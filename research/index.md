@@ -17,4 +17,4 @@ Be warned: simply being in grad school didn't make me enough of a nerd, so I dec
 
 ### [Video Game Quality Over Time](/research/vg) ###
 
-### [How Out of Touch is the Entertainment Media?](/research/media) ###
+### [How Out of Touch Is the Entertainment Media?](/research/media) ###

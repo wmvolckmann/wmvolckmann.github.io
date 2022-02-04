@@ -1,6 +1,6 @@
 ---
 layout: page
-title: How Out of Touch is the Media?
+title: How Out of Touch Is the Entertainment Media?
 exclude: true
 ---
 
@@ -32,7 +32,7 @@ Around the year 2000, the music media are out of touch by about 11.5 points; and
 ![albums](albums.png)
 
 
-### All ###
+### Entertainment Media as a Whole ###
 Around the year 2000, the entertainment media as a whole are out of touch by about 12.8 points; and around the year 2020, the entertainment media as a whole are out of touch by about 8.8 points. The downward trend in disagreement is about -0.046 points per quarter (p < 0.001), or a closing of the gap of about 1 point every 5-6 years.
 
 ![allmedia](allmedia.png)

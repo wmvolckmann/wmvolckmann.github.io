@@ -5,6 +5,7 @@ order: 1
 ---
 
 ### Section Materials
+* [Week 06 Handout](week06.pdf)
 * [Week 05 Handout](week05.pdf), [Week 05 Solutions](week05-ans.pdf)
 * [Week 04 Slides](Week 04 Slides.pdf)
 * [Week 03 Slides](Week 03 Slides.pdf)

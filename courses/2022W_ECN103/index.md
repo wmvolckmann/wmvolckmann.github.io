@@ -12,7 +12,6 @@ order: 1
 * [Week 02 Slides](Week 02 Slides.pdf), [Spreadsheet](Week 02 - VNM Transformation.xlsx)
 
 
-
 ### Lecture
 * Instructor: Giacomo Bonanno
 * Time and Place: MWF, 11-11:50am, Cruess Hall 1002 maybe
@@ -24,7 +23,6 @@ order: 1
   * Midterm 2: Friday, February 4
   * Midterm 3: Friday, February 25
   * Final: Monday, March 14, 10:30am–12:30pm  
-
 
 
 ### Discussion

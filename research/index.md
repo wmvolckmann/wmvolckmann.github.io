@@ -15,6 +15,6 @@ Be warned: simply being in grad school didn't make me enough of a nerd, so I dec
 ### The Effect of Bypassing Denuvo Digital Rights Management on PC Video Games ###
 *Abstract.* A digital good can be duplicated and distributed at nearly zero cost by anyone with a copy. Although it is typically a violation of intellectual property laws to do so, the Internet has made digital piracy a significant concern for developers who wish to sell their software: developers may find themselves essentially competing against pirated copies of their own software. In the personal computer video game market, a digital rights management (DRM) technology called Denuvo has been used since 2014 to restrict software usage to legitimate buyers. Sometimes Denuvo DRM is cracked, after which piracy can occur. I exploit the randomness with which Denuvo DRM is cracked to estimate the effect that Denuvo DRM survival time has on protecting revenue from the effects of piracy. When Denuvo DRM is quickly cracked, piracy leads to an estimated 20 percent fall in total revenue on average relative to an uncracked counterfactual, but that effect is weaker the longer it takes for Denuvo DRM to be cracked. When Denuvo DRM survives for at least 12 weeks, piracy leads to nearly zero total revenue loss on average. These results suggest that Denuvo DRM does protect legitimate sales, but there is little justification to employ Denuvo DRM long-term (i.e. for more than three months), especially given that Denuvo DRM is generally disliked by legitimate buyers.
 
-### [Video Game Quality Over Time](/research/vg) ###
-
 ### [How Out of Touch Is the Entertainment Media?](/research/media) ###
+
+### [Video Game Quality Over Time](/research/vg) ###

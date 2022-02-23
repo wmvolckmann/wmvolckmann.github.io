@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Video Game Quality Over Time
+title: The Decline in Video Game Quality Over Time
 exclude: true
 ---
 

@@ -1,20 +1,8 @@
 ---
 layout: page
 title: ECN 103 - Uncertainty & Information (Winter 2022)
-order: 1
+exclude: true
 ---
-
-### Section Materials
-* [Week 10 Handout](week10.pdf), [Week 10 Solutions](week10-ans.pdf)
-* [Week 09 Handout](week09.pdf), [Week 09 Solutions](week09-ans.pdf)
-* [Week 08 Handout](week08.pdf), [Week 08 Solutions](week08-ans.pdf)
-* [Week 07 Handout](week07.pdf), [Week 07 Solutions](week07-ans.pdf)
-* [Week 06 Handout](week06.pdf), [Week 06 Solutions](week06-ans.pdf)
-* [Week 05 Handout](week05.pdf), [Week 05 Solutions](week05-ans.pdf)
-* [Week 04 Slides](Week 04 Slides.pdf)
-* [Week 03 Slides](Week 03 Slides.pdf)
-* [Week 02 Slides](Week 02 Slides.pdf), [Spreadsheet](Week 02 - VNM Transformation.xlsx)
-
 
 ### Lecture
 * Instructor: Giacomo Bonanno

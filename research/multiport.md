@@ -8,7 +8,7 @@ Many video games are released on multiple platforms, but the (perceived) quality
 
 Using Metascores and user scores from 2001 through 2021, both of which range from 0 to 100, I measure the (perceived) quality of games ported to PC, Playstation, and Xbox systems and compare them.[^1] I only consider games released on all three platforms within 3 months of each other. The unit of time is therefore collapsed into quarters. If a game is released on two or more systems within the same platform (e.g. released on both Playstation 3 and Playstation 4), I take their mean. To account for review bombing, I omit user scores that differ from their respective Metascores by 30 or more points. After all is said and done, there are 900 games in the sample for Metascores and 847 games in the sample for user scores.
 
-[^1]: I omit the Nintendo platform because it is a bit of an oddball compared to the other platforms: Nintendo systems typically have weaker hardware than their peers (which makes less suitable for a multiplatform release) and a stronger reliance on exclusives and idiosyncratic devices (e.g. a Wiimote).
+[^1]: I omit the Nintendo platform because it is a bit of an oddball compared to the other platforms: Nintendo systems typically have weaker hardware than their peers (which sometimes makes them less suitable for a multiplatform release), and a stronger reliance on exclusives and idiosyncratic devices (e.g. a Wiimote).
 
 
 ### Professional Reviews ###

@@ -2,4 +2,4 @@
 _site
 feed.xml
 .sass-cache*
-.jekyll-cache\*
+.jekyll-cache*

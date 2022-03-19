@@ -1,0 +1,40 @@
+I"�<p>Many video games are released on multiple platforms, but the (perceived) quality of a game is often different when compared over different platforms. There are a number of plausible explanations as to why: some platforms might be more difficult to develop for; some platforms might have weaker hardware than their peers; some platforms might not have the most suitable controls as a standard (e.g. having to use a gamepad for a real-time strategy game on console instead of a mouse and keyboard); some platforms might be more vulnerable to revenue-leaking piracy.</p>
+
+<p>Using Metascores and user scores from 2001 through 2021, both of which range from 0 to 100, I measure the (perceived) quality of games ported to PC, Playstation, and Xbox systems and compare them.<sup id="fnref:1" role="doc-noteref"><a href="#fn:1" class="footnote" rel="footnote">1</a></sup> I only consider games released on all three platforms within 3 months of each other. The unit of time is therefore collapsed into quarters. If a game is released on two or more systems within the same platform (e.g. released on both Playstation 3 and Playstation 4), I take the average. To account for review bombing, I omit user scores that differ from their respective Metascores by 30 or more points. After all is said and done, there are 900 games in the sample for Metascores and 847 games in the sample for user scores.</p>
+
+<h3 id="professional-reviews">Professional Reviews</h3>
+<p>First note that among the multiplatform games in the sample, there is no statistically significant trend upward or downward in Metacritic score at 95 percent confidence for any platform, although there is a minor upward trend for the PC ports at 90 percent confidence.<sup id="fnref:2" role="doc-noteref"><a href="#fn:2" class="footnote" rel="footnote">2</a></sup></p>
+
+<p>The figure below illustrates how meaningless any platform difference is, on average, over the last 20 years: both the trend lines and scatterplots are practically indistinguishable between platforms. MANOVA tests align with the preceding intuition: they are unable to differentiate between platform based purely on Metascore or when also including quarterly or yearly times as predictors.<sup id="fnref:3" role="doc-noteref"><a href="#fn:3" class="footnote" rel="footnote">3</a></sup> I conclude that there is likely very little difference, on average, between the quality of multi-platform games across platforms according to Metascores.</p>
+
+<p><img src="multiport_metascores.png" alt="Metascore Ports" /></p>
+
+<h3 id="user-reviews">User Reviews</h3>
+<p>All three platforms exhibit a statistically significant downward trend in user score for multiplatform games.<sup id="fnref:4" role="doc-noteref"><a href="#fn:4" class="footnote" rel="footnote">4</a></sup> However, the figure below again illustrates how meaningless any platform difference is, on average, over the last 20 years: both the trend lines and scatterplots are practically indistinguishable between platforms. MANOVA tests again confirm the preceding intuition in that they are unable to differentiate between platform based purely on user score or when also including quarterly or yearly times as predictors.<sup id="fnref:5" role="doc-noteref"><a href="#fn:5" class="footnote" rel="footnote">5</a></sup></p>
+
+<p><img src="multiport_userscores.png" alt="User Score Ports" /></p>
+
+<h3 id="conclusions">Conclusions</h3>
+<p>There is practically no evidence that there is any difference in the perceived quality of ports when comparing multiplatform releases over PC, Playstation, and Xbox platforms. Any such difference does not appear overall in the 20 year window considered, not does there appear to be any change in the relative quality of ports over time.</p>
+
+<h4 id="footnotes">Footnotes</h4>
+<div class="footnotes" role="doc-endnotes">
+  <ol>
+    <li id="fn:1" role="doc-endnote">
+      <p>I omit the Nintendo platform because it is a bit of an oddball compared to the other platforms: Nintendo systems typically have weaker hardware than their peers (which makes less suitable for a multiplatform release) and a stronger reliance on exclusives and idiosyncratic devices (e.g. a Wiimote). <a href="#fnref:1" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
+    </li>
+    <li id="fn:2" role="doc-endnote">
+      <p>p = 0.055 for PC, p = 0.369 for PS, and p = 0.368 for Xbox <a href="#fnref:2" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
+    </li>
+    <li id="fn:3" role="doc-endnote">
+      <p>I use the bootstrap MANOVA procedures of Friedrich, Konietschke, and Pauly (2019) and find p-values of 0.118, 0.367, 0.366, respectively, with 100000 bootstrap iterations. <a href="#fnref:3" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
+    </li>
+    <li id="fn:4" role="doc-endnote">
+      <p>p = 0.001 for PC, p &lt; 0.001 for PS, and p &lt; 0.001 for Xbox <a href="#fnref:4" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
+    </li>
+    <li id="fn:5" role="doc-endnote">
+      <p>I again use the bootstrap MANOVA procedures of Friedrich, Konietschke, and Pauly (2019) and find p-values of 0.224, 0.551, 0.549, respectively, with 100000 bootstrap iterations. <a href="#fnref:5" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
+    </li>
+  </ol>
+</div>
+:ET

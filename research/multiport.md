@@ -26,19 +26,15 @@ Finally, comparing Playstation to Xbox over the entire 20 year window, one finds
 
 ![Metascore Ports Pairwise](multiport_metascores_pairwise.png)
 
-
 [^2]: p = 0.055 for PC, p = 0.369 for PS, and p = 0.368 for Xbox
 [^3]: I use the bootstrap MANOVA procedures of Friedrich, Konietschke, and Pauly (2019) and find p-values of 0.118, 0.367, 0.366, respectively, with 100000 bootstrap iterations.
 [^4]: p = 0.332 and p < 0.001, respectively
-[^5]: p < 0.001 and p < 0.017, respectively
+[^5]: p < 0.001 and p = 0.017, respectively
 [^6]: p < 0.001 and p < 0.001, respectively
-
-
 
 
 ### User Reviews ###
 All three platforms exhibit a statistically significant downward trend in user score for multiplatform games.[^7] However, the figure below again illustrates how subtle any platform difference is, on average, over the last 20 years: both the trend lines and scatterplots are difficult to distinguish visually between platforms (albeit there appears to be more distinction compared to Metascores). MANOVA tests are again consistent the preceding intuition in that they are unable to differentiate between platform based purely on user score or when also including quarterly or yearly times as predictors.[^8]
-
 
 ![User Score Ports](multiport_userscores.png)
 
@@ -49,7 +45,6 @@ Comparing PC to Xbox over the entire 20 year window finds the average difference
 Finally, comparing Playstation to Xbox over the entire 20 year window, one finds the difference to be statistically insignificant at 95 percent confidence. Here there is a statistically significant trend suggesting that Xbox ports may be improving in quality relative to Playstation ports over time (by about 0.06 points per quarter), which may have put Xbox ports ahead of Playstation ports, on average.[^11]
 
 ![Metascore Ports Pairwise](multiport_userscores_pairwise.png)
-
 
 [^7]: p = 0.001 for PC, p < 0.001 for PS, and p < 0.001 for Xbox
 [^8]: I again use the bootstrap MANOVA procedures of Friedrich, Konietschke, and Pauly (2019) and find p-values of 0.220, 0.546, 0.545, respectively, with 100000 bootstrap iterations.

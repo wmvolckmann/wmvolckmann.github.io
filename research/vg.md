@@ -16,6 +16,7 @@ I look at PC as well as Sony, Microsoft, and Nintendo consoles. I consider the c
 
 [^1]: Why yes, I do desperately wish I worked in the video game industry but don't due to a total absence of connections and talent. Thanks for asking.
 
+
 ### PC Video Game Quality Trend ###
 There is broad agreement among professional reviewers and users when it comes to the decline quality of top-shelf PC games, although the decline is steeper when looking at user scores. There has been a decline of about 1.5 Metascore over the last 20 years according to professional reviewers, and a decline of about 4 points according to users.[^2]
 
@@ -67,7 +68,9 @@ The overall quality of top-shelf games shows no trend according to professional 
 ![All Percentile Trend](all_trend_percentile.png)
 ![All Count Trend](all_trend_count.png)
 
+
 ### Conclusions ###
 Professional reviewers seem to be more charitable in their assessments over time compared to users, often to a degree that casts doubt upon the relevance of professional reviewers as sources of useful information for gamers in general. PC as an ecosystem seems to be holding fairly steady as far as quality is concerned, whereas Playstation and Xbox seem to be struggling, and Nintendo seems to be thriving (especially thanks to the success of the Switch).
+
 
 #### Footnotes ####

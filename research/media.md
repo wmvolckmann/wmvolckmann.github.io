@@ -14,6 +14,7 @@ Around the year 2000, the gaming media are out of touch by about 8.7 points; and
 
 [^1]: [See here for an analysis of video game quality over time](../vg)
 
+
 ### Television Shows ###
 There appears to be no long-term change in how out of touch the television media are (p = 0.669), with a mean disagreement of about 12.4 points. Around 2005 or so there seems to be a moment of extreme disagreement.
 

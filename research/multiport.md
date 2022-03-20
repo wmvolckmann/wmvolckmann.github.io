@@ -14,7 +14,7 @@ Using Metascores and user scores from 2001 through 2021, both of which are allow
 ### Professional Reviews ###
 First note that among the multiplatform games in the sample, there is no statistically significant trend upward or downward in Metacritic score at 95 percent confidence for any platform, although there is a minor upward trend for the PC ports at 90 percent confidence.[^2]
 
-The figure below illustrates how subtle any platform difference is, on average, over the last 20 years: both the trend lines and scatterplots are nearly indistinguishable between platforms. MANOVA tests are consistent with the preceding intuition, being unable to differentiate between the three platforms based purely on Metascore or when also including quarterly or yearly times as predictors.[^3]
+The figure below illustrates how subtle any platform difference is, on average, over the last 20 years: trendlines are all concentrated within a fairly small band between about 71 to 74; and scatterplots are nearly indistinguishable across platforms. MANOVA tests are consistent with the preceding intuition, being unable to differentiate between the three platforms based purely on Metascore or when also including quarterly or yearly times as predictors.[^3]
 
 ![Metascore Ports](multiport_metascores.png)
 
@@ -34,7 +34,7 @@ Finally, comparing Playstation to Xbox over the entire 20 year window, one finds
 
 
 ### User Reviews ###
-All three platforms exhibit a statistically significant downward trend in user score for multiplatform games.[^7] However, the figure below again illustrates how subtle any platform difference is, on average, over the last 20 years: both the trend lines and scatterplots are difficult to distinguish visually between platforms (albeit there appears to be more distinction compared to Metascores). MANOVA tests are again consistent the preceding intuition in that they are unable to differentiate between platform based purely on user score or when also including quarterly or yearly times as predictors.[^8]
+All three platforms exhibit a statistically significant downward trend in user score for multiplatform games.[^7] However, the figure below again illustrates how subtle any platform difference is, on average, over the last 20 years: both trendlines and scatterplots are fairly similar visually across platforms (albeit there appears to be more distinction compared to Metascores). MANOVA tests are again consistent the preceding intuition in that they are unable to differentiate between platform based purely on user score or when also including quarterly or yearly times as predictors.[^8]
 
 ![User Score Ports](multiport_userscores.png)
 

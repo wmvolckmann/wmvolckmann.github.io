@@ -27,7 +27,7 @@ Finally, comparing Playstation to Xbox over the entire 20 year window, one finds
 ![Metascore Ports Pairwise](multiport_metascores_pairwise.png)
 
 [^2]: p = 0.055 for PC, p = 0.369 for PS, and p = 0.368 for Xbox
-[^3]: I use the bootstrap MANOVA procedures of Friedrich, Konietschke, and Pauly (2019) and find p-values of 0.118, 0.367, 0.366, respectively, with 100000 bootstrap iterations.
+[^3]: I use the bootstrap MANOVA procedures of [Friedrich, Konietschke, and Pauly (2019)](https://journal.r-project.org/archive/2019/RJ-2019-051/RJ-2019-051.pdf) and find p-values of 0.118, 0.367, 0.366, respectively, with 100000 bootstrap iterations.
 [^4]: p = 0.332 and p < 0.001, respectively
 [^5]: p < 0.001 and p = 0.017, respectively
 [^6]: p < 0.001 and p < 0.001, respectively

@@ -8,7 +8,7 @@ order: 1
 ### Lecture
 * Instructor: Alan Taylor
 * Time and Place: TR 10:30-11:50pm, Olson Hall 146
-* Office Hours:
+* Office Hours: Wednesday 2-4pm on Zoom
 * Online Homework: [Macmillan Learning Achieve](https://achieve.macmillanlearning.com/courses/98ee6r)
 * Midterm 1: Thursday, April 21, during lecture
 * Midterm 2: Tuesday, May 17, during lecture
@@ -16,7 +16,7 @@ order: 1
 
 ### Discussion
 * Me: William M Volckmann II
-* Office Hours:
+* Office Hours: ???
 * Sections
   * Tuesday, 6:10-7:00pm, Storer Hall 1344
   * Tuesday, 7:10-8:00pm, Wellman Hall 207

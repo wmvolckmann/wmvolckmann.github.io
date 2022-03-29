@@ -4,6 +4,8 @@ title: ECN 160B - International Macro (Spring 2022)
 order: 1
 ---
 
+### Section Materials
+* [Week 01](week01.pdf)
 
 ### Lecture
 * Instructor: Alan Taylor

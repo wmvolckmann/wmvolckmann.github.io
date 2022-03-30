@@ -5,7 +5,7 @@ order: 1
 ---
 
 ### Section Materials
-* [Week 01](week01.pdf), [Solutions](week01-ans.pdf)
+* Week 01: [Handout](week01.pdf), [Solutions](week01-ans.pdf)
 
 ### Lecture
 * Instructor: Alan Taylor

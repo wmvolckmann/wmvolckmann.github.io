@@ -11,7 +11,7 @@ order: 1
 * Instructor: Alan Taylor
 * Time and Place: TR 10:30-11:50pm, Olson Hall 146
 * Office Hours: Wednesday 2-4pm on Zoom
-* Online Homework: [Macmillan Learning Achieve](https://achieve.macmillanlearning.com/courses/98ee6r)
+* Online Homework: Macmillan Learning Achieve (link on Canvas)
 * Midterm 1: Thursday, April 21, during lecture
 * Midterm 2: Tuesday, May 17, during lecture
 * Final Exam: Tuesday, June 7, 3:30pm-5:30pm

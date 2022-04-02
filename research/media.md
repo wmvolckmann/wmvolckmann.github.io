@@ -5,8 +5,8 @@ exclude: true
 toc: true
 ---
 
-* TOC filler
-{:toc}
+[comment]: <> * TOC filler
+[comment]: <> {:toc}
 
 ### Introduction ###
 Using Metascores and user scores from 2000 through 2021, both of which are allowed to range from 0 to 100, I measure the extent to which the media is "out of touch" with the general public for four different types of entertainment media: video games, television shows, movies, and music albums. The "out of touch" measurement is taken to be the magnitude of difference between Metascores and users scores, on average, of media released each quarter of each year.
@@ -44,5 +44,5 @@ Around the year 2000, the entertainment media as a whole are out of touch by abo
 ![allmedia](allmedia.png)
 
 
-### Conclusion ###
+### Conclusions ###
 The entertainment media as a whole appears to be less out of touch today than it was 20 years ago. The effect is most pronounced in movies and music, whereas the video game media appear to be slightly more out of touch over time. In more recent years, the music media appears to be the least out of touch with an average disagreement of around 6 points, whereas the other media have average disagreements closer to 10 points.

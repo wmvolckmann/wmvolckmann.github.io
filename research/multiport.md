@@ -5,8 +5,8 @@ exclude: true
 toc: true
 ---
 
-* TOC filler
-{:toc}
+[comment]: <> * TOC filler
+[comment]: <> {:toc}
 
 
 ### Introduction ###
@@ -60,7 +60,7 @@ Finally, comparing Playstation to Xbox over the entire 20 year window, one finds
 
 
 ### So Which Platforms Get The Best Ports? ###
- I determine which platform had the best ports on a yearly basis. A one-sided difference in means t-test is performed to determine which platforms are distinguishably worse than the top-scoring platform of that year. Any other platform is also considered the best for that year if the p-value of the t-test is above 0.05, in which case its top-shelf games are indistinguishable from that of the top-scoring platform with 95 percent confidence; but if there is no statistical distinction between any of the scores, then no platform is considered the best. This exercise is carried out with both Metascores and user scores, with the results shown below.
+ I determine which platform had the best ports on a yearly basis. A one-sided difference in means t-test is performed to determine which platforms are distinguishably worse than the top-scoring platform of that year. Any other platform is also considered the best for that year if the p-value of the t-test is above 0.05, in which case its top-shelf games are indistinguishable from that of the top-scoring platform with 95 percent confidence; but if there is no statistical distinction between any of the scores, then no platform is considered the best. This exercise is carried out with both Metascores and user scores, with the results shown below. Because the original Xbox was released in late 2001, there is a small sample size and the year 2001 is omitted accordingly.
 
 |------|------------------------------|---------------------|
 | Year | Pro Reviewers Best Platform  | Users Best Platform |
@@ -94,4 +94,4 @@ According to professional reviewers, Xbox had the best ports for 15 years, Plays
 There is some evidence of differential perceived quality in ports among platforms. The differences are fairly small in aggregate over the last 20 years, especially after accounting for the trend of each platform. That said, Xbox ports seem to have fared the best with Playstation ports slightly behind and PC ports more so. However, over time it appears that PC ports are improving in quality relative to both Xbox and Playstation ports as judged by both professional critics and users; and Xbox ports are improving in quality relative to Playstation ports as judged by both professional critics and users.
 
 
-#### Footnotes ####
+<h4 class="no_toc">Footnotes</h4>

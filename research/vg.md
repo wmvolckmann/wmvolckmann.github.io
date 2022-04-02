@@ -5,8 +5,8 @@ exclude: true
 toc: true
 ---
 
-* TOC filler
-{:toc}
+[comment]: <> * TOC filler
+[comment]: <> {:toc}
 
 ### Introduction ###
 Using Metascores and user scores from 2000 through 2021, both of which are allowed to range from 0 to 100, I measure the (perceived) quality of novel gaming in the following ways.[^1]
@@ -148,4 +148,4 @@ Summing up best years for both measures according to professional reviewers, PC 
 Professional reviewers seem to be more charitable in their assessments over time compared to users, often to a degree that casts doubt upon the relevance of professional reviewers as sources of useful information for gamers in general. PC as an ecosystem seems to be holding fairly steady as far as quality is concerned, whereas Playstation and Xbox seem to be struggling, and Nintendo seems to be thriving (especially thanks to the success of the Switch). Overall, Nintendo, PC, and Playstation are all fairly similar in their overall appeal on an annual basis, whereas Xbox appears to lag behind.
 
 
-#### Footnotes ####
+<h4 class="no_toc">Footnotes</h4>

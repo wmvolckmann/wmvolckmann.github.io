@@ -69,8 +69,78 @@ The overall quality of top-shelf games shows no trend according to professional 
 ![All Count Trend](all_trend_count.png)
 
 
+### So Which Platform Is The Best? ###
+It is immediately acknowledged that the title of this section is on the click-bait side of things. More accurately, this section aims to determine which platform is "best" insofar as it delivers a product that most satisfies its userbase. Because different platforms often have different users with different preferences and different expectations, "satisfaction" cannot really be extended to "best" for any arbitrary gamer. For example, a typical PC user might not view a Nintendo platform so charitably because Nintendo platforms do not emphasize the first-person shooter genre as strongly as PC users might like; but it is possible that the PC platform is still the best platform for most PC users, even if PC users are on average less satisfied than Nintendo users.
+
+That being said, I determine which platform had the best releases on a yearly basis. The first concept of "best" is determined by doing a 10,000 bootstrap iterations for 75th percentile score, which is meant to estimate the quality of the platform's top-shelf games released in that year. The platform with the highest estimated 75th percentile score is considered the best for that year, but not necessarily uniquely so. A one-sided difference in means t-test is performed to determine which platforms are distinguishably worse than the top-scoring platform of that year. Any other platform is also considered the best for that year if the p-value of the t-test is above 0.05, in which case its top-shelf games are indistinguishable from that of the top-scoring platform with 95 percent confidence. This exercise is carried out with both Metascores and user scores, with the results shown below.
+
+<center><b> Score of Top-Shelf Games </b></center>
+
+|------|------------------------------|---------------------|
+| Year | Pro Reviewers Best Platform  | Users Best Platform |
+|------|------------------------------|---------------------|
+| 2001 | Nintendo                     | Nintendo            |
+| 2002 | PC                           | Playstation         |
+| 2003 | Nintendo                     | Playstation         |
+| 2004 | Xbox                         | Playstation         |
+| 2005 | Xbox                         | Playstation         |
+| 2006 | PC                           | Playstation         |
+| 2007 | PC                           | Playstation         |
+| 2008 | PC                           | Nintendo            |
+| 2009 | Playstation                  | Nintendo            |
+| 2010 | PC                           | Nintendo            |
+| 2011 | Playstation                  | Nintendo            |
+| 2012 | Nintendo                     | Nintendo            |
+| 2013 | Nintendo                     | Nintendo            |
+| 2014 | Nintendo                     | Nintendo            |
+| 2015 | Nintendo                     | Nintendo            |
+| 2016 | Nintendo                     | Nintendo            |
+| 2017 | PC, Nintendo                 | Nintendo            |
+| 2018 | Nintendo                     | Nintendo            |
+| 2019 | PC, Xbox                     | Nintendo            |
+| 2020 | Xbox                         | Nintendo            |
+| 2021 | Xbox                         | Nintendo            |
+|------|------------------------------|---------------------|
+
+According to professional reviewers, Nintendo was the best for 9 years, PC for 7 years, Xbox for 5 years, and Playstation for 2 years. According to users, Nintendo was the best for 15 years, Playstation the best for 6 years, whereas PC and Xbox were never the best. Nintendo is clearly the favorite as far as the quality of its best bundle of games is concerned.
+
+The exercise can be carried out using the number of top-shelf games released each year, again using both Metascores and user scores. In this context, top-shelf is any game with a score of 80 or higher. The results are shown below.
+
+<center><b> Number of Top-Shelf Games </b></center>
+
+|------|------------------------------|---------------------|
+| Year | Pro Reviewers Best Platform  | Users Best Platform |
+|------|------------------------------|---------------------|
+| 2001 | Playstation                  | Playstation         |
+| 2002 | PC, Playstation              | Playstation         |
+| 2003 | Playstation                  | Playstation         |
+| 2004 | Playstation                  | Playstation         |
+| 2005 | Xbox                         | Playstation         |
+| 2006 | PC, Xbox                     | Playstation         |
+| 2007 | PC, Playstation, Xbox        | Playstation         |
+| 2008 | Playstation                  | Nintendo            |
+| 2009 | Playstation                  | Xbox                |
+| 2010 | Xbox                         | Xbox                |
+| 2011 | Playstation                  | Xbox                |
+| 2012 | PC                           | Xbox                |
+| 2013 | PC                           | PC                  |
+| 2014 | PC                           | PC                  |
+| 2015 | Playstation                  | PC                  |
+| 2016 | PC                           | PC                  |
+| 2017 | PC                           | Nintendo            |
+| 2018 | Nintendo                     | Nintendo            |
+| 2019 | PC                           | Nintendo            |
+| 2020 | PC                           | Nintendo            |
+| 2021 | PC                           | Nintendo            |
+|------|------------------------------|---------------------|
+
+According to professional reviewers, PC had the most top-shelf releases in 11 years, Playstation in 9 years, Xbox in 2 years, and Nintendo in 1 year. According to users, Playstation had the most top-shelf releases in 7 years, Nintendo in 6 years, and PC and Xbox each with 4 years. PC and Playstation appear to be favorites as far as the sheer number of high-quality games is concerned.
+
+Summing up best years for both measures according to professional reviewers, PC has the higher number with 18, followed by Playstation with 12, Nintendo with 10, and Xbox with 8. Doing the same with user reviews, Nintendo has the highest number with 21, followed by Playstation with 15, PC with 11, and Xbox with 2. Taking the sum of wins for both professional reviewers and user reviews gives a total of 31 for Nintendo, 29 for PC, 27 for Playstation, and 10 for Xbox.
+
+
 ### Conclusions ###
-Professional reviewers seem to be more charitable in their assessments over time compared to users, often to a degree that casts doubt upon the relevance of professional reviewers as sources of useful information for gamers in general. PC as an ecosystem seems to be holding fairly steady as far as quality is concerned, whereas Playstation and Xbox seem to be struggling, and Nintendo seems to be thriving (especially thanks to the success of the Switch).
+Professional reviewers seem to be more charitable in their assessments over time compared to users, often to a degree that casts doubt upon the relevance of professional reviewers as sources of useful information for gamers in general. PC as an ecosystem seems to be holding fairly steady as far as quality is concerned, whereas Playstation and Xbox seem to be struggling, and Nintendo seems to be thriving (especially thanks to the success of the Switch). Overall, Nintendo, PC, and Playstation are all fairly similar in their overall appeal on an annual basis, whereas Xbox appears to lag behind.
 
 
 #### Footnotes ####

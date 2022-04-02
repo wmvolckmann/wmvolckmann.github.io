@@ -2,8 +2,13 @@
 layout: page
 title: The Decline in Video Game Quality Over Time
 exclude: true
+toc: true
 ---
 
+* TOC filler
+{:toc}
+
+### Introduction ###
 Using Metascores and user scores from 2000 through 2021, both of which are allowed to range from 0 to 100, I measure the (perceived) quality of novel gaming in the following ways.[^1]
 
 First, I focus on the 75th percentile of scores in each quarter of each year. For example, if the 75th percentile is 80, then 25 percent of games released in that quarter had a score of 80 or above. This implicitly assumes that the quality of a platform's ecosystem can be defined by the quality of its top-shelf games; bad games can just be ignored.

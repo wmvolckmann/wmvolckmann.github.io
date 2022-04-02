@@ -2,8 +2,13 @@
 layout: page
 title: How Out of Touch Is the Entertainment Media?
 exclude: true
+toc: true
 ---
 
+* TOC filler
+{:toc}
+
+### Introduction ###
 Using Metascores and user scores from 2000 through 2021, both of which are allowed to range from 0 to 100, I measure the extent to which the media is "out of touch" with the general public for four different types of entertainment media: video games, television shows, movies, and music albums. The "out of touch" measurement is taken to be the magnitude of difference between Metascores and users scores, on average, of media released each quarter of each year.
 
 

@@ -5,8 +5,9 @@ exclude: true
 toc: true
 ---
 
-[comment]: <> * TOC filler
-[comment]: <> {:toc}
+* TOC filler
+{:toc}
+
 
 ### Introduction ###
 Using Metascores and user scores from 2000 through 2021, both of which are allowed to range from 0 to 100, I measure the (perceived) quality of novel gaming in the following ways.[^1]

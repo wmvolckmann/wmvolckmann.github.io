@@ -5,8 +5,8 @@ exclude: true
 toc: true
 ---
 
-[comment]: <> * TOC filler
-[comment]: <> {:toc}
+* TOC filler
+{:toc}
 
 
 ### Introduction ###

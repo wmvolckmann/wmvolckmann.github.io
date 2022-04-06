@@ -5,7 +5,7 @@ order: 1
 ---
 
 ### Section Materials
-* Week 02: [Handout](week02.pdf)
+* Week 02: [Handout](week02.pdf), [Solutions](week02-ans.pdf)
 * Week 01: [Handout](week01.pdf), [Solutions](week01-ans.pdf)
 
 ### Lecture
@@ -19,7 +19,9 @@ order: 1
 
 ### Discussion
 * Me: William M Volckmann II
-* Office Hours: ???
+* Office Hours
+  * Thursday, Noon-1pm, SSH 116
+  * Friday, 11am-Noon, SSH 116
 * Sections
   * Tuesday, 6:10-7:00pm, Storer Hall 1344
   * Tuesday, 7:10-8:00pm, Wellman Hall 207

@@ -191,7 +191,7 @@ Finally, taking the sum of wins for both professional reviewers and user reviews
 
 
 ### Conclusions ###
-Professional reviewers seem to be more charitable in their assessments over time compared to users, often to a degree that casts doubt upon the relevance of professional reviewers as sources of useful information for gamers in general. PC and Nintendo as ecosystems seems to be holding fairly steady as far as quality is concerned, whereas Playstation and Xbox seem to be struggling over time. Overall, no platform is obviously best on a yearly basis since there is little consensus among professional reviewers and users. That said, PC seems to be the platform most likely to win accolades in a general sense, and Xbox least likely.
+Professional reviewers seem to be more charitable in their assessments over time compared to users, often to a degree that casts doubt upon the relevance of professional reviewers as sources of useful information for gamers in general. PC and Nintendo as ecosystems seem to be holding fairly steady as far as quality is concerned, whereas Playstation and Xbox seem to be struggling over time. Overall, no platform is obviously best on a yearly basis since there is little consensus among professional reviewers and users. That said, PC seems to be the platform most likely to win accolades in a general sense, and Xbox least likely.
 
 
 <h4 class="no_toc">Footnotes</h4>

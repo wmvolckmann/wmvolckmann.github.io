@@ -8,56 +8,55 @@ toc: true
 * TOC filler
 {:toc}
 
+Last updated: April 6, 2022
 
 ### Introduction ###
 Many video games are released on multiple platforms, but the (perceived) quality of a game is often different when compared over different platforms. There are a number of plausible explanations as to why: some platforms might be more difficult to develop for; some platforms might have weaker hardware than their peers; some platforms might not have the most suitable controls as a standard (e.g. having to use a gamepad for a real-time strategy game on console instead of a mouse and keyboard); some platforms might be more vulnerable to revenue-leaking piracy, which renders the platform an afterthought for developers.
 
-Using Metascores and user scores from 2002 through 2021, both of which are allowed to range from 0 to 100, I measure the quality of games ported to PC, Playstation, and Xbox systems and compare them.[^1] I only consider games released on all three platforms within 3 months of each other. The unit of time is therefore collapsed into quarters. If a game is released on two or more systems within the same platform (e.g. released on both Playstation 3 and Playstation 4), I take their mean. To account for review bombing, I omit user scores that differ from their respective Metascores by 30 or more points. After all is said and done, there are 898 games in the sample.
+Using Metascores and user scores from 2002 through 2021, both of which are allowed to range from 0 to 100, I measure the quality of games ported to PC, Playstation, and Xbox systems and compare them.[^1] I only consider games released on all three platforms within 3 months of each other. The unit of time is therefore collapsed into quarters. If a game is released on two or more systems within the same platform (e.g. released on both Playstation 3 and Playstation 4), I take their mean. To account for review bombing and other shenanigans, I omit user scores that differ from their respective Metascores by 30 or more points, which leads to a removal of 66 games from consideration. After all is said and done, there are 3588 games in the sample for professional reviews and 3390 for user reviews.
 
 [^1]: I omit the Nintendo platform because it is a bit of an oddball compared to the other platforms: Nintendo systems typically have weaker hardware than their peers (which sometimes makes them less suitable for a multiplatform release), and a stronger reliance on exclusives and idiosyncratic devices (e.g. a Wiimote).
 
 
 ### Professional Reviews ###
-First note that among the multiplatform games in the sample, there is no statistically significant trend upward or downward in Metacritic score at 95 percent confidence for any platform, although there is a minor upward trend for the PC ports at 90 percent confidence.[^2]
+The figure below illustrates how subtle any platform difference is, on average, over the last 20 years: trendlines are all concentrated within a fairly small band between about 70 to 74; scatterplots are nearly indistinguishable across platforms; and the relative trends sometimes net out over time. That said, MANOVA tests give p-values of around 0.05, suggesting that there is some overall difference between the platforms' ports, as viewed by professional reviewers.[^2]
 
-The figure below illustrates how subtle any platform difference is, on average, over the last 20 years: trendlines are all concentrated within a fairly small band between about 71 to 74; and scatterplots are nearly indistinguishable across platforms. MANOVA tests are consistent with the preceding intuition, being unable to differentiate between the three platforms based purely on Metascore or when also including quarterly or yearly times as predictors.[^3] In other words, if a game is chosen randomly from any of the three platforms, it is statistically unlikely that one would be able to determine which system the game belongs to based purely on its score.
+To that end, there are some trends worth noting. PC ports have an upward trend of about 1 point every 5 years (p = 0.003), and Xbox ports have an upward trend of about 1 point every 7 years (p = 0.029). Playstation ports are remarkably consistent over time, with a near-zero coefficient (and p = 0.986), although that consistency appears to be a liability insofar as Playstation ports appear to be falling behind relative to the improvements made by the other platforms.
 
 <center>
  <b> Metascore for Multiplatform Games </b>
 </center>
 ![Metascore Ports](multiport_metascores.png)
 
-That said, pairwise comparisons may unveil some more specific patterns. Comparing PC to Playstation over the entire 20 year window finds any difference to be statistically insignificant. However, there is a statistically significant trend suggesting that PC ports may be improving in quality relative to Playstation ports over time (by about 0.05 points per quarter), and the gap may have already been closed or even reversed in favor of PC.[^4]
+Pairwise comparisons may unveil some more specific patterns. Comparing PC to Playstation over the entire 20 year window finds any difference to be statistically insignificant (p = 0.5495). That said, there is a trend which suggests that PC ports may be improving in quality relative to Playstation ports over time by about 1 point every 5 years, and the gap may have already been closed or even reversed in favor of PC (p < 0.001).
 
-Comparing PC to Xbox over the entire 20 year window finds the average difference to be a statistically significant 0.89 points in favor of Xbox ports. Again, there is a statistically significant trend suggesting that PC ports may be modestly improving in quality relative to Xbox ports over time (by about 0.02 points per quarter).[^5]
+In comparing PC to Xbox over the entire 20 year window, the average difference is about 1 point in favor of Xbox ports. Here there is likely a trend suggesting that Xbox ports may be improving in quality relative to Playstation ports over time by about a third of a point every 6 years (p = 0.060).
 
-Finally, comparing Playstation to Xbox over the entire 20 year window, one finds the average difference to be a statistically significant 1.05 points in favor of Xbox ports. Here there is a statistically significant trend suggesting that Xbox ports may be improving in quality relative to Playstation ports over time (by about 0.035 points per quarter).[^6]
+Finally, comparing Playstation to Xbox over the entire 20 year window,  the average difference to be about 1 point in favor of Xbox ports (p < 0.001). There is a trend suggesting that Xbox ports may be improving in quality relative to Playstation ports over time by about a 1 point every 7 years (p < 0.001).
 
 <center>
  <b> Pairwise Meta Score Differences </b>
 </center>
 ![Metascore Ports Pairwise](multiport_metascores_pairwise.png)
 
-[^2]: p = 0.055 for PC, p = 0.369 for PS, and p = 0.368 for Xbox
-[^3]: I use the bootstrap MANOVA procedures of [Friedrich, Konietschke, and Pauly (2019)](https://journal.r-project.org/archive/2019/RJ-2019-051/RJ-2019-051.pdf) and find p-values of 0.118, 0.367, 0.366, respectively, with 100000 bootstrap iterations.
-[^4]: p = 0.332 and p < 0.001, respectively
-[^5]: p < 0.001 and p = 0.017, respectively
-[^6]: p < 0.001 and p < 0.001, respectively
+[^2]: I use the bootstrap MANOVA procedures of [Friedrich, Konietschke, and Pauly (2019)](https://journal.r-project.org/archive/2019/RJ-2019-051/RJ-2019-051.pdf).
 
 
 ### User Reviews ###
-All three platforms exhibit a statistically significant downward trend in user score for multiplatform games.[^7] However, the figure below again illustrates how subtle any platform difference is, on average, over the last 20 years: both trendlines and scatterplots are fairly similar visually across platforms (albeit there appears to be more distinction compared to Metascores). MANOVA tests are again consistent the preceding intuition in that they are unable to differentiate between platform based purely on user score or when also including quarterly or yearly times as predictors.[^8]
+The figure below again illustrates how subtle any platform difference is, on average, over the last 20 years: both trendlines and scatterplots are fairly similar visually across platforms. At 95 percent significance, MANOVA tests are consistent the preceding intuition in that they are unable to differentiate between platform based purely on user score. However, p = 0.09 suggests that it is still quite plausible that a difference exists.
+
+ PC ports have a downward trend of about 1 point every 5 years (p = 0.003), Playstation ports have a downward trend of about 1 points every 1.5 years (p < 0.001), and Xbox ports have a downward trend of about 1 point every 3 years (p < 0.001).
 
 <center>
  <b> User Score for Multiplatform Games </b>
 </center>
 ![User Score Ports](multiport_userscores.png)
 
-Pairwise comparison of PC to Playstation over the entire 20 year window finds a statistically significant average difference of 1.19 points in favor of Playstation. However, there is a statistically significant trend suggesting that PC ports may be improving in quality relative to Playstation ports over time (by about 0.09 points per quarter), and the gap may have already closed or reversed in favor of PC.[^9]
+Pairwise comparison of PC to Playstation over the entire 20 year window finds no statistically significant difference (p = 0.1380). However, there is a trend suggesting that PC ports may be improving in quality relative to Playstation ports over time by about 1 point every 2 years (p < 0.001), and the gap may have already closed or reversed in favor of PC.
 
-Comparing PC to Xbox over the entire 20 year window finds the average difference to be a statistically significant 1.69 points in favor of Xbox ports. Again, there is a statistically significant trend suggesting that PC ports may be modestly improving in  quality relative to Xbox ports over time (by about 0.04 points per quarter).[^10]
+Comparing PC to Xbox over the entire 20 year window finds the average difference to be about 1.3 points in favor of Xbox ports (p < 0.001). There is a trend suggesting that PC ports may be modestly improving in quality relative to Xbox ports over time by about 1 point every 5 years (p = 0.001).
 
-Finally, comparing Playstation to Xbox over the entire 20 year window, one finds the difference to be statistically insignificant at 95 percent confidence. Here there is a statistically significant trend suggesting that Xbox ports may be improving in quality relative to Playstation ports over time (by about 0.06 points per quarter), which may have put Xbox ports ahead of Playstation ports, on average.[^11]
+Finally, comparing Playstation to Xbox over the entire 20 year window, one finds a differnce of about 0.8 ponts in favor of Xbox (p < 0.001). There is a trend suggesting that Xbox ports may be improving in quality relative to Playstation ports over time by about 1 point every 3.5 years (p < 0.001), which may have put Xbox ports ahead of Playstation ports, on average.
 
 <center>
  <b> Pairwise User Score Differences </b>
@@ -74,9 +73,11 @@ Finally, comparing Playstation to Xbox over the entire 20 year window, one finds
 ### So Which Platform Gets The Best Ports? ###
 I determine which platform had the best ports in two ways.
 
-First, I bluntly compare the means of each platform over the entire window. This does not account for any upward or downward trends, but at least can let us analyze which platform has fared the best over the last 20 years in an aggregate sense. For professional reviewers, Xbox ports are the statistically-significant highest with an estimated mean of 73.54, compared to the PC mean of 72.65 and the Playstation mean of 72.49 with p-values of p < 0.001 each. PC and Playstation ports are statistically indistinguishable with a p-value of p = 0.166.
+First, I bluntly compare the means of each platform over the entire window. This does not account for any upward or downward trends, but at least can let us analyze which platform has fared the best over the last 20 years in an aggregate sense.
 
-For user reviews, the estimated mean quality of Xbox ports is highest at 69.65, followed by Playstation at 69.16, and PC at 67.95. The mean Xbox score is statistically significantly larger than both the Playstation and PC ports with respective p-values of p = 0.026 and p < 0.001; and the mean Playstation score is statistically significantly larger than the PC port with p < 0.001.
+For professional reviewers, Xbox ports are the best with an estimated mean of 72.9, compared to the PC mean of 71.9 and the Playstation mean of 71.8 with p < 0.001 each. PC and Playstation ports are statistically indistinguishable with a p-value of p = 0.2747.
+
+For user reviews, the estimated mean quality of Xbox ports is highest at 69.1, followed by Playstation at 68.2, and PC at 67.8 with p < 0.001 each. Playstation and PC are statistically indistinguishable with a p-value of 0.1272
 
 Both estimates are shown in the figures below. Keep in mind that overlapping confidence intervals (or lack thereof) do not reflect the results of a difference-in-means test. They do, however, illustrate the magnitude of difference between ports. In particular, the difference in average port quality over the 20 year window appears to be small.
 
@@ -110,36 +111,36 @@ Notice how close most of the estimates are. The t-test results, which determine 
 
 <center><b> Top Mean Port Quality </b></center>
 
-|------|------------------------------|---------------------|
-| Year | Pro Reviewers Best Platform  | Users Best Platform |
-|------|------------------------------|---------------------|
-| 2002 | Playstation, Xbox            | None                |
-| 2003 | Playstation, Xbox            | Playstation         |
-| 2004 | Playstation, Xbox            | Playstation         |
-| 2005 | Playstation, Xbox            | Playstation         |
-| 2006 | None                         | Playstation, Xbox   |
-| 2007 | Xbox                         | None                |
-| 2008 | Playstation, Xbox            | Xbox                |
-| 2009 | None                         | Xbox                |
-| 2010 | Playstation                  | Playstation, Xbox   |
-| 2011 | PC, Xbox                     | Playstation, Xbox   |
-| 2012 | Playstation, Xbox            | None                |
-| 2013 | None                         | None                |
-| 2014 | PC                           | None                |
-| 2015 | Playstation, Xbox            | Xbox                |
-| 2016 | Xbox                         | None                |
-| 2017 | Xbox                         | None                |
-| 2018 | Xbox                         | PC, Xbox            |
-| 2019 | PC, Xbox                     | Xbox                |
-| 2020 | PC, Xbox                     | None                |
-| 2021 | Xbox                         | None                |
-|------|------------------------------|---------------------|
+|------|-----------------------------|---------------------------|
+| Year | Pro Reviewers Best Platform | Users Best Platform       |
+|------|-----------------------------|---------------------------|
+| 2002 | Playstation, Xbox           | None                      |
+| 2003 | **Playstation**, Xbox       | PC, **Playstation**       |
+| 2004 | **Playstation**, Xbox       | **Playstation**           |
+| 2005 | Xbox                        | Playstation               |
+| 2006 | None                        | Playstation, Xbox         |
+| 2007 | **Xbox**                    | Playstation, **Xbox**     |
+| 2008 | **Xbox**                    | **Xbox**                  |
+| 2009 | None                        | Xbox                      |
+| 2010 | Playstation                 | **Playstation**, Xbox     |
+| 2011 | None                        | Playstation, Xbox         |
+| 2012 | **Playstation**, **Xbox**   | **Playstation**, **Xbox** |
+| 2013 | None                        | PC, Xbox                  |
+| 2014 | PC, Playstation             | None                      |
+| 2015 | None                        | PC, Xbox                  |  
+| 2016 | Xbox                        | None                      |
+| 2017 | **Xbox**                    | PC, **Xbox**              |
+| 2018 | **Xbox**                    | PC, **Xbox**              |
+| 2019 | **Xbox**                    | **Xbox**                  |
+| 2020 | **Xbox**                    | PC, **Xbox**              |
+| 2021 | **Xbox**                    | **Xbox**                  |
+|------|-----------------------------|---------------------------|
 
-According to professional reviewers, Xbox had the best ports for 15 years, Playstation for 7 years, and PC for 4 years; no platform had the best ports for 3 years. According to users, Xbox had the best ports for 8 years, Playstation for 6 years, and PC for 1 year; and no platform had the best ports for 9 years. Taking the sum of wins for both professional reviewers and user reviews gives a total of 23 wins to Xbox, 13 wins to Playstation, 5 wins to PC, and 12 ties.
+According to professional reviewers, Xbox had the best ports for 13 years, Playstation 6 years, and PC 1 year; no platform had the best ports for 5 years. According to users, Xbox had the best ports for 14 years, Playstation for 8 years, and PC for 6 years; and no platform had the best ports for 3 years. Taking the sum of wins for both professional reviewers and user reviews gives a total of 27 wins to Xbox, 14 wins to Playstation, 7 wins to PC, and 8 ties.
 
 
 ### Conclusions ###
-There is some evidence of differential perceived quality in ports among platforms. The differences are small in aggregate over the last 20 years, especially after accounting for the trend of each platform. That said, Xbox ports seem to have fared the best with Playstation ports slightly behind and PC ports more so. However, over time it appears that PC ports are improving in quality relative to both Xbox and Playstation ports as judged by both professional critics and users; and Xbox ports are improving in quality relative to Playstation ports as judged by both professional critics and users.
+There is some evidence of differential perceived quality in ports among platforms. The differences are not large in aggregate over the last 20 years, especially after accounting for the trend of each platform. That said, Xbox ports seem to have fared the best with Playstation ports slightly behind and PC ports more so. However, over time it appears that PC ports are improving in quality relative to both Xbox and Playstation ports as judged by both professional critics and users; and Xbox ports are improving in quality relative to Playstation ports as judged by both professional critics and users.
 
 
 <h4 class="no_toc">Footnotes</h4>

@@ -81,14 +81,17 @@ For user reviews, the estimated mean quality of Xbox ports is highest at 69.1, f
 
 Both estimates are shown in the figures below. Keep in mind that overlapping confidence intervals (or lack thereof) do not reflect the results of a difference-in-means test. They do, however, illustrate the magnitude of difference between ports. In particular, the difference in average port quality over the 20 year window appears to be small.
 
-![Estimated Mean and Confidence Intervals](multiport_userscores_allyears.png)
+<center>
+ <b> Estimated Mean and Confidence Intervals, All Years </b>
+</center> 
+![Estimated Means and Confidence Intervals](multiport_userscores_allyears.png)
 
 Second, I determine the best ports on a yearly basis. A one-sided difference in means t-test is performed to determine which platforms are distinguishably worse than the top-scoring platform of that year. Any other platform is also considered the best for that year if the p-value of the t-test is above 0.05, in which case its top-shelf games are indistinguishable from that of the top-scoring platform with 95 percent confidence; but if there is no statistical distinction between any of the scores, then no platform is considered the best. This exercise is carried out with both Metascores and user scores.
 
 Estimates and their 95 percent confidence intervals are shown in the figures below. Note again that overlapping confidence intervals say nothing about a difference-in-means test, but are informative insofar as they illustrate the magnitude of difference between ports.
 
 <center>
- <b> Estimated Mean and Confidence Intervals, Professional Reviews </b>
+ <b> Estimated Means and Confidence Intervals, Professional Reviews </b>
  <br>
  (Click image to see full size)
 </center>

@@ -10,4 +10,4 @@ gem "jekyll", "~> 4.2"
 
 gem 'jekyll-sitemap'
 
-gem 'jekyll-toc'
+#gem 'jekyll-toc'

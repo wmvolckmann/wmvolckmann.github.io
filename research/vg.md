@@ -81,10 +81,10 @@ It is immediately acknowledged that the title of this section is on the click-ba
 
 That said, I first bluntly test differences in the 75th percentiles of each platform over the entire window using a robust quantile regression. This does not account for any upward or downward trends, but at least can let us analyze which platform has fared the best over the last 20 years in a vague, time-aggregate sense. The platform with the highest estimated 75th percentile score is considered the best for that year, but not necessarily uniquely so: any other platform is also considered the best for that year if the p-value of the one-sided test is above 0.05, in which case its top-shelf games are indistinguishable from that of the top-scoring platform with 95 percent confidence.
 
-For professional reviewers, PC and Xbox platforms are the highest with a 75th percentile of 80, whereas  Playstation and Nintendo each have 79 as their 75h percentile. For user reviews, Nintendo games are the statistically significant highest with an 75th percentile of 80; the Playstation score is 79, the Xbox score is 78, and the PC score is 77. All p-values are p < 0.001. The difference in professional reviews is therefore small but likely real, and the difference in user reviews is a bit larger.
+For professional reviewers, PC and Xbox platforms are the highest with a 75th percentile of 80, whereas  Playstation and Nintendo each have 79 as their 75h percentile. For user reviews, Nintendo games are the statistically significant highest with an 75th percentile of 80, Playstation with 79, Xbox with 78, and PC with 77. All p-values are p < 0.001. The difference in professional reviews is therefore small but likely real, and the difference in user reviews is a bit larger.
 
 <center>
- <b> Score of Top-Shelf Games (All Years) </b>
+ <b> 75th Percentile Score of Games (All Years) </b>
 </center>
 ![All P75](blunt_p75.png)
 
@@ -103,7 +103,7 @@ Second, I determine which platform had the best releases on a yearly basis.
 
 The first concept of annual "best" is determined by doing 10,000 bias-corrected bootstrap iterations for 75th percentile score, which is meant to estimate the quality of the platform's top-shelf games released in that year. The platform with the highest estimated 75th percentile score is potentially considered the best for that year, but not necessarily uniquely so. A robust quantile regression tests the difference in 75th percentiles to determine which platforms are distinguishably worse than the top-scoring platform of that year. Any other platform is also potentially considered the best for that year if the p-value of the t-test is above 0.10, in which case its top-shelf games are indistinguishable from that of the top-scoring platform with 90 percent confidence. (A 90 percent confidence interval is chosen to give a better chance as unique winners.) If there are three or four winners in a year, then that year will be considered to have no winner, that is, only two-way ties are allowed (otherwise the title of "best" becomes rather meaningless). This exercise is carried out with both Metascores and user scores.
 
-<center><b> Score of Top-Shelf Games: Winners </b></center>
+<center><b> 75th Percentile Score of Games: Winners </b></center>
 
 |------|-----------------------------|---------------------------|
 | Year | Pro Reviewers Best Platform | Users Best Platform       |
@@ -134,12 +134,12 @@ According to professional reviewers, PC was the best for 9 years, Xbox for 6 yea
 
 Plots of the bootstrap collection are shown in the figure below with two-sided 95 percent confidence intervals. Keep in mind, however, that overlapping confidence intervals (or lack thereof) do not reflect the results of a difference-in-means test. They do, however, illustrate the magnitude of difference in quality. The t-test conclusions are shown in the table below; bolded platforms indicate years in which professional reviewers and critics are in consensus. Notice that the differences are often quite small, even between the platforms that are considered the best and those not: the difference might be statistically significant, but might not be practically significant.
 
-<center><b> Bootstrap Results for Score of Top-Shelf Games, Professional Reviewers </b>
+<center><b> Bootstrap Results for 75th Percentile Score of Games, Professional Reviewers </b>
   <br>(Click to expand)
 </center>
 [![Bootstrap Results for Score of Top-Shelf Games, Critics](best_critics_p75_CI.png)](best_critics_p75_CI.png)
 
-<center><b> Bootstrap Results for Score of Top-Shelf Games, User Reviewers </b>
+<center><b> Bootstrap Results for 75th Percentile Score of Games, User Reviewers </b>
   <br>(Click to expand)
 </center>
 [![Bootstrap Results for Score of Top-Shelf Games, Users](best_users_p75_CI.png)](best_users_p75_CI.png)
@@ -178,12 +178,12 @@ According to professional reviewers, PC was the best in 11 years, the rest each 
 <center><b> Bootstrap Results for Number of Top-Shelf Games, Professional Reviewers </b>
   <br>(Click to expand)
 </center>
-[![Bootstrap Results for Number of Top-Shelf Games, Critics](best_critics_count_CI.png)](best_critics_count_CI.png)
+[![Bootstrap Results for 75th Percentile Score of Games, Critics](best_critics_count_CI.png)](best_critics_count_CI.png)
 
 <center><b> Bootstrap Results for Number of Top-Shelf Games, User Reviewers </b>
   <br>(Click to expand)
 </center>
-[![Bootstrap Results for Score of Top-Shelf Games, Users](best_users_count_CI.png)](best_users_count_CI.png)
+[![Bootstrap Results for 75th Percentile Score of Games, Users](best_users_count_CI.png)](best_users_count_CI.png)
 
 Summing up best years for both measures according to professional reviewers, PC has the most wins with 20, followed by Xbox with 9, Nintendo with 5, and Playstation with 4. Doing the same with user reviews, Nintendo has the most wins with 17, followed by Playstation with 14, PC with 8, and Xbox with 4.
 

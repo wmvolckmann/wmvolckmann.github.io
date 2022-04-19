@@ -5,7 +5,7 @@ order: 1
 ---
 
 ### Section Materials
-* Week 04: Sample Midterm
+* Week 04: Sample Midterm (on Canvas)
 * Week 03: [Pretend Handout](week03.pdf), [Solutions](week03-ans.pdf)
 * Week 02: [Handout](week02.pdf), [Solutions](week02-ans.pdf)
 * Week 01: [Handout](week01.pdf), [Solutions](week01-ans.pdf)

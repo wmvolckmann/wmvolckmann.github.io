@@ -6,8 +6,7 @@ order: 1
 
 ### Section Materials
 
-* [Post-Midterm 1 Feel Goods](https://youtu.be/Dp0Bt2cbcc8)
-* Week 04: Sample Midterm (on Canvas)
+* Week 04: [Post-Midterm 1 Feel Goods](https://youtu.be/Dp0Bt2cbcc8)
 * Week 03: [Pretend Handout](week03.pdf), [Solutions](week03-ans.pdf)
 * Week 02: [Handout](week02.pdf), [Solutions](week02-ans.pdf)
 * Week 01: [Handout](week01.pdf), [Solutions](week01-ans.pdf)

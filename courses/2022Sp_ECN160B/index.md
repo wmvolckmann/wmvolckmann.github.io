@@ -6,6 +6,7 @@ order: 1
 
 ### Section Materials
 
+* Week 06: [Handout](week06.pdf), [Solutions](week06-ans.pdf)
 * Week 05: [Handout](week05.pdf), [Solutions](week05-ans.pdf)
 * Week 04: [Post-Midterm 1 Feel Goods](https://youtu.be/Dp0Bt2cbcc8)
 * Week 03: [Pretend Handout](week03.pdf), [Solutions](week03-ans.pdf)

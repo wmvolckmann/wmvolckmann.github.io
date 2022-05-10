@@ -6,7 +6,7 @@ order: 1
 
 ### Section Materials
 
-* Week 07: [IS-LM-FX practice template](islmfxpractice.pdf)
+* Week 07: [Handout](week07.pdf), [IS-LM-FX practice template](islmfxpractice.pdf)
 * Week 06: [Handout](week06.pdf), [Solutions](week06-ans.pdf)
 * Week 05: [Handout](week05.pdf), [Solutions](week05-ans.pdf)
 * Week 04: [Post-Midterm 1 Feel Goods](https://youtu.be/Dp0Bt2cbcc8)

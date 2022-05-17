@@ -8,11 +8,13 @@ order: 1
 
 (Week 08 Updated Thursday, 3pm)
 
+
+* [Post-Midterm 2 Feel Goods](https://youtu.be/mxirDh3hpDk)
 * Week 08: [Handout](week08.pdf), [Solutions](week08-ans.pdf), [Graphs](week08-graphs.pdf)
 * Week 07: [Handout](week07.pdf), [Solutions](week07-ans.pdf)
 * Week 06: [Handout](week06.pdf), [Solutions](week06-ans.pdf)
 * Week 05: [Handout](week05.pdf), [Solutions](week05-ans.pdf)
-* Week 04: [Post-Midterm 1 Feel Goods](https://youtu.be/Dp0Bt2cbcc8)
+* [Post-Midterm 1 Feel Goods](https://youtu.be/Dp0Bt2cbcc8)
 * Week 03: [Pretend Handout](week03.pdf), [Solutions](week03-ans.pdf)
 * Week 02: [Handout](week02.pdf), [Solutions](week02-ans.pdf)
 * Week 01: [Handout](week01.pdf), [Solutions](week01-ans.pdf)

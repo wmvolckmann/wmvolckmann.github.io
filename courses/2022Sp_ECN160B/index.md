@@ -6,9 +6,6 @@ order: 1
 
 ### Section Materials
 
-(Week 08 Updated Thursday, 3pm)
-
-
 * [Post-Midterm 2 Feel Goods](https://youtu.be/mxirDh3hpDk)
 * Week 08: [Handout](week08.pdf), [Solutions](week08-ans.pdf), [Graphs](week08-graphs.pdf)
 * Week 07: [Handout](week07.pdf), [Solutions](week07-ans.pdf)

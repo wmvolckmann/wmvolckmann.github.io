@@ -6,6 +6,8 @@ order: 1
 
 ### Section Materials
 
+* Final Review: [Handout](finalreview.pdf)
+* Week 10: [Handout](week10.pdf)
 * Week 09: [Handout](week09.pdf), [Solutions](week09-ans.pdf)
 * [Post-Midterm 2 Feel Goods](https://youtu.be/mxirDh3hpDk)
 * Week 08: [Handout](week08.pdf), [Solutions](week08-ans.pdf), [Graphs](week08-graphs.pdf)

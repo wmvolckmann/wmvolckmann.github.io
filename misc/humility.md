@@ -18,21 +18,24 @@ order: 10.9
 * [Neera Chandhoke - The Road to Toleration: On the Ethical Virtue of Doubt](http://www.21global.ucsb.edu/global-e/october-2017/road-toleration-ethical-virtue-doubt)
 * [Tania Lombrozo - A New Goal: Aim To Be Less Wrong](https://www.npr.org/sections/13.7/2018/02/12/585057058/a-new-goal-aim-to-be-less-wrong)
 * [Rose Eveleth - You Don't Know As Much As You Think You Do](https://www.smithsonianmag.com/smart-news/you-dont-know-as-much-as-you-think-you-do-65764329/)
-* [Tenelle Porter - The Benefits of Admitting When You Don’t Know](https://behavioralscientist.org/the-benefits-of-admitting-when-you-dont-know/)
+* [Tenelle Porter - The Benefits of Admitting When You Don't Know](https://behavioralscientist.org/the-benefits-of-admitting-when-you-dont-know/)
 * [Erik Angner - Epistemic Humility—Knowing Your Limits in a Pandemic](https://behavioralscientist.org/epistemic-humility-coronavirus-knowing-your-limits-in-a-pandemic/)
 * [David Robson - Can high intelligence be a burden rather than a boon?](http://www.bbc.com/future/story/20150413-the-downsides-of-being-clever)
 * [Math Geniuses Given 5th Grade Math Problems. It Didn't Go Well](https://www.inc.com/chris-matyszczyk/researchers-gave-math-geniuses-5th-grade-math-problems-it-didnt-go-well.html)
 * [Gapminder - Do you understand less about the world than a monkey?](https://www.gapminder.org/ignorance/gms/)
 
+
 ### Books
 * [Ryan Holiday - Ego is the Enemy](https://www.goodreads.com/book/show/27036528-ego-is-the-enemy)
 * [Jonathan Haidt - The Righteous Mind](https://www.goodreads.com/book/show/11324722-the-righteous-mind)
 * [Nassim Nicholas Taleb - Fooled by Randomness](https://www.goodreads.com/book/show/38315.Fooled_by_Randomness)
+* [Adam M. Grant - Think Again: The Power of Knowing What You Don't Know](https://www.goodreads.com/book/show/55539565-think-again)
 * [Chabris & Simons - The Invisible Gorilla](https://www.goodreads.com/book/show/7783191-the-invisible-gorilla)
 * [Daniel Kahneman - Thinking, Fast and Slow](https://www.goodreads.com/book/show/11468377-thinking-fast-and-slow)
 * [Dan Ariely - Predictably Irrational](https://www.goodreads.com/book/show/1713426.Predictably_Irrational)
 * [Gerd Gigerenzer - Calculated Risks](https://www.goodreads.com/book/show/720043.Calculated_Risks)
 * [Leonard Mlodinow - The Drunkard's Walk](https://www.goodreads.com/book/show/2272880.The_Drunkard_s_Walk)
+
 
 ### Videos
 * [Brian Regan - The ME Monster](https://youtu.be/-yQGfxC1QI0)
@@ -40,6 +43,7 @@ order: 10.9
 * [Wellesley High School - You Are Not Special](https://youtu.be/_lfxYhtf8o4)
 * [David Litt - The secret power of self-deprecation](https://www.pbs.org/video/imho-1508534731/)
 * [BBC Reel - Why we all fall foul of the Dunning-Kruger effect](https://www.bbc.com/reel/video/p08d53s8/why-we-all-fall-foul-of-the-dunning-kruger-effect)
+
 
 ### Quotes
 * "John Bardeen won two Nobel Prizes in physics, and all who write about Bardeen remember him as a quiet and modest person. His hobby was golf, and many years after his second prize his long-time golf partner asked him, ‘Just what is it you do for a living’? Apparently Bardeen had never worked the two Nobel Prizes into conversations with his golf partner." Hargittai, István. *The road to Stockholm: Nobel Prizes, science, and scientists.* OUP Oxford, 2002.

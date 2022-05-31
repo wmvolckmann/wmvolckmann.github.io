@@ -15,7 +15,8 @@ order: 10.91
 * [Rob Mitchum - Scientific Research is Conservative but Could be Accelerated](https://voices.uchicago.edu/compinst/press-releases/scientific-research-conservative-could-be-accelerated/)
 * [LSE Impact Blog - Bias against novelty in science](https://blogs.lse.ac.uk/impactofsocialsciences/2016/08/23/bias-against-novelty-in-science-a-cautionary-tale-for-users-of-bibliometric-indicators/)
 * [Daniel Morgan - Doctors are surprisingly bad at reading lab results](https://www.washingtonpost.com/news/posteverything/wp/2018/10/05/feature/doctors-are-surprisingly-bad-at-reading-lab-results-its-putting-us-all-at-risk/)
-* [Clare Wilson - The replication crisis has spread through science – can it be fixed?](https://www.newscientist.com/article/mg25433810-400-the-replication-crisis-has-spread-through-science-can-it-be-fixed/)
+* [Clare Wilson - The replication crisis has spread through science](https://www.newscientist.com/article/mg25433810-400-the-replication-crisis-has-spread-through-science-can-it-be-fixed/)
+
 
 ### Books
 * [Melissa A Schilling - Quirky: The Remarkable Story of the Traits, Foibles, and Genius of Breakthrough Innovators Who Changed the World](https://www.goodreads.com/book/show/39651571-quirky)

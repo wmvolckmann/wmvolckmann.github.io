@@ -5,6 +5,7 @@ order: 1
 ---
 
 ### Section Materials
+Final Review Session: Wellman 226, Friday June 3, 5:10-7pm
 
 * Final Review: [Handout](finalreview.pdf)
 * Week 10: [Handout](week10.pdf)

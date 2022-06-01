@@ -7,8 +7,8 @@ order: 1
 ### Section Materials
 Final Review Session: Wellman 226, Friday June 3, 5:10-7pm
 
-* Final Review: [Handout](finalreview.pdf)
-* Week 10: [Handout](week10.pdf)
+* Final Review: [Handout](finalreview.pdf), [Solutions](week09-ans.pdf)
+* Week 10: [Handout](week10.pdf), [Solutions](week10-ans.pdf)
 * Week 09: [Handout](week09.pdf), [Solutions](week09-ans.pdf)
 * [Post-Midterm 2 Feel Goods](https://youtu.be/mxirDh3hpDk)
 * Week 08: [Handout](week08.pdf), [Solutions](week08-ans.pdf), [Graphs](week08-graphs.pdf)

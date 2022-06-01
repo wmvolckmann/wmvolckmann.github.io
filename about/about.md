@@ -25,7 +25,8 @@ Hi.
 * You must be really bored if you're reading this
 
 
-### Pseudointellectual Quote Generator (i.e. My Random Thoughts)
+### Pseudointellectual Quote Generator
+## AKA My Random Thoughts
 
 <SCRIPT LANGUAGE="JAVASCRIPT">
 

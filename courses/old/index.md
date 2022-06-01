@@ -95,6 +95,9 @@ can assure you that my R script will not steal your credit card information.
  - [External Wealth, Consumption Smoothing](materials/ecn160B/week06-ans.pdf)
  - [Investment and Balance of Payments](materials/ecn160B/week07-ans.pdf)
  - [IS-LM-FX Shocks](materials/ecn160B/week08-ans.pdf)
+ - [Costs of Fixing versus Floating](materials/ecn160B/week09-ans.pdf)
+ - [Foreign Reserves and Speculative Attacks](materials/ecn160B/week10-ans.pdf)
+ - [Self-Confirming Equilibria](materials/ecn160B/week11-ans.pdf)
 </details>
 
 

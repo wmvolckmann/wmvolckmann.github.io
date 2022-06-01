@@ -35,6 +35,7 @@ order: 10.91
 * "You should, in science, believe logic and arguments, carefully drawn, and not authorities." Richard Feynman
 * "One of the great commandments of science is, 'Mistrust arguments from authority.' Too many such arguments have proved too painfully wrong." Carl Sagan
 * "The prevailing dogmas may be right, but they still need to be challenged. I'm proud to be a heretic. The world always needs heretics to challenge the prevailing orthodoxy. We are lucky that we can be heretics today without being burned at the stake." Freeman Dyson
+* "Do not fear to be eccentric in opinion, for every opinion now accepted was once eccentric." Bertrand Russell
 * "The opposite of courage in our society is not cowardice... it is conformity."  Rollo May
 * "One who believes all of a book would be better off without books." Mencius
 * "Because of social pressure, individualism is rejected by most people in favor of conformity. Thus the individual relies mainly upon the actions of others and neglects the meaning of his own personal life. Hence he sees his own life as meaningless and falls into the 'existential vacuum' feeling inner void." Viktor Frankl

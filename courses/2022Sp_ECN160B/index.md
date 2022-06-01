@@ -10,16 +10,16 @@ Final Review Session: Wellman 226, Friday June 3, 5:10-7pm
 * Final Review: [Handout](finalreview.pdf), [Solutions](finalreview-ans.pdf)
 * Final Extras: [Solutions](final_extra.pdf)
 
-
 * Week 10: [Handout](week10.pdf), [Solutions](week10-ans.pdf)
 * Week 09: [Handout](week09.pdf), [Solutions](week09-ans.pdf)
 * Week 08: [Handout](week08.pdf), [Solutions](week08-ans.pdf), [Graphs](week08-graphs.pdf)
 * Week 07: [Handout](week07.pdf), [Solutions](week07-ans.pdf)
 * Week 06: [Handout](week06.pdf), [Solutions](week06-ans.pdf)
 * Week 05: [Handout](week05.pdf), [Solutions](week05-ans.pdf)
-* Week 03: [Pretend Handout](week03.pdf), [Solutions](week03-ans.pdf)
+* Week 03: [Handout](week03.pdf), [Solutions](week03-ans.pdf)
 * Week 02: [Handout](week02.pdf), [Solutions](week02-ans.pdf)
 * Week 01: [Handout](week01.pdf), [Solutions](week01-ans.pdf)
+
 
 ### Lecture
 * Instructor: Alan Taylor
@@ -29,6 +29,7 @@ Final Review Session: Wellman 226, Friday June 3, 5:10-7pm
 * Midterm 1: Thursday, April 21, during lecture
 * Midterm 2: Tuesday, May 17, during lecture
 * Final Exam: Tuesday, June 7, 3:30pm-5:30pm
+
 
 ### Discussion
 * Me: William M Volckmann II

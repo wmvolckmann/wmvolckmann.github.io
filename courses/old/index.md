@@ -100,10 +100,26 @@ can assure you that my R script will not steal your credit card information.
  - [Self-Confirming Equilibria](materials/ecn160B/week11-ans.pdf)
 </details>
 
+<details markdown=1><summary markdown="span">**Miscellaneous Notes**</summary>
+ - [Basic Probability Cheat Sheet](materials/misc/basicprobability.pdf)
+ - [Basic Linear Regression with Matrices](materials/misc/regressionmatrix.pdf)
+ - [McCall Search Model of Unemployment](materials/misc/mccall.pdf)
+ - [Search Model of Unemployment with Endogenous Destruction](materials/misc/endogenousdestruction.pdf)
+ - [Mortensen-Pissarides Search Model of Unemployment](materials/misc/mortensenpissarides.pdf)
+ - [Permanent Income Hypothesis](materials/misc/pih.pdf)
+ - [Lucas Tree CAPM ](materials/misc/lucastree.pdf)
+ - [Lagos-Wright Monetary Search Model](materials/misc/lagoswright.pdf)
+ - [Geromichalos, Licari, Suarez-Lledo CAPM](materials/misc/gls.pdf)
+ - [Duffie et al Over-the-Counter Markets](materials/misc/otc.pdf)
+
+
+
+</details>
 
 ### Courses TAed
 
 <details markdown=1><summary markdown="span">**2021-2022**</summary>
+  - [ECN 160B - International Macro (Spring 2022)](/courses/old/2022Sp_ECN160B/)
   - [ECN 103 - Uncertainty & Information (Winter 2022)](/courses/old/2022W_ECN103/)
   - [ECN 121B - Industrial Organization (Fall 2021)](/courses/old/2021F_ECN121B/)
 </details>

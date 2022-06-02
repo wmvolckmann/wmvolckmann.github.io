@@ -26,7 +26,7 @@ Hi.
 
 
 ### Pseudointellectual Quote Generator
-## AKA My Random Thoughts
+#### AKA My Random Thoughts
 
 <SCRIPT LANGUAGE="JAVASCRIPT">
 

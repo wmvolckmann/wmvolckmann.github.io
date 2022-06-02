@@ -46,7 +46,7 @@ order: 10.9
 
 
 ### Quotes
-* "The fundamental cause of the trouble is that in the modern world the stupid are cocksure while the intelligent are full of doubt." - Bertrand Russell
+* "The fundamental cause of the trouble is that in the modern world the stupid are cocksure while the intelligent are full of doubt." Bertrand Russell
 * "John Bardeen won two Nobel Prizes in physics, and all who write about Bardeen remember him as a quiet and modest person. His hobby was golf, and many years after his second prize his long-time golf partner asked him, ‘Just what is it you do for a living’? Apparently Bardeen had never worked the two Nobel Prizes into conversations with his golf partner." Hargittai, István. *The road to Stockholm: Nobel Prizes, science, and scientists.* OUP Oxford, 2002.
 * "It is not hard to demonstrate that all the main threats confronting the world today, from atomic war and ecological disaster to a catastrophic collapse of society and civilization — by which I mean the widening gulf between rich and poor individuals and nations — have hidden deep within them a single root cause: the imperceptible transformation of what was originally a humble message into an arrogant one." Václav Havel
 * "The angel who demands heroism not only of himself but of others, who denies the value of compromise, who perceives the world with a Manichean simplicity and despises those who have a different concept of obligation towards others -- this angel, loving heaven as he may, has already started on the path that leads to hell." Adam Michnik

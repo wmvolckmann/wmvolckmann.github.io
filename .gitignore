@@ -3,3 +3,4 @@ _site
 feed.xml
 .sass-cache*
 .jekyll-cache*
+ignore

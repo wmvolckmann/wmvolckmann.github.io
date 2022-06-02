@@ -18,7 +18,6 @@ materials. I archive some here for posterity (click below to expand).
   - [Solow Growth Model](materials/ecn101/solow.pdf)
 </details>
 
-
 <details markdown=1><summary markdown="span">**ECN 102 - Analysis of Econ Data (Stata)**</summary>
  - [Stata Sheet 01](materials/ecn102/stata-01.pdf)
  - [Stata Sheet 02](materials/ecn102/stata-02.pdf)
@@ -31,7 +30,6 @@ materials. I archive some here for posterity (click below to expand).
  - [Marginal Effects](materials/ecn102/marginaleffects.pdf)
  - [F-test](materials/ecn102/ftest.pdf)
 </details>
-
 
 <details markdown=1><summary markdown="span">**ECN 102 - Analysis of Econ Data (R)**</summary>
  - [R Sheet 01](materials/ecn102/Rsheet-01.pdf)
@@ -62,7 +60,6 @@ can assure you that my R script will not steal your credit card information.
  - [OLS Testing](https://colab.research.google.com/drive/1vglGVMTmW_FBXBvS_HAdulacAZVpsAYW?usp=sharing)
 </details>
 
-
 <details markdown=1><summary markdown="span">**ECN 121 - Industrial Organization II**</summary>
  - [Spatial Competition](materials/ecn121/week02-ans.pdf)
  - [Price Discrimination, Nash Equilibria](materials/ecn121/week03-ans.pdf)
@@ -75,7 +72,6 @@ can assure you that my R script will not steal your credit card information.
  - [International Trade, Economic Theory of Regulation](materials/ecn121/week11-ans.pdf)
 </details>
 
-
 <details markdown=1><summary markdown="span">**ECN 134 - Financial Economics**</summary>
  - [Present Value](materials/ecn134/presentvalue.pdf)
  - [Rate of Return](materials/ecn134/rateofreturn.pdf)
@@ -84,7 +80,6 @@ can assure you that my R script will not steal your credit card information.
  - [Market Beta and CAPM](materials/ecn134/capm.pdf)
  - [Modigliani-Miller Theorem](materials/ecn134/mm.pdf)
 </details>
-
 
 <details markdown=1><summary markdown="span">**ECN 160B - International Macroeconomics**</summary>
  - [Warmup](materials/ecn160B/week01-ans.pdf)
@@ -111,10 +106,8 @@ can assure you that my R script will not steal your credit card information.
  - [Lagos-Wright Monetary Search Model](materials/misc/lagoswright.pdf)
  - [Geromichalos, Licari, Suarez-Lledo CAPM](materials/misc/gls.pdf)
  - [Duffie et al Over-the-Counter Markets](materials/misc/otc.pdf)
-
-
-
 </details>
+
 
 ### Courses TAed
 
@@ -124,13 +117,11 @@ can assure you that my R script will not steal your credit card information.
   - [ECN 121B - Industrial Organization (Fall 2021)](/courses/old/2021F_ECN121B/)
 </details>
 
-
 <details markdown=1><summary markdown="span">**2020-2021**</summary>
   - [ECN 103 - Uncertainty & Information (Spring 2021)](/courses/old/2021Sp_ECN103/)
   - [ECN 106 - Decision Making (Winter 2021)](/courses/old/2021W_ECN106/)
   - [ECN 121B - Industrial Organization (Fall 2020)](/courses/old/2020F_ECN121B/)
 </details>
-
 
 <details markdown=1><summary markdown="span">**2019-2020**</summary>
   - [ECN 102 - Analysis of Econ Data (Summer 2020)](/courses/old/2020Su_ECN102/)
@@ -139,14 +130,12 @@ can assure you that my R script will not steal your credit card information.
   - [ECN 1B - Principles of Macro (Fall 2019)](/courses/old/2019F_ECN1B/)
 </details>
 
-
 <details markdown=1><summary markdown="span">**2018-2019**</summary>
   - [ECN 1B - Principles of Macro (Summer 2019)](/courses/old/2019Su_ECN1B/)
   - [ECN 102 - Analysis of Econ Data (Spring 2019)](/courses/old/2019Sp_ECN102/)
   - [ECN 122 - Game Theory (Winter 2019)](/courses/old/2019W_ECN122/)
   - [ECN 102 - Analysis of Econ Data (Fall 2018)](/courses/old/2018F_ECN102/)
 </details>
-
 
 <details markdown=1><summary markdown="span">**2017-2018**</summary>
   - [ECN 1B - Principles of Macro (Summer 2018)](/courses/old/2018Su_ECN1B/)

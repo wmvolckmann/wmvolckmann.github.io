@@ -12,7 +12,7 @@ Hi.
 * Contact me at wmvolckmann at gmail dot com
 * From [Wisconsin](wisconsin.jpg) (mind the accent)
 * Attended [UW-Madison](uwmadison.jpg) once upon a time (it went well)
-* Attend UC-Davis once upon a time (it did not go so well)
+* Attended UC-Davis once upon a time (it did not go so well)
 * Worked for [Paul Romer](https://en.wikipedia.org/wiki/Paul_Romer) once upon a time
 * Recorded [mediocre music](/music/) once upon a time
 * Enjoy lifting weights

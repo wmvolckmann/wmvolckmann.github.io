@@ -10,10 +10,10 @@ Hi.
 ### Random Factoids ###
 
 * Contact me at wmvolckmann at gmail dot com
-* I am not Mr. Volckmann. Don't call me that. It's gross.
 * From [Wisconsin](wisconsin.jpg) (mind the accent)
-* Bachelor's degree in math and economics from [UW-Madison](uwmadison.jpg)
-* Worked for [Paul Romer](https://en.wikipedia.org/wiki/Paul_Romer) prior to Davis
+* Attended [UW-Madison](uwmadison.jpg) once upon a time. It went well.
+* Attend UC-Davis once upon a time. It did not go so well.
+* Worked for [Paul Romer](https://en.wikipedia.org/wiki/Paul_Romer) once upon a time
 * Used to record [mediocre](https://youtu.be/a8SugaNcU98) [music](https://youtu.be/s0Z3SDZCG1s)
 * Have been booed off stage before
 * Enjoy lifting weights
@@ -21,7 +21,7 @@ Hi.
   [(only?!)](https://youtu.be/NmfF18jSU_c) [friends](https://youtu.be/vqGo6AzBPvk)
   [are](https://youtu.be/D8_4oXLJmC4) [stray](https://youtu.be/sO0uWgMzu6E)
   [cats](https://youtu.be/pVxQLtNb5uA)  
-* My best quality is that I don't own salmon-colored shorts
+* The least interesting person to ever have their own personal website
 * You must be really bored if you're reading this
 
 

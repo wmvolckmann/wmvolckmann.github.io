@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Old Courses and Materials
+title: Grad School Archive - Old Courses and Materials
 order: 9.7
 ---
 
@@ -12,7 +12,6 @@ order: 9.7
 
 I tend to write cheat sheets, formula sheets, and other useful (hopefully)
 materials. I archive some here for posterity (click below to expand).
-
 
 <details markdown=1><summary markdown="span">**ECN 101 - Intermediate Macro**</summary>
   - [Solow Growth Model](materials/ecn101/solow.pdf)

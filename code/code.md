@@ -3,6 +3,7 @@ layout: page
 title: Miscellaneous Code
 permalink: /code/
 order: 10.7
+exclude: true
 ---
 
 I forget code sometimes, so I'm putting some examples here for my own reference.

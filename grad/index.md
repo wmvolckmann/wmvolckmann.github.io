@@ -13,14 +13,14 @@ order: 10.7
 
 Be warned: simply being in grad school didn't make me enough of a nerd, so I decided to study subjects that are nerdy even by the standards of nerdy grad students (click titles to see abstract).
 
-<details markdown=1><summary markdown="span">**The Effects of Market Size, Wealth, and Network Effects on Digital Piracy and Developer Profit**</summary>
+<details markdown=1><summary markdown="span">**Market Size, Wealth, Network Effects, and Digital Piracy**</summary>
 
   > *Abstract.* The effect of digital piracy is often framed as a creator having to compete against unauthorized copies of their own creation, despite intellectual property rights laws. This framing has empirical and theoretical support, but the empirical findings often suggest that the magnitude and even sign of piracy effects depend on the characteristics of the software and the market. For example, piracy seems to have a larger negative effect on sales of high-profile works, but a smaller and perhaps even positive effect on lesser-known works. This paper seeks a theoretical explanation of differential piracy effects. It is unique in that it gives considerable focus to the market size, and also to budgetary limitations of the consumer base, motivated by high piracy rates in developing countries. The models imply that piracy is more likely to help developers when the market for the software is smaller; when network effects are neither too weak nor too strong; when piracy is neither to accessible nor too inaccessible; when the cost of piracy is relatively homogeneous; and when the consumer base is not too poor. All things considered, the inclusion of market size, consumer budgets, and heterogeneous piracy costs suggest that piracy is less likely to be beneficial to developers than previous literature suggest. Developer profit may be higher or lower with piracy, but buyer welfare is no worse, and is sometimes better, with piracy.
 
 </details>
 
 
-<details markdown=1><summary markdown="span">**The Effect of Bypassing Denuvo Digital Rights Management on PC Video Games**</summary>
+<details markdown=1><summary markdown="span">**The Effect of Bypassing Denuvo DRM on PC Video Games**</summary>
 
   > *Abstract.* A digital good can be duplicated and distributed at nearly zero cost by anyone with a copy. Although it is typically a violation of intellectual property laws to do so, the Internet has made digital piracy a significant concern for developers who wish to sell their software: developers may find themselves essentially competing against pirated copies of their own software. In the personal computer video game market, a digital rights management (DRM) technology called Denuvo has been used since 2014 to restrict software usage to legitimate buyers. Sometimes Denuvo DRM is cracked, after which piracy can occur. I exploit the randomness with which Denuvo DRM is cracked to estimate the effect that Denuvo DRM survival time has on protecting revenue from the effects of piracy. When Denuvo DRM is quickly cracked, piracy leads to an estimated 20 percent fall in total revenue on average relative to an uncracked counterfactual, but that effect is weaker the longer it takes for Denuvo DRM to be cracked. When Denuvo DRM survives for at least 12 weeks, piracy leads to nearly zero total revenue loss on average. These results suggest that Denuvo DRM does protect legitimate sales, but there is little justification to employ Denuvo DRM long-term (i.e. for more than three months), especially given that Denuvo DRM is generally disliked by legitimate buyers.
 
@@ -112,7 +112,7 @@ can assure you that my R script will not steal your credit card information.
  - [Modigliani-Miller Theorem](/grad/courses/old/materials/ecn134/mm.pdf)
 </details>
 
-<details markdown=1><summary markdown="span">**ECN 160B - International Macroeconomics**</summary>
+<details markdown=1><summary markdown="span">**ECN 160B - International Macro**</summary>
  - [Warmup](/grad/courses/old/materials/ecn160B/week01-ans.pdf)
  - [Exchange Rates, Parity Conditions](/grad/courses/old/materials/ecn160B/week02-ans.pdf)
  - [LOOP and PPP](/grad/courses/old/materials/ecn160B/week03-ans.pdf)

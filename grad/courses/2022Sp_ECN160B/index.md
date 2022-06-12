@@ -7,7 +7,7 @@ exclude: true
 ### Section Materials
 
 ### Lecture
-* Instructor: Alan Taylor
+* Instructor: Alan M. Taylor
 * Time and Place: TR 10:30-11:50pm, Olson Hall 146
 * Office Hours: Wednesday 2-4pm on Zoom
 * Online Homework: Macmillan Learning Achieve (link on Canvas)

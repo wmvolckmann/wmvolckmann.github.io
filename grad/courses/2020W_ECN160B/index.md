@@ -6,7 +6,7 @@ exclude: true
 
 
 ### Lecture
-* Instructor: Alan Taylor
+* Instructor: Alan M. Taylor
 * Time and Place: TR 10:30-11:50pm, Olson Hall 118
 * Office Hours: Tuesday, 2-4pm, SSH 1123
 * Textbook: [ISBN 978-1-319-16772-1](https://www.macmillanhighered.com/launchpad/feenstrataylorintlecon4e/12598996)

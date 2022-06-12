@@ -11,11 +11,10 @@ Hi.
 
 * Contact me at wmvolckmann at gmail dot com
 * From [Wisconsin](wisconsin.jpg) (mind the accent)
-* Attended [UW-Madison](uwmadison.jpg) once upon a time. It went well.
-* Attend UC-Davis once upon a time. It did not go so well.
+* Attended [UW-Madison](uwmadison.jpg) once upon a time (it went well)
+* Attend UC-Davis once upon a time (it did not go so well)
 * Worked for [Paul Romer](https://en.wikipedia.org/wiki/Paul_Romer) once upon a time
-* Used to record [mediocre](https://youtu.be/a8SugaNcU98) [music](https://youtu.be/s0Z3SDZCG1s)
-* Have been booed off stage before
+* Recorded [mediocre music](/music/) once upon a time
 * Enjoy lifting weights
 * [My](https://youtu.be/vPQK9yEjJ8E) [best](https://youtu.be/ryGWz79q0TM)
   [(only?!)](https://youtu.be/NmfF18jSU_c) [friends](https://youtu.be/vqGo6AzBPvk)

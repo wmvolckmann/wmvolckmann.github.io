@@ -142,7 +142,7 @@ can assure you that my R script will not steal your credit card information.
 
 # Courses TAed
 
-[Teaching Evaluations](/grad/courses/evals.pdf)
+[Teaching Evaluations](/grad/courses/evals.pdf), [Overall Histogram](/grad/courses/evalhist.png)
 
 <details markdown=1><summary markdown="span">*2021-2022*</summary>
   - [ECN 160B - International Macro (Spring 2022)](/grad/courses/2022Sp_ECN160B/)

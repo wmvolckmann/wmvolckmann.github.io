@@ -45,7 +45,7 @@ Hi.
 
   r_text[6] = "I never worry about whether someone agrees with me or not. I do worry about whether someone will hate me for not agreeing."
 
-  r_text[7] = "It is okay — even admirable — to be skeptical of conventional wisdom and mainstream narratives. It is not wrong to reject them sometimes. The challenge is in finding a tenable substitute, and not credulously plugging in whatever alternative sounds the most appealing. The problem with most conspiracy theories is that the same dose of skepticism that leads to a rejection of the mainstream narrative would typically lead to an even more aggressive rejection of the proposed alternative. It is not possible to be selectively skeptical: you are either skeptical or gullible."
+  r_text[7] = "It is okay — admirable, in fact — to be skeptical of conventional wisdom and mainstream narratives. It is not wrong to reject them sometimes. The challenge is in finding a tenable substitute, and not credulously plugging in whatever alternative sounds the most appealing. The problem with most conspiracy theories is that the same dose of skepticism that leads to a rejection of the mainstream narrative would typically lead to an even more aggressive rejection of the proposed alternative. It is not possible to be selectively skeptical: you are either skeptical or gullible."
 
 
   var i = Math.floor(r_text.length * Math.random());

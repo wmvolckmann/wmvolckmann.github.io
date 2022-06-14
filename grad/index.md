@@ -9,7 +9,7 @@ order: 10.7
 {:toc}
 
 
-# Papers
+### Papers
 
 Be warned: simply being in grad school didn't make me enough of a nerd, so I decided to study subjects that are nerdy even by the standards of nerdy grad students (click titles to see abstract).
 
@@ -34,13 +34,13 @@ Be warned: simply being in grad school didn't make me enough of a nerd, so I dec
 </details>
 
 
-# Mini-Research ###
+### Mini-Research ###
 * [The Decline in Video Game Quality Over Time](/grad/research/vg)
 * [Which Video Game Platform Gets the Best Ports?](/grad/research/multiport)
 * [How Out of Touch Is the Entertainment Media?](/grad/research/media)
 
 
-# Old Materials
+### Old Materials
 
 I tend to write cheat sheets, formula sheets, and other useful (hopefully)
 materials. I archive some here for posterity (click below to expand).
@@ -140,7 +140,7 @@ can assure you that my R script will not steal your credit card information.
 </details>
 
 
-# Courses TAed
+### Courses TAed
 
 [Teaching Evaluations](/grad/courses/evals.pdf), [Overall Histogram](/grad/courses/evalhist.png)
 

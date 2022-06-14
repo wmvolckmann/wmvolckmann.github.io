@@ -29,7 +29,7 @@ order: 10.9
 * [Ryan Holiday - Ego is the Enemy](https://www.goodreads.com/book/show/27036528-ego-is-the-enemy)
 * [Jonathan Haidt - The Righteous Mind](https://www.goodreads.com/book/show/11324722-the-righteous-mind)
 * [Nassim Nicholas Taleb - Fooled by Randomness](https://www.goodreads.com/book/show/38315.Fooled_by_Randomness)
-* [Adam M. Grant - Think Again: The Power of Knowing What You Don't Know](https://www.goodreads.com/book/show/55539565-think-again)
+* [Adam M. Grant - The Power of Knowing What You Don't Know](https://www.goodreads.com/book/show/55539565-think-again)
 * [Chabris & Simons - The Invisible Gorilla](https://www.goodreads.com/book/show/7783191-the-invisible-gorilla)
 * [Daniel Kahneman - Thinking, Fast and Slow](https://www.goodreads.com/book/show/11468377-thinking-fast-and-slow)
 * [Dan Ariely - Predictably Irrational](https://www.goodreads.com/book/show/1713426.Predictably_Irrational)

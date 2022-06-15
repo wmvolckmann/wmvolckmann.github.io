@@ -39,13 +39,13 @@ Hi.
 
   r_text[3] = "Science works because it demands skepticism of its own results.";
 
-  r_text[4] = "Appeals to authority are always invalid. Just as with ad hominem, a statement for or against a position is neither weaker nor stronger depending on who is making the argument. As a corollary, offering no argument and simply highlighting the source of a statement is equivalent to making no argument. The whole point of science (and the motivation behind Enlightenment principles more generally) is to let the merits of logic, reason, and evidence do the talking, usurping the primacy of source.";
+  r_text[4] = "Appeals to authority are always invalid. Just as with ad hominem, a statement for or against a position is neither weaker nor stronger depending on who is making the argument. As a corollary, offering no argument and simply highlighting the source of an assertion is equivalent to making no argument. The whole point of science (and the motivation behind Enlightenment principles more generally) is to let the merits of logic, reason, and evidence do the talking, usurping the primacy of source.";
 
   r_text[5] = "When someone's purpose comes from having a problem to solve, a solution can be an even bigger problem."
 
   r_text[6] = "I never worry about whether someone agrees with me or not. I do worry about whether someone will hate me for not agreeing."
 
-  r_text[7] = "It is okay — admirable, in fact — to be skeptical of conventional wisdom and mainstream narratives. It is not wrong to reject them sometimes. The challenge is in finding a tenable substitute, and not credulously plugging in whatever alternative sounds the most appealing. The problem with most conspiracy theories is that the same dose of skepticism that leads to a rejection of the mainstream narrative would typically lead to an even more aggressive rejection of the proposed alternative. It is not possible to be selectively skeptical: you are either skeptical or gullible."
+  r_text[7] = "It is okay — admirable, in fact — to be skeptical of conventional wisdom and mainstream narratives. It is not wrong to reject them sometimes. The challenge is in finding a tenable substitute, and not credulously plugging in whatever alternative sounds the most appealing. The problem with most radical policy proposals and conspiracy theories is that the same dose of skepticism that leads to a rejection of the mainstream narrative would typically lead to an even more aggressive rejection of the proposed alternative. It is not possible to be selectively skeptical: you are either skeptical or gullible."
 
   r_text[8] = "A person does not believe in democracy unless they defend it even when they don't want to. A person does not believe in free speech unless they defend it even when they don't want to. A person does not believe in due process unless they defend it even when they don't want to. That is why such ideals, despite being the greatest of social innovations, took so long to emerge and fall so easily."
 

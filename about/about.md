@@ -49,6 +49,8 @@ Hi.
 
   r_text[8] = "A person does not believe in democracy unless they defend it even when they don't want to. A person does not believe in free speech unless they defend it even when they don't want to. A person does not believe in due process unless they defend it even when they don't want to. That is why such ideals, despite being the greatest of social innovations, took so long to emerge and fall so easily."
 
+  r_text[9] = "The more inclined we are to believe something, the more skeptical of it we should be. Our minds are tapestries of biases that cloud our judgement, and failing to actively counteract them is tantamount to submitting to them."
+
   var i = Math.floor(r_text.length * Math.random());
 
   document.write(r_text[i]);

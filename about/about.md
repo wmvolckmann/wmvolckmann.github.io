@@ -45,11 +45,13 @@ Hi.
 
   r_text[6] = "I never worry about whether someone agrees with me or not. I do worry about whether someone will hate me for not agreeing."
 
-  r_text[7] = "It is okay — admirable, in fact — to be skeptical of conventional wisdom and mainstream narratives. It is not wrong to reject them sometimes. The challenge is in finding a tenable substitute, and not credulously plugging in whatever alternative sounds the most appealing. The problem with most radical policy proposals and conspiracy theories is that the same dose of skepticism that leads to a rejection of the mainstream narrative would typically lead to an even more aggressive rejection of the proposed alternative. It is not possible to be selectively skeptical: you are either skeptical or gullible."
+  r_text[7] = "It is okay — admirable, in fact — to be skeptical of conventional wisdom, mainstream narratives, and traditional institutions. It is not wrong to reject them sometimes. The challenge is in finding a tenable substitute, and not credulously plugging in whatever alternative sounds the most appealing. The problem with most radical policy proposals and conspiracy theories is that the same dose of skepticism that lead to a rejection of the status quo would typically lead to an even more aggressive rejection of the proposed alternative. After all, it is not possible to be selectively skeptical: you are either skeptical or gullible."
 
   r_text[8] = "A person does not believe in democracy unless they defend it even when they don't want to. A person does not believe in free speech unless they defend it even when they don't want to. A person does not believe in due process unless they defend it even when they don't want to. That is why such ideals, despite being the greatest of social innovations, took so long to emerge and fall so easily."
 
   r_text[9] = "The more inclined we are to believe something, the more skeptical of it we should be. Our minds are tapestries of biases that cloud our judgement, and failing to actively counteract them is tantamount to submitting to them."
+
+  r_text[0] = "A quick way to see if someone respects you or not is to disagree with them about something important. Only if they respect you will they accept, or even tolerate, your disagreement. If they snap at you, then they do not respect you: they only respect themselves, and therefore do not deserve your own respect."
 
   var i = Math.floor(r_text.length * Math.random());
 

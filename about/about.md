@@ -51,7 +51,7 @@ Hi.
 
   r_text[9] = "The more inclined we are to believe something, the more skeptical of it we should be. Our minds are tapestries of biases that cloud our judgement, and failing to actively counteract them is tantamount to submitting to them."
 
-  r_text[10] = "A quick way to see if someone respects you or not is to disagree with them about something important. Only if they respect you will they accept (or at a bare minimum, tolerate) your disagreement. If they snap at you, then they do not respect you: they only respect themselves, and therefore do not deserve your own respect."
+  r_text[10] = "A quick way to see if someone respects you or not is to disagree with them about something important. Only if they respect you will they accept (or at a bare minimum, tolerate) your disagreement. If they snap at you, then they do not respect you: they only respect themselves, and therefore are not worthy of your own respect."
 
   var i = Math.floor(r_text.length * Math.random());
 

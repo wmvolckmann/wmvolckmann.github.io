@@ -5,9 +5,6 @@ permalink: /grad/
 order: 10.7
 ---
 
-* TOC filler
-{:toc}
-
 
 ### Papers
 

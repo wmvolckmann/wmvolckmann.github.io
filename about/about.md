@@ -47,6 +47,7 @@ Hi.
 
   r_text[7] = "It is okay — admirable, in fact — to be skeptical of conventional wisdom and mainstream narratives. It is not wrong to reject them sometimes. The challenge is in finding a tenable substitute, and not credulously plugging in whatever alternative sounds the most appealing. The problem with most conspiracy theories is that the same dose of skepticism that leads to a rejection of the mainstream narrative would typically lead to an even more aggressive rejection of the proposed alternative. It is not possible to be selectively skeptical: you are either skeptical or gullible."
 
+  r_text[8] = "A person does not believe in democracy unless they defend it even when they don't want to. A person does not believe in free speech unless they defend it even when they don't want to. A person does not believe in due process unless they defend it even when they don't want to. That is why such ideals, despite being the greatest of social innovations, took so long to emerge and fall so easily."
 
   var i = Math.floor(r_text.length * Math.random());
 

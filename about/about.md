@@ -41,7 +41,7 @@ Hi.
 
   r_text[4] = "Appeals to authority are always invalid. Just as with ad hominem, a statement for or against a position is neither weaker nor stronger depending on who is making the argument. As a corollary, offering no argument and simply highlighting the source of an assertion is equivalent to making no argument. The whole point of science (and the motivation behind Enlightenment principles more generally) is to let the merits of logic, reason, and evidence do the talking, usurping the primacy of source.";
 
-  r_text[5] = "When someone's purpose comes from having a problem to solve, a solution can be an even bigger problem."
+  r_text[5] = "When raison d'être is having problem to solve, a solution might not even be wanted."
 
   r_text[6] = "I never worry about whether someone agrees with me or not. I do worry about whether someone will hate me for not agreeing."
 
@@ -52,6 +52,9 @@ Hi.
   r_text[9] = "The more inclined we are to believe something, the more skeptical of it we should be. Our minds are tapestries of biases that cloud our judgement, and failing to actively counteract them is tantamount to submitting to them."
 
   r_text[10] = "A quick way to see if someone respects you or not is to disagree with them about something important. Only if they respect you will they accept (or at a bare minimum, tolerate) your disagreement. If they snap at you, then they do not respect you: they only respect themselves, and therefore are not worthy of your own respect."
+
+  r_text[11] = "Morals and values are social constructs, and therefore cannot be debated in the same way that objective information can. Rather, the persuasive power of morals and values are mostly derived from the character of those who hold such morals and values. Ergo being a decent person, behaving in a respectable way, is the most effective way to propagate your own morals and values; and being an antagonistic person, behaving in a destructive way, the least."
+
 
   var i = Math.floor(r_text.length * Math.random());
 

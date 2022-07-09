@@ -41,7 +41,7 @@ Hi.
 
   r_text[4] = "Appeals to authority are always invalid. Just as with ad hominem, a statement for or against a position is neither weaker nor stronger depending on who is making the argument. As a corollary, offering no argument and simply highlighting the source of an assertion is equivalent to making no argument. The whole point of science (and the motivation behind Enlightenment principles more generally) is to let the merits of logic, reason, and evidence do the talking, usurping the primacy of source.";
 
-  r_text[5] = "When raison d'être is having problem to solve, a solution might not even be wanted."
+  r_text[5] = "When raison d'être is having problem to solve, what does that make the solution?"
 
   r_text[6] = "I never worry about whether someone agrees with me or not. I do worry about whether someone will hate me for not agreeing."
 

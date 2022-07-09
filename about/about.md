@@ -53,7 +53,9 @@ Hi.
 
   r_text[10] = "A quick way to see if someone respects you or not is to disagree with them about something important. Only if they respect you will they accept (or at a bare minimum, tolerate) your disagreement. If they snap at you, then they do not respect you: they only respect themselves, and therefore are not worthy of your own respect."
 
-  r_text[11] = "Morals and values are social constructs, and therefore cannot be debated in the same way that objective information can. Rather, the persuasive power of morals and values are mostly derived from the character of those who hold such morals and values. Ergo being a decent person, behaving in a respectable way, is the most effective way to propagate your own morals and values; and being an antagonistic person, behaving in a destructive way, the least."
+  r_text[11] = "Morals and values are social constructs, and therefore cannot be debated in the same way that objective information can. Rather, the persuasive power of morals and values is mostly derived from the character of those who hold such morals and values. Ergo being a decent person and behaving in a respectable way is the most effective way to propagate your own morals and values; and being an antagonistic person, behaving in a destructive way, the least."
+
+  r_text[12] = "We should all thank and celebrate the goodness and decency in the world when we see it. Even ordinary, every day goodness and decency have significant value. But it is not enough to merely expect goodness and decency from people, because merely expecting something is, in practical terms, indistinguishable from assigning it zero value. And you can't expect something if you aren't even willing to assign value to it."
 
 
   var i = Math.floor(r_text.length * Math.random());

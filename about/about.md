@@ -57,7 +57,7 @@ Hi.
 
   r_text[12] = "We should all thank and celebrate goodness and decency in the world when we see it. Even ordinary, every day goodness and decency have much value. But it is not enough to merely expect goodness and decency from people, because merely expecting something is, in practical terms, indistinguishable from assigning it zero value. And you can't expect something if you aren't even willing to assign it value."
 
-  r_text[13] = "One should always be willing and eager to criticize the flaws and excesses of one's own tribe. Failure to do so not only allows the tribe's weaknesses to flourish, but also lessens pressure on other tribes to get their own acts together. Everyone loses."
+  r_text[13] = "A major problem with tribalism is the way criticism is addressed. A tribe is unlikely to take seriously criticisms that come from another tribe, even if those criticisms have merit. Any self-correcting mechanism, then, must come from within the tribe itself. To that end, one should always be willing and eager to criticize the flaws and excesses of one's own tribe. Failure to do so not only allows the tribe's weaknesses to flourish, but also lessens pressure on other tribes to get their own acts together: everyone loses."
 
   var i = Math.floor(r_text.length * Math.random());
 

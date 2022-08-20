@@ -1,4 +1,4 @@
-game,mapsize,metascore,mainhours,fullhours,propextra,yearreleased,yearbracket,logmapsize,logmetascore,logmainhours,logfullhours,logpropextra
+game,mapsize,metascore,mainhours,fullhours,propside,yearreleased,yearbracket,logmapsize,logmetascore,logmainhours,logfullhours,logpropside
 Arma 2,87,77,17.5,78,0.775641,2009,2005,4.465908,4.343805,2.862201,4.356709,-0.2540655
 Arma 3,104,74,19.5,114,0.8289474,2013,2010,4.644391,4.304065,2.970414,4.736198,-0.1875986
 Assassin's Creed IV: Black Flag,90.2,85,23,60,0.6166667,2013,2010,4.502029,4.442651,3.135494,4.094345,-0.4834266

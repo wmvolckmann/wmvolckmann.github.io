@@ -4,11 +4,13 @@ title: Welcome
 exclude: true
 ---
 
+September 2022 Update: I need work! Hire me!
+
 # [Grad School Archive](/grad/)
-I used to be in grad school. I wrote some things.
+I used to be in grad school. I wrote some things. One of them got published.
 
 # [Music Archive](/music/)
-I used to be a musician. I recorded some things.
+I used to be a musician. I recorded some things. None of them got published.
 
 # [Shrine to Humility](/shrines/humility/)
 I value humility, and I think more of it would be a good thing. I dislike ego, and I think less of it would be a good thing.

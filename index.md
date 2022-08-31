@@ -4,7 +4,7 @@ title: Welcome
 exclude: true
 ---
 
-September 2022 Update: I need work! Hire me!
+## September 2022 Update: I need work! Hire me!
 
 # [Grad School Archive](/grad/)
 I used to be in grad school. I wrote some things. One of them got published.

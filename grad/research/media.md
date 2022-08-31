@@ -19,8 +19,6 @@ There are 18,676 video games in the sample. There is a slight upward trend (p = 
 
 ![games](games.png)
 
-[^1]: [See here for an analysis of video game quality over time](../vg)
-
 
 ### Television Shows ###
 There are 3,407 television shows in the sample. There is a downward trend (p = 0.002), suggesting that TV critics have become less out of touch over the last 20 years. Around the year 2000, TV media are out of touch by about 14.8 points, and are out of touch by about 12.8 points by 2022.

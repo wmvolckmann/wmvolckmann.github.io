@@ -33,9 +33,14 @@ Published 27 August 2022: [Full-text PDF](https://rdcu.be/cUtWx), [SpringerLink]
 </details>
 
 
+<details markdown=1><summary markdown="span">*The Best Modern Video Game Platform*</summary>
+
+  > *Abstract.* For approximately the last 20 years, there have been four dominant video game platforms: personal computer (PC), Playstation, Nintendo, and Xbox. This paper analyzes trends in the perceived quality of each platform over time, and in video gaming as a whole, and attempts to identify which platforms have performed best in delivering a high-quality gaming experience, and when. Furthermore, it analyzes the quality of games that are ported to multiple platforms to provide a very "apples-to-apples" comparison. Quality is measured by professional reviews and user reviews as aggregated by website Metacritic. The results suggest that PC and Nintendo platforms provide fairly consistent-quality games over time; whereas Playstation and Xbox appear to be deteriorating in gaming quality; and gaming as a whole appears to be declining in quality according to users. PC has the most top-shelf games, and Nintendo the fewest. Xbox appears to get the best ports. Gamers tend to be less charitable in their perceptions than critics.
+
+</details>
+
+
 ### Mini-Research ###
-* [The Decline in Video Game Quality Over Time](/grad/research/vg)
-* [Which Video Game Platform Gets the Best Ports?](/grad/research/multiport)
 * [How Out of Touch Is the Entertainment Media?](/grad/research/media)
 
 

@@ -40,8 +40,11 @@ Published 27 August 2022: [Full-text PDF](https://rdcu.be/cUtWx), [SpringerLink]
 </details>
 
 
-### Mini-Research ###
-* [How Out of Touch Is the Entertainment Media?](/grad/research/media)
+<details markdown=1><summary markdown="span">*How Out of Touch Is the Entertainment Media?*</summary>
+
+  > *Abstract.* Much has been made in recent years about the supposed disconnect between the media and the public. This paper focuses on the entertainment media---movies, television, music, and video games---to see how out of touch they are with consumers. I track the overall extent to which critics and consumers disagree, and how those disagreements change over time. I find that users are increasingly negative in their assessments relative to critics, but for the most part the entertainment media is not falling further out of touch but rather is becoming more in touch with the public.
+
+</details>
 
 
 ### Old Materials

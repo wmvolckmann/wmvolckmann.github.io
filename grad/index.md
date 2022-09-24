@@ -42,7 +42,7 @@ Published 27 August 2022: [Full-text PDF](https://rdcu.be/cUtWx), [SpringerLink]
 
 <details markdown=1><summary markdown="span">*How Out of Touch Is the Entertainment Media?*</summary>
 
-  > *Abstract.* 	Much has been made in recent years about the supposed inability of journalists and the media at large to reflect the values and preferences of the people. In this paper, I focus on the entertainment media---in movies, television, music, and video games---to see how out of touch they are with consumers. I track the overall extent to which critics and consumers disagree, and how those disagreements change over time. I find that users are increasingly negative in their assessments relative to critics, but for the most part the entertainment media is not falling further out of touch over time but rather is becoming more in touch with the public, lending quantitative credence to the theory of ``convergence culture.''
+  > *Abstract.* 	Much has been made in recent years about the supposed inability of journalists and the media at large to reflect the values and preferences of the general populace. In this paper, I focus on the entertainment media---in movies, television, music, and video games---to see how out of touch they are with consumers. I track the overall extent to which critics and consumers disagree, and how those disagreements change over time. I find that users are increasingly negative in their assessments relative to critics, but for the most part the entertainment media is not falling further out of touch over time but rather is becoming more in touch with the public, lending quantitative credence to the theory of "convergence culture."
 
 </details>
 

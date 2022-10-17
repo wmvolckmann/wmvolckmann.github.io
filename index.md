@@ -4,9 +4,11 @@ title: Welcome
 exclude: true
 ---
 
-## October 2022 Update: [I made a video game!](misc/vg)
+# Updates
 
-## September 2022 Update: I need work! Hire me! [Here's my resume.](about/resume.pdf)
+  * October 2022: [I made a video game!](misc/vg)
+  * September 2022: I need work! Hire me! [Here's my resume.](about/resume.pdf)
+  * August 2022: [I got published!](https://link.springer.com/article/10.1007/s10657-022-09750-9)
 
 # [Grad School Archive](/grad/)
 I used to be in grad school. I wrote some things. One of them got published.

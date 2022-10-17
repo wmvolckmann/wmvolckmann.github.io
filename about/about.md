@@ -17,7 +17,9 @@ Hi.
 * Worked for [Paul Romer](https://en.wikipedia.org/wiki/Paul_Romer) once upon a time
 * Recorded [mediocre music](/music/) once upon a time
 * Pretty good with MATLAB, Stata, R, LaTeX, and currently learning C#
+* I made a [video game](/misc/vg)
 * Enjoy lifting weights
+* I have too many hobbies 
 * [My](https://youtu.be/vPQK9yEjJ8E) [best](https://youtu.be/ryGWz79q0TM)
   [(only?!)](https://youtu.be/NmfF18jSU_c) [friends](https://youtu.be/vqGo6AzBPvk)
   [are](https://youtu.be/D8_4oXLJmC4) [stray](https://youtu.be/sO0uWgMzu6E)

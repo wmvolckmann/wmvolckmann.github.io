@@ -4,6 +4,8 @@ title: Welcome
 exclude: true
 ---
 
+## October 2022 Update: [I made a video game!](misc/vg)
+
 ## September 2022 Update: I need work! Hire me! [Here's my resume.](about/resume.pdf)
 
 # [Grad School Archive](/grad/)

@@ -6,7 +6,7 @@ exclude: true
 
 # Updates
 
-  * October 2022: [I made a video game!](/misc/vg)
+  * October 2022: [I made a video game!](/misc/vg/)
   * September 2022: I need work! Hire me! [Here's my resume.](/about/resume.pdf)
   * August 2022: [I got published!](https://link.springer.com/article/10.1007/s10657-022-09750-9)
 

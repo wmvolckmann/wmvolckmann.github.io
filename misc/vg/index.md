@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Crystalis Prequel
-permalink: /misc/vg
+permalink: /misc/vg/
 order: 10.7
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Shrine to Heterodoxy
-order: 10.91
+order: 10.5
 ---
 
 

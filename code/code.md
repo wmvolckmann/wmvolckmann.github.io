@@ -2,13 +2,12 @@
 layout: page
 title: Miscellaneous Code
 permalink: /code/
-order: 10.7
-exclude: true
+order: 10.3
 ---
 
 I forget code sometimes, so I'm putting some examples here for my own reference.
 
-### MATLAB
+# MATLAB
 * [implicitly solve equation (fsolve)](https://matlab.mathworks.com/users/wmvolckmann/Published/fsolveexample/html/fsolveexample.html)
 * [solve nonlinear system (fsolve)](https://matlab.mathworks.com/users/wmvolckmann/Published/systemsolve/html/systemsolve.html)
 * [nonlinear constrained optimization (fmincon)](https://matlab.mathworks.com/users/wmvolckmann/Published/fminconexample/html/fminconexample.html)
@@ -16,8 +15,42 @@ I forget code sometimes, so I'm putting some examples here for my own reference.
 * [plotting a function](https://matlab.mathworks.com/users/wmvolckmann/Published/fplotexample/html/fplotexample.html)
 * [waitbar in a loop](https://matlab.mathworks.com/users/wmvolckmann/Published/waitbar/html/progressbar.html)
 
-### R
-* bias-corrected and accelerated block bootstrap: [view code](https://github.com/wmvolckmann/wmvolckmann.github.io/blob/master/code/bcablockbootstrap.R), [download script](bcablockbootstrap.R)
+# R
+### Cheat Sheets
+ - [R Sheet 01](/grad/courses/materials/ecn102/Rsheet-01.pdf)
+ - [R Sheet 02](/grad/courses/materials/ecn102/Rsheet-02.pdf)
+ - [R Sheet 03](/grad/courses/materials/ecn102/Rsheet-03.pdf)
+ - [R Sheet 04](/grad/courses/materials/ecn102/Rsheet-04.pdf)
+ - [R Sheet 05](/grad/courses/materials/ecn102/Rsheet-05.pdf)
 
-### Stata
-* converting FRED dates into Stata dates: [view code](https://github.com/wmvolckmann/wmvolckmann.github.io/blob/master/code/FREDmonthly.do), [do-file](FREDmonthly.do)
+### Notebooks
+When using interactive scripts, press *Shift + Enter* to proceed step-by-step; or
+click on *Runtime -> Run all* to run the entire script. It will give a warning but I
+can assure you that my R script will not steal your credit card number.
+ - [Basic Graphics](https://colab.research.google.com/drive/1TkTdZ4FAGHhuL8acM3uNGhHQ95kvbd7e?usp=sharing)
+ - [Two-Sample Tests](https://colab.research.google.com/drive/1p8SiTIS6PCAFTn7h3Rrz63b4Q2fguW1J?usp=sharing)
+ - [Correlation and Simple Regression](https://colab.research.google.com/drive/1UOofb_0qcgF68enCL2bYtN7U3zfZbqPy?usp=sharing)
+ - [Multiple Regression](https://colab.research.google.com/drive/105kjMxIhP0B-le4pDYBKfTIP43ByTxYN?usp=sharing)
+ - [Joint Testing](https://colab.research.google.com/drive/17niELnclHU6QLx8c58KLpcOy5Ks9WWWM?usp=sharing)
+ - [OLS Testing](https://colab.research.google.com/drive/1vglGVMTmW_FBXBvS_HAdulacAZVpsAYW?usp=sharing)
+
+bias-corrected and accelerated block bootstrap: [view code](https://github.com/wmvolckmann/wmvolckmann.github.io/blob/master/code/bcablockbootstrap.R), [download script](bcablockbootstrap.R)
+
+# Python
+### Cheat Sheets
+- [Python Cheat Sheet 01](/code/python/PySheet-01.pdf)
+- [Python Cheat Sheet 02](/code/python/PySheet-02.pdf)
+- [Python Cheat Sheet 03](/code/python/PySheet-03.pdf)
+
+### Notebooks
+When using interactive scripts, press *Shift + Enter* to proceed step-by-step; or
+click on *Runtime -> Run all* to run the entire script. It will give a warning but I
+can assure you that my Python script will not steal your social security number.
+ - [Multiple Regression](https://colab.research.google.com/drive/1OXyrsgUcbdzXB0BYX1CWLcfQAvW-uYjU?usp=sharing)
+ - [Joint Testing](https://colab.research.google.com/drive/1sDUfffVr3qvwD1XNhCMhI-NKaE1cR_U2?usp=sharing)
+ - [OLS Testing](https://colab.research.google.com/drive/1-IU2JfymeZ7SNnDWZGefstXsjXSUv8ZJ?usp=sharing)
+
+
+# Stata
+
+converting FRED dates into Stata dates: [view code](https://github.com/wmvolckmann/wmvolckmann.github.io/blob/master/code/FREDmonthly.do), [do-file](FREDmonthly.do)

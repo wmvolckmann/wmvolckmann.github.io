@@ -2,7 +2,7 @@
 layout: page
 title: Grad School Archive
 permalink: /grad/
-order: 10.7
+order: 10.0
 ---
 
 

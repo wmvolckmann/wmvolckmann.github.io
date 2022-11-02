@@ -2,7 +2,7 @@
 layout: page
 title: Crystalis Prequel
 permalink: /misc/vg/
-order: 10.7
+order: 10.2
 ---
 
 

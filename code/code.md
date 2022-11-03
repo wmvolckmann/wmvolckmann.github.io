@@ -15,6 +15,7 @@ I forget code sometimes, so I'm putting some examples here for my own reference.
 * [plotting a function](https://matlab.mathworks.com/users/wmvolckmann/Published/fplotexample/html/fplotexample.html)
 * [waitbar in a loop](https://matlab.mathworks.com/users/wmvolckmann/Published/waitbar/html/progressbar.html)
 
+
 # R
 ### Cheat Sheets
  - [R Sheet 01](/grad/courses/materials/ecn102/Rsheet-01.pdf)
@@ -33,8 +34,10 @@ can assure you that my R script will not steal your credit card number.
  - [Multiple Regression](https://colab.research.google.com/drive/105kjMxIhP0B-le4pDYBKfTIP43ByTxYN?usp=sharing)
  - [Joint Testing](https://colab.research.google.com/drive/17niELnclHU6QLx8c58KLpcOy5Ks9WWWM?usp=sharing)
  - [OLS Testing](https://colab.research.google.com/drive/1vglGVMTmW_FBXBvS_HAdulacAZVpsAYW?usp=sharing)
+ - [Probability Models](https://colab.research.google.com/drive/17GjlDHwrXct3UCVWarxgoib_RdcjtLoq?usp=sharing)
 
 bias-corrected and accelerated block bootstrap: [view code](https://github.com/wmvolckmann/wmvolckmann.github.io/blob/master/code/bcablockbootstrap.R), [download script](bcablockbootstrap.R)
+
 
 # Python
 ### Cheat Sheets
@@ -54,5 +57,4 @@ can assure you that my Python script will not steal your social security number.
 
 
 # Stata
-
 converting FRED dates into Stata dates: [view code](https://github.com/wmvolckmann/wmvolckmann.github.io/blob/master/code/FREDmonthly.do), [do-file](FREDmonthly.do)

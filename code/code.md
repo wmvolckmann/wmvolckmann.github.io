@@ -24,6 +24,8 @@ I forget code sometimes, so I'm putting some examples here for my own reference.
  - [R Sheet 04](/grad/courses/materials/ecn102/Rsheet-04.pdf)
  - [R Sheet 05](/grad/courses/materials/ecn102/Rsheet-05.pdf)
 
+bias-corrected and accelerated block bootstrap: [view code](https://github.com/wmvolckmann/wmvolckmann.github.io/blob/master/code/bcablockbootstrap.R), [download script](bcablockbootstrap.R)
+
 ### Notebooks
 When using interactive scripts, press *Shift + Enter* to proceed step-by-step; or
 click on *Runtime -> Run all* to run the entire script. It will give a warning but I
@@ -35,8 +37,7 @@ can assure you that my R script will not steal your credit card number.
  - [Joint Testing](https://colab.research.google.com/drive/17niELnclHU6QLx8c58KLpcOy5Ks9WWWM?usp=sharing)
  - [OLS Testing](https://colab.research.google.com/drive/1vglGVMTmW_FBXBvS_HAdulacAZVpsAYW?usp=sharing)
  - [Probability Models](https://colab.research.google.com/drive/17GjlDHwrXct3UCVWarxgoib_RdcjtLoq?usp=sharing)
-
-bias-corrected and accelerated block bootstrap: [view code](https://github.com/wmvolckmann/wmvolckmann.github.io/blob/master/code/bcablockbootstrap.R), [download script](bcablockbootstrap.R)
+ - [Instrumental Variables](https://colab.research.google.com/drive/1E81AjoXpV05WIcFUQwOwiJhk8zbQ_4Vn?usp=sharing)
 
 
 # Python

@@ -45,6 +45,7 @@ bias-corrected and accelerated block bootstrap: [view code](https://github.com/w
 - [Python Cheat Sheet 02](/code/python/PySheet-02.pdf)
 - [Python Cheat Sheet 03](/code/python/PySheet-03.pdf)
 - [Python Cheat Sheet 04](/code/python/PySheet-04.pdf)
+- [Python Cheat Sheet 05](/code/python/PySheet-05.pdf)
 
 ### Notebooks
 When using interactive scripts, press *Shift + Enter* to proceed step-by-step; or

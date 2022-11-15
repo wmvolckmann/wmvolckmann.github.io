@@ -58,6 +58,7 @@ can assure you that my Python script will not steal your social security number.
  - [OLS Testing](https://colab.research.google.com/drive/1-IU2JfymeZ7SNnDWZGefstXsjXSUv8ZJ?usp=sharing)
  - [Probability Models](https://colab.research.google.com/drive/11luJrdt5ig3lwYGv7dwelq9UPSTtw6GS?usp=sharing)
  - [Instrumental Variables](https://colab.research.google.com/drive/1DGwqI-0kraCB91cxAWaKi6ahrwhcHQyh?usp=sharing)
+ - [Bootstrap](https://colab.research.google.com/drive/1nBMOQmzm4y-L9ZiWcHt7qpl208bGi-YS?usp=sharing)
 
 
 # Stata

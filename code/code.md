@@ -62,4 +62,8 @@ can assure you that my Python script will not steal your social security number.
 
 
 # Stata
+  - [Stata Sheet 01](https://www.wimivo.com/grad/courses/materials/ecn102/stata-01.pdf)
+  - [Stata Sheet 02](https://www.wimivo.com/grad/courses/materials/ecn102/stata-02.pdf)
+  - [Stata Sheet 03](https://www.wimivo.com/grad/courses/materials/ecn102/stata-03.pdf)
+
 converting FRED dates into Stata dates: [view code](https://github.com/wmvolckmann/wmvolckmann.github.io/blob/master/code/FREDmonthly.do), [do-file](FREDmonthly.do)

@@ -38,6 +38,7 @@ can assure you that my R script will not steal your credit card number.
  - [OLS Testing](https://colab.research.google.com/drive/1vglGVMTmW_FBXBvS_HAdulacAZVpsAYW?usp=sharing)
  - [Probability Models](https://colab.research.google.com/drive/17GjlDHwrXct3UCVWarxgoib_RdcjtLoq?usp=sharing)
  - [Instrumental Variables](https://colab.research.google.com/drive/1E81AjoXpV05WIcFUQwOwiJhk8zbQ_4Vn?usp=sharing)
+ - [SARIMA Models](https://colab.research.google.com/drive/14MHBwHKiiM-zqsLUTgeOMhO7tDdzH4Nr?usp=sharing)
  - [Bootstrap](https://colab.research.google.com/drive/1xAg9pHHi6DTt3q7LoBuTl9dweao1Ddkn?usp=sharing)
 
 

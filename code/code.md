@@ -23,6 +23,7 @@ I forget code sometimes, so I'm putting some examples here for my own reference.
  - [R Sheet 03](/grad/courses/materials/ecn102/Rsheet-03.pdf)
  - [R Sheet 04](/grad/courses/materials/ecn102/Rsheet-04.pdf)
  - [R Sheet 05](/grad/courses/materials/ecn102/Rsheet-05.pdf)
+ - [R Sheet 06](/grad/courses/materials/ecn102/Rsheet-06.pdf)
 
 bias-corrected and accelerated block bootstrap: [view code](https://github.com/wmvolckmann/wmvolckmann.github.io/blob/master/code/bcablockbootstrap.R), [download script](bcablockbootstrap.R)
 

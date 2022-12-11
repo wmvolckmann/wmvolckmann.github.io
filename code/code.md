@@ -40,7 +40,6 @@ can assure you that my R script will not steal your credit card number.
  - [Probability Models](https://colab.research.google.com/drive/17GjlDHwrXct3UCVWarxgoib_RdcjtLoq?usp=sharing)
  - [Instrumental Variables](https://colab.research.google.com/drive/1E81AjoXpV05WIcFUQwOwiJhk8zbQ_4Vn?usp=sharing)
  - [SARIMA Models](https://colab.research.google.com/drive/1aje235IpBQFdRTFOex4nzLBXMtAjg0V0?usp=sharing)
- - [SARIMAX Models and Principal Components](https://colab.research.google.com/drive/1eKOTM-TUrU5QgY79LXIuj2cFAlJmRb8D?usp=sharing)
  - [Bootstrap](https://colab.research.google.com/drive/1xAg9pHHi6DTt3q7LoBuTl9dweao1Ddkn?usp=sharing)
 
 

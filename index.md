@@ -7,7 +7,7 @@ exclude: true
 # Updates
 
   * October 2022: [I made a video game!](/misc/vg/)
-  * September 2022: I need work! Hire me! [Here's my resume.](/about/resume.pdf)
+  * September 2022: I need work! Hire me! I'm good at lots of things. [Here's my resume.](/about/resume.pdf)
   * August 2022: [I got published!](https://link.springer.com/article/10.1007/s10657-022-09750-9)
 
 # [Grad School Archive](/grad/)
@@ -20,7 +20,7 @@ I used to be a musician. I recorded some things. None of them got published. I w
 I made a fangame prequel to the NES game Crystalis. I wish I had the resources to make an original game.
 
 # [Miscellaneous Code](/code/)
-Some code that I use sometimes. Largely here for my own reference.
+Some code. Cheatsheets. Notebooks. Other bits and pieces I refer to from time to time. 
 
 # [Shrine to Humility](/shrines/humility/)
 I value humility, and I think more of it would be a good thing. I dislike ego, and I think less of it would be a good thing.

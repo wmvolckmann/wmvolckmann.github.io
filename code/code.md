@@ -62,6 +62,7 @@ can assure you that my Python script will not steal your social security number.
  - [Probability Models](https://colab.research.google.com/drive/11luJrdt5ig3lwYGv7dwelq9UPSTtw6GS?usp=sharing)
  - [Instrumental Variables](https://colab.research.google.com/drive/1DGwqI-0kraCB91cxAWaKi6ahrwhcHQyh?usp=sharing)
  - [SARIMA Models](https://colab.research.google.com/drive/12EFPLOGThgdseF-T_I69kpHs9TrVwSB2?usp=sharing)
+ - [SARIMAX Models](https://colab.research.google.com/drive/1sUgXySwU4ls_e1efyhZ7XRioEx1JzIqQ?usp=sharing)
  - [Bootstrap](https://colab.research.google.com/drive/1nBMOQmzm4y-L9ZiWcHt7qpl208bGi-YS?usp=sharing)
 
 

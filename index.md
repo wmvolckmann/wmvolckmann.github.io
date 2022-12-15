@@ -7,7 +7,7 @@ exclude: true
 # Updates
 
   * October 2022: [I made a video game!](/misc/vg/)
-  * September 2022: I need work! Hire me! I'm good at lots of things. [Here's my resume.](/about/resume.pdf)
+  * September 2022: I need work! Hire me! [I'm good at lots of things.](/about/resume.pdf)
   * August 2022: [I got published!](https://link.springer.com/article/10.1007/s10657-022-09750-9)
 
 # [Grad School Archive](/grad/)

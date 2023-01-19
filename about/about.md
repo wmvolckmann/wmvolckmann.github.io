@@ -43,7 +43,7 @@ Hi.
 
   r_text[3] = "Science works because it demands skepticism of its own results.";
 
-  r_text[4] = "Appeals to authority are always invalid in science because ad hominem appeals are always invalid in science. An assertion for or against a position is neither weaker nor stronger depending on who makes the statement; the underlying evidence and thought process — the strength of the argument — is all that matters. As a corollary, merely highlighting the source of an assertion as an authority is equivalent to making no argument. The whole point of science (and the motivation behind Enlightenment principles more generally) is to let the merits of logic, reason, and evidence do the talking, usurping the primacy of source.";
+  r_text[4] = "Appeals to authority are always invalid in science because ad hominem appeals are always invalid in science. An assertion for or against a position is neither weaker nor stronger depending on who makes the assertion; the underlying evidence and thought process — the strength of the argument — is all that matters. As a corollary, merely highlighting the source of an assertion as an authority is equivalent to making no argument. The whole point of science (and the motivation behind Enlightenment principles more generally) is to let the merits of logic, reason, and evidence do the talking, usurping the primacy of source.";
 
   r_text[5] = "When raison d'être is having problem to solve, what does that make the solution?"
 

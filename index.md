@@ -4,13 +4,6 @@ title: Welcome
 exclude: true
 ---
 
-# Updates
-
-  * December 2022: [I recorded a new song!](https://youtu.be/Ah1YpuGw-Ps)
-  * October 2022: [I made a video game!](/misc/vg/)
-  * September 2022: I need work! Hire me! [I'm good at lots of things.](/about/resume.pdf)
-  * August 2022: [I got published!](https://link.springer.com/article/10.1007/s10657-022-09750-9)
-
 # [Grad School Archive](/grad/)
 I used to be in grad school. I wrote some things. One of them got published.
 

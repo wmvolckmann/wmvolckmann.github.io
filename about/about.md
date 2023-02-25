@@ -11,7 +11,7 @@ Hi.
 
 * Contact me at wmvolckmann at gmail dot com
 * From [Wisconsin](wisconsin.jpg) (mind the accent)
-* Attended [UW-Madison](uwmadison.jpg)and [UC-Davis](https://www.kcra.com/article/aggressive-turkey-terrorizes-downtown-davis-residents/8110346)
+* Attended [UW-Madison](uwmadison.jpg) and [UC-Davis](https://www.kcra.com/article/aggressive-turkey-terrorizes-downtown-davis-residents/8110346)
 * Worked for [Paul Romer](https://en.wikipedia.org/wiki/Paul_Romer) once upon a time
 * Recorded [mediocre music](/music/) once upon a time
 * Pretty good with MATLAB, Stata, R, LaTeX, and currently learning C#

@@ -11,7 +11,7 @@ Hi.
 
 * Contact me at wmvolckmann at gmail dot com
 * From [Wisconsin](wisconsin.jpg) (mind the accent)
-* Attended [UW-Madison](uwmadison.jpg) and [UC-Davis](https://www.kcra.com/article/aggressive-turkey-terrorizes-downtown-davis-residents/8110346)
+* Attended [UW-Madison](uwmadison.jpg) and [UC-Davis](https://www.kcra.com/article/aggressive-turkey-terrorizes-downtown-davis-residents/8110346) once upon a time
 * Worked for [Paul Romer](https://en.wikipedia.org/wiki/Paul_Romer) once upon a time
 * Recorded [mediocre music](/music/) once upon a time
 * Pretty good with MATLAB, Stata, R, LaTeX, and currently learning C#
@@ -55,13 +55,15 @@ Hi.
 
   r_text[10] = "A quick way to see if someone respects you or not is to disagree with them about something important. Only if they respect you will they accept (or at a bare minimum, tolerate) your disagreement. If your disagreement is met with antagonism, then they do not respect you: they only respect themselves, and therefore are not worthy of your own respect."
 
-  r_text[11] = "Morals and values, being social constructs, cannot be debated in the same way that objective issues can. Rather, the persuasive power of morals and values is mostly derived from the character of those who hold such morals and values. Ergo being a decent person and behaving in a respectable way (as characterized according to the general values of one's society) is the most effective way to advertise and propagate one's own morals and values; and being an antagonistic person, behaving in a destructive way, the least."
+  r_text[11] = "Morals and values, being social constructs, cannot be debated in the same way that objective issues can. Rather, the persuasive power of morals and values is mostly derived from the character of those who hold such morals and values. Ergo being a decent person and behaving in a respectable way (as characterized according to the other general values of one's society) is the most effective way to advertise and propagate one's own morals and values; and being an antagonistic person, behaving in a destructive way, the least."
 
   r_text[12] = "We should all thank and celebrate goodness and decency in the world when we see it. Even ordinary, every day goodness and decency have much value. But it is not enough to merely expect goodness and decency from people, because merely expecting something is, in practical terms, indistinguishable from assigning it zero value. And you can't expect something if you aren't even willing to assign it value."
 
   r_text[13] = "A major problem with tribalism is the way criticism is addressed. A tribe is less likely to take seriously criticisms that come from outside of the tribe, even if those criticisms have merit. Any effective self-correcting mechanism, then, must primarily come from within the tribe itself. To that end, one should always be willing and eager to criticize the flaws and excesses of one's own tribe; failure to do so not only allows the tribe's weaknesses to flourish, but also lessens pressure on other tribes to get their own acts together. Everyone loses."
 
-    r_text[14] = "Never trust anyone who uses the expression \"scientifically proven.\" They don't know what science is."
+  r_text[14] = "Never trust anyone who uses the expression \"scientifically proven.\" They don't know what science is."
+
+  r_text[15] = "Absence of evidence <i>is</i> evidence of absence, but it's also evidence of rarity, elusiveness, subtlety, and messiness. Without being able to rule out the rest, a conclusion of absence does not follow."
 
   var i = Math.floor(r_text.length * Math.random());
 

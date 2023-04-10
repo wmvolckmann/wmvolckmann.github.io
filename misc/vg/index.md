@@ -14,7 +14,10 @@ I made a prequel to (underappreciated) SNK Corporation's 1990 NES game *Crystali
 A [download](https://mega.nz/folder/VS0mGBLY#FGsCtFkh9rsqWmkxzskFcg) is available for Windows, Linux, and MacOS (although I wasn't able to do any testing for the latter since I don't have any MacOS devices).
 
 
-### Screenshots
+### Video and Screenshots
+
+<iframe width="634" height="360" src="https://www.youtube.com/embed/QzLwK2bBIFA" title="Crystalis: Azteca" frameborder="0" allowfullscreen></iframe>
+
 ![bugs are fun](bugs.png)
 
 ![sludge is not fun](sludge.png)

@@ -22,6 +22,6 @@ A [download](https://mega.nz/folder/VS0mGBLY#FGsCtFkh9rsqWmkxzskFcg) is availabl
 
 ![sludge is not fun](sludge.png)
 
-![bugs are also run](rabbits.png)
+![rabbits are fun](rabbits.png)
 
 ![this looks bad](soldiers.png)

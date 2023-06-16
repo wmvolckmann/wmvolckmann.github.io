@@ -4,8 +4,8 @@ title: Welcome
 exclude: true
 ---
 
-# [Grad School Archive](/grad/)
-I used to be in grad school. I wrote some things. One of them got published.
+# [Academic Archive](/academic/)
+I used to be in grad school. I wrote some things. Two of them have been published.
 
 # [Music Archive](/music/)
 I used to be a musician. I recorded some things. None of them got published. I wish I had the resources to make more.

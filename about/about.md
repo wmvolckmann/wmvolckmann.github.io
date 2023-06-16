@@ -11,11 +11,11 @@ Hi.
 
 * Contact me at wmvolckmann at gmail dot com
 * From [Wisconsin](wisconsin.jpg) (mind the accent)
-* Associate Researcher at UNC Kenan-Flagler Business School
+* Research Associate at UNC Kenan-Flagler Business School
 * Attended [UW-Madison](uwmadison.jpg) and [UC-Davis](https://www.kcra.com/article/aggressive-turkey-terrorizes-downtown-davis-residents/8110346) once upon a time
 * Worked for [Paul Romer](https://en.wikipedia.org/wiki/Paul_Romer) once upon a time
 * Recorded [mediocre music](/music/) once upon a time
-* Pretty good with MATLAB, Stata, R, Python, LaTeX, and currently learning C#
+* Good with MATLAB, Stata, R, Python, LaTeX
 * I made a [video game](/misc/vg)
 * Enjoy lifting weights
 * I have too many hobbies

@@ -5,16 +5,23 @@ permalink: /academic/
 order: 10.0
 ---
 
+<ul style="padding-left: 25px;">
+  <li style="list-style-image: url(https://orcid.org/sites/default/files/images/orcid_16x16.png); padding-left: 0px;">
+    <a href="https://orcid.org/0000-0002-1773-1489">https://orcid.org/0000-0002-1773-1489</a>
+  </li>
+</ul>
 
-### Papers
 Be warned: simply being in grad school didn't make me enough of a nerd, so I decided to study subjects that are nerdy even by the standards of nerdy grad students.
 
-#### Published
+
+### Published Papers
+
 William M Volckmann II. A model of digital rights management with user disutility. *Journal of Industrial and Management Optimization* (2023). [https://doi.org/10.3934/jimo.2023069](https://doi.org/10.3934/jimo.2023069). 
 
 William M Volckmann II. The effects of market size, wealth, and network effects on digital piracy and profit. *European Journal of Law and Economics* 55, no. 1 (2023): 61-85. [https://doi.org/10.1007/s10657-022-09750-9](https://doi.org/10.1007/s10657-022-09750-9), [Full-text PDF](https://rdcu.be/cUtWx)
 
-#### Under Review
+
+### Working Papers
 <details markdown=1><summary markdown="span">*The Effect of Bypassing Denuvo DRM on PC Video Games*</summary>
 
   > *Abstract.* In the personal computer video game market, a digital rights management (DRM) technology called Denuvo has been used since 2014 to restrict software usage to legitimate buyers, thereby preventing piracy. Sometimes Denuvo DRM is bypassed or "cracked", after which the video game can be pirated. I exploit the randomness with which Denuvo DRM is cracked to estimate the effect that Denuvo DRM survival time has on protecting revenue from piracy displacement. When Denuvo DRM is cracked very early on, piracy leads to an estimated 25 percent fall in total revenue on average relative to an uncracked counterfactual, but that effect is weaker the longer it takes for Denuvo DRM to be cracked. When Denuvo DRM survives for at least 12 weeks, piracy leads to nearly zero total revenue loss on average. The results suggest that Denuvo DRM does protect legitimate sales to an estimated mean of 19 percent of total revenue and median of 21 percent, but there is little justification to employ Denuvo DRM long-term (i.e. for more than three months), especially given that Denuvo DRM can have negative technical side effects and is generally disliked by users.

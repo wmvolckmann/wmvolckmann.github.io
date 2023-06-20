@@ -18,12 +18,12 @@ I forget code sometimes, so I'm putting some examples here for my own reference.
 
 # R
 ### Cheat Sheets
- - [R Sheet 01](/grad/courses/materials/ecn102/Rsheet-01.pdf)
- - [R Sheet 02](/grad/courses/materials/ecn102/Rsheet-02.pdf)
- - [R Sheet 03](/grad/courses/materials/ecn102/Rsheet-03.pdf)
- - [R Sheet 04](/grad/courses/materials/ecn102/Rsheet-04.pdf)
- - [R Sheet 05](/grad/courses/materials/ecn102/Rsheet-05.pdf)
- - [R Sheet 06](/grad/courses/materials/ecn102/Rsheet-06.pdf)
+ - [R Sheet 01](/academic/courses/materials/ecn102/Rsheet-01.pdf)
+ - [R Sheet 02](/academic/courses/materials/ecn102/Rsheet-02.pdf)
+ - [R Sheet 03](/academic/courses/materials/ecn102/Rsheet-03.pdf)
+ - [R Sheet 04](/academic/courses/materials/ecn102/Rsheet-04.pdf)
+ - [R Sheet 05](/academic/courses/materials/ecn102/Rsheet-05.pdf)
+ - [R Sheet 06](/academic/courses/materials/ecn102/Rsheet-06.pdf)
 
 bias-corrected and accelerated block bootstrap: [view code](https://github.com/wmvolckmann/wmvolckmann.github.io/blob/master/code/bcablockbootstrap.R), [download script](bcablockbootstrap.R)
 
@@ -67,8 +67,8 @@ can assure you that my Python script will not steal your social security number.
 
 
 # Stata
-  - [Stata Sheet 01](https://www.wimivo.com/grad/courses/materials/ecn102/stata-01.pdf)
-  - [Stata Sheet 02](https://www.wimivo.com/grad/courses/materials/ecn102/stata-02.pdf)
-  - [Stata Sheet 03](https://www.wimivo.com/grad/courses/materials/ecn102/stata-03.pdf)
+  - [Stata Sheet 01](https://www.wimivo.com/academic/courses/materials/ecn102/stata-01.pdf)
+  - [Stata Sheet 02](https://www.wimivo.com/academic/courses/materials/ecn102/stata-02.pdf)
+  - [Stata Sheet 03](https://www.wimivo.com/academic/courses/materials/ecn102/stata-03.pdf)
 
 converting FRED dates into Stata dates: [view code](https://github.com/wmvolckmann/wmvolckmann.github.io/blob/master/code/FREDmonthly.do), [do-file](FREDmonthly.do)

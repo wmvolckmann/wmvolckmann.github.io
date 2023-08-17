@@ -30,12 +30,6 @@ William M Volckmann II. Consumer and critic reception of video game platforms: T
 
 </details>
 
-<details markdown=1><summary markdown="span">*Consumer and Critic Reception of Video Game Platforms: Trends from 2002-2022*</summary>
-
-  > *Abstract.* For the last 21 years, there have been four dominant video game platforms: personal computer (PC), Playstation, Nintendo, and Xbox. I compare the best "basket"''" of games each platform provided as determined via quantile regressions; and I compare the sheer number of "top-shelf" games each platform provided as determined via bootstrap procedure. Trends in gamer satisfaction for each platform are analyzed, and which platforms performed best in delivering a well-received gaming experience, as well as when and to whom, are identified. Furthermore, this paper analyzes the reception of games that were ported to multiple platforms to provide a very direct cross-platform comparison as determined via ordinary linear regression. Reception was measured by reviews from professionals users as aggregated by website Metacritic. The results suggest that PC and Nintendo platforms provided fairly consistently satisfying games over time, whereas Playstation and Xbox appear to have deteriorated in that sense, and gaming as a whole appears to have declined according to users. PC had the most top-shelf games, and Nintendo the fewest. Xbox had most well-received ports. Generally, users tended to be less charitable in their assessments than critics, and that difference increased over time.
-
-</details>
-
 
 ### Old Materials
 

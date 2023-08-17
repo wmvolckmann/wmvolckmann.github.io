@@ -15,7 +15,6 @@ order: 10.0
 Be warned: simply being in grad school didn't make me enough of a nerd, so I decided to study subjects that are nerdy even by the standards of nerdy grad students.
 
 
-
 ### Published Papers
 
 William M Volckmann II. A model of digital rights management with user disutility. *Journal of Industrial and Management Optimization* (2023). [https://doi.org/10.3934/jimo.2023069](https://doi.org/10.3934/jimo.2023069)

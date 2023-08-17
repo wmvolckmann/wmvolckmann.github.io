@@ -4,6 +4,7 @@ title: Welcome
 exclude: true
 ---
 
+
 # [Academic Archive](/academic/)
 I used to be in grad school. I wrote some things. Three of them have been published.
 

@@ -5,7 +5,7 @@ exclude: true
 ---
 
 # [Academic Archive](/academic/)
-I used to be in grad school. I wrote some things. Two of them have been published.
+I used to be in grad school. I wrote some things. Three of them have been published.
 
 # [Music Archive](/music/)
 I used to be a musician. I recorded some things. None of them got published. I wish I had the resources to make more.

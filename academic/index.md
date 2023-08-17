@@ -20,6 +20,8 @@ William M Volckmann II. A model of digital rights management with user disutilit
 
 William M Volckmann II. The effects of market size, wealth, and network effects on digital piracy and profit. *European Journal of Law and Economics* 55, no. 1 (2023): 61-85. [https://doi.org/10.1007/s10657-022-09750-9](https://doi.org/10.1007/s10657-022-09750-9), [Full-text PDF](https://rdcu.be/cUtWx)
 
+William M Volckmann II. Consumer and critic reception of video game platforms: Trends from 2002–2022. *Entertainment Computing* (2023). [https://doi.org/10.1016/j.entcom.2023.100599](https://doi.org/10.1016/j.entcom.2023.100599)
+
 
 ### Working Papers
 <details markdown=1><summary markdown="span">*The Effect of Bypassing Denuvo DRM on PC Video Games*</summary>

@@ -5,6 +5,7 @@ permalink: /academic/
 order: 10.0
 ---
 
+
 <ul style="padding-left: 25px;">
   <li style="list-style-image: url(https://orcid.org/sites/default/files/images/orcid_16x16.png); padding-left: 0px;">
     <a href="https://orcid.org/0000-0002-1773-1489">https://orcid.org/0000-0002-1773-1489</a>

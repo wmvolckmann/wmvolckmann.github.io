@@ -11,7 +11,7 @@ I made a prequel to (underappreciated) SNK Corporation's 1990 NES game *Crystali
 
 
 ### Download
-A [download](https://mega.nz/folder/VS0mGBLY#FGsCtFkh9rsqWmkxzskFcg) is available for Windows, Linux, and MacOS (although I wasn't able to do any testing for the latter since I don't have any MacOS devices).
+A [download](https://www.dropbox.com/scl/fo/8eqesogzbn86r7qttndvp/h?rlkey=5bbpub8goiosmx7iy7hfo1ifk&dl=0) is available for Windows, Linux, and MacOS (although I wasn't able to do any testing for the latter since I don't have any MacOS devices).
 
 
 ### Video and Screenshots

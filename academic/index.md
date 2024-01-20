@@ -19,9 +19,9 @@ Be warned: simply being in grad school didn't make me enough of a nerd, so I dec
 
 William M Volckmann II. The effects of market size, wealth, and network effects on digital piracy and profit. *European Journal of Law and Economics* 55, no. 1 (2023): 61-85. [https://doi.org/10.1007/s10657-022-09750-9](https://doi.org/10.1007/s10657-022-09750-9), [Full-text PDF](https://rdcu.be/cUtWx)
 
-William M Volckmann II. A model of digital rights management with user disutility. *Journal of Industrial and Management Optimization* 20, no. 1 (2024): 59-83. [https://doi.org/10.3934/jimo.2023069](https://doi.org/10.3934/jimo.2023069)
+William M Volckmann II. A model of digital rights management with user disutility. *Journal of Industrial and Management Optimization* 20, no. 1 (2024): 59-83. [https://doi.org/10.3934/jimo.2023069](https://doi.org/10.3934/jimo.2023069), [Preprint](https://rdcu.be/cUtWx)
 
-William M Volckmann II. Consumer and critic reception of video game platforms: Trends from 2002–2022. *Entertainment Computing* 48 (2024), 100599. [https://doi.org/10.1016/j.entcom.2023.100599](https://doi.org/10.1016/j.entcom.2023.100599), [Free access](https://authors.elsevier.com/a/1hddf_gftf-PyM)
+William M Volckmann II. Consumer and critic reception of video game platforms: Trends from 2002–2022. *Entertainment Computing* 48 (2024), 100599. [https://doi.org/10.1016/j.entcom.2023.100599](https://doi.org/10.1016/j.entcom.2023.100599)
 
 
 
@@ -31,6 +31,8 @@ William M Volckmann II. Consumer and critic reception of video game platforms: T
   > *Abstract.* In the personal computer video game market, a digital rights management (DRM) technology called Denuvo has been used since 2014 to restrict software usage to legitimate buyers, thereby preventing piracy. Sometimes Denuvo DRM is bypassed or "cracked", after which the video game can be pirated. I exploit the randomness with which Denuvo DRM is cracked to estimate the effect that Denuvo DRM survival time has on protecting revenue from piracy displacement. When Denuvo DRM is cracked very early on, piracy leads to an estimated 25 percent fall in total revenue on average relative to an uncracked counterfactual, but that effect is weaker the longer it takes for Denuvo DRM to be cracked. When Denuvo DRM survives for at least 12 weeks, piracy leads to nearly zero total revenue loss on average. The results suggest that Denuvo DRM does protect legitimate sales to an estimated mean of 19 percent of total revenue and median of 21 percent, but there is little justification to employ Denuvo DRM long-term (i.e. for more than three months), especially given that Denuvo DRM can have negative technical side effects and is generally disliked by users.
 
 </details>
+
+
 
 
 ### Old Materials

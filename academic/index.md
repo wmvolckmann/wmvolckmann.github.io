@@ -12,7 +12,15 @@ order: 10.0
   </li>
 </ul>
 
-Be warned: simply being in grad school didn't make me enough of a nerd, so I decided to study subjects that are nerdy even by the standards of nerdy grad students.
+
+### White Papers and Research Notes
+
+Brown, Gregory, Christian Lundblad, and William M Volckmann II. What Do We Know About Institutional-Quality Hedge Funds? *Institute for Private Capital Research Note* (2024). [Full-text PDF](https://uncipc.org/wp-content/uploads/2024/02/Institutional_Hedge_Funds_note.pdf)
+
+Brown, Gregory, and William M Volckmann II. Is the US IPO Market About to Thaw? *Institute for Private Capital Research Note* (2024). [Full-text PDF](https://uncipc.org/wp-content/uploads/2024/01/Is-the-US-IPO-Market-About-to-Thaw-Jan24.pdf), [Press](https://www.economist.com/finance-and-economics/2024/01/18/wall-street-is-praying-firms-will-start-going-public-again), [More Press](https://www.wsj.com/articles/unusual-ipo-slump-makes-a-rebound-harder-to-predict-5ccb6d1d)
+
+Brown, Gregory, and William M Volckmann II. Unpacking Private Equity Performance. *Available at SSRN* (2023). [https://dx.doi.org/10.2139/ssrn.4656457](https://dx.doi.org/10.2139/ssrn.4656457)
+
 
 
 ### Published Papers

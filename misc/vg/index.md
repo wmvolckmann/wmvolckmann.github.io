@@ -7,7 +7,7 @@ order: 10.2
 
 
 ### Info
-I made a prequel to (underappreciated) SNK Corporation's 1990 NES game *Crystalis*  because I wanted to learn the Unity Engine (and C# by extension). You can purchase the original Crystalis on Steam as part of the [SNK 40th Anniversary Collection](https://store.steampowered.com/app/865940/SNK_40th_ANNIVERSARY_COLLECTION/).
+I made a prequel to (underappreciated) SNK Corporation's 1990 NES game *Crystalis*  because I wanted to learn the Unity Engine (and C# by extension) and because everything I do has to be obnoxiously obscure. You can purchase the original Crystalis on Steam as part of the [SNK 40th Anniversary Collection](https://store.steampowered.com/app/865940/SNK_40th_ANNIVERSARY_COLLECTION/).
 
 
 ### Download

@@ -15,11 +15,13 @@ order: 10.0
 
 ### White Papers and Research Notes
 
-Brown, Gregory, Christian Lundblad, and William M Volckmann II. What Do We Know About Institutional-Quality Hedge Funds? *Institute for Private Capital Research Note* (2024). [Full-text PDF](https://uncipc.org/wp-content/uploads/2024/02/Institutional_Hedge_Funds_note.pdf)
+Brown, Gregory, Elyas Fermand, Wendy Hu, Richard Maxwell, and William M Volckmann II. Scale, Scope, and Speed in Private Capital Funds *Institute for Private Capital White Paper* (2024). [Full-text PDF](https://uncipc.org/index.php/publication/scale-scope-white-paper/)
 
-Brown, Gregory, and William M Volckmann II. Is the US IPO Market About to Thaw? *Institute for Private Capital Research Note* (2024). [Full-text PDF](https://uncipc.org/wp-content/uploads/2024/01/Is-the-US-IPO-Market-About-to-Thaw-Jan24.pdf), [Press](https://www.economist.com/finance-and-economics/2024/01/18/wall-street-is-praying-firms-will-start-going-public-again), [More Press](https://www.wsj.com/articles/unusual-ipo-slump-makes-a-rebound-harder-to-predict-5ccb6d1d)
+Brown, Gregory, Christian Lundblad, and William M Volckmann II. What Do We Know About Institutional-Quality Hedge Funds? *Institute for Private Capital Research Note* (2024). [Full-text PDF](https://uncipc.org/index.php/publication/institutional-quality-hedge-funds/)
 
-Brown, Gregory, and William M Volckmann II. Unpacking Private Equity Performance. *Available at SSRN* (2023). [https://dx.doi.org/10.2139/ssrn.4656457](https://dx.doi.org/10.2139/ssrn.4656457)
+Brown, Gregory, and William M Volckmann II. Is the US IPO Market About to Thaw? *Institute for Private Capital Research Note* (2024). [Full-text PDF](https://uncipc.org/index.php/publication/is-the-u-s-ipo-market-about-to-thaw-ipc-research-notes/), [Press](https://www.economist.com/finance-and-economics/2024/01/18/wall-street-is-praying-firms-will-start-going-public-again), [More Press](https://www.wsj.com/articles/unusual-ipo-slump-makes-a-rebound-harder-to-predict-5ccb6d1d)
+
+Brown, Gregory, and William M Volckmann II. Unpacking Private Equity Performance. *Available at SSRN* (2023), Forthcoming in The Journal of Portfolio Management. [https://dx.doi.org/10.2139/ssrn.4656457](https://dx.doi.org/10.2139/ssrn.4656457). 
 
 
 

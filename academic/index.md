@@ -13,18 +13,6 @@ order: 10.0
 </ul>
 
 
-### White Papers and Research Notes
-
-Brown, Gregory, Elyas Fermand, Wendy Hu, Richard Maxwell, and William M Volckmann II. Scale, Scope, and Speed in Private Capital Funds *Institute for Private Capital White Paper* (2024). [Full-text PDF](https://uncipc.org/index.php/publication/scale-scope-white-paper/)
-
-Brown, Gregory, Christian Lundblad, and William M Volckmann II. What Do We Know About Institutional-Quality Hedge Funds? *Institute for Private Capital Research Note* (2024). [Full-text PDF](https://uncipc.org/index.php/publication/institutional-quality-hedge-funds/)
-
-Brown, Gregory, and William M Volckmann II. Is the US IPO Market About to Thaw? *Institute for Private Capital Research Note* (2024). [Full-text PDF](https://uncipc.org/index.php/publication/is-the-u-s-ipo-market-about-to-thaw-ipc-research-notes/), [Press](https://www.economist.com/finance-and-economics/2024/01/18/wall-street-is-praying-firms-will-start-going-public-again), [More Press](https://www.wsj.com/articles/unusual-ipo-slump-makes-a-rebound-harder-to-predict-5ccb6d1d)
-
-Brown, Gregory, and William M Volckmann II. Unpacking Private Equity Performance. *Available at SSRN* (2023), Forthcoming in The Journal of Portfolio Management. [https://dx.doi.org/10.2139/ssrn.4656457](https://dx.doi.org/10.2139/ssrn.4656457). 
-
-
-
 ### Published Papers
 
 William M Volckmann II. The effects of market size, wealth, and network effects on digital piracy and profit. *European Journal of Law and Economics* 55, no. 1 (2023): 61-85. [https://doi.org/10.1007/s10657-022-09750-9](https://doi.org/10.1007/s10657-022-09750-9), [Full-text PDF](https://rdcu.be/cUtWx)
@@ -32,6 +20,18 @@ William M Volckmann II. The effects of market size, wealth, and network effects 
 William M Volckmann II. A model of digital rights management with user disutility. *Journal of Industrial and Management Optimization* 20, no. 1 (2024): 59-83. [https://doi.org/10.3934/jimo.2023069](https://doi.org/10.3934/jimo.2023069)
 
 William M Volckmann II. Consumer and critic reception of video game platforms: Trends from 2002–2022. *Entertainment Computing* 48 (2024), 100599. [https://doi.org/10.1016/j.entcom.2023.100599](https://doi.org/10.1016/j.entcom.2023.100599)
+
+
+### White Papers and Research Notes
+
+Brown, Gregory, and William M Volckmann II. Unpacking Private Equity Performance. *Available at SSRN* (2023), Forthcoming in The Journal of Portfolio Management. [https://dx.doi.org/10.2139/ssrn.4656457](https://dx.doi.org/10.2139/ssrn.4656457). 
+
+Brown, Gregory, and William M Volckmann II. Is the US IPO Market About to Thaw? *Institute for Private Capital Research Note* (2024). [Full-text PDF](https://uncipc.org/index.php/publication/is-the-u-s-ipo-market-about-to-thaw-ipc-research-notes/), [Press](https://www.economist.com/finance-and-economics/2024/01/18/wall-street-is-praying-firms-will-start-going-public-again), [More Press](https://www.wsj.com/articles/unusual-ipo-slump-makes-a-rebound-harder-to-predict-5ccb6d1d)
+
+Brown, Gregory, Elyas Fermand, Wendy Hu, Richard Maxwell, and William M Volckmann II. Scale, Scope, and Speed in Private Capital Funds. *Institute for Private Capital White Paper* (2024). [Full-text PDF](https://uncipc.org/index.php/publication/scale-scope-white-paper/)
+
+Brown, Gregory, Christian Lundblad, and William M Volckmann II. What Do We Know About Institutional-Quality Hedge Funds? *Institute for Private Capital Research Note* (2024). [Full-text PDF](https://uncipc.org/index.php/publication/institutional-quality-hedge-funds/)
+
 
 
 

@@ -21,10 +21,10 @@ William M Volckmann II. A model of digital rights management with user disutilit
 
 William M Volckmann II. Consumer and critic reception of video game platforms: Trends from 2002–2022. *Entertainment Computing* 48 (2024), 100599. [https://doi.org/10.1016/j.entcom.2023.100599](https://doi.org/10.1016/j.entcom.2023.100599)
 
+Brown, Gregory, and William M Volckmann II. Unpacking Private Equity Performance. *Journal of Portfolio Management* (2024). [https://doi.org/10.3905/jpm.2024.1.604](https://doi.org/10.3905/jpm.2024.1.604). 
+
 
 ### White Papers and Research Notes
-
-Brown, Gregory, and William M Volckmann II. Unpacking Private Equity Performance. *Available at SSRN* (2023), Forthcoming in The Journal of Portfolio Management. [https://dx.doi.org/10.2139/ssrn.4656457](https://dx.doi.org/10.2139/ssrn.4656457). 
 
 Brown, Gregory, and William M Volckmann II. Is the US IPO Market About to Thaw? *Institute for Private Capital Research Note* (2024). [Full-text PDF](https://uncipc.org/index.php/publication/is-the-u-s-ipo-market-about-to-thaw-ipc-research-notes/), [Press](https://www.economist.com/finance-and-economics/2024/01/18/wall-street-is-praying-firms-will-start-going-public-again), [More Press](https://www.wsj.com/articles/unusual-ipo-slump-makes-a-rebound-harder-to-predict-5ccb6d1d)
 

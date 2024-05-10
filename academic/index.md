@@ -30,8 +30,7 @@ Brown, Gregory, and William M Volckmann II. Is the US IPO Market About to Thaw? 
 
 Brown, Gregory, Elyas Fermand, Wendy Hu, Richard Maxwell, and William M Volckmann II. Scale, Scope, and Speed in Private Capital Funds. *Institute for Private Capital White Paper* (2024). [Full-text PDF](https://uncipc.org/index.php/publication/scale-scope-white-paper/)
 
-Brown, Gregory, Christian Lundblad, and William M Volckmann II. What Do We Know About Institutional-Quality Hedge Funds? *Institute for Private Capital Research Note* (2024). [Full-text PDF](https://uncipc.org/index.php/publication/institutional-quality-hedge-funds/)
-
+Brown, Gregory, Christian Lundblad, and William M Volckmann II. What Do We Know About Institutional-Quality Hedge Funds? *Institute for Private Capital Research Note* (2024). [Full-text PDF](https://uncipc.org/index.php/publication/institutional-quality-hedge-funds/), [Press](https://www.institutionalinvestor.com/article/2d7om8w3w5brlcvefot1c/portfolio/everything-investors-know-about-hedge-funds-is-based-on-flawed-data)
 
 
 

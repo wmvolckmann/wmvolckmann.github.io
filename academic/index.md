@@ -28,10 +28,12 @@ Brown, Gregory, and William M Volckmann II. Unpacking Private Equity Performance
 
 Brown, Gregory, and William M Volckmann II. Is the US IPO Market About to Thaw? *Institute for Private Capital Research Note* (2024). [Full-text PDF](https://uncipc.org/index.php/publication/is-the-u-s-ipo-market-about-to-thaw-ipc-research-notes/), [Press](https://www.economist.com/finance-and-economics/2024/01/18/wall-street-is-praying-firms-will-start-going-public-again), [More Press](https://www.wsj.com/articles/unusual-ipo-slump-makes-a-rebound-harder-to-predict-5ccb6d1d)
 
-Brown, Gregory, Elyas Fermand, Wendy Hu, Richard Maxwell, and William M Volckmann II. Scale, Scope, and Speed in Private Capital Funds. *Institute for Private Capital White Paper* (2024). [Full-text PDF](https://uncipc.org/index.php/publication/scale-scope-white-paper/)
+Brown, Gregory, Wendy Hu, David Robinson, and William M Volckmann II. The Performance of Small Business Investment Companies *Institute for Private Capital Research Note* (2024). [Full-text PDF](https://uncipc.org/index.php/publication/the-performance-of-small-business-investment-companies/)
 
 Brown, Gregory, Christian Lundblad, and William M Volckmann II. What Do We Know About Institutional-Quality Hedge Funds? *Institute for Private Capital Research Note* (2024). [Full-text PDF](https://uncipc.org/index.php/publication/institutional-quality-hedge-funds/), [Press](https://www.institutionalinvestor.com/article/2d7om8w3w5brlcvefot1c/portfolio/everything-investors-know-about-hedge-funds-is-based-on-flawed-data)
 
+
+Brown, Gregory, Elyas Fermand, Wendy Hu, Richard Maxwell, and William M Volckmann II. Scale, Scope, and Speed in Private Capital Funds. *Institute for Private Capital White Paper* (2024). [Full-text PDF](https://uncipc.org/index.php/publication/scale-scope-white-paper/)
 
 
 ### Working Papers
@@ -40,8 +42,6 @@ Brown, Gregory, Christian Lundblad, and William M Volckmann II. What Do We Know 
   > *Abstract.* In the personal computer video game market, a digital rights management (DRM) technology called Denuvo has been used since 2014 to restrict software usage to legitimate buyers, thereby preventing piracy. Sometimes Denuvo DRM is bypassed or "cracked", after which the video game can be pirated. I exploit the randomness with which Denuvo DRM is cracked to estimate the effect that Denuvo DRM survival time has on protecting revenue from piracy displacement. When Denuvo DRM is cracked very early on, piracy leads to an estimated 25 percent fall in total revenue on average relative to an uncracked counterfactual, but that effect is weaker the longer it takes for Denuvo DRM to be cracked. When Denuvo DRM survives for at least 12 weeks, piracy leads to nearly zero total revenue loss on average. The results suggest that Denuvo DRM does protect legitimate sales to an estimated mean of 19 percent of total revenue and median of 21 percent, but there is little justification to employ Denuvo DRM long-term (i.e. for more than three months), especially given that Denuvo DRM can have negative technical side effects and is generally disliked by users.
 
 </details>
-
-
 
 
 ### Old Materials

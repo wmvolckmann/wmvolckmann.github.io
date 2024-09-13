@@ -15,6 +15,8 @@ order: 10.0
 
 ### Published Papers
 
+William M Volckmann II. Revenue effects of Denuvo digital rights management on PC video games. *Entertainment Computing* (2024). [https://authors.elsevier.com/a/1jm306gYiZzu3a](https://authors.elsevier.com/a/1jm306gYiZzu3a)
+
 William M Volckmann II. Fund-Level Debt. *Palgrave Encyclopedia of Private Equity* (2024). [https://doi.org/10.1007/978-3-030-38738-9_261-1](https://doi.org/10.1007/978-3-030-38738-9_261-1)
 
 Brown, Gregory, and William M Volckmann II. Unpacking Private Equity Performance. *Journal of Portfolio Management* (2024). [https://doi.org/10.3905/jpm.2024.1.604](https://doi.org/10.3905/jpm.2024.1.604). 
@@ -26,15 +28,6 @@ William M Volckmann II. Consumer and critic reception of video game platforms: T
 William M Volckmann II. The effects of market size, wealth, and network effects on digital piracy and profit. *European Journal of Law and Economics* 55, no. 1 (2023): 61-85. [https://doi.org/10.1007/s10657-022-09750-9](https://doi.org/10.1007/s10657-022-09750-9), [Full-text PDF](https://rdcu.be/cUtWx)
 
 
-
-### Forthcoming
-<details markdown=1><summary markdown="span">Revenue Effects of Denuvo Digital Rights Management on PC Video Games (Entertainment Computing)</summary>
-
-  > *Abstract.* In the personal computer video game market, a digital rights management (DRM) technology called Denuvo has been used since 2014 to restrict software usage to legitimate buyers, thereby preventing piracy. Sometimes Denuvo DRM is bypassed or "cracked", after which the video game can be pirated. I exploit the randomness with which Denuvo is cracked to estimate the effect Denuvo has on protecting revenue from piracy displacement. When Denuvo is cracked very early on, piracy leads to an estimated 20 percent fall in total revenue on average relative to an uncracked counterfactual, but that effect is weaker the longer it takes for Denuvo to be cracked. When Denuvo survives for at least 12 weeks, piracy leads to nearly zero total revenue loss on average. The results suggest that Denuvo does protect legitimate sales to an estimated mean of 15 percent of total revenue and median of 20 percent, but there is little justification to employ Denuvo long-term (i.e. for more than three months), especially given that Denuvo can have negative technical side effects and is generally disliked by users.
-
-</details>
-
-
 ### White Papers and Research Notes
 
 Brown, Gregory, and William M Volckmann II. Is the US IPO Market About to Thaw? *Institute for Private Capital Research Note* (2024). [Full-text PDF](https://uncipc.org/index.php/publication/is-the-u-s-ipo-market-about-to-thaw-ipc-research-notes/), [Press](https://www.economist.com/finance-and-economics/2024/01/18/wall-street-is-praying-firms-will-start-going-public-again), [More Press](https://www.wsj.com/articles/unusual-ipo-slump-makes-a-rebound-harder-to-predict-5ccb6d1d)
@@ -44,8 +37,6 @@ Brown, Gregory, Christian Lundblad, and William M Volckmann II. What Do We Know 
 Brown, Gregory, Wendy Hu, David Robinson, and William M Volckmann II. The Performance of Small Business Investment Companies. *Institute for Private Capital White Paper* (2024). [Full-text PDF](https://uncipc.org/index.php/publication/the-performance-of-small-business-investment-companies/)
 
 Brown, Gregory, Elyas Fermand, Wendy Hu, Richard Maxwell, and William M Volckmann II. Scale, Scope, and Speed in Private Capital Funds. *Institute for Private Capital White Paper* (2024). [Full-text PDF](https://uncipc.org/index.php/publication/scale-scope-white-paper/)
-
-
 
 
 ### Old Materials

@@ -13,7 +13,7 @@ order: 10.0
 </ul>
 
 
-### Published Papers
+### Publications
 
 William M Volckmann II. Revenue effects of Denuvo digital rights management on PC video games. *Entertainment Computing* 52 (2025), 100885. [https://authors.elsevier.com/a/1jm306gYiZzu3a](https://authors.elsevier.com/a/1jm306gYiZzu3a)
 

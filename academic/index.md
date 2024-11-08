@@ -16,7 +16,7 @@ order: 10.0
 ### Publications
 
 
-William M Volckmann II. Revenue effects of Denuvo digital rights management on PC video games. *Entertainment Computing* 52 (2025), 100885. [https://authors.elsevier.com/a/1jm306gYiZzu3a](https://authors.elsevier.com/a/1jm306gYiZzu3a)
+William M Volckmann II. Revenue effects of Denuvo digital rights management on PC video games. *Entertainment Computing* 52 (2025), 100885. [https://doi.org/10.1016/j.entcom.2024.100885](https://doi.org/10.1016/j.entcom.2024.100885), [Press](https://arstechnica.com/gaming/2024/10/the-true-cost-of-game-piracy-20-percent-of-revenue-according-to-a-new-study/)
 
 William M Volckmann II. Fund-Level Debt. *Palgrave Encyclopedia of Private Equity* (2024). [https://doi.org/10.1007/978-3-030-38738-9_261-1](https://doi.org/10.1007/978-3-030-38738-9_261-1)
 
@@ -30,6 +30,8 @@ William M Volckmann II. The effects of market size, wealth, and network effects 
 
 
 ### White Papers and Research Notes
+
+William M Volckmann II. The Performance of Private Video Game Equity *Institute for Private Capital Research Note* (2024). [Full-text PDF](https://uncipc.org/index.php/publication/the-performance-of-private-video-game-equity/)
 
 Brown, Gregory, and William M Volckmann II. Is the US IPO Market About to Thaw? *Institute for Private Capital Research Note* (2024). [Full-text PDF](https://uncipc.org/index.php/publication/is-the-u-s-ipo-market-about-to-thaw-ipc-research-notes/), [Press](https://www.economist.com/finance-and-economics/2024/01/18/wall-street-is-praying-firms-will-start-going-public-again), [More Press](https://www.wsj.com/articles/unusual-ipo-slump-makes-a-rebound-harder-to-predict-5ccb6d1d)
 

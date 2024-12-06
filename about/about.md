@@ -66,6 +66,8 @@ Hi.
 
   r_text[15] = "Absence of evidence <i>is</i> evidence of absence, but it's also evidence of rarity, elusiveness, subtlety, and messiness. Without being able to rule out the rest, a conclusion of absence does not follow."
 
+  r_text[16] = "It is common to mistakenly judge one's own morality based on holding the \"right\" beliefs, having the \"right\" friends and enemies. But this is too tempting a rationalization for immoral acts: a person can, in their own mind, believing themselves to be fundamentally good, dismiss the immorality of their acts by appealing to their mere beliefs. When this process is reinforced by others with the same \"right\" beliefs, the outcome tends to sociopathy."
+
   var i = Math.floor(r_text.length * Math.random());
 
   document.write(r_text[i]);

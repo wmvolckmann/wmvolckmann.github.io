@@ -5,16 +5,7 @@ permalink: /code/
 order: 10.3
 ---
 
-I forget code sometimes, so I'm putting some examples here for my own reference.
-
-# MATLAB
-* [implicitly solve equation (fsolve)](https://matlab.mathworks.com/users/wmvolckmann/Published/fsolveexample/html/fsolveexample.html)
-* [solve nonlinear system (fsolve)](https://matlab.mathworks.com/users/wmvolckmann/Published/systemsolve/html/systemsolve.html)
-* [nonlinear constrained optimization (fmincon)](https://matlab.mathworks.com/users/wmvolckmann/Published/fminconexample/html/fminconexample.html)
-* [constrained maximization (optimvar)](https://matlab.mathworks.com/users/wmvolckmann/Published/optimvarsexample/html/optimvarsexample.html)
-* [plotting a function](https://matlab.mathworks.com/users/wmvolckmann/Published/fplotexample/html/fplotexample.html)
-* [waitbar in a loop](https://matlab.mathworks.com/users/wmvolckmann/Published/waitbar/html/progressbar.html)
-
+I forget code sometimes, so I'm putting some stuff here for my own reference.
 
 # R
 ### Cheat Sheets
@@ -25,7 +16,6 @@ I forget code sometimes, so I'm putting some examples here for my own reference.
  - [R Sheet 05](/academic/courses/materials/ecn102/Rsheet-05.pdf)
  - [R Sheet 06](/academic/courses/materials/ecn102/Rsheet-06.pdf)
 
-bias-corrected and accelerated block bootstrap: [view code](https://github.com/wmvolckmann/wmvolckmann.github.io/blob/master/code/bcablockbootstrap.R), [download script](bcablockbootstrap.R)
 
 ### Notebooks
 When using interactive scripts, press *Shift + Enter* to proceed step-by-step; or
@@ -70,5 +60,3 @@ can assure you that my Python script will not steal your social security number.
   - [Stata Sheet 01](https://www.wimivo.com/academic/courses/materials/ecn102/stata-01.pdf)
   - [Stata Sheet 02](https://www.wimivo.com/academic/courses/materials/ecn102/stata-02.pdf)
   - [Stata Sheet 03](https://www.wimivo.com/academic/courses/materials/ecn102/stata-03.pdf)
-
-converting FRED dates into Stata dates: [view code](https://github.com/wmvolckmann/wmvolckmann.github.io/blob/master/code/FREDmonthly.do), [do-file](FREDmonthly.do)

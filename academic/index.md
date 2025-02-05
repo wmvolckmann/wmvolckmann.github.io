@@ -33,7 +33,7 @@ William M Volckmann II. The effects of market size, wealth, and network effects 
 
 Brown, Gregory, and William M Volckmann II. Do GP Commitments Matter? *Institute for Private Capital Research Note* (2024). [Full-text PDF](https://uncipc.org/index.php/publication/do-gp-commitments-matter/)
 
-William M Volckmann II. The Performance of Private Video Game Equity Investments *Institute for Private Capital White Paper* (2024). [Full-text PDF](https://uncipc.org/index.php/publication/the-performance-of-private-video-game-equity/)
+William M Volckmann II. The Performance of Private Video Game Equity Investments. *Institute for Private Capital White Paper* (2024). [Full-text PDF](https://uncipc.org/index.php/publication/the-performance-of-private-video-game-equity/)
 
 Brown, Gregory, and William M Volckmann II. Is the US IPO Market About to Thaw? *Institute for Private Capital Research Note* (2024). [Full-text PDF](https://uncipc.org/index.php/publication/is-the-u-s-ipo-market-about-to-thaw-ipc-research-notes/), [Press](https://www.economist.com/finance-and-economics/2024/01/18/wall-street-is-praying-firms-will-start-going-public-again), [More Press](https://www.wsj.com/articles/unusual-ipo-slump-makes-a-rebound-harder-to-predict-5ccb6d1d)
 

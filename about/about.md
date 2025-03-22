@@ -12,7 +12,9 @@ Hi.
 * Contact me at wmvolckmann at gmail dot com
 * From [Wisconsin](wisconsin.jpg) (mind the accent)
 * Research Meatball at UNC Kenan-Flagler Business School
-* Attended [UW-Madison](uwmadison.jpg) and [UC-Davis](https://www.kcra.com/article/aggressive-turkey-terrorizes-downtown-davis-residents/8110346) once upon a time
+* Attended [UC-Davis](https://www.kcra.com/article/aggressive-turkey-terrorizes-downtown-davis-residents/8110346) once upon a time
+* Also attended [UW-Madison](uwmadison.jpg)
+* Also also attended [UW-Waukesha](uwwaukesha.jpg)
 * Worked for [Paul Romer](https://en.wikipedia.org/wiki/Paul_Romer) once upon a time
 * Recorded [mediocre music](/music/) once upon a time
 * Good with MATLAB, Stata, R, Python, LaTeX

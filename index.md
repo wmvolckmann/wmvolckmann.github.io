@@ -14,9 +14,6 @@ I used to be a musician. I recorded some things. None of them got published. I w
 # [Video Game](/misc/vg/)
 I made a fangame prequel to the NES game Crystalis. I wish I had the resources to make an original game.
 
-# [Miscellaneous Code](/code/)
-Some code. Cheatsheets. Notebooks. Other bits and pieces I refer to from time to time. 
-
 # [Shrine to Humility](/shrines/humility/)
 I value humility, and I think more of it would be a good thing. I dislike ego, and I think less of it would be a good thing.
 

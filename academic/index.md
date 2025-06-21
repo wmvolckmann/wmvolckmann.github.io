@@ -30,7 +30,9 @@ William M Volckmann II. The effects of market size, wealth, and network effects 
 
 
 ### White Papers and Research Notes
-Brown, Gregory, Christian Lundblad, and William M Volckmann II. Risk-Adjusted Performance of Private Funds: What Do We Know? *Institute for Private Capital White Paper* (2025). [Full-text PDF](https://uncipc.org/index.php/publication/risk-adjusted-white-paper/),
+Brown, Gregory, and William M Volckmann II. Evergreen vs. Drawdown Funds: Risk, Returns and Cash Flows *Institute for Private Capital White Paper* (2025). [Full-text PDF](https://uncipc.org/index.php/publication/evergreen-vs-drawdown-funds-risk-returns-and-cash-flows/)
+
+Brown, Gregory, Christian Lundblad, and William M Volckmann II. Risk-Adjusted Performance of Private Funds: What Do We Know? *Institute for Private Capital White Paper* (2025). [Full-text PDF](https://uncipc.org/index.php/publication/risk-adjusted-white-paper/)
 
 Brown, Gregory, and William M Volckmann II. Do GP Commitments Matter? *Institute for Private Capital Research Note* (2024). [Full-text PDF](https://uncipc.org/index.php/publication/do-gp-commitments-matter/)
 

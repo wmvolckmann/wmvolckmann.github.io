@@ -14,8 +14,6 @@ order: 10.0
 
 
 ### Publications
-
-
 William M Volckmann II. Revenue effects of Denuvo digital rights management on PC video games. *Entertainment Computing* 52 (2025), 100885. [https://doi.org/10.1016/j.entcom.2024.100885](https://doi.org/10.1016/j.entcom.2024.100885), [Press](https://arstechnica.com/gaming/2024/10/the-true-cost-of-game-piracy-20-percent-of-revenue-according-to-a-new-study/)
 
 William M Volckmann II. Fund-Level Debt. *Palgrave Encyclopedia of Private Equity* (2024). [https://doi.org/10.1007/978-3-030-38738-9_261-1](https://doi.org/10.1007/978-3-030-38738-9_261-1)
@@ -30,6 +28,8 @@ William M Volckmann II. The effects of market size, wealth, and network effects 
 
 
 ### White Papers and Research Notes
+William M Volckmann II. A Methodology for Analyzing the Performance of Private Equity by Sector and Industry *Institute for Private Capital White Paper* (2025). [Full-text PDF](https://uncipc.org/index.php/publication/a-methodology-for-analyzing-the-performance-of-private-equity-by-sector-and-industry/)
+
 Brown, Gregory, and William M Volckmann II. Evergreen vs. Drawdown Funds: Risk, Returns and Cash Flows *Institute for Private Capital White Paper* (2025). [Full-text PDF](https://uncipc.org/index.php/publication/evergreen-vs-drawdown-funds-risk-returns-and-cash-flows/)
 
 Brown, Gregory, Christian Lundblad, and William M Volckmann II. Risk-Adjusted Performance of Private Funds: What Do We Know? *Institute for Private Capital White Paper* (2025). [Full-text PDF](https://uncipc.org/index.php/publication/risk-adjusted-white-paper/)

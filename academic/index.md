@@ -16,6 +16,8 @@ order: 10.0
 ### Publications
 Brown, Gregory, Wendy Hu, David Robinson, and William M Volckmann II. The Performance of Small Business Investment Companies. *Financial Analysts Journal* (2026). [https://doi.org/10.1080/0015198X.2025.2606027](https://doi.org/10.1080/0015198X.2025.2606027)
 
+William M Volckmann II. The many hits and misses of video game private equity investments (2026). Journal of Media Economics  [https://doi.org/10.1080/08997764.2026.2620396](https://doi.org/10.1080/08997764.2026.2620396)
+
 William M Volckmann II. Revenue effects of Denuvo digital rights management on PC video games. *Entertainment Computing* 52 (2025), 100885. [https://doi.org/10.1016/j.entcom.2024.100885](https://doi.org/10.1016/j.entcom.2024.100885), [Press](https://arstechnica.com/gaming/2024/10/the-true-cost-of-game-piracy-20-percent-of-revenue-according-to-a-new-study/)
 
 William M Volckmann II. Fund-Level Debt. *Palgrave Encyclopedia of Private Equity* (2024). [https://doi.org/10.1007/978-3-030-38738-9_261-1](https://doi.org/10.1007/978-3-030-38738-9_261-1)
@@ -37,8 +39,6 @@ Brown, Gregory, and William M Volckmann II. Evergreen vs. Drawdown Funds: Risk, 
 Brown, Gregory, Christian Lundblad, and William M Volckmann II. Risk-Adjusted Performance of Private Funds: What Do We Know? *Institute for Private Capital White Paper* (2025). [Full-text PDF](https://uncipc.org/index.php/publication/risk-adjusted-white-paper/)
 
 Brown, Gregory, and William M Volckmann II. Do GP Commitments Matter? *Institute for Private Capital Research Note* (2024). [Full-text PDF](https://uncipc.org/index.php/publication/do-gp-commitments-matter/)
-
-William M Volckmann II. The Performance of Private Video Game Equity Investments. *Institute for Private Capital White Paper* (2024). [Full-text PDF](https://uncipc.org/index.php/publication/the-performance-of-private-video-game-equity/)
 
 Brown, Gregory, and William M Volckmann II. Is the US IPO Market About to Thaw? *Institute for Private Capital Research Note* (2024). [Full-text PDF](https://uncipc.org/index.php/publication/is-the-u-s-ipo-market-about-to-thaw-ipc-research-notes/), [Press](https://www.economist.com/finance-and-economics/2024/01/18/wall-street-is-praying-firms-will-start-going-public-again), [More Press](https://www.wsj.com/articles/unusual-ipo-slump-makes-a-rebound-harder-to-predict-5ccb6d1d), [Even More Press](https://www.wsj.com/articles/garcias-take-ipo-markets-are-back-will-private-equity-asset-sales-be-next-f98ea700)
 

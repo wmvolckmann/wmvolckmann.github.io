@@ -16,7 +16,7 @@ order: 10.0
 ### Publications
 Brown, Gregory, Wendy Hu, David Robinson, and William M Volckmann II. The Performance of Small Business Investment Companies. *Financial Analysts Journal* (2026). [https://doi.org/10.1080/0015198X.2025.2606027](https://doi.org/10.1080/0015198X.2025.2606027)
 
-William M Volckmann II. The many hits and misses of video game private equity investments (2026). *Journal of Media Economics* [https://doi.org/10.1080/08997764.2026.2620396](https://doi.org/10.1080/08997764.2026.2620396)
+William M Volckmann II. The many hits and misses of video game private equity investments. *Journal of Media Economics* (2026). [https://doi.org/10.1080/08997764.2026.2620396](https://doi.org/10.1080/08997764.2026.2620396)
 
 William M Volckmann II. Revenue effects of Denuvo digital rights management on PC video games. *Entertainment Computing* 52 (2025), 100885. [https://doi.org/10.1016/j.entcom.2024.100885](https://doi.org/10.1016/j.entcom.2024.100885), [Press](https://arstechnica.com/gaming/2024/10/the-true-cost-of-game-piracy-20-percent-of-revenue-according-to-a-new-study/)
 

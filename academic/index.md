@@ -16,6 +16,8 @@ order: 10.0
 ### Publications
 Brown, Gregory, Wendy Hu, David Robinson, and William M Volckmann II. The Performance of Small Business Investment Companies. *Financial Analysts Journal* (2026). [https://doi.org/10.1080/0015198X.2025.2606027](https://doi.org/10.1080/0015198X.2025.2606027)
 
+Brown, Gregory, Christian Lundblad, and William M Volckmann II. What Do We Know About Institutional-Quality Hedge Funds? *Journal of Alternative Investments* (2026). [https://doi.org/10.1080/08997764.2026.2620396](https://doi.org/10.3905/jai.2026.010), [Press](https://www.institutionalinvestor.com/article/2d7om8w3w5brlcvefot1c/portfolio/everything-investors-know-about-hedge-funds-is-based-on-flawed-data)
+
 William M Volckmann II. The many hits and misses of video game private equity investments. *Journal of Media Economics* (2026). [https://doi.org/10.1080/08997764.2026.2620396](https://doi.org/10.1080/08997764.2026.2620396)
 
 William M Volckmann II. Revenue effects of Denuvo digital rights management on PC video games. *Entertainment Computing* 52 (2025), 100885. [https://doi.org/10.1016/j.entcom.2024.100885](https://doi.org/10.1016/j.entcom.2024.100885), [Press](https://arstechnica.com/gaming/2024/10/the-true-cost-of-game-piracy-20-percent-of-revenue-according-to-a-new-study/)
@@ -43,8 +45,6 @@ Brown, Gregory, Christian Lundblad, and William M Volckmann II. Risk-Adjusted Pe
 Brown, Gregory, and William M Volckmann II. Do GP Commitments Matter? *Institute for Private Capital Research Note* (2024). [Full-text PDF](https://uncipc.org/index.php/publication/do-gp-commitments-matter/)
 
 Brown, Gregory, and William M Volckmann II. Is the US IPO Market About to Thaw? *Institute for Private Capital Research Note* (2024). [Full-text PDF](https://uncipc.org/index.php/publication/is-the-u-s-ipo-market-about-to-thaw-ipc-research-notes/), [Press](https://www.economist.com/finance-and-economics/2024/01/18/wall-street-is-praying-firms-will-start-going-public-again), [More Press](https://www.wsj.com/articles/unusual-ipo-slump-makes-a-rebound-harder-to-predict-5ccb6d1d), [Even More Press](https://www.wsj.com/articles/garcias-take-ipo-markets-are-back-will-private-equity-asset-sales-be-next-f98ea700)
-
-Brown, Gregory, Christian Lundblad, and William M Volckmann II. What Do We Know About Institutional-Quality Hedge Funds? *Institute for Private Capital Research Note* (2024). [Full-text PDF](https://uncipc.org/index.php/publication/institutional-quality-hedge-funds/), [Press](https://www.institutionalinvestor.com/article/2d7om8w3w5brlcvefot1c/portfolio/everything-investors-know-about-hedge-funds-is-based-on-flawed-data)
 
 Brown, Gregory, Elyas Fermand, Wendy Hu, Richard Maxwell, and William M Volckmann II. Scale, Scope, and Speed in Private Capital Funds. *Institute for Private Capital White Paper* (2024). [Full-text PDF](https://uncipc.org/index.php/publication/scale-scope-white-paper/)
 

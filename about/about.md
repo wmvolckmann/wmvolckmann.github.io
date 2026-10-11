@@ -10,7 +10,7 @@ Hi.
 ### Random Factoids ###
 
 * From [Wisconsin](wisconsin.jpg) (mind the accent)
-* Research Meatball at Institute for Private Capital at UNC Kenan-Flagler Business School
+* Research Meatball at Institute for Private Capital at UNC
 * Attended [UC-Davis](https://www.kcra.com/article/aggressive-turkey-terrorizes-downtown-davis-residents/8110346) once upon a time
 * Also attended [UW-Madison](uwmadison.jpg)
 * Also also attended [UW-Waukesha](uwwaukesha.jpg)
